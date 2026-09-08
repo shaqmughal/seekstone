@@ -1,8 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { buildResolveMaps, resolveLink } from './resolve.js';
 
-const notesOf = (...paths: string[]): Map<string, unknown> =>
-  new Map(paths.map((p) => [p, {}]));
+const notesOf = (...paths: string[]): Map<string, unknown> => new Map(paths.map((p) => [p, {}]));
 
 describe('resolveLink', () => {
   it('exact path match wins', () => {
