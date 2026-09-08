@@ -59,8 +59,9 @@ export interface RewriteNoteLinksResult {
 function wikiTargetFor(newPath: string, postNotes: Map<string, unknown>): string {
   const noExt = newPath.replace(/\.md$/i, '');
   const base = noExt.split('/').pop() ?? noExt;
-  // Count basename collisions directly — resolveLink picks the first match by
-  // map iteration order, which is not a stable notion of "unambiguous".
+  // Count basename collisions directly — resolveLink breaks ties toward the
+  // lexicographically smallest path, but "resolves for us" is not the same as
+  // "unambiguous in Obsidian".
   const baseLower = base.toLowerCase();
   let matches = 0;
   for (const p of postNotes.keys()) {
