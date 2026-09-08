@@ -1,6 +1,6 @@
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
-import { resolveLink } from './resolve.js';
+import { buildResolveMaps, resolveLink } from './resolve.js';
 
 /**
  * Incremental backlink-index maintenance, shared by the watcher and the
@@ -11,8 +11,11 @@ import { resolveLink } from './resolve.js';
 export function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
   const oldDoc = ctx.notes.get(relPath);
   if (oldDoc === undefined) return;
-  for (const link of extractLinksWithLines(oldDoc.raw)) {
-    const resolved = resolveLink(link.target, ctx.notes);
+  const links = extractLinksWithLines(oldDoc.raw);
+  if (links.length === 0) return;
+  const maps = buildResolveMaps(ctx.notes);
+  for (const link of links) {
+    const resolved = resolveLink(link.target, ctx.notes, maps);
     if (resolved === undefined) continue;
     const arr = ctx.backlinks.get(resolved);
     if (arr === undefined) continue;
@@ -23,8 +26,11 @@ export function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
 
 export function addNoteBacklinks(ctx: ServerContext, relPath: string, raw: string): void {
   const seen = new Set<string>();
-  for (const link of extractLinksWithLines(raw)) {
-    const resolved = resolveLink(link.target, ctx.notes);
+  const links = extractLinksWithLines(raw);
+  if (links.length === 0) return;
+  const maps = buildResolveMaps(ctx.notes);
+  for (const link of links) {
+    const resolved = resolveLink(link.target, ctx.notes, maps);
     if (resolved === undefined) continue;
     const dedupeKey = `${relPath}\0${resolved}`;
     if (seen.has(dedupeKey)) continue;
