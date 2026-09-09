@@ -54,11 +54,19 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const serverDir = join(root, 'packages', 'server');
 const manifestPath = join(serverDir, 'manifest.json');
 
-// 1 + 2. Stamp version into manifest.json.
+// 1 + 2. Stamp version into manifest.json — a surgical string replace, not a
+// re-serialize, so the committed file keeps its biome formatting (`biome
+// check .` in CI fails on a JSON.stringify-shaped rewrite).
 const { version } = JSON.parse(readFileSync(join(serverDir, 'package.json'), 'utf8'));
-const manifest = JSON.parse(readFileSync(manifestPath, 'utf8'));
-manifest.version = version;
-writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
+const rawManifest = readFileSync(manifestPath, 'utf8').replace(
+  /"version":\s*"[^"]*"/,
+  `"version": "${version}"`,
+);
+writeFileSync(manifestPath, rawManifest);
+const manifest = JSON.parse(rawManifest);
+if (manifest.version !== version) {
+  throw new Error(`mcpb: failed to stamp version ${version} into manifest.json`);
+}
 console.log(`Stamped manifest.json with version ${version}`);
 
 // 3. Build the fully-bundled server (all deps inlined — no node_modules at runtime).
