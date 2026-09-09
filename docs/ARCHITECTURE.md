@@ -163,7 +163,11 @@ flowchart TD
    fetch-model` into `<cache>/models/<model id>` — `potion-base-8M` by
    default, or the opt-in `potion-retrieval-32M` via `fetch-model --model` +
    `SEEKSTONE_SEMANTIC_MODEL`; overridable via `SEEKSTONE_MODEL_PATH` — never
-   fetched by the running server) plus a
+   fetched by the running server; the `seekstone-semantic.mcpb` variant
+   instead ships the model as shards inside the extension and
+   `semantic/bundled-model.ts` reassembles them into the same location at
+   boot when `SEEKSTONE_BUNDLED_MODEL_DIR` is set — disk-only, verified
+   against the same pinned hashes) plus a
    per-note chunk-vector store. Built in the background at boot (queries
    meanwhile get a structured `semantic_building` progress error); persisted
    to a per-vault `(path, contentHash)`-keyed cache of vectors + chunk spans

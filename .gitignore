@@ -54,6 +54,7 @@ packages/harness/fixtures/models/*
 # claude code local task state
 .claude/scheduled_tasks.lock
 seekstone.mcpb
+seekstone-semantic.mcpb
 
 # mcp-publisher binary downloaded by CI release workflow
 mcp-publisher

@@ -1,7 +1,10 @@
 /**
- * Pinned download manifests for the supported embedding models. Used ONLY by
- * the `seekstone fetch-model` subcommand — an explicit, out-of-band CLI
- * action. The MCP server itself never touches the network (no-network.test.ts).
+ * Pinned download manifests for the supported embedding models. The network
+ * URLs are used ONLY by the `seekstone fetch-model` subcommand — an explicit,
+ * out-of-band CLI action; the hashes are additionally the verification source
+ * for the semantic .mcpb variant's disk-only shard reassembly (bundled-model.ts)
+ * and for scripts/build-mcpb.mjs when it stages those shards. The MCP server
+ * itself never touches the network (no-network.test.ts).
  *
  * Hashes mirror packages/harness/fixtures/models/manifest.json (the harness
  * evals run against the same files).

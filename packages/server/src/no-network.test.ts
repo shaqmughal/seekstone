@@ -111,6 +111,51 @@ describe('the server makes no outbound network calls', () => {
     }
   });
 
+  it('bundled-model materialization (semantic .mcpb variant) touches no network', async () => {
+    // The semantic bundle reassembles the model from shards shipped inside the
+    // extension — disk-to-disk only. Cited by docs/WRITE-SAFETY.md guarantee 1.
+    const { materializeBundledModel } = await import('./semantic/bundled-model.js');
+    const { createHash } = await import('node:crypto');
+    const {
+      mkdtemp: mkTmp,
+      mkdir,
+      readFile: readF,
+      writeFile: writeF,
+    } = await import('node:fs/promises');
+    const root = await mkTmp(join(tmpdir(), 'seekstone-nonet-bundle-'));
+    try {
+      const bundledDir = join(root, 'model');
+      const modelDir = join(root, 'materialized');
+      await mkdir(bundledDir, { recursive: true });
+      const weights = 'stub-weights';
+      await writeF(join(bundledDir, 'manifest.json'), JSON.stringify({ id: 'stub-model' }));
+      await writeF(join(bundledDir, 'model.safetensors.000.part'), weights.slice(0, 6));
+      await writeF(join(bundledDir, 'model.safetensors.001.part'), weights.slice(6));
+      await materializeBundledModel(
+        { modelId: 'stub-model', modelDir, cacheDir: root },
+        bundledDir,
+        {
+          manifestFor: () => ({
+            id: 'stub-model',
+            license: 'MIT',
+            dim: 2,
+            files: [
+              {
+                name: 'model.safetensors',
+                url: 'https://never-fetched.invalid/m',
+                sha256: createHash('sha256').update(weights).digest('hex'),
+                bytes: weights.length,
+              },
+            ],
+          }),
+        },
+      );
+      expect(await readF(join(modelDir, 'model.safetensors'), 'utf8')).toBe(weights);
+    } finally {
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
   it('semantic search — build, cache persistence, and queries touch no network', async () => {
     // The one sanctioned network path in the package is the `fetch-model` CLI
     // subcommand, which exits before serving. With the model already on disk
