@@ -18,6 +18,7 @@ import { Journal, resolveJournalConfig } from './journal.js';
 import { createLogger } from './log.js';
 import { parseWritePolicy } from './policy.js';
 import { installProcessGuards } from './process-guards.js';
+import { materializeBundledModel } from './semantic/bundled-model.js';
 import { resolveSemanticConfig } from './semantic/config.js';
 import { Semantic } from './semantic/state.js';
 import { visibleTools } from './tool-list.js';
@@ -129,6 +130,10 @@ if (auditCfg) {
 const semanticCfg = resolveSemanticConfig(process.env, homedir());
 if (semanticCfg) {
   try {
+    // The semantic .mcpb variant ships the model as shards inside the bundle;
+    // reassemble them into the fetch-model location first (disk-only, pinned
+    // hashes — see semantic/bundled-model.ts). No-op for every other install.
+    await materializeBundledModel(semanticCfg, process.env.SEEKSTONE_BUNDLED_MODEL_DIR, { log });
     // Model load is fast (~30 MB read); the index build continues in the
     // background — semantic queries report progress until it finishes.
     ctx.semantic = await Semantic.start(ctx, semanticCfg, { log });

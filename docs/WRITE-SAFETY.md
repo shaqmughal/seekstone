@@ -25,7 +25,10 @@ The **running server makes no outbound network connection of any kind, ever**
 The one piece of networking code in the package is the explicit
 `seekstone fetch-model` CLI subcommand (the opt-in semantic-search model
 download — SHA-256-pinned files, and it exits before any MCP serving starts);
-it never runs during a session, and it uploads nothing.
+it never runs during a session, and it uploads nothing. The
+`seekstone-semantic.mcpb` bundle variant needs no download at all: it ships
+the model inside the extension and reassembles it from disk at boot, verified
+against the same pinned SHA-256 hashes.
 
 - Enforced by: the serving path has no networking code; the only runtime deps
   are the MCP SDK, chokidar, fast-glob, minisearch, yaml, zod, picomatch, and
@@ -35,8 +38,8 @@ it never runs during a session, and it uploads nothing.
   replaces Node's socket/http/https primitives with throwing stubs, then runs
   the real index build **and all 21 tools** through the real dispatcher —
   including semantic/hybrid search with the semantic index enabled, built,
-  and persisting its cache under the stubs. Any connection attempt fails the
-  suite.
+  and persisting its cache under the stubs, plus the semantic bundle's
+  disk-only model reassembly. Any connection attempt fails the suite.
 
 ### 2. Vault sandbox
 

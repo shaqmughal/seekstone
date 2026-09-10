@@ -158,10 +158,11 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_HISTORY_MAX_ENTRIES` | no | Cap on journal entries (default `1000`); the oldest are dropped past it. |
 | `SEEKSTONE_AUDIT_FILE` | no | Absolute path; off unless set. Appends one JSON-line audit record per write-tool call — ok or refused — with the tool, paths, sha-256 before/after, outcome, and op metadata. Never note content. |
 | `SEEKSTONE_AUDIT_MAX_SIZE` | no | Rotate the audit file to `<file>.1` past this size (e.g. `10mb`; default 10 MB). |
-| `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. |
+| `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. The `seekstone-semantic.mcpb` bundle sets this automatically and ships the model inside. |
 | `SEEKSTONE_SEMANTIC_MODEL` | no | `potion-base-8M` (default, ~30 MB) or `potion-retrieval-32M` (~129 MB, more accurate, ~2× query latency). Fetch it first: `npx -y seekstone fetch-model --model potion-retrieval-32M`. |
 | `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model). |
 | `SEEKSTONE_CACHE_DIR` | no | Cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`). |
+| `SEEKSTONE_BUNDLED_MODEL_DIR` | no | Set by the `seekstone-semantic.mcpb` bundle's manifest — sharded model files shipped inside the extension, reassembled into the model directory at boot (disk-only, hash-verified). Not usually set by hand. |
 
 ---
 
@@ -208,7 +209,7 @@ Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, VS Code, Windsur
 Yes — tested on macOS, Linux, and Windows in CI on every commit.
 
 **Is it safe?**
-No network calls while running, no telemetry (the optional semantic-search model is downloaded once by the explicit `fetch-model` subcommand, SHA-256-verified, before any serving starts). The vault path is sandboxed — no tool reads or writes outside it. Writes are covered by the tested Write-Safety Contract above, and `SEEKSTONE_READ_ONLY=1` removes the write tools entirely.
+No network calls while running, no telemetry (the optional semantic-search model is downloaded once by the explicit `fetch-model` subcommand, SHA-256-verified, before any serving starts — or shipped inside the `seekstone-semantic.mcpb` bundle and reassembled from disk at boot, verified against the same pinned hashes). The vault path is sandboxed — no tool reads or writes outside it. Writes are covered by the tested Write-Safety Contract above, and `SEEKSTONE_READ_ONLY=1` removes the write tools entirely.
 
 ---
 
