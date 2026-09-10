@@ -1,8 +1,8 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
-import { cachePathsFor, loadCache, saveCache } from './cache.js';
+import { cachePathsFor, loadCache, saveCache, tempPathFor } from './cache.js';
 import type { NoteVectors } from './store.js';
 
 describe('semantic cache', () => {
@@ -75,6 +75,52 @@ describe('semantic cache', () => {
     const bin = await readFile(paths.bin);
     await writeFile(paths.bin, bin.subarray(0, bin.length - 4));
     expect(await loadCache(paths, 'm', 2)).toBeUndefined();
+  });
+
+  it('invalidates when the binary is not the one the manifest describes', async () => {
+    const mine = cachePathsFor(root, '/vault/pairing-mine', 'm');
+    const theirs = cachePathsFor(root, '/vault/pairing-theirs', 'm');
+    const otherNotes: Array<[string, NoteVectors]> = [
+      [
+        'Notes/A.md',
+        {
+          packed: new Float32Array([0.25, 0.25, 0.75, 0.75]),
+          spans: new Uint32Array([1, 41, 43, 91]),
+        },
+      ],
+      ['Notes/B.md', { packed: new Float32Array([0.5, 0.5]), spans: new Uint32Array([6, 26]) }],
+    ];
+    await saveCache(mine, 'm', 2, notes, hashes);
+    await saveCache(theirs, 'm', 2, otherNotes, hashes);
+    const foreign = await readFile(theirs.bin);
+    expect(foreign.byteLength).toBe((await readFile(mine.bin)).byteLength);
+
+    await writeFile(mine.bin, foreign);
+
+    expect(await loadCache(mine, 'm', 2)).toBeUndefined();
+  });
+
+  it('serializes entries in a canonical order, whatever order the store yields', async () => {
+    const forward = cachePathsFor(root, '/vault/canon-fwd', 'm');
+    const reverse = cachePathsFor(root, '/vault/canon-rev', 'm');
+    await saveCache(forward, 'm', 2, notes, hashes);
+    await saveCache(reverse, 'm', 2, [...notes].reverse(), hashes);
+
+    expect(await readFile(reverse.bin)).toEqual(await readFile(forward.bin));
+    const fwd = JSON.parse(await readFile(forward.manifest, 'utf8'));
+    const rev = JSON.parse(await readFile(reverse.manifest, 'utf8'));
+    expect(rev.entries).toEqual(fwd.entries);
+    expect(rev.binHash).toBe(fwd.binHash);
+  });
+
+  it('never hands two writers the same temp path', () => {
+    const target = join(root, 'embeddings', 'vault', 'm.bin');
+    const first = tempPathFor(target);
+    const second = tempPathFor(target);
+    expect(first).not.toBe(second);
+    expect(dirname(first)).toBe(dirname(target));
+    expect(dirname(second)).toBe(dirname(target));
+    expect(first).not.toBe(target);
   });
 
   it('returns undefined when no cache exists', async () => {

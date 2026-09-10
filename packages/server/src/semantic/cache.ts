@@ -10,14 +10,14 @@ import type { NoteVectors } from './store.js';
  * dir, never inside the vault, in a per-vault subdirectory (sha of the vault
  * root) so multiple vaults never collide.
  *
- * Load is best-effort: any mismatch (version, model, dim, byte lengths)
- * silently invalidates the cache — the build just re-embeds. Writes are
- * temp-file + rename (binary first, then the manifest that describes it),
+ * Load is best-effort: any mismatch (version, model, dim, byte length,
+ * binHash) silently invalidates the cache — the build just re-embeds. Writes
+ * are temp-file + rename (binary first, then the manifest that describes it),
  * so a crash leaves either the old cache or the new one.
  */
 
 /** Bump when the on-disk layout OR the chunker semantics change. */
-const CACHE_VERSION = 2;
+const CACHE_VERSION = 3;
 
 export interface CachePaths {
   dir: string;
@@ -29,6 +29,7 @@ interface CacheManifest {
   version: number;
   modelId: string;
   dim: number;
+  binHash: string;
   entries: Array<{ path: string; contentHash: string; chunks: number }>;
 }
 
@@ -62,6 +63,7 @@ export async function loadCache(
     const vectorBytes = totalChunks * dim * 4;
     const spanBytes = totalChunks * 2 * 4;
     if (buf.byteLength !== vectorBytes + spanBytes) return undefined;
+    if (binHashOf(buf) !== manifest.binHash) return undefined;
     // Buffers can be unaligned for typed-array views — copy to a fresh buffer.
     const aligned = new Uint8Array(buf.byteLength);
     aligned.set(buf);
@@ -92,17 +94,22 @@ export async function saveCache(
   notes: Iterable<[string, NoteVectors]>,
   hashes: ReadonlyMap<string, string>,
 ): Promise<void> {
-  const entries: CacheManifest['entries'] = [];
-  const kept: NoteVectors[] = [];
+  const rows: Array<{ path: string; contentHash: string; chunks: number; note: NoteVectors }> = [];
   let totalChunks = 0;
   for (const [path, note] of notes) {
     const contentHash = hashes.get(path);
     if (!contentHash) continue; // still being (re-)embedded — skip this round
     const chunks = note.packed.length / dim;
-    entries.push({ path, contentHash, chunks });
-    kept.push(note);
+    rows.push({ path, contentHash, chunks, note });
     totalChunks += chunks;
   }
+  rows.sort((a, b) => (a.path < b.path ? -1 : a.path > b.path ? 1 : 0));
+  const entries: CacheManifest['entries'] = rows.map(({ path, contentHash, chunks }) => ({
+    path,
+    contentHash,
+    chunks,
+  }));
+  const kept = rows.map((r) => r.note);
   const bin = new Uint8Array(totalChunks * dim * 4 + totalChunks * 2 * 4);
   const floats = new Float32Array(bin.buffer, 0, totalChunks * dim);
   const spans = new Uint32Array(bin.buffer, totalChunks * dim * 4, totalChunks * 2);
@@ -114,17 +121,35 @@ export async function saveCache(
     floatOffset += note.packed.length;
     spanOffset += note.spans.length;
   }
-  const manifest: CacheManifest = { version: CACHE_VERSION, modelId, dim, entries };
+  const manifest: CacheManifest = {
+    version: CACHE_VERSION,
+    modelId,
+    dim,
+    binHash: binHashOf(bin),
+    entries,
+  };
 
   await mkdir(paths.dir, { recursive: true });
   // Binary first, manifest last: the manifest is the commit point, and load
-  // validates byte lengths, so a torn state just invalidates the cache.
+  // validates the binary against the hash it records, so a torn state just
+  // invalidates the cache.
   await atomicWriteBytes(paths.bin, bin);
   await atomicWriteBytes(paths.manifest, new TextEncoder().encode(JSON.stringify(manifest)));
 }
 
+function binHashOf(bin: Uint8Array): string {
+  return createHash('sha256').update(bin).digest('hex');
+}
+
+let tempSeq = 0;
+
+export function tempPathFor(absPath: string): string {
+  tempSeq += 1;
+  return `${absPath}.${process.pid}.${tempSeq}.seekstone-cache-tmp`;
+}
+
 async function atomicWriteBytes(absPath: string, bytes: Uint8Array): Promise<void> {
-  const tmpPath = `${absPath}.seekstone-cache-tmp`;
+  const tmpPath = tempPathFor(absPath);
   await writeFile(tmpPath, bytes);
   await rename(tmpPath, absPath);
 }
