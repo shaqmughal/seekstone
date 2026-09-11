@@ -24,7 +24,7 @@ If you use Claude Code, Cursor, or another coding agent, paste this prompt and t
 
 ### Option 1 — One-click (Claude Desktop, no terminal needed)
 
-Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), double-click it in Claude Desktop, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required.
+Download [`seekstone.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone.mcpb), double-click it in Claude Desktop, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required. Want semantic search out of the box? Grab [`seekstone-semantic.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone-semantic.mcpb) instead — the local embedding model ships inside the bundle, and nothing is downloaded at runtime.
 
 ### Option 2 — Guided setup (recommended for CLI users)
 

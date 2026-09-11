@@ -128,13 +128,13 @@ If you use Claude Code, Cursor, or another coding agent, you don't need to follo
 
 ### Option 1 — One-click (Claude Desktop, no terminal needed)
 
-1. Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest)
+1. Download [`seekstone.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone.mcpb) (direct link, always the latest release)
 2. Open it with Claude Desktop — double-click in Finder, or right-click → Open With → Claude Desktop
 3. Pick your Obsidian vault folder when prompted
 
 You'll know it worked when seekstone appears in Claude's toolbar. No JSON editing, no terminal, no Node.js required.
 
-Want semantic search? Grab **`seekstone-semantic.mcpb`** instead — same server with the local embedding model shipped inside the bundle (~28 MB bigger), so meaning-based search works out of the box: still no terminal, and nothing is downloaded at runtime.
+Want semantic search? Grab [**`seekstone-semantic.mcpb`**](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone-semantic.mcpb) instead — same server with the local embedding model shipped inside the bundle (~28 MB bigger), so meaning-based search works out of the box: still no terminal, and nothing is downloaded at runtime.
 
 <img src="docs/mcpb-install-dialog.png" width="420" alt="Claude Desktop showing the seekstone installation dialog" />
 
@@ -419,7 +419,7 @@ Seekstone has been profiled against vaults with thousands of notes. On the commi
 It reads Obsidian's own vault registry (`obsidian.json`) — the same file Obsidian uses to track your known vaults. If you have one vault, it's selected automatically. If you have multiple, it lists them and asks you to pick with `--vault`.
 
 **What is the `.mcpb` file?**
-An MCP Bundle — a self-contained zip with the server and its manifest. To install: double-click in Finder (or right-click → Open With → Claude Desktop), pick your vault, and you're done. No terminal or Node.js required. Two variants ship with every release: `seekstone.mcpb` (standard) and `seekstone-semantic.mcpb` (same server with the local embedding model inside, semantic search on out of the box).
+An MCP Bundle — a self-contained zip with the server and its manifest. To install: double-click in Finder (or right-click → Open With → Claude Desktop), pick your vault, and you're done. No terminal or Node.js required. Two variants ship with every release: [`seekstone.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone.mcpb) (standard) and [`seekstone-semantic.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone-semantic.mcpb) (same server with the local embedding model inside, semantic search on out of the box).
 
 ---
 
