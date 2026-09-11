@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.18.0
+
+### Minor Changes
+
+- 5ff12c1: One-click semantic search (SHA-309): every release now ships a second MCP Bundle, `seekstone-semantic.mcpb`, with the local embedding model packed inside the extension and semantic search enabled out of the box — no terminal, no Node.js, and nothing downloaded at runtime. The model ships as sub-cap shards (Claude Desktop rejects any packed file over ~108KB) that the server reassembles into the standard cache location at boot, verified against the same pinned SHA-256 hashes `fetch-model` uses; the zero-network guarantee is unchanged and now also covers the reassembly path in `no-network.test.ts`.
+
+### Patch Changes
+
+- e1da45b: fix(semantic): pair the embedding cache's manifest with the binary it describes, so a manifest left beside another build's binary is rejected instead of mapping every note to another note's vectors. Existing caches are invalidated once by the version bump and re-embedded on next boot.
+- f02995d: docs: republish the benchmark figures on the fixture-v2 baseline (SHA-322) — 5.2 ms warm keyword search and ~26 ms shipped semantic search at 10k notes, obsidian-tc at ~514× — and check every published number in CI against the committed `benchmarks.json`, generated from the harness baselines.
+
 ## 0.17.2
 
 ### Patch Changes
