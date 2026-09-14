@@ -67,7 +67,7 @@
     "minisearch": "^7.1.1",
     "picomatch": "^4.0.7",
     "yaml": "^2.6.1",
-    "zod": "^4.5.4"
+    "zod": "^4.6.2"
   },
   "devDependencies": {
     "@seekstone/core": "*",
