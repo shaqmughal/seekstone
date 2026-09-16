@@ -80,8 +80,25 @@ export const RETRIEVAL_32M_MODEL: ModelManifest = {
   }),
 };
 
+/**
+ * Multilingual option (LaBSE-distilled Model2Vec, 101 languages incl. CJK):
+ * ~513 MB, 256-dim, WordPiece vocab of 501054. The two potion defaults are
+ * English-centric — non-English vaults get noise from them. Same Model2Vec
+ * inference path; index/RAM footprint scales with the vocab matrix.
+ */
+export const MULTILINGUAL_MODEL: ModelManifest = {
+  id: 'M2V_multilingual_output',
+  license: 'MIT (https://huggingface.co/minishlab/M2V_multilingual_output)',
+  dim: 256,
+  files: hfFiles('M2V_multilingual_output', {
+    safetensors: ['11e6f20c2321711c429dbb3987591eb4692a24a0af4f8118863386345c0e9b8d', 513079384],
+    tokenizer: ['9e6ba9ec0fd266d352526410db93105a5a38419ace8abc878bf98e88698cbe1c', 13629148],
+    config: ['58b6d9473c4d130e055398ad8595034cd7948ee806ce927eb75f74a192568411', 190],
+  }),
+};
+
 /** Every model `fetch-model --model <id>` / `SEEKSTONE_SEMANTIC_MODEL` accepts. */
-export const MODELS: readonly ModelManifest[] = [DEFAULT_MODEL, RETRIEVAL_32M_MODEL];
+export const MODELS: readonly ModelManifest[] = [DEFAULT_MODEL, RETRIEVAL_32M_MODEL, MULTILINGUAL_MODEL];
 
 export const MODEL_IDS: readonly string[] = MODELS.map((m) => m.id);
 

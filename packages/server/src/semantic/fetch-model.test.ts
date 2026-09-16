@@ -156,7 +156,11 @@ describe('runFetchModel', () => {
   });
 
   it('pins every supported model: three HF files each, real sha256 + byte counts', () => {
-    expect(MODELS.map((m) => m.id)).toEqual(['potion-base-8M', 'potion-retrieval-32M']);
+    expect(MODELS.map((m) => m.id)).toEqual([
+      'potion-base-8M',
+      'potion-retrieval-32M',
+      'M2V_multilingual_output',
+    ]);
     expect(RETRIEVAL_32M_MODEL.dim).toBe(512);
     expect(DEFAULT_MODEL.dim).toBe(256);
     for (const m of MODELS) {
