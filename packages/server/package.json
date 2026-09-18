@@ -61,6 +61,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
+    "@huggingface/transformers": "^3.7.2",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "chokidar": "^5.0.0",
     "fast-glob": "^3.3.2",

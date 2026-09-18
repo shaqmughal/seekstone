@@ -5,6 +5,7 @@ import type { SearchHit } from '../index/types.js';
 import { chunkExcerpt } from '../semantic/excerpt.js';
 import { MAX_ROUTE_WORDS, queryWords, routeToLexical } from '../semantic/route.js';
 import type { Semantic } from '../semantic/state.js';
+import { isAsyncEmbedder } from '../semantic/transformer-embedder.js';
 
 export const SearchInput = z.object({
   query: z.string().min(1).describe('Search query. Supports fuzzy matching and prefix search.'),
@@ -82,6 +83,66 @@ export function retrieve(ctx: ServerContext, input: SearchInput): Retrieval {
 
 export function search(ctx: ServerContext, input: SearchInput): SearchHit[] {
   return retrieve(ctx, input).hits;
+}
+
+/**
+ * Async-capable search entry (used by dispatch). Lexical and Model2Vec paths
+ * delegate to the sync `search`; transformer embedders (transformers.js,
+ * async ONNX inference) take the async semantic path. Hybrid routing is
+ * identical to `search` — only the embedding call awaits.
+ */
+export async function searchAsync(ctx: ServerContext, input: SearchInput): Promise<SearchHit[]> {
+  const mode = input.mode ?? 'lexical';
+  if (mode === 'lexical') return lexicalSearch(ctx, input).hits;
+
+  const semantic = requireSemantic(ctx);
+  if (!isAsyncEmbedder(semantic.embedder)) return search(ctx, input);
+
+  if (mode === 'semantic') return semanticSearchAsync(ctx, semantic, input);
+
+  // hybrid (async): same exact-title routing as the sync path.
+  const words = queryWords(input.query);
+  if (words.length > 0 && words.length <= MAX_ROUTE_WORDS) {
+    const lexHits = lexicalSearch(ctx, input);
+    if (
+      routeToLexical(
+        input.query,
+        lexHits.hits.map((h) => h.path),
+      )
+    )
+      return lexHits.hits;
+  }
+  return semanticSearchAsync(ctx, semantic, input);
+}
+
+/** Async twin of semanticSearch for transformer embedders (awaited query embedding). */
+async function semanticSearchAsync(
+  ctx: ServerContext,
+  semantic: Semantic,
+  input: SearchInput,
+): Promise<SearchHit[]> {
+  const queryVec = await semantic.embedQueryAsync(input.query);
+  const candidates = semantic.rerank(
+    input.query,
+    semantic.store.topNotes(queryVec, SEMANTIC_CANDIDATES),
+  );
+  const terms = searchTerms(input.query);
+
+  const hits: SearchHit[] = [];
+  for (const c of candidates) {
+    const note = filterNote(ctx, input, c.path);
+    if (!note) continue;
+    const hit: SearchHit = {
+      path: c.path,
+      // Cosine similarity ∈ [-1, 1]: 3 decimals keep the ranking legible.
+      score: Math.round(c.score * 1000) / 1000,
+      excerpt: chunkExcerpt(note.body, c, terms, input.excerptLength ?? 120),
+    };
+    decorate(hit, note.title, note.tags);
+    hits.push(hit);
+    if (hits.length >= input.limit) break;
+  }
+  return hits;
 }
 
 function requireSemantic(ctx: ServerContext): Semantic {
