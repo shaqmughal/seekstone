@@ -12,6 +12,15 @@ import { type CachePaths, cachePathsFor, loadCache, saveCache } from './cache.js
 import { fetchCommandFor, type SemanticConfig } from './config.js';
 import { maxsimRerankHits } from './rerank.js';
 import { type SemanticHit, SemanticStore } from './store.js';
+import {
+  type AsyncEmbedder,
+  isAsyncEmbedder,
+  loadTransformerEmbedder,
+  looksLikeTransformerModel,
+} from './transformer-embedder.js';
+
+/** Model2Vec (sync) or a real transformer via transformers.js (async). */
+export type AnyEmbedder = Embedder | AsyncEmbedder;
 
 export type SemanticProgress =
   | { state: 'building'; done: number; total: number }
@@ -31,8 +40,8 @@ export interface SemanticDeps {
   saveDebounceMs?: number;
   /** Yield to the event loop after this many freshly-embedded notes. */
   yieldEvery?: number;
-  /** Test seam; defaults to loadModel2Vec. */
-  loadModel?: (modelDir: string) => Promise<Embedder>;
+  /** Test seam; defaults to format detection (transformers.js vs loadModel2Vec). */
+  loadModel?: (modelDir: string) => Promise<AnyEmbedder>;
 }
 
 /**
@@ -44,7 +53,7 @@ export interface SemanticDeps {
  * ctx.notes by then, so re-embeds read from memory, not disk).
  */
 export class Semantic {
-  readonly embedder: Embedder;
+  readonly embedder: AnyEmbedder;
   readonly store: SemanticStore;
   progress: SemanticProgress;
 
@@ -69,13 +78,16 @@ export class Semantic {
   private stopped = false;
 
   private constructor(
-    embedder: Embedder,
+    embedder: AnyEmbedder,
     ctx: SemanticCtx,
     cfg: SemanticConfig,
     deps: SemanticDeps,
   ) {
     this.embedder = embedder;
-    this.tokenEmbedder = isTokenEmbedder(embedder) ? embedder : undefined;
+    // Token vectors exist only on the Model2Vec runtime — transformer
+    // embedders skip MaxSim rerank (pass-through, see rerank()).
+    this.tokenEmbedder =
+      !isAsyncEmbedder(embedder) && isTokenEmbedder(embedder) ? embedder : undefined;
     this.store = new SemanticStore(embedder.dim);
     this.ctx = ctx;
     this.paths = cachePathsFor(cfg.cacheDir, ctx.vaultRoot, embedder.id);
@@ -96,14 +108,20 @@ export class Semantic {
     cfg: SemanticConfig,
     deps: SemanticDeps = {},
   ): Promise<Semantic> {
-    let embedder: Embedder;
+    let embedder: AnyEmbedder;
     try {
-      embedder = await (deps.loadModel ?? loadModel2Vec)(cfg.modelDir);
+      // Model-dir format decides the runtime: an onnx/ subdir means a real
+      // transformer (transformers.js, async path); anything else is Model2Vec.
+      embedder = deps.loadModel
+        ? await deps.loadModel(cfg.modelDir)
+        : looksLikeTransformerModel(cfg.modelDir)
+          ? await loadTransformerEmbedder(cfg.modelDir)
+          : await loadModel2Vec(cfg.modelDir);
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err);
       throw new Error(
         `semantic search: could not load the embedding model ${cfg.modelId} from ${cfg.modelDir} — ` +
-          `run \`${fetchCommandFor(cfg.modelId)}\` to download it, or point SEEKSTONE_MODEL_PATH at a Model2Vec model directory (${reason})`,
+          `run \`${fetchCommandFor(cfg.modelId)}\` to download it, or point SEEKSTONE_MODEL_PATH at a Model2Vec model directory or a transformers.js (ONNX) model directory (${reason})`,
       );
     }
     const semantic = new Semantic(embedder, ctx, cfg, deps);
@@ -148,7 +166,7 @@ export class Semantic {
             this.store.setNote(id, cachedVecs.packed, cachedVecs.spans);
             reused++;
           } else {
-            const { packed, spans } = this.embedNote(note);
+            const { packed, spans } = await this.embedNote(note);
             this.store.setNote(id, packed, spans);
             if (++sinceYield >= this.yieldEvery) {
               sinceYield = 0;
@@ -170,14 +188,25 @@ export class Semantic {
     if (reused < this.store.noteCount) await this.save();
   }
 
-  private embedNote(note: Pick<IndexedNote, 'title' | 'body'>): {
+  private async embedNote(note: Pick<IndexedNote, 'title' | 'body'>): Promise<{
     packed: Float32Array;
     spans: Uint32Array;
-  } {
+  }> {
     const chunks = chunkNote(note.title, note.body);
     const dim = this.embedder.dim;
     const packed = new Float32Array(chunks.length * dim);
     const spans = new Uint32Array(chunks.length * 2);
+    if (isAsyncEmbedder(this.embedder)) {
+      // Transformer path: one batched ONNX session per note, not per chunk.
+      const vecs = await this.embedder.embedBatch(chunks.map((c) => c.text));
+      for (let i = 0; i < chunks.length; i++) {
+        const chunk = chunks[i] as { start: number; end: number };
+        packed.set(vecs[i] ?? new Float32Array(dim), i * dim);
+        spans[i * 2] = chunk.start;
+        spans[i * 2 + 1] = chunk.end;
+      }
+      return { packed, spans };
+    }
     for (let i = 0; i < chunks.length; i++) {
       const chunk = chunks[i] as { text: string; start: number; end: number };
       packed.set(this.embedder.embed(chunk.text), i * dim);
@@ -188,6 +217,17 @@ export class Semantic {
   }
 
   embedQuery(query: string): Float32Array {
+    if (isAsyncEmbedder(this.embedder)) {
+      throw new Error(
+        'embedQuery is sync-only (Model2Vec); use embedQueryAsync with transformer embedders',
+      );
+    }
+    return this.embedder.embed(query);
+  }
+
+  /** Async query embedding — works with both runtimes. */
+  async embedQueryAsync(query: string): Promise<Float32Array> {
+    if (isAsyncEmbedder(this.embedder)) return this.embedder.embed(query);
     return this.embedder.embed(query);
   }
 
@@ -258,11 +298,23 @@ export class Semantic {
     const current = contentHash(note.raw);
     const prior = this.hashes.get(path);
     if (prior === current) return;
-    const { packed, spans } = this.embedNote(note);
-    this.store.setNote(path, packed, spans);
-    this.hashes.set(path, current);
-    this.log?.debug('semantic re-embed', { path });
-    this.scheduleSave();
+    // Fire-and-forget: embedNote is async on the transformer path. A stale
+    // note is only ever re-embedded after the debounce, so overlapping runs
+    // are harmless (last writer wins on identical content).
+    void this.embedNote(note)
+      .then(({ packed, spans }) => {
+        if (this.stopped) return;
+        this.store.setNote(path, packed, spans);
+        this.hashes.set(path, current);
+        this.log?.debug('semantic re-embed', { path });
+        this.scheduleSave();
+      })
+      .catch((err) => {
+        this.log?.warn('semantic re-embed failed', {
+          path,
+          error: err instanceof Error ? err.message : String(err),
+        });
+      });
   }
 
   private scheduleSave(): void {

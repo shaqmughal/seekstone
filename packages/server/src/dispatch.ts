@@ -24,7 +24,7 @@ import { QueryNotesInput, queryNotes } from './tools/query_notes.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { RenameHeadingInput, renameHeading } from './tools/rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
-import { SearchInput, search } from './tools/search.js';
+import { SearchInput, searchAsync } from './tools/search.js';
 import { UndoWriteInput, undoWrite } from './tools/undo_write.js';
 
 export type ToolResult = {
@@ -286,7 +286,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
   switch (name) {
     case 'search': {
       const input = SearchInput.parse(args);
-      const hits = search(ctx, input);
+      const hits = await searchAsync(ctx, input);
       // Minified: search is the headline context-tax metric — indentation is pure tax.
       return { content: [{ type: 'text', text: JSON.stringify(hits) }] };
     }
