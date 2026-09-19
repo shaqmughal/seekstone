@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.19.0
+
+### Minor Changes
+
+- e422b21: `context_pack` accepts `mode`, `folder` and `tag`. It called the lexical index directly, so it could neither search by meaning nor be scoped to a folder or tag — the two controls `search` has had since 0.17.0. Both tools now route through one retrieval path, so a mode or filter added to either is available to both, and `totalMatches` reports matches before filtering, which distinguishes an empty pack caused by a filter from one caused by an absent subject.
+
+### Patch Changes
+
+- 57275be: Bump `yaml` from 2.9.0 to 2.9.1 (runtime dependency of the published server).
+- 078b32c: Bump `zod` from 4.5.4 to 4.6.2 (runtime dependency of the published server).
+
 ## 0.18.0
 
 ### Minor Changes
