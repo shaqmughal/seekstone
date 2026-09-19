@@ -47,6 +47,8 @@ function buildCtx(
   };
 }
 
+const clampLen = (budget: number) => Math.min(400, Math.max(80, Math.floor(budget / 10)));
+
 const packedBytes = (ctx: ServerContext, query: string, budgetBytes: number) =>
   Buffer.byteLength(JSON.stringify(contextPack(ctx, { query, budgetBytes })), 'utf8');
 
@@ -406,5 +408,94 @@ describe('contextPack', () => {
       expect(pack.excerpts.length).toBeGreaterThanOrEqual(prev);
       prev = pack.excerpts.length;
     }
+  });
+
+  it('scopes the pack to a folder prefix', () => {
+    const ctx = buildCtx('/vault', [
+      {
+        id: 'pages/photosynthesis.md',
+        title: 'Light Capture',
+        body: 'Photosynthesis converts light.',
+      },
+      {
+        id: 'raw/photosynthesis-draft.md',
+        title: 'Draft',
+        body: 'Photosynthesis notes, unfinished, longer body about photosynthesis.',
+      },
+    ]);
+    const unscoped = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
+    expect(unscoped.excerpts.map((e) => e.path).sort()).toEqual([
+      'pages/photosynthesis.md',
+      'raw/photosynthesis-draft.md',
+    ]);
+
+    const scoped = contextPack(ctx, {
+      query: 'photosynthesis',
+      budgetBytes: 2048,
+      folder: 'pages',
+    });
+    expect(scoped.excerpts.map((e) => e.path)).toEqual(['pages/photosynthesis.md']);
+  });
+
+  it('scopes the pack to a tag', () => {
+    const ctx = buildCtx('/vault', [
+      {
+        id: 'a/photosynthesis.md',
+        title: 'A',
+        body: 'Photosynthesis converts light.',
+        tags: 'biology',
+      },
+      {
+        id: 'b/photosynthesis.md',
+        title: 'B',
+        body: 'Photosynthesis in industry.',
+        tags: 'engineering',
+      },
+    ]);
+    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, tag: 'biology' });
+    expect(pack.excerpts.map((e) => e.path)).toEqual(['a/photosynthesis.md']);
+  });
+
+  it('reports an honest empty when the filter excludes every match', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'raw/photosynthesis.md', title: 'Draft', body: 'Photosynthesis converts light.' },
+    ]);
+    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, folder: 'pages' });
+    expect(pack.excerpts).toEqual([]);
+    expect(pack.confidence).toBe('none');
+    expect(pack.totalMatches).toBeGreaterThan(0);
+  });
+
+  it('propagates semantic_unavailable rather than silently falling back to lexical', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'pages/photosynthesis.md', title: 'Light', body: 'Photosynthesis converts light.' },
+    ]);
+    expect(() =>
+      contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, mode: 'semantic' }),
+    ).toThrow(/semantic_unavailable/);
+  });
+
+  it('keeps the matched term in an excerpt the budget forced to shrink', () => {
+    const filler = 'Background prose without the subject word, repeated for length. ';
+    const notes = [];
+    for (let i = 0; i < 20; i++) {
+      notes.push({
+        id: `t/n${i}.md`,
+        title: `Note ${i}`,
+        body: `${filler.repeat(6)}Photosynthesis converts light. ${filler.repeat(6)}`,
+      });
+    }
+    const ctx = buildCtx('/vault', notes);
+    let shrunk = 0;
+    for (let budget = 640; budget <= 2048; budget += 32) {
+      const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: budget });
+      const full = clampLen(budget);
+      for (const e of pack.excerpts) {
+        if (e.excerpt.length < full) shrunk++;
+        expect(e.excerpt.toLowerCase()).toContain('photosynthesis');
+      }
+      expect(pack.confidence).toBe('high');
+    }
+    expect(shrunk).toBeGreaterThan(0);
   });
 });

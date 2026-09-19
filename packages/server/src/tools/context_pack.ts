@@ -3,7 +3,8 @@ import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { extractExcerpt } from '../index/excerpt.js';
 import { resolveLink } from '../index/resolve.js';
-import { basenameNoExt } from './search.js';
+import type { SearchHit } from '../index/types.js';
+import { retrieve } from './search.js';
 
 export const ContextPackInput = z.object({
   query: z.string().min(1).describe('Natural-language question or topic to assemble context for.'),
@@ -14,6 +15,17 @@ export const ContextPackInput = z.object({
     .max(16384)
     .default(2048)
     .describe('Hard cap on the response JSON size in bytes. The pack never exceeds it.'),
+  mode: z
+    .enum(['lexical', 'semantic', 'hybrid'])
+    .optional()
+    .describe(
+      'lexical = keyword search (default). semantic = meaning-based search over local embeddings (requires SEEKSTONE_SEMANTIC=1 and a fetched model). hybrid = exact-title lookups go lexical, everything else semantic. A question asked in words the note does not use needs semantic or hybrid.',
+    ),
+  folder: z
+    .string()
+    .optional()
+    .describe('Restrict results to notes under this vault-relative folder prefix.'),
+  tag: z.string().optional().describe('Restrict results to notes containing this tag.'),
 });
 export type ContextPackInput = z.infer<typeof ContextPackInput>;
 
@@ -85,14 +97,18 @@ function clamp(n: number, lo: number, hi: number): number {
 }
 
 export function contextPack(ctx: ServerContext, input: ContextPackInput): ContextPackResult {
-  const results = ctx.index.search(input.query, {
-    boost: { title: 3, tags: 2, body: 1 },
-    fuzzy: 0.2,
-    prefix: true,
+  const excerptLen = clamp(Math.floor(input.budgetBytes / 10), 80, 400);
+  const { hits: results, totalCandidates } = retrieve(ctx, {
+    query: input.query,
+    mode: input.mode,
+    folder: input.folder,
+    tag: input.tag,
+    limit: MAX_CANDIDATES,
+    excerptLength: excerptLen,
   });
-  const totalMatches = results.length;
-  if (totalMatches === 0) {
-    return { excerpts: [], neighborhood: [], sources: [], totalMatches: 0, confidence: 'none' };
+  const totalMatches = totalCandidates;
+  if (results.length === 0) {
+    return { excerpts: [], neighborhood: [], sources: [], totalMatches, confidence: 'none' };
   }
 
   const terms = input.query
@@ -101,7 +117,7 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
     .filter((t) => t.length > 1);
 
   const scoreByPath = new Map<string, number>();
-  for (const r of results) scoreByPath.set(r.id, r.score);
+  for (const r of results) scoreByPath.set(r.path, r.score);
 
   // Meter the fixed envelope with worst-case flags so emitting them later can
   // never break the cap. Entries are metered against the same minified
@@ -122,25 +138,21 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
   // Phase 1 — excerpts: greedy fill in rank order, holding back a soft reserve
   // for the neighborhood. On the first non-fit, shrink the excerpt (half, then
   // the floor); a shrunk entry ends the phase so the pack isn't all fragments.
-  const excerptLen = clamp(Math.floor(budget / 10), 80, 400);
   const reserve = Math.min(Math.floor(budget / 4), 600);
   const candidates = results.slice(0, MAX_CANDIDATES);
   const excerpts: ContextPackExcerpt[] = [];
   const overflowHits: ContextPackSource[] = [];
   let droppedForBudget = false;
 
-  const buildEntry = (r: (typeof results)[number], len: number): ContextPackExcerpt => {
-    const note = ctx.notes.get(r.id);
-    const body = note?.body ?? '';
-    const noteTags = note?.tags ? note.tags.split(' ').filter(Boolean) : [];
+  const buildEntry = (h: SearchHit, len: number): ContextPackExcerpt => {
+    const note = ctx.notes.get(h.path);
     const entry: ContextPackExcerpt = {
-      path: r.id,
-      score: Math.round(r.score * 100) / 100,
-      excerpt: extractExcerpt(body, terms, len),
+      path: h.path,
+      score: h.score,
+      excerpt: h.excerpt.length > len ? extractExcerpt(h.excerpt, terms, len) : h.excerpt,
     };
-    const title = r.title as string;
-    if (title && title !== basenameNoExt(r.id)) entry.title = title;
-    if (noteTags.length > 0) entry.tags = noteTags;
+    if (h.title) entry.title = h.title;
+    if (h.tags && h.tags.length > 0) entry.tags = h.tags;
     const fm = pickFm(note?.fm ?? null);
     if (fm) entry.fm = fm;
     return entry;
@@ -150,7 +162,7 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
   let phaseOpen = true;
   for (const r of candidates) {
     if (!phaseOpen) {
-      overflowHits.push({ path: r.id });
+      overflowHits.push({ path: r.path });
       continue;
     }
     let placed = false;
@@ -177,7 +189,7 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
     if (!placed) {
       phaseOpen = false;
       droppedForBudget = true;
-      overflowHits.push({ path: r.id });
+      overflowHits.push({ path: r.path });
     }
   }
 

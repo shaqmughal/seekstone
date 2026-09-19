@@ -50,7 +50,12 @@ export function basenameNoExt(path: string): string {
   return dot > 0 ? base.slice(0, dot) : base;
 }
 
-export function search(ctx: ServerContext, input: SearchInput): SearchHit[] {
+export interface Retrieval {
+  hits: SearchHit[];
+  totalCandidates: number;
+}
+
+export function retrieve(ctx: ServerContext, input: SearchInput): Retrieval {
   // Direct in-process callers bypass the zod defaults — normalize here.
   const mode = input.mode ?? 'lexical';
   if (mode === 'lexical') return lexicalSearch(ctx, input);
@@ -63,16 +68,20 @@ export function search(ctx: ServerContext, input: SearchInput): SearchHit[] {
   // (fuzzy matching on long queries is the expensive path).
   const words = queryWords(input.query);
   if (words.length > 0 && words.length <= MAX_ROUTE_WORDS) {
-    const lexHits = lexicalSearch(ctx, input);
+    const lex = lexicalSearch(ctx, input);
     if (
       routeToLexical(
         input.query,
-        lexHits.map((h) => h.path),
+        lex.hits.map((h) => h.path),
       )
     )
-      return lexHits;
+      return lex;
   }
   return semanticSearch(ctx, semantic, input);
+}
+
+export function search(ctx: ServerContext, input: SearchInput): SearchHit[] {
+  return retrieve(ctx, input).hits;
 }
 
 function requireSemantic(ctx: ServerContext): Semantic {
@@ -105,7 +114,7 @@ function searchTerms(query: string): string[] {
     .filter((t) => t.length > 1);
 }
 
-function lexicalSearch(ctx: ServerContext, input: SearchInput): SearchHit[] {
+function lexicalSearch(ctx: ServerContext, input: SearchInput): Retrieval {
   const results = ctx.index.search(input.query, {
     boost: { title: 3, tags: 2, body: 1 },
     fuzzy: 0.2,
@@ -127,10 +136,10 @@ function lexicalSearch(ctx: ServerContext, input: SearchInput): SearchHit[] {
     hits.push(hit);
     if (hits.length >= input.limit) break;
   }
-  return hits;
+  return { hits, totalCandidates: results.length };
 }
 
-function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInput): SearchHit[] {
+function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInput): Retrieval {
   const queryVec = semantic.embedQuery(input.query);
   // Stage 1: pooled cosine top-50; stage 2: MaxSim rerank (SHA-314).
   // 1-hop graph expansion (semantic/expand.ts) is deliberately NOT wired in:
@@ -156,7 +165,7 @@ function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInp
     hits.push(hit);
     if (hits.length >= input.limit) break;
   }
-  return hits;
+  return { hits, totalCandidates: candidates.length };
 }
 
 /** Apply folder/tag filters; returns the note when it passes, else undefined. */
