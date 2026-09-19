@@ -125,7 +125,7 @@ export const ALL_TOOLS = [
     name: 'context_pack',
     annotations: READ_ONLY_ANNOTATIONS,
     description:
-      'Assemble everything needed to ANSWER a natural-language question in one call, under a strict byte budget (default 2048): ranked excerpts, linked neighbor notes (backlinks/outlinks) with one-line summaries, and follow-up source paths. Use search to locate notes and query_notes for metadata filters; use context_pack when you want answer-ready context without multiple round-trips. Empty excerpts with confidence "none" or "low" means the vault lacks coverage — do not infer content.',
+      'Assemble everything needed to ANSWER a natural-language question in one call, under a strict byte budget (default 2048): ranked excerpts, linked neighbor notes (backlinks/outlinks) with one-line summaries, and follow-up source paths. Retrieval is lexical by default: for a question phrased in words the note itself may not use, pass mode "hybrid" or "semantic", and scope with folder/tag exactly as in search. Use search to locate notes and query_notes for metadata filters; use context_pack when you want answer-ready context without multiple round-trips. Empty excerpts with confidence "none" or "low" means the vault lacks coverage — do not infer content; with folder or tag set, "none" can also mean the filter excluded every match, which totalMatches distinguishes.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -134,6 +134,14 @@ export const ALL_TOOLS = [
           type: 'number',
           description: 'Hard cap on response JSON bytes (256–16384, default 2048).',
         },
+        mode: {
+          type: 'string',
+          enum: ['lexical', 'semantic', 'hybrid'],
+          description:
+            'lexical = keyword search (default). semantic = meaning-based over local embeddings (needs SEEKSTONE_SEMANTIC=1 and a fetched model). hybrid = exact-title lookups go lexical, everything else semantic.',
+        },
+        folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
+        tag: { type: 'string', description: 'Restrict to notes with this tag.' },
       },
       required: ['query'],
     },

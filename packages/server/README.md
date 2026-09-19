@@ -112,7 +112,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 |---|---|
 | `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching; with `SEEKSTONE_SEMANTIC=1`, `mode: "semantic"`/`"hybrid"` searches by meaning via a local embedding model (nothing leaves your machine). |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows, not note content. |
-| `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
+| `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. Scopable by `folder`/`tag` and takes the same `mode` as `search`. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
@@ -158,7 +158,7 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_HISTORY_MAX_ENTRIES` | no | Cap on journal entries (default `1000`); the oldest are dropped past it. |
 | `SEEKSTONE_AUDIT_FILE` | no | Absolute path; off unless set. Appends one JSON-line audit record per write-tool call — ok or refused — with the tool, paths, sha-256 before/after, outcome, and op metadata. Never note content. |
 | `SEEKSTONE_AUDIT_MAX_SIZE` | no | Rotate the audit file to `<file>.1` past this size (e.g. `10mb`; default 10 MB). |
-| `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. The `seekstone-semantic.mcpb` bundle sets this automatically and ships the model inside. |
+| `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` and `context_pack` gain `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. The `seekstone-semantic.mcpb` bundle sets this automatically and ships the model inside. |
 | `SEEKSTONE_SEMANTIC_MODEL` | no | `potion-base-8M` (default, ~30 MB) or `potion-retrieval-32M` (~129 MB, more accurate, ~2× query latency). Fetch it first: `npx -y seekstone fetch-model --model potion-retrieval-32M`. |
 | `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model). |
 | `SEEKSTONE_CACHE_DIR` | no | Cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`). |
