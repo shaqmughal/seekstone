@@ -57,7 +57,7 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
   ```bash
   npx changeset
   ```
-  Pick `seekstone`, choose the bump (patch/minor/major), and write a one-line summary. Commit the generated `.changeset/*.md` file. Docs-only or internal changes don't need one. See [docs/RELEASING.md](docs/RELEASING.md) for how releases work.
+  Pick `seekstone`, choose the bump (patch/minor/major), and write a one-line summary. Commit the generated `.changeset/*.md` file. Name only `seekstone` — `@seekstone/core` and `@seekstone/harness` are private, and CI rejects a changeset that lists them. Docs-only or internal changes don't need one. See [docs/RELEASING.md](docs/RELEASING.md) for how releases work.
 - Open the PR against `main`; fill in the PR template; make sure CI is green.
 
 ## Reporting bugs & requesting features

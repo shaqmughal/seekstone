@@ -6,3 +6,9 @@ find the full documentation for it [in our repository](https://github.com/change
 
 We have a quick list of common questions to get you started engaging with this project in
 [our documentation](https://github.com/changesets/changesets/blob/main/docs/common-questions.md).
+
+## Seekstone rule
+
+A changeset here may name only `seekstone`, the one published package. `@seekstone/core` and
+`@seekstone/harness` are private (core ships inside the server bundle); naming either breaks
+`changeset version`. CI enforces this with `scripts/check-changesets.mjs`.

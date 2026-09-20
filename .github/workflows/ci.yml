@@ -177,3 +177,24 @@ jobs:
           fi
 
           echo "✅ Changeset found."
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      # Guard: a changeset may name only the published `seekstone` package. One
+      # naming the private `@seekstone/core` is a "mixed changeset" that hard-errors
+      # `changeset version` — but only in the post-merge Release workflow, where it
+      # silently blocked 0.17.0 for two days (SHA-324). Fail the PR instead.
+      - name: Changesets name only the published package
+        run: node scripts/check-changesets.mjs
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Dry-run the exact command the Release workflow runs on merge, so anything
+      # else that would break versioning fails here rather than after the merge.
+      # The checkout is throwaway; nothing is committed.
+      - name: Dry-run changeset version
+        run: npx changeset version
