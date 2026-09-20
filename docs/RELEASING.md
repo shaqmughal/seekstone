@@ -10,6 +10,8 @@ Seekstone publishes the `seekstone` npm package via [Changesets](https://github.
    ```
    Pick `seekstone`, choose the bump (patch / minor / major), and write a short summary — it becomes the CHANGELOG entry. Commit the generated `.changeset/*.md` file.
 
+   **A changeset may name only `seekstone`.** `@seekstone/core` and `@seekstone/harness` are private (core ships inside the server bundle); a changeset naming either is a "mixed changeset" that hard-errors `changeset version`. CI rejects it on the PR (`scripts/check-changesets.mjs`).
+
 2. **Merge your PR to `main`.** The `Release` workflow sees the pending changeset and opens (or updates) a **"chore: version packages"** PR that bumps the version and updates `packages/server/CHANGELOG.md`.
 
 3. **Merge the version PR.** That push has no pending changesets, so the workflow **publishes to npm** with provenance.
@@ -20,7 +22,7 @@ Re-running a release for an already-published version is a no-op, so the workflo
 
 The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** → **`npm run conformance`** → **write-safety baseline** (`node scripts/check-safety-baseline.mjs`, which re-runs the harness safety suite against the committed golden report — a write-behavior regression blocks the publish) before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. `conformance` drives the built server with the MCP SDK reference client — handshake, exact tool surface, and a search + append round-trip — so a protocol regression can't ship (see `docs/CLIENT-TESTING.md`). A failure at any gate blocks the publish.
 
-CI (the `CI` workflow) additionally enforces, on the Linux leg: **three coverage gates** (server, harness, and core — thresholds in each package's `vitest.config.ts`), the same write-safety baseline, protocol conformance, `server.json` version sync (`sync-server-json.mjs --check`), the `docs/REGISTRIES.md` tool-list guard (`check-registries-tools.mjs`), the `benchmarks.json` staleness guard (`build-benchmarks-json.mjs --check` — the file is regenerated from the committed harness baselines and is the single source of truth for every published benchmark number), the docs-sync guard (`check-docs-sync.mjs`, which also checks every headline figure against `benchmarks.json`), and a **changeset check** that fails any PR touching `packages/server/src/` or `package.json` without a changeset.
+CI (the `CI` workflow) additionally enforces, on the Linux leg: **three coverage gates** (server, harness, and core — thresholds in each package's `vitest.config.ts`), the same write-safety baseline, protocol conformance, `server.json` version sync (`sync-server-json.mjs --check`), the `docs/REGISTRIES.md` tool-list guard (`check-registries-tools.mjs`), the `benchmarks.json` staleness guard (`build-benchmarks-json.mjs --check` — the file is regenerated from the committed harness baselines and is the single source of truth for every published benchmark number), the docs-sync guard (`check-docs-sync.mjs`, which also checks every headline figure against `benchmarks.json`), and a **changeset check** that fails any PR touching `packages/server/src/` or `package.json` without a changeset, fails any changeset naming a package other than `seekstone` (`check-changesets.mjs`), and dry-runs `changeset version` so a changeset that would break the post-merge release fails the PR instead.
 
 **Manual gate for tool-schema changes:** `scripts/claude-code-e2e.sh` runs a real headless Claude Code session against the packed tarball and asserts a model-driven `search` retrieves seeded vault content. Run it before releases that change tool names or input schemas (needs an authenticated `claude` CLI; spends a few tokens).
 
@@ -56,7 +58,13 @@ Once configured, the publish step authenticates automatically — there is no `N
 
 ## Post-publish: automated pipeline
 
-On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundle** (`seekstone.mcpb`), generates a **SLSA build-provenance attestation** for it, uploads both to the **GitHub Release** (`seekstone.mcpb` + `seekstone.mcpb.intoto.jsonl`), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
+On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundle** (`seekstone.mcpb`), generates a **SLSA build-provenance attestation** for it, uploads both to the **GitHub Release** (`seekstone.mcpb` + `seekstone.mcpb.intoto.jsonl`), waits for npm to serve the new version (up to 5 minutes — the registry validates against npm, whose packument can lag the publish), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
+
+## When a release fails
+
+Any failed `Release` run opens a GitHub issue labelled **`release-failure`** ("Release workflow is failing"), or comments on the one already open, with a link to the run. The next green run closes it. Watch the repo's issues and a broken release cannot sit unnoticed.
+
+To recover once the cause is fixed: if the failure was before the npm publish, push the fix to `main` and the workflow retries. If npm already has the version but a later step failed, run `gh workflow run release.yml` — a `workflow_dispatch` run re-runs the npm wait, the MCP Registry publish, and the seekstone.dev rebuild (the npm publish itself is a no-op for an existing version). Use a fresh dispatch, not "Re-run failed jobs": on a re-run `changeset publish` finds the version already on npm, reports nothing published, and every `published == 'true'` step is skipped. For the same reason the MCPB build, attestation, and GitHub Release upload only ever run on the publishing push; if one of those failed, build and attach the bundles by hand (`npm run build:mcpb`, then `gh release upload "seekstone@<version>" seekstone.mcpb seekstone-semantic.mcpb --clobber`) — the provenance attestation cannot be reproduced outside CI.
 
 ## Post-publish: Glama (manual)
 

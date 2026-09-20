@@ -18,6 +18,7 @@ jobs:
       pull-requests: write # changesets opens the version PR
       id-token: write # npm provenance + sigstore signing
       attestations: write # write the MCPB build-provenance attestation
+      issues: write # open/close the "Release workflow is failing" issue
     defaults:
       run:
         shell: bash
@@ -164,6 +165,25 @@ jobs:
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: node scripts/sync-server-json.mjs
 
+      # The registry validates the version against npm, and npm's packument can
+      # lag the publish by a minute or more. Publishing into that window 404s
+      # ("version was not found") and skips every later step — that is how
+      # 0.19.0 shipped without a site rebuild (SHA-333). Wait for npm first.
+      - name: Wait for npm to serve the published version
+        if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          VERSION=$(node -p "require('./packages/server/package.json').version")
+          for attempt in $(seq 1 30); do
+            if [ "$(npm view "seekstone@${VERSION}" version 2>/dev/null)" = "$VERSION" ]; then
+              echo "npm serves seekstone@${VERSION} (attempt ${attempt})"
+              exit 0
+            fi
+            echo "seekstone@${VERSION} not on npm yet (attempt ${attempt}/30); retrying in 10s"
+            sleep 10
+          done
+          echo "::error::seekstone@${VERSION} still not visible on npm after 5 minutes"
+          exit 1
+
       - name: Publish to MCP Registry
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: |
@@ -173,9 +193,10 @@ jobs:
       # Rebuild seekstone.dev so its build-time npm version lookup picks up the
       # release we just published (site repo: src/version.ts). Deploy hooks are
       # fire-and-forget and unauthenticated-by-URL, so the step is best-effort:
-      # a missing secret or a Vercel hiccup must never fail a release.
+      # a missing secret or a Vercel hiccup must never fail a release. Also runs on
+      # workflow_dispatch so a manual recovery run finishes the whole release.
       - name: Trigger seekstone.dev rebuild
-        if: steps.changesets.outputs.published == 'true'
+        if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         env:
           DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
         run: |
@@ -184,6 +205,39 @@ jobs:
             exit 0
           fi
           curl -fsS -X POST "$DEPLOY_HOOK_URL" || echo "::warning::deploy hook failed; seekstone.dev will show the new version on its next rebuild"
+
+      # Loud failures (SHA-324): a broken release must not sit unnoticed in the
+      # Actions tab. Any failed run opens one `release-failure` issue, or comments
+      # on the open one; the next green run closes it.
+      - name: Report release failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create release-failure --color B60205 \
+            --description "The Release workflow is failing on main" 2>/dev/null || true
+          BODY="The Release workflow failed on \`${GITHUB_SHA:0:8}\` (${GITHUB_EVENT_NAME}): ${RUN_URL}
+
+          Nothing publishes until this is fixed. See docs/RELEASING.md → \"When a release fails\"."
+          OPEN=$(gh issue list --label release-failure --state open --json number --jq '.[0].number // empty')
+          if [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --body "$BODY"
+          else
+            gh issue create --title "Release workflow is failing" --label release-failure --body "$BODY"
+          fi
+
+      - name: Close release-failure issue on success
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          for n in $(gh issue list --label release-failure --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "Release workflow is green again: ${RUN_URL}"
+          done
 
       # NOTE: a manual Glama release step is still required after every publish.
       # Glama has no public API for programmatic release creation (investigated SHA-85).
