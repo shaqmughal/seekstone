@@ -60,6 +60,8 @@ Optional environment:
   SEEKSTONE_SEMANTIC_MODEL  potion-base-8M (default) | potion-retrieval-32M (bigger, more accurate)
   SEEKSTONE_MODEL_PATH Override the embedding-model directory
   SEEKSTONE_CACHE_DIR  Override the cache root (default ~/.cache/seekstone)
+  SEEKSTONE_INSTRUCTIONS  Path to a file whose contents become the MCP
+                       "instructions" (relative paths resolve against the vault)
 
 Add to Claude Code:
   claude mcp add seekstone --env SEEKSTONE_VAULT=/path/to/vault -- npx -y seekstone

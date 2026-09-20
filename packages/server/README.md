@@ -163,6 +163,7 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model). |
 | `SEEKSTONE_CACHE_DIR` | no | Cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`). |
 | `SEEKSTONE_BUNDLED_MODEL_DIR` | no | Set by the `seekstone-semantic.mcpb` bundle's manifest — sharded model files shipped inside the extension, reassembled into the model directory at boot (disk-only, hash-verified). Not usually set by hand. |
+| `SEEKSTONE_INSTRUCTIONS` | no | Path to a file whose contents become the MCP server's `instructions` string (surfaced to clients alongside the tool list). A relative path resolves against the vault root. Read once at boot, trimmed, capped at 16 KB (truncated with a warning past that). Missing, unreadable, or empty after trim means no instructions — never a boot failure. |
 
 ---
 

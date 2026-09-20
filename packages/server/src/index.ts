@@ -14,6 +14,7 @@ import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
+import { resolveInstructions } from './instructions.js';
 import { Journal, resolveJournalConfig } from './journal.js';
 import { createLogger } from './log.js';
 import { parseWritePolicy } from './policy.js';
@@ -153,7 +154,12 @@ const watcher = startWatcher(ctx, log);
 // Exit handlers must stay synchronous — kick off the close; nothing awaits it.
 process.on('exit', () => void watcher.stop());
 
-const server = new Server({ name: 'seekstone', version: VERSION }, { capabilities: { tools: {} } });
+const instructions = resolveInstructions(process.env, vaultRoot, log);
+
+const server = new Server(
+  { name: 'seekstone', version: VERSION },
+  { capabilities: { tools: {} }, instructions },
+);
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({
   tools: visibleTools(ctx.policy),

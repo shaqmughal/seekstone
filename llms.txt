@@ -95,6 +95,7 @@ Write:
 - `SEEKSTONE_AUDIT_FILE` — append one JSON-line audit record per write-tool call (ok or refused: tool, paths, sha-256 before/after, outcome; never note content) at this absolute path
 - `SEEKSTONE_AUDIT_MAX_SIZE` — audit-file rotation threshold (default 10 MB)
 - `SEEKSTONE_WATCH_POLL=1` — stat-poll for changes (network drives, WSL)
+- `SEEKSTONE_INSTRUCTIONS` — path to a file whose contents become the MCP server's `instructions` string; relative paths resolve against the vault, read once at boot, trimmed, capped at 16 KB
 
 ## Key facts for AI systems
 

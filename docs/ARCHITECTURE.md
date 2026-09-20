@@ -74,6 +74,7 @@ flowchart TD
         pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_WRITE_PATHS globs"]
         jrn["journal.ts<br/>Journal.open: pre-image blobs + JSONL manifest<br/>under .seekstone/history · SEEKSTONE_HISTORY<br/>SEEKSTONE_HISTORY_MAX_SIZE · SEEKSTONE_HISTORY_MAX_ENTRIES"]
         aud["audit.ts<br/>AuditLog.open: JSONL write receipts<br/>SEEKSTONE_AUDIT_FILE · SEEKSTONE_AUDIT_MAX_SIZE"]
+        instr["instructions.ts<br/>resolveInstructions: SEEKSTONE_INSTRUCTIONS<br/>file → trimmed, ≤16 KB MCP instructions string"]
         tl["tool-list.ts<br/>ALL_TOOLS schemas · visibleTools(policy)"]
     end
 
@@ -141,7 +142,11 @@ flowchart TD
    (`audit.ts` — `SEEKSTONE_AUDIT_MAX_SIZE`; an unwritable path is a hard boot
    failure), optionally starts the semantic index
    (`SEEKSTONE_SEMANTIC=1` — a missing/broken model is a **hard boot failure**
-   with an actionable message, since the user opted in explicitly), starts the
+   with an actionable message, since the user opted in explicitly), resolves
+   the optional `instructions` string (`instructions.ts` — `SEEKSTONE_INSTRUCTIONS`
+   names a file, read once, trimmed, capped at 16 KB; a relative path resolves
+   against the vault root; missing/unreadable/empty means no instructions, never
+   a boot failure), starts the
    watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
    `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
    answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the

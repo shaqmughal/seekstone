@@ -370,6 +370,7 @@ jq -c 'select(.ts > "2026-08-29T21:00:00Z" and .outcome == "ok")' audit.jsonl   
 | `SEEKSTONE_MODEL_PATH` | No | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model, under the cache dir). |
 | `SEEKSTONE_CACHE_DIR` | No | Cache root for the downloaded model and per-vault embedding caches (default `~/.cache/seekstone`). |
 | `SEEKSTONE_BUNDLED_MODEL_DIR` | No | Set by the `seekstone-semantic.mcpb` bundle's manifest — points at the sharded model files shipped inside the extension, which the server reassembles into the model directory at boot (disk-only, verified against the pinned SHA-256 hashes). Not usually set by hand. |
+| `SEEKSTONE_INSTRUCTIONS` | No | Path to a file whose contents become the MCP server's `instructions` string (surfaced to clients alongside the tool list). A relative path resolves against the vault root. Read once at boot, trimmed, capped at 16 KB (truncated with a warning past that). Missing, unreadable, or empty after trim means no instructions — never a boot failure. |
 
 ---
 
