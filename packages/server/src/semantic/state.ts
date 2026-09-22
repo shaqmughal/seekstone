@@ -306,7 +306,10 @@ export class Semantic {
       .then(({ packed, spans }) => {
         if (this.stopped) return;
         const latest = this.ctx.notes.get(path);
-        if (!latest || contentHash(latest.raw) !== current) return;
+        if (!latest) return;
+        // Staleness check on public content fingerprints (see `current` above).
+        const now = contentHash(latest.raw);
+        if (now !== current) return;
         this.store.setNote(path, packed, spans);
         this.hashes.set(path, current);
         this.log?.debug('semantic re-embed', { path });
