@@ -1,3 +1,4 @@
+/// <reference path="./transformer-runtime.d.ts" />
 import { createHash } from 'node:crypto';
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
