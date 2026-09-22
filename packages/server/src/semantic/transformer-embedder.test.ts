@@ -133,6 +133,17 @@ describe('loadTransformerEmbedder', () => {
     ).rejects.toThrow(new RegExp(`not installed.*-p ${TRANSFORMER_RUNTIME} seekstone`));
   });
 
+  it('recognises a bundler-style resolution failure without an error code', async () => {
+    const dir = await modelDir({ onnx: { 'model_quantized.onnx': 'w' } });
+    await expect(
+      loadTransformerEmbedder(dir, {
+        importRuntime: async () => {
+          throw new Error(`Could not resolve "${TRANSFORMER_RUNTIME}" from "src/x.ts"`);
+        },
+      }),
+    ).rejects.toThrow(/not installed/);
+  });
+
   it('passes other runtime failures through unchanged', async () => {
     const dir = await modelDir({ onnx: { 'model_quantized.onnx': 'w' } });
     await expect(

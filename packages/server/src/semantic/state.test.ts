@@ -1,4 +1,4 @@
-import { mkdtemp, rm } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import type { Embedder, TokenEmbedder, TokenEmbedding } from '@seekstone/core/embed';
@@ -210,6 +210,67 @@ describe('Semantic', () => {
     const wind = s.store.topNotes(await s.embedQuery('breeze'), 3);
     expect(wind.find((h) => h.path === 'Notes/Other.md')?.score ?? 0).toBeGreaterThan(0.9);
     s.stop();
+  });
+
+  it('a failed async re-embed is logged and leaves the previous vectors in place', async () => {
+    const warns: Array<Record<string, unknown> | undefined> = [];
+    const log = {
+      level: 'debug' as const,
+      debug() {},
+      info() {},
+      warn(_msg: string, fields?: Record<string, unknown>) {
+        warns.push(fields);
+      },
+      error() {},
+    };
+    const flaky = {
+      id: 'flaky-async',
+      dim: 3,
+      async embed(text: string): Promise<Float32Array> {
+        return stubEmbedder.embed(text);
+      },
+      async embedBatch(texts: readonly string[]): Promise<Float32Array[]> {
+        if (texts.some((t) => /boom/.test(t))) throw new Error('onnx session lost');
+        return texts.map((t) => stubEmbedder.embed(t));
+      },
+    };
+    const ctx = makeCtx('/vault/reembed-fail');
+    const s = await Semantic.start(ctx, cfg(), { ...deps(), log, loadModel: async () => flaky });
+    await s.ready();
+    ctx.notes.set('Notes/Cheese.md', note('Notes/Cheese.md', 'boom'));
+    s.noteChanged('Notes/Cheese.md');
+    await vi.waitFor(() => expect(warns).toHaveLength(1));
+    expect(warns[0]).toEqual({ path: 'Notes/Cheese.md', error: 'onnx session lost' });
+    // Old dairy vectors survive: the note is still the top hit for milk.
+    expect(s.store.topNotes(await s.embedQuery('milk'), 1)[0]?.path).toBe('Notes/Cheese.md');
+    s.stop();
+  });
+
+  it('without an injected loader, a transformer model dir routes to the ONNX loader (runtime absent here)', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'seekstone-tjs-dir-'));
+    await writeFile(join(dir, 'config.json'), '{}');
+    await mkdir(join(dir, 'onnx'));
+    await writeFile(join(dir, 'onnx', 'model_quantized.onnx'), 'x');
+    const { loadModel: _omit, ...rest } = deps();
+    await expect(
+      Semantic.start(makeCtx('/vault/tjs'), { modelId: 'tjs', modelDir: dir, cacheDir }, rest),
+    ).rejects.toThrow(
+      /^semantic search: this model directory is a transformers\.js \(ONNX\) model.*not installed/,
+    );
+    await rm(dir, { recursive: true, force: true });
+  });
+
+  it('without an injected loader, anything else is a Model2Vec dir and failures point at fetch-model', async () => {
+    const { loadModel: _omit, ...rest } = deps();
+    await expect(
+      Semantic.start(
+        makeCtx('/vault/m2v'),
+        { modelId: 'potion-base-8M', modelDir: '/nope/missing', cacheDir },
+        rest,
+      ),
+    ).rejects.toThrow(
+      /fetch-model.*Model2Vec model directory or a transformers\.js \(ONNX\) model directory/,
+    );
   });
 
   it('skips a re-embed when content is unchanged and drops removed notes', async () => {

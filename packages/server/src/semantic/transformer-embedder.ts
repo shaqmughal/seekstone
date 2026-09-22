@@ -80,9 +80,15 @@ function importPeerRuntime(): Promise<TransformerRuntime> {
   return import('@huggingface/transformers') as Promise<TransformerRuntime>;
 }
 
+/**
+ * Node reports a missing package with a code; bundler-served runtimes (vite,
+ * vitest) only say "Could not resolve" / "Cannot find" in the message.
+ */
 function isModuleNotFound(err: unknown): boolean {
-  const code = (err as { code?: string } | null)?.code;
-  return code === 'ERR_MODULE_NOT_FOUND' || code === 'MODULE_NOT_FOUND';
+  const e = err as { code?: string; message?: string } | null;
+  if (e?.code === 'ERR_MODULE_NOT_FOUND' || e?.code === 'MODULE_NOT_FOUND') return true;
+  const msg = e?.message ?? '';
+  return msg.includes(TRANSFORMER_RUNTIME) && /cannot find|could not resolve|not found/i.test(msg);
 }
 
 /**
