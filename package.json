@@ -36,7 +36,7 @@
     "@biomejs/biome": "^2.5.12",
     "@changesets/cli": "^3.0.2",
     "@types/node": "^26.4.1",
-    "@vitest/coverage-v8": "^5.0.0",
+    "@vitest/coverage-v8": "^5.0.1",
     "fast-check": "^4.10.1",
     "tsup": "^8.3.5",
     "tsx": "^4.23.13",
