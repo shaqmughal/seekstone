@@ -71,13 +71,12 @@ export interface TransformerLoaderDeps {
 /**
  * The runtime is an optional peer dependency (~350 MB unpacked with its ONNX
  * runtime and native modules), so the default install never carries it.
- * The specifier is held in a variable so neither tsc nor the bundler tries
- * to resolve it at build time; it resolves at runtime from wherever the
- * user installed it.
+ * tsup leaves peer dependencies external, so the literal import survives
+ * bundling and resolves at runtime from wherever the user installed it;
+ * its types are not a dev dependency either (see transformer-runtime.d.ts).
  */
 function importPeerRuntime(): Promise<TransformerRuntime> {
-  const specifier = TRANSFORMER_RUNTIME;
-  return import(specifier) as Promise<TransformerRuntime>;
+  return import('@huggingface/transformers') as Promise<TransformerRuntime>;
 }
 
 function isModuleNotFound(err: unknown): boolean {
