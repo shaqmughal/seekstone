@@ -51,7 +51,7 @@ export class SeekstoneAdapter implements Backend {
   }
 
   async search(query: string): Promise<BackendResponse<SearchHit[]>> {
-    const hits = searchTool(this.ctx, { query, limit: 10 });
+    const hits = await searchTool(this.ctx, { query, limit: 10 });
     const payload = JSON.stringify(hits);
     const mapped: SearchHit[] = hits.map((h) => ({
       path: h.path,
@@ -66,7 +66,7 @@ export class SeekstoneAdapter implements Backend {
   }
 
   async *searchStream(query: string): AsyncGenerator<SearchHit> {
-    const hits = searchTool(this.ctx, { query, limit: 10 });
+    const hits = await searchTool(this.ctx, { query, limit: 10 });
     for (const h of hits) {
       yield { path: h.path, score: h.score, snippet: h.excerpt };
     }
@@ -110,7 +110,7 @@ export class SeekstoneAdapter implements Backend {
 
   async contextPack(query: string, budgetBytes?: number): Promise<BackendResponse<unknown>> {
     // Direct fn call bypasses the zod schema, so apply its default here.
-    const result = contextPackTool(this.ctx, { query, budgetBytes: budgetBytes ?? 2048 });
+    const result = await contextPackTool(this.ctx, { query, budgetBytes: budgetBytes ?? 2048 });
     const payload = JSON.stringify(result);
     return {
       result,

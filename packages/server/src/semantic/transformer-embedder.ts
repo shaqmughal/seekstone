@@ -1,5 +1,6 @@
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
+import { createHash } from 'node:crypto';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
+import { basename, join } from 'node:path';
 
 /**
  * Async embedding seam for real transformer models (BERT-family, e.g.
@@ -49,27 +50,78 @@ type FeatureExtractionPipeline = (
   options: { pooling: 'mean'; normalize: true },
 ) => Promise<{ data: Float32Array; dims: number[] }>;
 
-export async function loadTransformerEmbedder(modelDir: string): Promise<AsyncEmbedder> {
-  // Dynamic import: @huggingface/transformers is an optional runtime path —
-  // Model2Vec-only installs never pay the ONNX Runtime load cost.
-  const tjs = (await import('@huggingface/transformers')) as {
-    pipeline: (
-      task: 'feature-extraction',
-      model: string,
-      options: { dtype: string },
-    ) => Promise<FeatureExtractionPipeline>;
-    env: { allowRemoteModels: boolean; allowLocalModels: boolean };
-  };
+/** The npm package that provides the ONNX runtime. Optional peer dependency. */
+export const TRANSFORMER_RUNTIME = '@huggingface/transformers';
+
+/** The slice of transformers.js this loader touches. */
+export interface TransformerRuntime {
+  pipeline: (
+    task: 'feature-extraction',
+    model: string,
+    options: { dtype: string },
+  ) => Promise<FeatureExtractionPipeline>;
+  env: { allowRemoteModels: boolean; allowLocalModels: boolean };
+}
+
+export interface TransformerLoaderDeps {
+  /** Test seam; defaults to a dynamic import of the peer dependency. */
+  importRuntime?: () => Promise<TransformerRuntime>;
+}
+
+/**
+ * The runtime is an optional peer dependency (~350 MB unpacked with its ONNX
+ * runtime and native modules), so the default install never carries it.
+ * The specifier is held in a variable so neither tsc nor the bundler tries
+ * to resolve it at build time; it resolves at runtime from wherever the
+ * user installed it.
+ */
+function importPeerRuntime(): Promise<TransformerRuntime> {
+  const specifier = TRANSFORMER_RUNTIME;
+  return import(specifier) as Promise<TransformerRuntime>;
+}
+
+function isModuleNotFound(err: unknown): boolean {
+  const code = (err as { code?: string } | null)?.code;
+  return code === 'ERR_MODULE_NOT_FOUND' || code === 'MODULE_NOT_FOUND';
+}
+
+/**
+ * Cache identity for a transformer model: the directory's basename plus a
+ * short hash of its ONNX weights. Two different models in same-named folders
+ * must never share an embedding cache, and the same model moved to another
+ * folder should keep its cache.
+ */
+export function transformerModelId(modelDir: string): string {
+  const onnxDir = join(modelDir, 'onnx');
+  const files = readdirSync(onnxDir)
+    .filter((f) => f.endsWith('.onnx'))
+    .sort();
+  const hash = createHash('sha256');
+  for (const f of files) hash.update(f).update(readFileSync(join(onnxDir, f)));
+  return `${basename(modelDir.replace(/[\\/]+$/, ''))}-${hash.digest('hex').slice(0, 12)}`;
+}
+
+export async function loadTransformerEmbedder(
+  modelDir: string,
+  deps: TransformerLoaderDeps = {},
+): Promise<AsyncEmbedder> {
+  let tjs: TransformerRuntime;
+  try {
+    tjs = await (deps.importRuntime ?? importPeerRuntime)();
+  } catch (err) {
+    if (!isModuleNotFound(err)) throw err;
+    throw new Error(
+      `this model directory is a transformers.js (ONNX) model, which needs the optional \`${TRANSFORMER_RUNTIME}\` runtime — it is not installed. ` +
+        `Install it alongside seekstone (e.g. \`npx -y -p seekstone -p ${TRANSFORMER_RUNTIME} seekstone\`, or \`npm i -g seekstone ${TRANSFORMER_RUNTIME}\`), ` +
+        `or point SEEKSTONE_MODEL_PATH at a Model2Vec model instead`,
+    );
+  }
   tjs.env.allowRemoteModels = false;
   tjs.env.allowLocalModels = true;
   // q8 = onnx/model_quantized.onnx (≈4× smaller + faster on CPU than fp32).
   const extractor = await tjs.pipeline('feature-extraction', modelDir, { dtype: 'q8' });
 
-  const id =
-    modelDir
-      .replace(/[\\/]+$/, '')
-      .split(/[\\/]/)
-      .pop() ?? 'transformer-model';
+  const id = transformerModelId(modelDir);
 
   async function embedBatchRaw(
     texts: readonly string[],

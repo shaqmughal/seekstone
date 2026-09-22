@@ -43,14 +43,14 @@ describe('buildShipped with multiple handles on one ctx (SHA-323)', () => {
     await rm(vault, { recursive: true, force: true });
   });
 
-  it('each rank call searches through its own semantic index', () => {
-    expect(a.rank('semantic')('moving air')).toEqual(['Notes/Windmill.md']);
+  it('each rank call searches through its own semantic index', async () => {
+    expect(await a.rank('semantic')('moving air')).toEqual(['Notes/Windmill.md']);
     expect(lexical.ctx.semantic?.embedder.id).toBe('stub-a');
-    expect(b.rank('semantic')('moving air')).toEqual(['Notes/Windmill.md']);
+    expect(await b.rank('semantic')('moving air')).toEqual(['Notes/Windmill.md']);
     expect(lexical.ctx.semantic?.embedder.id).toBe('stub-b');
     // Interleaving back to the first handle must re-point the ctx, not
     // keep serving the most recently built model.
-    a.rank('hybrid')('moving air');
+    await a.rank('hybrid')('moving air');
     expect(lexical.ctx.semantic?.embedder.id).toBe('stub-a');
   });
 });

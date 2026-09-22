@@ -28,7 +28,8 @@
     "release": "changeset publish"
   },
   "overrides": {
-    "sharp": "^0.35.4"
+    "tmp": ">=0.2.6",
+    "esbuild": "^0.28.1"
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^2.1.2",

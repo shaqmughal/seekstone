@@ -61,7 +61,6 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@huggingface/transformers": "^3.7.2",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "chokidar": "^5.0.0",
     "fast-glob": "^3.3.2",
@@ -69,6 +68,14 @@
     "picomatch": "^4.0.7",
     "yaml": "^2.9.1",
     "zod": "^4.6.2"
+  },
+  "peerDependencies": {
+    "@huggingface/transformers": "^3.7.2"
+  },
+  "peerDependenciesMeta": {
+    "@huggingface/transformers": {
+      "optional": true
+    }
   },
   "devDependencies": {
     "@seekstone/core": "*",

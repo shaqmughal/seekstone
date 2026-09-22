@@ -96,9 +96,12 @@ function clamp(n: number, lo: number, hi: number): number {
   return Math.min(hi, Math.max(lo, n));
 }
 
-export function contextPack(ctx: ServerContext, input: ContextPackInput): ContextPackResult {
+export async function contextPack(
+  ctx: ServerContext,
+  input: ContextPackInput,
+): Promise<ContextPackResult> {
   const excerptLen = clamp(Math.floor(input.budgetBytes / 10), 80, 400);
-  const { hits: results, totalCandidates } = retrieve(ctx, {
+  const { hits: results, totalCandidates } = await retrieve(ctx, {
     query: input.query,
     mode: input.mode,
     folder: input.folder,

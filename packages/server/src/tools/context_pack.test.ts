@@ -49,8 +49,8 @@ function buildCtx(
 
 const clampLen = (budget: number) => Math.min(400, Math.max(80, Math.floor(budget / 10)));
 
-const packedBytes = (ctx: ServerContext, query: string, budgetBytes: number) =>
-  Buffer.byteLength(JSON.stringify(contextPack(ctx, { query, budgetBytes })), 'utf8');
+const packedBytes = async (ctx: ServerContext, query: string, budgetBytes: number) =>
+  Buffer.byteLength(JSON.stringify(await contextPack(ctx, { query, budgetBytes })), 'utf8');
 
 /** A vault with enough matter to overflow small budgets. */
 function bigVault() {
@@ -67,7 +67,7 @@ function bigVault() {
 }
 
 describe('contextPack', () => {
-  it('returns ranked excerpts with lean field conventions', () => {
+  it('returns ranked excerpts with lean field conventions', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'plants/photosynthesis.md',
@@ -82,7 +82,7 @@ describe('contextPack', () => {
         tags: 'biology pigments',
       },
     ]);
-    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
     expect(pack.excerpts.length).toBe(2);
     expect(pack.totalMatches).toBe(2);
     const byPath = new Map(pack.excerpts.map((e) => [e.path, e]));
@@ -98,14 +98,16 @@ describe('contextPack', () => {
     expect([...scores].sort((a, b) => b - a)).toEqual(scores);
   });
 
-  it('never exceeds the byte budget (hard-cap invariant)', () => {
+  it('never exceeds the byte budget (hard-cap invariant)', async () => {
     const ctx = buildCtx('/vault', bigVault());
     for (const budget of [256, 512, 1024, 2048]) {
-      expect(packedBytes(ctx, 'photosynthesis chlorophyll', budget)).toBeLessThanOrEqual(budget);
+      expect(await packedBytes(ctx, 'photosynthesis chlorophyll', budget)).toBeLessThanOrEqual(
+        budget,
+      );
     }
   });
 
-  it('hard cap holds with multi-byte UTF-8 content', () => {
+  it('hard cap holds with multi-byte UTF-8 content', async () => {
     const notes = [];
     for (let i = 0; i < 10; i++) {
       notes.push({
@@ -116,13 +118,16 @@ describe('contextPack', () => {
     }
     const ctx = buildCtx('/vault', notes);
     for (const budget of [256, 512, 1024]) {
-      expect(packedBytes(ctx, 'photosynthesis', budget)).toBeLessThanOrEqual(budget);
+      expect(await packedBytes(ctx, 'photosynthesis', budget)).toBeLessThanOrEqual(budget);
     }
   });
 
-  it('returns an explicit empty pack with confidence "none" for no matches', () => {
+  it('returns an explicit empty pack with confidence "none" for no matches', async () => {
     const ctx = buildCtx('/vault', bigVault());
-    const pack = contextPack(ctx, { query: 'zzzzabsolutelyunmatchablexyz', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, {
+      query: 'zzzzabsolutelyunmatchablexyz',
+      budgetBytes: 2048,
+    });
     expect(pack).toEqual({
       excerpts: [],
       neighborhood: [],
@@ -133,17 +138,17 @@ describe('contextPack', () => {
     expect(pack.truncated).toBeUndefined();
   });
 
-  it('reports confidence "low" when no included excerpt contains a query term', () => {
+  it('reports confidence "low" when no included excerpt contains a query term', async () => {
     // Match on title only — body has no query term, so the excerpt is fallback text.
     const ctx = buildCtx('/vault', [
       { id: 'notes/mitochondria.md', title: 'Mitochondria', body: 'The powerhouse of the cell.' },
     ]);
-    const pack = contextPack(ctx, { query: 'mitochondria', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'mitochondria', budgetBytes: 2048 });
     expect(pack.excerpts.length).toBe(1);
     expect(pack.confidence).toBe('low');
   });
 
-  it('includes backlink neighbors with rel, line, and summary', () => {
+  it('includes backlink neighbors with rel, line, and summary', async () => {
     const backlinks = new Map<string, BacklinkRef[]>([
       [
         'plants/photosynthesis.md',
@@ -167,7 +172,7 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'photosynthesis converts', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis converts', budgetBytes: 2048 });
     const neighbor = pack.neighborhood.find((n) => n.path === 'journal/2026-05-01.md');
     expect(neighbor).toBeDefined();
     // The journal note also outlinks to the hit, so rel merges to 'both'... unless
@@ -177,7 +182,7 @@ describe('contextPack', () => {
     expect(neighbor?.summary.length).toBeGreaterThan(0);
   });
 
-  it('includes outlink neighbors resolved from wikilinks in the hit note', () => {
+  it('includes outlink neighbors resolved from wikilinks in the hit note', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'plants/photosynthesis.md',
@@ -191,14 +196,14 @@ describe('contextPack', () => {
         body: 'A green pigment found in chloroplasts.',
       },
     ]);
-    const pack = contextPack(ctx, { query: 'photosynthesis needs', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis needs', budgetBytes: 2048 });
     const neighbor = pack.neighborhood.find((n) => n.path === 'plants/chlorophyll.md');
     expect(neighbor).toBeDefined();
     expect(neighbor?.rel).toBe('outlink');
     expect(neighbor?.line).toBeUndefined();
   });
 
-  it('dedups: a note that is both hit and neighbor appears only in excerpts', () => {
+  it('dedups: a note that is both hit and neighbor appears only in excerpts', async () => {
     const backlinks = new Map<string, BacklinkRef[]>([
       [
         'plants/photosynthesis.md',
@@ -222,13 +227,13 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
     const excerptPaths = pack.excerpts.map((e) => e.path);
     expect(excerptPaths).toContain('plants/chlorophyll.md');
     expect(pack.neighborhood.map((n) => n.path)).not.toContain('plants/chlorophyll.md');
   });
 
-  it('merges backlink+outlink neighbors into rel "both"', () => {
+  it('merges backlink+outlink neighbors into rel "both"', async () => {
     const backlinks = new Map<string, BacklinkRef[]>([
       ['hub/topic.md', [{ path: 'refs/sidecar.md', line: 2, linkType: 'wikilink' }]],
     ]);
@@ -250,13 +255,13 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'quantum tunnelling', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'quantum tunnelling', budgetBytes: 2048 });
     const neighbor = pack.neighborhood.find((n) => n.path === 'refs/sidecar.md');
     expect(neighbor?.rel).toBe('both');
     expect(neighbor?.line).toBe(2);
   });
 
-  it('ranks neighbors connected to more hits first', () => {
+  it('ranks neighbors connected to more hits first', async () => {
     const backlinks = new Map<string, BacklinkRef[]>([
       ['a/alpha.md', [{ path: 'n/shared.md', line: 1, linkType: 'wikilink' }]],
       [
@@ -277,12 +282,12 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'wombat migration', budgetBytes: 4096 });
+    const pack = await contextPack(ctx, { query: 'wombat migration', budgetBytes: 4096 });
     const paths = pack.neighborhood.map((n) => n.path);
     expect(paths.indexOf('n/shared.md')).toBeLessThan(paths.indexOf('n/single.md'));
   });
 
-  it('inlines small scalar frontmatter and caps oversized values', () => {
+  it('inlines small scalar frontmatter and caps oversized values', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'notes/tracked.md',
@@ -291,12 +296,12 @@ describe('contextPack', () => {
         fm: { status: 'draft', priority: 2, nested: { deep: true }, blob: 'x'.repeat(500) },
       },
     ]);
-    const pack = contextPack(ctx, { query: 'falconry', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'falconry', budgetBytes: 2048 });
     const fm = pack.excerpts[0]?.fm;
     expect(fm).toEqual({ status: 'draft', priority: 2 }); // nested skipped, blob over cap
   });
 
-  it('omits fm entirely when nothing scalar fits', () => {
+  it('omits fm entirely when nothing scalar fits', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'notes/heavy.md',
@@ -305,11 +310,11 @@ describe('contextPack', () => {
         fm: { blob: 'x'.repeat(500) },
       },
     ]);
-    const pack = contextPack(ctx, { query: 'falconry', budgetBytes: 2048 });
+    const pack = await contextPack(ctx, { query: 'falconry', budgetBytes: 2048 });
     expect(pack.excerpts[0]?.fm).toBeUndefined();
   });
 
-  it('caps the neighborhood at 5 and overflows the rest into sources', () => {
+  it('caps the neighborhood at 5 and overflows the rest into sources', async () => {
     const stubs = [];
     const refs: BacklinkRef[] = [];
     for (let i = 0; i < 8; i++) {
@@ -329,7 +334,7 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 8192 });
+    const pack = await contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 8192 });
     expect(pack.neighborhood.length).toBe(5);
     // The 3 over-cap neighbors overflow into sources; a count cap is not a
     // budget drop, so truncated stays unset.
@@ -337,7 +342,7 @@ describe('contextPack', () => {
     expect(pack.truncated).toBeUndefined();
   });
 
-  it('stops the neighborhood mid-phase when the budget runs out', () => {
+  it('stops the neighborhood mid-phase when the budget runs out', async () => {
     const stubs = [];
     const refs: BacklinkRef[] = [];
     for (let i = 0; i < 4; i++) {
@@ -357,16 +362,16 @@ describe('contextPack', () => {
       ],
       backlinks,
     );
-    const pack = contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 420 });
+    const pack = await contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 420 });
     expect(Buffer.byteLength(JSON.stringify(pack), 'utf8')).toBeLessThanOrEqual(420);
     // Budget forces neighbor drops: fewer than the 4 available, flagged truncated.
     expect(pack.neighborhood.length).toBeLessThan(4);
     expect(pack.truncated).toBe(true);
   });
 
-  it('signals truncation with overflow sources when the budget forces drops', () => {
+  it('signals truncation with overflow sources when the budget forces drops', async () => {
     const ctx = buildCtx('/vault', bigVault());
-    const pack = contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: 512 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: 512 });
     expect(pack.truncated).toBe(true);
     expect(pack.totalMatches).toBeGreaterThan(pack.excerpts.length);
     expect(pack.sources.length).toBeGreaterThan(0);
@@ -374,7 +379,7 @@ describe('contextPack', () => {
     for (const s of pack.sources) expect(included.has(s.path)).toBe(false);
   });
 
-  it('soft reserve leaves room for the neighborhood under pressure', () => {
+  it('soft reserve leaves room for the neighborhood under pressure', async () => {
     const notes = bigVault();
     const backlinks = new Map<string, BacklinkRef[]>();
     // Every big-vault note gets a backlink from a small stub note.
@@ -388,29 +393,36 @@ describe('contextPack', () => {
       backlinks.set(n.id, [{ path: 'refs/stub.md', line: 1, linkType: 'wikilink' }]);
     }
     const ctx = buildCtx('/vault', notes, backlinks);
-    const pack = contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: 1024 });
+    const pack = await contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: 1024 });
     expect(pack.excerpts.length).toBeGreaterThan(0);
     expect(pack.neighborhood.length).toBeGreaterThan(0);
   });
 
-  it('is deterministic: repeat calls produce byte-identical output', () => {
+  it('is deterministic: repeat calls produce byte-identical output', async () => {
     const ctx = buildCtx('/vault', bigVault());
-    const a = JSON.stringify(contextPack(ctx, { query: 'photosynthesis', budgetBytes: 1024 }));
-    const b = JSON.stringify(contextPack(ctx, { query: 'photosynthesis', budgetBytes: 1024 }));
+    const a = JSON.stringify(
+      await contextPack(ctx, { query: 'photosynthesis', budgetBytes: 1024 }),
+    );
+    const b = JSON.stringify(
+      await contextPack(ctx, { query: 'photosynthesis', budgetBytes: 1024 }),
+    );
     expect(a).toBe(b);
   });
 
-  it('larger budgets never return fewer excerpts', () => {
+  it('larger budgets never return fewer excerpts', async () => {
     const ctx = buildCtx('/vault', bigVault());
     let prev = 0;
     for (const budget of [256, 512, 1024, 2048, 4096]) {
-      const pack = contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: budget });
+      const pack = await contextPack(ctx, {
+        query: 'photosynthesis chlorophyll',
+        budgetBytes: budget,
+      });
       expect(pack.excerpts.length).toBeGreaterThanOrEqual(prev);
       prev = pack.excerpts.length;
     }
   });
 
-  it('scopes the pack to a folder prefix', () => {
+  it('scopes the pack to a folder prefix', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'pages/photosynthesis.md',
@@ -423,13 +435,13 @@ describe('contextPack', () => {
         body: 'Photosynthesis notes, unfinished, longer body about photosynthesis.',
       },
     ]);
-    const unscoped = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
+    const unscoped = await contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048 });
     expect(unscoped.excerpts.map((e) => e.path).sort()).toEqual([
       'pages/photosynthesis.md',
       'raw/photosynthesis-draft.md',
     ]);
 
-    const scoped = contextPack(ctx, {
+    const scoped = await contextPack(ctx, {
       query: 'photosynthesis',
       budgetBytes: 2048,
       folder: 'pages',
@@ -437,7 +449,7 @@ describe('contextPack', () => {
     expect(scoped.excerpts.map((e) => e.path)).toEqual(['pages/photosynthesis.md']);
   });
 
-  it('scopes the pack to a tag', () => {
+  it('scopes the pack to a tag', async () => {
     const ctx = buildCtx('/vault', [
       {
         id: 'a/photosynthesis.md',
@@ -452,30 +464,38 @@ describe('contextPack', () => {
         tags: 'engineering',
       },
     ]);
-    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, tag: 'biology' });
+    const pack = await contextPack(ctx, {
+      query: 'photosynthesis',
+      budgetBytes: 2048,
+      tag: 'biology',
+    });
     expect(pack.excerpts.map((e) => e.path)).toEqual(['a/photosynthesis.md']);
   });
 
-  it('reports an honest empty when the filter excludes every match', () => {
+  it('reports an honest empty when the filter excludes every match', async () => {
     const ctx = buildCtx('/vault', [
       { id: 'raw/photosynthesis.md', title: 'Draft', body: 'Photosynthesis converts light.' },
     ]);
-    const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, folder: 'pages' });
+    const pack = await contextPack(ctx, {
+      query: 'photosynthesis',
+      budgetBytes: 2048,
+      folder: 'pages',
+    });
     expect(pack.excerpts).toEqual([]);
     expect(pack.confidence).toBe('none');
     expect(pack.totalMatches).toBeGreaterThan(0);
   });
 
-  it('propagates semantic_unavailable rather than silently falling back to lexical', () => {
+  it('propagates semantic_unavailable rather than silently falling back to lexical', async () => {
     const ctx = buildCtx('/vault', [
       { id: 'pages/photosynthesis.md', title: 'Light', body: 'Photosynthesis converts light.' },
     ]);
-    expect(() =>
+    await expect(
       contextPack(ctx, { query: 'photosynthesis', budgetBytes: 2048, mode: 'semantic' }),
-    ).toThrow(/semantic_unavailable/);
+    ).rejects.toThrow(/semantic_unavailable/);
   });
 
-  it('keeps the matched term in an excerpt the budget forced to shrink', () => {
+  it('keeps the matched term in an excerpt the budget forced to shrink', async () => {
     const filler = 'Background prose without the subject word, repeated for length. ';
     const notes = [];
     for (let i = 0; i < 20; i++) {
@@ -488,7 +508,7 @@ describe('contextPack', () => {
     const ctx = buildCtx('/vault', notes);
     let shrunk = 0;
     for (let budget = 640; budget <= 2048; budget += 32) {
-      const pack = contextPack(ctx, { query: 'photosynthesis', budgetBytes: budget });
+      const pack = await contextPack(ctx, { query: 'photosynthesis', budgetBytes: budget });
       const full = clampLen(budget);
       for (const e of pack.excerpts) {
         if (e.excerpt.length < full) shrunk++;

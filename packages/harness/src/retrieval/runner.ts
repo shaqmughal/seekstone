@@ -261,13 +261,13 @@ interface RankedResult {
 interface ConditionAccumulator {
   condition: string;
   /** Ranking used for quality metrics; may reuse cached lexical rankings. */
-  rank: (q: GoldenQuery) => string[] | Promise<RankedResult>;
+  rank: (q: GoldenQuery) => string[] | Promise<string[] | RankedResult>;
   /** Ranking timed for latency; always does the full end-to-end work. */
-  timedRank: (q: GoldenQuery) => string[] | Promise<RankedResult>;
+  timedRank: (q: GoldenQuery) => string[] | Promise<string[] | RankedResult>;
 }
 
 async function resolveRank(
-  fn: (q: GoldenQuery) => string[] | Promise<RankedResult>,
+  fn: (q: GoldenQuery) => string[] | Promise<string[] | RankedResult>,
   q: GoldenQuery,
 ): Promise<RankedResult> {
   const out = await fn(q);
@@ -310,7 +310,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   // Lexical rankings are computed once per query and shared by every hybrid.
   const lexicalScored = new Map<string, ScoredHit[]>();
   for (const q of queries) {
-    lexicalScored.set(q.id, rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH));
+    lexicalScored.set(q.id, await rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH));
   }
   const lexPaths = (q: GoldenQuery) => (lexicalScored.get(q.id) as ScoredHit[]).map((h) => h.path);
 
@@ -318,7 +318,8 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     {
       condition: 'lexical',
       rank: lexPaths,
-      timedRank: (q) => rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH).map((h) => h.path),
+      timedRank: async (q) =>
+        (await rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH)).map((h) => h.path),
     },
   ];
   for (const [modelIdx, { id, embedder, index }] of embedders.entries()) {
@@ -329,9 +330,9 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     conditions.push({
       condition: `hybrid-rrf:${id}`,
       rank: (q) => rrfFuse([lexPaths(q), semantic(q)]),
-      timedRank: (q) =>
+      timedRank: async (q) =>
         rrfFuse([
-          rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH).map((h) => h.path),
+          (await rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH)).map((h) => h.path),
           semantic(q),
         ]),
     });

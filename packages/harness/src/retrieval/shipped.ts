@@ -12,7 +12,7 @@ import { Semantic } from '../../../server/src/semantic/state.js';
 import { search as searchTool } from '../../../server/src/tools/search.js';
 
 export interface ShippedHandle {
-  rank: (mode: 'semantic' | 'hybrid') => (query: string) => string[];
+  rank: (mode: 'semantic' | 'hybrid') => (query: string) => Promise<string[]>;
   buildMs: number;
   stop: () => void;
 }
@@ -33,9 +33,9 @@ export async function buildShipped(
   return {
     // One handle per model shares the single server ctx (SHA-323), so each
     // call re-points ctx.semantic at this handle's index before searching.
-    rank: (mode) => (query) => {
+    rank: (mode) => async (query) => {
       ctx.semantic = semantic;
-      return searchTool(ctx, { query, mode, limit: 50 }).map((h) => h.path);
+      return (await searchTool(ctx, { query, mode, limit: 50 })).map((h) => h.path);
     },
     buildMs: performance.now() - t0,
     stop: () => semantic.stop(),

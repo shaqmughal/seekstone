@@ -26,12 +26,12 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
  * and the retrieval depth every eval condition uses.
  */
 /** Top-`limit` lexical hits with MiniSearch scores (score fusion needs them). */
-export function rankLexicalScored(
+export async function rankLexicalScored(
   ctx: ServerContext,
   query: string,
   limit = 50,
-): Array<{ path: string; score: number }> {
-  return searchTool(ctx, { query, limit }).map((h) => ({
+): Promise<Array<{ path: string; score: number }>> {
+  return (await searchTool(ctx, { query, limit })).map((h) => ({
     path: h.path,
     score: h.score,
   }));

@@ -67,28 +67,32 @@ describe('search modes', () => {
     await rm(cacheDir, { recursive: true, force: true });
   });
 
-  it('defaults to lexical mode (direct calls bypass zod defaults)', () => {
-    const hits = search(ctx, { query: 'cheese', limit: 10 });
+  it('defaults to lexical mode (direct calls bypass zod defaults)', async () => {
+    const hits = await search(ctx, { query: 'cheese', limit: 10 });
     expect(hits[0]?.path).toBe(id('Cheese.md'));
   });
 
-  it('semantic mode ranks by meaning, not keywords', () => {
-    const hits = search(ctx, { query: 'machine driven by moving air', mode: 'semantic', limit: 5 });
+  it('semantic mode ranks by meaning, not keywords', async () => {
+    const hits = await search(ctx, {
+      query: 'machine driven by moving air',
+      mode: 'semantic',
+      limit: 5,
+    });
     expect(hits[0]?.path).toBe(id('Windmill.md'));
     expect(hits[0]?.score).toBeGreaterThan(0.9);
     // Chunk-aware excerpt comes from the matching chunk's text, not empty.
     expect(hits[0]?.excerpt).toContain('mill worked by the wind');
   });
 
-  it('semantic mode applies folder and tag filters', () => {
-    const folderHits = search(ctx, {
+  it('semantic mode applies folder and tag filters', async () => {
+    const folderHits = await search(ctx, {
       query: 'dairy food',
       mode: 'semantic',
       limit: 5,
       folder: 'Notes',
     });
     expect(folderHits[0]?.path).toBe(id('Cheese.md'));
-    const tagHits = search(ctx, {
+    const tagHits = await search(ctx, {
       query: 'machine driven by moving air',
       mode: 'semantic',
       limit: 5,
@@ -98,15 +102,15 @@ describe('search modes', () => {
     expect(tagHits[0]?.path).toBe(id('Windmill.md'));
   });
 
-  it('hybrid mode routes an exact-title query to lexical', () => {
-    const hits = search(ctx, { query: 'Heraldry', mode: 'hybrid', limit: 5 });
+  it('hybrid mode routes an exact-title query to lexical', async () => {
+    const hits = await search(ctx, { query: 'Heraldry', mode: 'hybrid', limit: 5 });
     expect(hits[0]?.path).toBe(id('Heraldry.md'));
     // Lexical scores are MiniSearch magnitudes (> 1), not cosines.
     expect(hits[0]?.score).toBeGreaterThan(1);
   });
 
-  it('hybrid mode sends description queries to semantic', () => {
-    const hits = search(ctx, {
+  it('hybrid mode sends description queries to semantic', async () => {
+    const hits = await search(ctx, {
       query: 'a food made of fermented milk curd for the table',
       mode: 'hybrid',
       limit: 5,
@@ -115,21 +119,21 @@ describe('search modes', () => {
     expect(hits[0]?.score).toBeLessThanOrEqual(1); // cosine
   });
 
-  it('throws a structured error when semantic search is not enabled', () => {
+  it('throws a structured error when semantic search is not enabled', async () => {
     const bare: ServerContext = { ...ctx, semantic: undefined };
-    expect(() => search(bare, { query: 'x', mode: 'semantic', limit: 5 })).toThrow(
+    await expect(search(bare, { query: 'x', mode: 'semantic', limit: 5 })).rejects.toThrow(
       /semantic_unavailable/,
     );
-    expect(() =>
+    await expect(
       search(bare, { query: 'some long descriptive query', mode: 'hybrid', limit: 5 }),
-    ).toThrow(/semantic_unavailable/);
+    ).rejects.toThrow(/semantic_unavailable/);
   });
 
-  it('reports build progress while the index is still embedding', () => {
+  it('reports build progress while the index is still embedding', async () => {
     const original = semantic.progress;
     semantic.progress = { state: 'building', done: 3, total: 10 };
     try {
-      expect(() => search(ctx, { query: 'x', mode: 'semantic', limit: 5 })).toThrow(
+      await expect(search(ctx, { query: 'x', mode: 'semantic', limit: 5 })).rejects.toThrow(
         /semantic_building/,
       );
     } finally {
@@ -207,8 +211,8 @@ describe('semantic search with MaxSim rerank', () => {
     await rm(cacheDir, { recursive: true, force: true, maxRetries: 10, retryDelay: 100 });
   });
 
-  it('promotes the note whose chunk holds the discriminating token', () => {
-    const hits = search(ctx, { query: 'mineral bearing lead', mode: 'semantic', limit: 2 });
+  it('promotes the note whose chunk holds the discriminating token', async () => {
+    const hits = await search(ctx, { query: 'mineral bearing lead', mode: 'semantic', limit: 2 });
     expect(hits.map((h) => h.path)).toEqual([id('Galena.md'), id('Calcite.md')]);
     // Excerpt still comes from the stage-1 winning chunk's span.
     expect(hits[0]?.excerpt).toContain('mineral of lead');

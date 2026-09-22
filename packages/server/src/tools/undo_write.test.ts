@@ -164,7 +164,7 @@ describe('undo_write — byte-identical round trip per write tool', () => {
     await undoWrite(ctx, {});
     expect(await disk('Alpha.md')).toBe(A);
     expect(ctx.notes.has('Alpha.md')).toBe(true);
-    expect(search(ctx, SearchInput.parse({ query: 'Alpha' }))[0]?.path).toBe('Alpha.md');
+    expect((await search(ctx, SearchInput.parse({ query: 'Alpha' })))[0]?.path).toBe('Alpha.md');
 
     await deleteNote(ctx, { path: 'Alpha.md', permanent: true });
     await undoWrite(ctx, {});
@@ -401,7 +401,7 @@ describe('undo_write — semantics', () => {
     await mkdir(join(vault, '.seekstone', 'history', 'blobs'), { recursive: true });
     const rebuilt = await buildIndex(vault);
     for (const path of rebuilt.notes.keys()) expect(path.startsWith('.seekstone')).toBe(false);
-    const hits = search(
+    const hits = await search(
       { ...ctx, index: rebuilt.index, notes: rebuilt.notes },
       SearchInput.parse({ query: 'zebra-unique-token' }),
     );

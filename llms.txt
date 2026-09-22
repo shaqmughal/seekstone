@@ -87,7 +87,7 @@ Write:
 - `SEEKSTONE_READ_ONLY=1` — unregister and reject all 10 write tools
 - `SEEKSTONE_WRITE_PATHS` — comma-separated globs restricting where writes may land
 - `SEEKSTONE_SEMANTIC=1` — enable semantic/hybrid search modes (model must be fetched first)
-- `SEEKSTONE_MODEL_PATH` — override the embedding-model directory
+- `SEEKSTONE_MODEL_PATH` — override the embedding-model directory (Model2Vec, or opt-in a HuggingFace ONNX directory via the optional `@huggingface/transformers` peer dependency)
 - `SEEKSTONE_CACHE_DIR` — cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`)
 - `SEEKSTONE_LOG_LEVEL` — error | warn | info (default) | debug
 - `SEEKSTONE_LOG_FILE` — append JSON-line logs at this absolute path

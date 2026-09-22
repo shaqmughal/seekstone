@@ -71,7 +71,7 @@ describe('Semantic', () => {
     await s.ready();
     expect(s.progress).toEqual({ state: 'ready' });
     expect(s.store.noteCount).toBe(3);
-    const hits = s.store.topNotes(s.embedQuery('breeze'), 2);
+    const hits = s.store.topNotes(await s.embedQuery('breeze'), 2);
     expect(hits[0]?.path).toBe('Notes/Windmill.md');
     s.stop();
   });
@@ -95,7 +95,7 @@ describe('Semantic', () => {
     // Every note came from the cache — no note embedding happened.
     expect(embedSpy).not.toHaveBeenCalled();
     // Queries still work against cached vectors.
-    expect(second.store.topNotes(second.embedQuery('milk dairy'), 1)[0]?.path).toBe(
+    expect(second.store.topNotes(await second.embedQuery('milk dairy'), 1)[0]?.path).toBe(
       'Notes/Cheese.md',
     );
     second.stop();
@@ -150,18 +150,65 @@ describe('Semantic', () => {
     const ctx = makeCtx('/vault/reembed');
     const s = await Semantic.start(ctx, cfg(), deps());
     await s.ready();
-    expect(s.store.topNotes(s.embedQuery('milk'), 1)[0]?.path).toBe('Notes/Cheese.md');
+    expect(s.store.topNotes(await s.embedQuery('milk'), 1)[0]?.path).toBe('Notes/Cheese.md');
 
     // The watcher refreshes ctx.notes, then pokes noteChanged.
     ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'Now all about cheese and milk.'));
     s.noteChanged('Notes/Other.md');
-    await vi.waitFor(() => {
-      const top = s.store.topNotes(s.embedQuery('dairy'), 2);
+    await vi.waitFor(async () => {
+      const top = s.store.topNotes(await s.embedQuery('dairy'), 2);
       // Both dairy notes must score ~1 — Other.md at its build-time score of 0
       // (a tie-break artifact) would mean the re-embed never happened.
       expect(top.map((h) => h.path)).toContain('Notes/Other.md');
       expect(top[1]?.score ?? 0).toBeGreaterThan(0.9);
     });
+    s.stop();
+  });
+
+  it('an out-of-order async re-embed cannot overwrite a newer edit', async () => {
+    // Async embedder whose latency is controlled per call: the FIRST edit's
+    // embed resolves AFTER the second edit's. Without the guard, the stale
+    // vectors would land last and win.
+    const gates = new Map<string, () => void>();
+    const slowEmbedder = {
+      id: 'slow-async',
+      dim: 3,
+      async embed(text: string): Promise<Float32Array> {
+        return stubEmbedder.embed(text);
+      },
+      async embedBatch(texts: readonly string[]): Promise<Float32Array[]> {
+        const key = texts.join('|');
+        if (/first draft/.test(key)) await new Promise<void>((r) => gates.set('first', r));
+        return texts.map((t) => stubEmbedder.embed(t));
+      },
+    };
+    const ctx = makeCtx('/vault/race');
+    const s = await Semantic.start(ctx, cfg(), { ...deps(), loadModel: async () => slowEmbedder });
+    await s.ready();
+
+    // Edit 1: dairy-flavoured "first draft" — its embed blocks on the gate.
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'first draft about cheese and milk.'));
+    s.noteChanged('Notes/Other.md');
+    await vi.waitFor(() => expect(gates.has('first')).toBe(true));
+
+    // Edit 2: wind-flavoured final text — its embed resolves immediately.
+    ctx.notes.set(
+      'Notes/Other.md',
+      note('Notes/Other.md', 'final text about the wind and a mill.'),
+    );
+    s.noteChanged('Notes/Other.md');
+    await vi.waitFor(async () => {
+      const top = s.store.topNotes(await s.embedQuery('breeze'), 3);
+      expect(top.find((h) => h.path === 'Notes/Other.md')?.score ?? 0).toBeGreaterThan(0.9);
+    });
+
+    // Now let the stale first embed finish. It must NOT replace the wind vectors.
+    gates.get('first')?.();
+    await new Promise((r) => setTimeout(r, 20));
+    const dairy = s.store.topNotes(await s.embedQuery('milk'), 3);
+    expect(dairy.find((h) => h.path === 'Notes/Other.md')?.score ?? 0).toBeLessThan(0.1);
+    const wind = s.store.topNotes(await s.embedQuery('breeze'), 3);
+    expect(wind.find((h) => h.path === 'Notes/Other.md')?.score ?? 0).toBeGreaterThan(0.9);
     s.stop();
   });
 
@@ -177,7 +224,9 @@ describe('Semantic', () => {
     ctx.notes.delete('Notes/Windmill.md');
     s.noteRemoved('Notes/Windmill.md');
     expect(s.store.noteCount).toBe(2);
-    expect(s.store.topNotes(s.embedQuery('breeze'), 1)[0]?.path).not.toBe('Notes/Windmill.md');
+    expect(s.store.topNotes(await s.embedQuery('breeze'), 1)[0]?.path).not.toBe(
+      'Notes/Windmill.md',
+    );
     s.stop();
   });
 
@@ -300,7 +349,7 @@ describe('Semantic', () => {
     s.stop(); // before the 5 ms debounce fires
     s.noteChanged('Notes/Other.md'); // no-op after stop
     await new Promise((r) => setTimeout(r, 30));
-    const top = s.store.topNotes(s.embedQuery('dairy'), 3);
+    const top = s.store.topNotes(await s.embedQuery('dairy'), 3);
     expect(top[0]?.path).toBe('Notes/Cheese.md'); // Other.md was never re-embedded
     expect(top[0]?.score ?? 0).toBeGreaterThan(top[1]?.score ?? 0);
   });
@@ -359,14 +408,14 @@ describe('Semantic rerank token-id memo', () => {
     await s.ready();
     try {
       const query = 'mineral bearing lead';
-      const first = s.rerank(query, s.store.topNotes(s.embedQuery(query), 2));
+      const first = s.rerank(query, s.store.topNotes(await s.embedQuery(query), 2));
       // "rock" (0.6 to "lead") beats B's no-match — memo now holds both notes.
       expect(first[0]?.path).toBe('Notes/A.md');
       // B's body gains the literal discriminator; ctx.notes updates first,
       // exactly as the watcher does, then noteChanged fires.
       ctx.notes.set('Notes/B.md', note('Notes/B.md', 'A mineral of lead.'));
       s.noteChanged('Notes/B.md');
-      const second = s.rerank(query, s.store.topNotes(s.embedQuery(query), 2));
+      const second = s.rerank(query, s.store.topNotes(await s.embedQuery(query), 2));
       expect(second[0]?.path).toBe('Notes/B.md');
     } finally {
       s.stop();

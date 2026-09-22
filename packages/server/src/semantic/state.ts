@@ -119,6 +119,11 @@ export class Semantic {
           : await loadModel2Vec(cfg.modelDir);
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err);
+      // A transformer model dir fails for its own reasons (runtime missing,
+      // ONNX load) that the loader already explains; `fetch-model` cannot help.
+      if (!deps.loadModel && looksLikeTransformerModel(cfg.modelDir)) {
+        throw new Error(`semantic search: ${reason}`);
+      }
       throw new Error(
         `semantic search: could not load the embedding model ${cfg.modelId} from ${cfg.modelDir} — ` +
           `run \`${fetchCommandFor(cfg.modelId)}\` to download it, or point SEEKSTONE_MODEL_PATH at a Model2Vec model directory or a transformers.js (ONNX) model directory (${reason})`,
@@ -216,18 +221,12 @@ export class Semantic {
     return { packed, spans };
   }
 
-  embedQuery(query: string): Float32Array {
-    if (isAsyncEmbedder(this.embedder)) {
-      throw new Error(
-        'embedQuery is sync-only (Model2Vec); use embedQueryAsync with transformer embedders',
-      );
-    }
-    return this.embedder.embed(query);
-  }
-
-  /** Async query embedding — works with both runtimes. */
-  async embedQueryAsync(query: string): Promise<Float32Array> {
-    if (isAsyncEmbedder(this.embedder)) return this.embedder.embed(query);
+  /**
+   * Embed a query with whichever runtime is loaded. Model2Vec resolves
+   * immediately (its embed is a synchronous gather); a transformer embedder
+   * awaits its ONNX session.
+   */
+  async embedQuery(query: string): Promise<Float32Array> {
     return this.embedder.embed(query);
   }
 
@@ -298,12 +297,16 @@ export class Semantic {
     const current = contentHash(note.raw);
     const prior = this.hashes.get(path);
     if (prior === current) return;
-    // Fire-and-forget: embedNote is async on the transformer path. A stale
-    // note is only ever re-embedded after the debounce, so overlapping runs
-    // are harmless (last writer wins on identical content).
+    // embedNote is async on the transformer path, so two quick edits to one
+    // note can have their embeds resolve out of order. Only the embed of the
+    // note's *current* content may land: when it resolves, the note must
+    // still hash to what we embedded, or a newer edit has superseded it (and
+    // its own re-embed is already scheduled or in flight).
     void this.embedNote(note)
       .then(({ packed, spans }) => {
         if (this.stopped) return;
+        const latest = this.ctx.notes.get(path);
+        if (!latest || contentHash(latest.raw) !== current) return;
         this.store.setNote(path, packed, spans);
         this.hashes.set(path, current);
         this.log?.debug('semantic re-embed', { path });
