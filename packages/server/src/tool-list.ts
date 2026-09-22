@@ -82,6 +82,7 @@ export const ALL_TOOLS = [
                   'eq/ne compare scalars; contains matches array membership or substring; exists/missing test key presence; gt/gte/lt/lte compare numbers or strings (ISO dates sort correctly).',
               },
               value: {
+                type: ['string', 'number', 'boolean'],
                 description: 'Comparison value. Required for every op except exists/missing.',
               },
             },
@@ -413,9 +414,27 @@ export const ALL_TOOLS = [
       properties: {
         path: { type: 'string', description: 'Vault-relative path to the note.' },
         target: {
-          type: 'object',
           description:
             'Exactly one of: { heading: "Section Title" } or { block: "block-id" } (without the ^ prefix).',
+          anyOf: [
+            {
+              type: 'object',
+              properties: {
+                heading: { type: 'string', description: 'Heading text (without # markers).' },
+              },
+              required: ['heading'],
+            },
+            {
+              type: 'object',
+              properties: {
+                block: {
+                  type: 'string',
+                  description: 'Block reference ID (without the ^ prefix).',
+                },
+              },
+              required: ['block'],
+            },
+          ],
         },
         operation: {
           type: 'string',
