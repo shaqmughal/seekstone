@@ -156,8 +156,8 @@ export async function loadTransformerEmbedder(
     id,
     dim,
     async embed(text: string): Promise<Float32Array> {
-      const [vec] = await embedBatch([text]);
-      return vec ?? new Float32Array(dim);
+      // embedBatchRaw returns exactly one vector per input text.
+      return (await embedBatch([text]))[0] as Float32Array;
     },
     embedBatch,
   };

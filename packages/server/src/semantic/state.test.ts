@@ -212,6 +212,65 @@ describe('Semantic', () => {
     s.stop();
   });
 
+  it('a late async re-embed is dropped when the note was removed or the index stopped', async () => {
+    const gates = new Map<string, () => void>();
+    const gated = {
+      id: 'gated-async',
+      dim: 3,
+      async embed(text: string): Promise<Float32Array> {
+        return stubEmbedder.embed(text);
+      },
+      async embedBatch(texts: readonly string[]): Promise<Float32Array[]> {
+        const key = texts.join('|');
+        const m = key.match(/gate-(\w+)/);
+        if (m) await new Promise<void>((r) => gates.set(m[1] as string, r));
+        return texts.map((t) => stubEmbedder.embed(t));
+      },
+    };
+    const ctx = makeCtx('/vault/late');
+    const s = await Semantic.start(ctx, cfg(), { ...deps(), loadModel: async () => gated });
+    await s.ready();
+
+    // Removed mid-flight: the embed lands after ctx.notes no longer has the note.
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'gate-removed cheese milk'));
+    s.noteChanged('Notes/Other.md');
+    await vi.waitFor(() => expect(gates.has('removed')).toBe(true));
+    ctx.notes.delete('Notes/Other.md');
+    gates.get('removed')?.();
+    await new Promise((r) => setTimeout(r, 20));
+    const milk = s.store.topNotes(await s.embedQuery('milk'), 3);
+    expect(milk.find((h) => h.path === 'Notes/Other.md')?.score ?? 0).toBeLessThan(0.1);
+
+    // Stopped mid-flight: nothing lands after stop().
+    ctx.notes.set('Notes/Windmill.md', note('Notes/Windmill.md', 'gate-stopped cheese milk'));
+    s.noteChanged('Notes/Windmill.md');
+    await vi.waitFor(() => expect(gates.has('stopped')).toBe(true));
+    s.stop();
+    gates.get('stopped')?.();
+    await new Promise((r) => setTimeout(r, 20));
+    const wind = s.store.topNotes(await s.embedQuery('breeze'), 1);
+    expect(wind[0]?.path).toBe('Notes/Windmill.md'); // still the old wind vectors
+  });
+
+  it('an async embedder returning fewer vectors than chunks pads with zeros', async () => {
+    const short = {
+      id: 'short-async',
+      dim: 3,
+      async embed(text: string): Promise<Float32Array> {
+        return stubEmbedder.embed(text);
+      },
+      async embedBatch(): Promise<Float32Array[]> {
+        return [];
+      },
+    };
+    const ctx = makeCtx('/vault/short');
+    const s = await Semantic.start(ctx, cfg(), { ...deps(), loadModel: async () => short });
+    await s.ready();
+    expect(s.store.noteCount).toBe(3);
+    expect(s.store.topNotes(await s.embedQuery('milk'), 3).every((h) => h.score === 0)).toBe(true);
+    s.stop();
+  });
+
   it('a failed async re-embed is logged and leaves the previous vectors in place', async () => {
     const warns: Array<Record<string, unknown> | undefined> = [];
     const log = {
@@ -231,6 +290,7 @@ describe('Semantic', () => {
       },
       async embedBatch(texts: readonly string[]): Promise<Float32Array[]> {
         if (texts.some((t) => /boom/.test(t))) throw new Error('onnx session lost');
+        if (texts.some((t) => /bang/.test(t))) throw 'session gone';
         return texts.map((t) => stubEmbedder.embed(t));
       },
     };
@@ -241,6 +301,10 @@ describe('Semantic', () => {
     s.noteChanged('Notes/Cheese.md');
     await vi.waitFor(() => expect(warns).toHaveLength(1));
     expect(warns[0]).toEqual({ path: 'Notes/Cheese.md', error: 'onnx session lost' });
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'bang'));
+    s.noteChanged('Notes/Other.md');
+    await vi.waitFor(() => expect(warns).toHaveLength(2));
+    expect(warns[1]).toEqual({ path: 'Notes/Other.md', error: 'session gone' });
     // Old dairy vectors survive: the note is still the top hit for milk.
     expect(s.store.topNotes(await s.embedQuery('milk'), 1)[0]?.path).toBe('Notes/Cheese.md');
     s.stop();

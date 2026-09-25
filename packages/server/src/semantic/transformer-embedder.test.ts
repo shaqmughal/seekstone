@@ -144,6 +144,33 @@ describe('loadTransformerEmbedder', () => {
     ).rejects.toThrow(/not installed/);
   });
 
+  it('falls back to data.length / batch when the runtime reports no dims', async () => {
+    const dir = await modelDir({ onnx: { 'model_quantized.onnx': 'w' } });
+    const rt = fakeRuntime(3);
+    const inner = rt.pipeline;
+    rt.pipeline = async (task, model, o) => {
+      const ex = await inner(task, model, o);
+      return async (texts: string | string[], opts: { pooling: 'mean'; normalize: true }) => ({
+        ...(await ex(texts, opts)),
+        dims: [],
+      });
+    };
+    const e = await loadTransformerEmbedder(dir, { importRuntime: async () => rt });
+    expect(e.dim).toBe(3);
+    expect(Array.from(await e.embed('the wind'))).toEqual([1, 0, 0]);
+  });
+
+  it('a runtime failure that is not an Error (no message) passes through', async () => {
+    const dir = await modelDir({ onnx: { 'model_quantized.onnx': 'w' } });
+    await expect(
+      loadTransformerEmbedder(dir, {
+        importRuntime: async () => {
+          throw { code: 'EACCES' };
+        },
+      }),
+    ).rejects.toEqual({ code: 'EACCES' });
+  });
+
   it('passes other runtime failures through unchanged', async () => {
     const dir = await modelDir({ onnx: { 'model_quantized.onnx': 'w' } });
     await expect(
