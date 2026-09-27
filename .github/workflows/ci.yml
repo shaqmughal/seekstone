@@ -195,6 +195,14 @@ jobs:
 
       # Dry-run the exact command the Release workflow runs on merge, so anything
       # else that would break versioning fails here rather than after the merge.
-      # The checkout is throwaway; nothing is committed.
+      # The checkout is throwaway; nothing is committed. With no changesets pending
+      # there is nothing to version, and `changeset version` exits 1 on an empty
+      # queue — so skip rather than fail every changeset-free PR (SHA-336).
       - name: Dry-run changeset version
-        run: npx changeset version
+        run: |
+          PENDING=$(find .changeset -maxdepth 1 -name '*.md' ! -name 'README.md' | wc -l | tr -d ' ')
+          if [ "$PENDING" -eq 0 ]; then
+            echo "No pending changesets — nothing to version, skipping dry-run."
+            exit 0
+          fi
+          npx changeset version
