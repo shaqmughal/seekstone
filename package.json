@@ -37,7 +37,7 @@
     "@changesets/cli": "^3.0.3",
     "@types/node": "^26.6.2",
     "@vitest/coverage-v8": "^5.0.2",
-    "fast-check": "^4.10.1",
+    "fast-check": "^4.10.2",
     "tsup": "^8.3.5",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2",
