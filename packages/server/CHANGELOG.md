@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.20.2
+
+### Patch Changes
+
+- 23c3cb9: Bump `@modelcontextprotocol/sdk` from 1.30.0 to 1.30.1 (runtime dependency of the published server).
+- 6ad16cb: Bump `zod` from 4.6.2 to 4.6.5 (runtime dependency of the published server).
+
 ## 0.20.1
 
 ### Patch Changes
