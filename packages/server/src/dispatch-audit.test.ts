@@ -205,6 +205,7 @@ describe('audit — one record per write-tool call', () => {
     for (const name of [
       'search',
       'read_note',
+      'read_notes',
       'list_notes',
       'list_tags',
       'outline_note',
@@ -215,7 +216,11 @@ describe('audit — one record per write-tool call', () => {
       'query_notes',
     ]) {
       const args =
-        name === 'search' || name === 'context_pack' ? { query: 'a' } : { path: 'Alpha.md' };
+        name === 'search' || name === 'context_pack'
+          ? { query: 'a' }
+          : name === 'read_notes'
+            ? { items: [{ path: 'Alpha.md' }] }
+            : { path: 'Alpha.md' };
       await dispatch(ctx, name, args, log);
     }
     await dispatch(ctx, 'get_periodic_note', { period: 'daily', date: '2026-01-03' }, log);
@@ -324,6 +329,7 @@ describe('audit — one record per write-tool call', () => {
       'query_notes',
       'context_pack',
       'read_note',
+      'read_notes',
       'list_notes',
       'list_tags',
       'outline_note',

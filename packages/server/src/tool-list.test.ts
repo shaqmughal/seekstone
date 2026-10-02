@@ -20,6 +20,7 @@ describe('ALL_TOOLS', () => {
       'query_notes',
       'context_pack',
       'read_note',
+      'read_notes',
       'list_notes',
       'list_tags',
       'outline_note',
@@ -72,12 +73,12 @@ describe('ALL_TOOLS', () => {
 });
 
 describe('visibleTools', () => {
-  it('returns all 21 tools under a permissive policy', () => {
-    expect(visibleTools(PERMISSIVE_POLICY)).toHaveLength(21);
+  it('returns all 22 tools under a permissive policy', () => {
+    expect(visibleTools(PERMISSIVE_POLICY)).toHaveLength(22);
   });
   it('unregisters the 10 write tools in read-only mode', () => {
     const visible = visibleTools({ readOnly: true });
-    expect(visible).toHaveLength(11);
+    expect(visible).toHaveLength(12);
     // list_writes is a read tool and stays visible; undo_write is a write.
     expect(visible.map((t) => t.name)).toContain('list_writes');
     expect(visible.map((t) => t.name)).not.toContain('undo_write');
@@ -87,6 +88,6 @@ describe('visibleTools', () => {
     expect(visible.map((t) => t.name)).toContain('get_periodic_note');
   });
   it('write-path scoping alone hides nothing', () => {
-    expect(visibleTools({ readOnly: false, writeGlobs: ['journal/**'] })).toHaveLength(21);
+    expect(visibleTools({ readOnly: false, writeGlobs: ['journal/**'] })).toHaveLength(22);
   });
 });

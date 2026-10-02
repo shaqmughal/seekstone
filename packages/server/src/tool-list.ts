@@ -202,6 +202,62 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'read_notes',
+    annotations: READ_ONLY_ANNOTATIONS,
+    description:
+      "Read up to 20 notes (or spans of them) in one call instead of repeated read_note calls, e.g. the top hits from search, query_notes, list_notes, or get_backlinks. Each item takes the same options as read_note and returns the same fields, in request order. budgetBytes (default 16384) caps the total note text: when the notes exceed it, each is cut to a fair share, marked truncated: true, and keeps noteBytes, so read the rest with read_note. A failing item (missing path, unknown section) returns its own error without failing the batch. contentHash is always the whole file's hash, usable as prevHash.",
+    inputSchema: {
+      type: 'object',
+      properties: {
+        items: {
+          type: 'array',
+          description: 'Notes to read, 1–20. Same options as read_note.',
+          items: {
+            type: 'object',
+            properties: {
+              path: {
+                type: 'string',
+                description: 'Vault-relative path, e.g. "Daily Notes/2026-05-29.md".',
+              },
+              section: {
+                type: 'string',
+                description: 'Return only this heading section (heading text, # prefix optional).',
+              },
+              block: {
+                type: 'string',
+                description: 'Return only the line anchored by this block id (^ prefix optional).',
+              },
+              lines: {
+                type: 'object',
+                description: 'Return only this line range (1-indexed, inclusive).',
+                properties: {
+                  from: { type: 'number', description: 'First line (1-indexed).' },
+                  to: {
+                    type: 'number',
+                    description: 'Last line (1-indexed, inclusive). Defaults to EOF.',
+                  },
+                },
+                required: ['from'],
+              },
+              includeFrontmatter: {
+                type: 'boolean',
+                description:
+                  'Prepend frontmatter to section/block span results. Default false for spans.',
+              },
+            },
+            required: ['path'],
+          },
+        },
+        budgetBytes: {
+          type: 'number',
+          description:
+            'Cap on total note text returned across all items, in UTF-8 bytes (256–65536, default 16384).',
+        },
+      },
+      required: ['items'],
+    },
+  },
+  {
     name: 'list_notes',
     annotations: READ_ONLY_ANNOTATIONS,
     description: 'List notes, optionally filtered by folder prefix or tag.',

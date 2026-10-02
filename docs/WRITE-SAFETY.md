@@ -36,7 +36,7 @@ against the same pinned SHA-256 hashes.
   subcommand.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 21 tools** through the real dispatcher —
+  the real index build **and all 22 tools** through the real dispatcher —
   including semantic/hybrid search with the semantic index enabled, built,
   and persisting its cache under the stubs, plus the semantic bundle's
   disk-only model reassembly. Any connection attempt fails the suite.

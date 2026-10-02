@@ -26,6 +26,7 @@ import { PatchNoteInput } from './tools/patch_note.js';
 import { AppendPeriodicNoteInput, GetPeriodicNoteInput } from './tools/periodic_note.js';
 import { QueryNotesInput } from './tools/query_notes.js';
 import { ReadNoteInput } from './tools/read_note.js';
+import { ReadNotesInput } from './tools/read_notes.js';
 import { RenameHeadingInput } from './tools/rename_heading.js';
 import { ReplaceInNoteInput } from './tools/replace_in_note.js';
 import { SearchInput } from './tools/search.js';
@@ -37,6 +38,7 @@ const ZOD_INPUTS: Record<string, z.ZodType> = {
   query_notes: QueryNotesInput,
   context_pack: ContextPackInput,
   read_note: ReadNoteInput,
+  read_notes: ReadNotesInput,
   list_notes: ListNotesInput,
   list_tags: ListTagsInput,
   create_note: CreateNoteInput,

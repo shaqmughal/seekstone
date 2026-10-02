@@ -104,7 +104,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 ## Tools
 
-21 tools: 11 read, 10 write.
+22 tools: 12 read, 10 write.
 
 ### Read
 
@@ -114,6 +114,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows, not note content. |
 | `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. Scopable by `folder`/`tag` and takes the same `mode` as `search`. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
+| `read_notes` | Read up to 20 notes (or sections, blocks, line ranges) in one call under a total byte budget (default 16 KB). Over budget, each note is cut to a fair share and marked `truncated`; one bad path returns its own error without failing the batch. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
 | `outline_note` | Return a note's heading and block structure without its full content. |
