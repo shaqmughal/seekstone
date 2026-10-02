@@ -28,13 +28,15 @@ jobs:
       # auto-expires in ~1h) and, crucially, pushes made with it DO trigger
       # workflows — unlike the default GITHUB_TOKEN, whose
       # github-actions[bot] pushes GitHub blocks pull_request CI on (loop
-      # prevention). Requires repo secrets APP_ID + APP_PRIVATE_KEY from a GitHub
-      # App (Contents: R/W, Pull requests: R/W) installed on this repo.
+      # prevention). Requires the repo variable APP_CLIENT_ID and the secret
+      # APP_PRIVATE_KEY from a GitHub App (Contents: R/W, Pull requests: R/W)
+      # installed on this repo. The action deprecated `app-id` for `client-id`
+      # (SHA-237).
       - name: Mint release-bot token
         id: app-token
         uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
         with:
-          app-id: ${{ secrets.APP_ID }}
+          client-id: ${{ vars.APP_CLIENT_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
