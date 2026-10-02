@@ -16,7 +16,7 @@ A user can paste this prompt into any coding agent (Claude Code, Cursor, Windsur
 
 ## Why filesystem-direct?
 
-Most Obsidian MCP servers return full note content for every search hit. Benchmarked across committed 1,000/5,000/10,000-note synthetic vaults against 7 other servers (open-source harness, reproducible): Seekstone returns ~2 KB per search and stays flat as the vault grows, while REST-proxy servers grow with the vault — up to 95 MB per query at 10k notes, and a single broad query averaged 370.9 MB / ~97.8M tokens per call. That is up to a ~47,000× context-tax reduction. Warm keyword-search latency is 5.2 ms at 10k notes (the shipped semantic pipeline ~26 ms) — the fastest alternative measured is ~7× slower, the REST-proxy generation ~110–300× slower. Full results: https://seekstone.dev/benchmarks
+Most Obsidian MCP servers return full note content for every search hit. Benchmarked across committed 1,000/5,000/10,000-note synthetic vaults against 7 other servers (open-source harness, reproducible): Seekstone returns ~2 KB per search and stays flat as the vault grows, while REST-proxy servers grow with the vault — up to 95 MB per query at 10k notes, and a single broad query averaged 370.9 MB / ~97.8M tokens per call. That is up to a ~47,000× context-tax reduction. Warm keyword-search latency is 5.2 ms at 10k notes (the shipped semantic pipeline ~26 ms) — the fastest alternative measured is ~7× slower, the REST-proxy generation ~110–300× slower. Full results: https://seekstone.dev/benchmarks/
 
 ## How to install (Claude Desktop)
 
