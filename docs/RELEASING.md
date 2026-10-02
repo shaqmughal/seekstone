@@ -60,6 +60,15 @@ Once configured, the publish step authenticates automatically — there is no `N
 
 On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundle** (`seekstone.mcpb`), generates a **SLSA build-provenance attestation** for it, uploads both to the **GitHub Release** (`seekstone.mcpb` + `seekstone.mcpb.intoto.jsonl`), waits for npm to serve the new version (up to 5 minutes — the registry validates against npm, whose packument can lag the publish), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
 
+## GitHub Actions bumps
+
+`release.yml` only runs on push to `main`, so PR CI never exercises it. Two guards keep a Dependabot action bump from breaking it after merge (SHA-300):
+
+- **Majors arrive alone.** The `github-actions` Dependabot group only bundles minor and patch bumps; each major gets its own PR.
+- **Inputs are checked at PR time.** `npm run check:actions` (a CI step) fetches each pinned action's `action.yml` at its pinned SHA and fails if a workflow passes an input the action no longer declares, or leaves out a required one. This is what changesets/action v2's input renames would have tripped in #252.
+
+The check cannot see behavior changes. Before merging an action major that `release.yml` uses, read its release notes for changes like changesets/action v2's hard error when a `GITHUB_TOKEN` env var differs from its `github-token` input.
+
 ## When a release fails
 
 Any failed `Release` run opens a GitHub issue labelled **`release-failure`** ("Release workflow is failing"), or comments on the one already open, with a link to the run. The next green run closes it. Watch the repo's issues and a broken release cannot sit unnoticed.
