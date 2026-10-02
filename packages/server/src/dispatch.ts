@@ -22,6 +22,7 @@ import {
 } from './tools/periodic_note.js';
 import { QueryNotesInput, queryNotes } from './tools/query_notes.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
+import { ReadNotesInput, readNotes } from './tools/read_notes.js';
 import { RenameHeadingInput, renameHeading } from './tools/rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
@@ -44,6 +45,7 @@ export const HANDLED_TOOLS = [
   'query_notes',
   'context_pack',
   'read_note',
+  'read_notes',
   'list_notes',
   'list_tags',
   'create_note',
@@ -120,6 +122,7 @@ function safeMeta(args: unknown): Record<string, unknown> {
   }
   if (typeof a.query === 'string') out.queryLen = a.query.length; // not the query itself
   if (Array.isArray(a.where)) out.whereCount = a.where.length; // predicate values may be personal
+  if (Array.isArray(a.items)) out.itemsCount = a.items.length; // read_notes: paths stay out of logs
   return out;
 }
 
@@ -306,6 +309,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = ReadNoteInput.parse(args);
       const result = await readNote(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'read_notes': {
+      const input = ReadNotesInput.parse(args);
+      const result = await readNotes(ctx, input);
+      // Minified: the batch exists to cut context tax, so no indentation tax either.
+      return { content: [{ type: 'text', text: JSON.stringify(result) }] };
     }
     case 'list_notes': {
       const input = ListNotesInput.parse(args);
