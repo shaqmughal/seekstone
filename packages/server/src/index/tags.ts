@@ -23,16 +23,24 @@ export function noteHasTag(noteTags: string, wanted: string): boolean {
 
 /** Levenshtein distance; inputs are short tag names, so the O(n·m) table is fine. */
 export function editDistance(a: string, b: string): number {
-  let prev = Array.from({ length: b.length + 1 }, (_, j) => j);
-  for (let i = 1; i <= a.length; i++) {
-    const cur = [i];
-    for (let j = 1; j <= b.length; j++) {
-      const sub = (prev[j - 1] ?? 0) + (a[i - 1] === b[j - 1] ? 0 : 1);
-      cur[j] = Math.min((prev[j] ?? 0) + 1, (cur[j - 1] ?? 0) + 1, sub);
+  // One row of the table at a time. `up`, `left` and `diag` are the three
+  // neighbours of the cell being filled, carried in variables so no indexed
+  // read can be undefined.
+  let row = Array.from({ length: b.length + 1 }, (_, j) => j);
+  let dist = b.length;
+  for (let i = 0; i < a.length; i++) {
+    let diag = i;
+    let left = i + 1;
+    const next = [left];
+    for (const [j, up] of row.slice(1).entries()) {
+      left = Math.min(up + 1, left + 1, diag + (a[i] === b[j] ? 0 : 1));
+      diag = up;
+      next.push(left);
     }
-    prev = cur;
+    row = next;
+    dist = left;
   }
-  return prev[b.length] ?? 0;
+  return dist;
 }
 
 const MAX_SUGGESTIONS = 3;

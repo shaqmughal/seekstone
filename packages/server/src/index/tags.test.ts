@@ -59,6 +59,8 @@ describe('editDistance', () => {
     expect(editDistance('projet', 'project')).toBe(1);
     expect(editDistance('projcet', 'project')).toBe(2);
     expect(editDistance('', 'abc')).toBe(3);
+    expect(editDistance('abc', '')).toBe(3);
+    expect(editDistance('kitten', 'sitting')).toBe(3);
   });
 });
 
@@ -66,6 +68,11 @@ describe('suggestTags', () => {
   it('suggests the closest existing tags, most-used first on ties', () => {
     const vault = notes('project', 'project', 'projects', 'work');
     expect(suggestTags(vault.values(), 'projcet')).toEqual(['project', 'projects']);
+  });
+
+  it('breaks equal-distance ties by usage, then alphabetically', () => {
+    expect(suggestTags(notes('car', 'cat', 'cat').values(), 'cab')).toEqual(['cat', 'car']);
+    expect(suggestTags(notes('cat', 'car').values(), 'cab')).toEqual(['car', 'cat']);
   });
 
   it('suggests a nested tag whose last segment is close', () => {
