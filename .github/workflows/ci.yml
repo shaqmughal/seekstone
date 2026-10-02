@@ -90,6 +90,14 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/check-docs-sync.mjs
 
+      # Guard: every `with:` input in .github/workflows must be declared by the
+      # pinned action's action.yml. release.yml never runs on a PR, so an action
+      # major that renames inputs would otherwise merge green and break the next
+      # release, as changesets/action v2 did in #252 (SHA-300). Runs once (Linux).
+      - name: action inputs match pinned actions
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/check-action-inputs.mjs
+
       # Coverage gate runs once (Linux) — thresholds live in the server's
       # vitest config and fail the build if logic coverage regresses.
       - name: Coverage gate

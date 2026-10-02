@@ -5,9 +5,14 @@ updates:
     schedule:
       interval: "weekly"
     groups:
+      # Minor and patch bumps travel together; each major arrives as its own PR
+      # so a breaking change can't hide among routine pins (SHA-300, #252).
       github-actions:
         patterns:
           - "*"
+        update-types:
+          - "minor"
+          - "patch"
 
   - package-ecosystem: "npm"
     directory: "/"

@@ -25,7 +25,8 @@
     "build:benchmarks": "node scripts/build-benchmarks-json.mjs",
     "check:benchmarks": "node scripts/build-benchmarks-json.mjs --check",
     "version-packages": "changeset version && node scripts/sync-server-json.mjs && node scripts/build-benchmarks-json.mjs && biome format --write .",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "check:actions": "node scripts/check-action-inputs.mjs"
   },
   "overrides": {
     "tmp": ">=0.2.6",
@@ -41,6 +42,7 @@
     "tsup": "^8.3.5",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.0",
+    "yaml": "^2.9.1"
   }
 }
