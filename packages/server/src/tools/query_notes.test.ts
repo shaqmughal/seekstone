@@ -156,6 +156,25 @@ describe('queryNotes: file filters', () => {
     expect(hits.map((h) => h.path)).toEqual(['daily/c.md', 'projects/a.md']);
   });
 
+  it('tag filter is case-insensitive and includes nested child tags (SHA-264)', () => {
+    const nested = buildCtx([
+      { id: 'a.md', tags: 'Work' },
+      { id: 'b.md', tags: 'work/meetings' },
+      { id: 'c.md', tags: 'workout' },
+    ]);
+    expect(queryNotes(nested, parse({ tag: 'WORK' })).map((h) => h.path)).toEqual(['a.md', 'b.md']);
+  });
+
+  it('an existing tag that other filters exclude returns []', () => {
+    expect(queryNotes(ctx, parse({ tag: 'home', folder: 'daily/' }))).toEqual([]);
+  });
+
+  it('a tag no note has throws unknown_tag with suggestions (SHA-264)', () => {
+    expect(() => queryNotes(ctx, parse({ tag: 'wrok' }))).toThrow(
+      /"error":"unknown_tag".*"didYouMean":\["work"/,
+    );
+  });
+
   it('modifiedAfter/modifiedBefore bound mtime', () => {
     const hits = queryNotes(
       ctx,

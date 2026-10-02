@@ -25,7 +25,12 @@ export const ContextPackInput = z.object({
     .string()
     .optional()
     .describe('Restrict results to notes under this vault-relative folder prefix.'),
-  tag: z.string().optional().describe('Restrict results to notes containing this tag.'),
+  tag: z
+    .string()
+    .optional()
+    .describe(
+      'Restrict results to notes with this tag. # optional, case-insensitive, and nested child tags match (e.g. "project" matches #project/alpha).',
+    ),
 });
 export type ContextPackInput = z.infer<typeof ContextPackInput>;
 

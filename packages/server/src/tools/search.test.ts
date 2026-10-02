@@ -148,6 +148,28 @@ describe('search', () => {
     }
   });
 
+  it('tag filter is case-insensitive and includes nested child tags (SHA-264)', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'a.md', title: 'Alpha', body: 'quarterly review', tags: 'Project/Alpha' },
+      { id: 'b.md', title: 'Beta', body: 'quarterly review', tags: 'PROJECT' },
+      { id: 'c.md', title: 'Gamma', body: 'quarterly review', tags: 'projects' },
+    ]);
+    const hits = search(ctx, { query: 'quarterly', tag: '#project', limit: 10 });
+    expect(hits.map((h) => h.path).sort()).toEqual(['a.md', 'b.md']);
+  });
+
+  it('an existing tag with no matching query returns []', () => {
+    const ctx = buildCtx('/vault', SAMPLE_NOTES);
+    expect(search(ctx, { query: 'roadmap', tag: 'daily', limit: 10 })).toEqual([]);
+  });
+
+  it('a tag no note has throws unknown_tag with suggestions (SHA-264)', () => {
+    const ctx = buildCtx('/vault', SAMPLE_NOTES);
+    expect(() => search(ctx, { query: 'reviewed', tag: 'wrok', limit: 10 })).toThrow(
+      /"error":"unknown_tag".*"didYouMean":\["work"\]/,
+    );
+  });
+
   it('limit is respected', () => {
     const ctx = buildCtx('/vault', SAMPLE_NOTES);
     // broad query likely hits multiple
@@ -176,5 +198,38 @@ describe('search', () => {
     const hits = search(ctx, { query: 'morning', limit: 10 });
     expect(hits.length).toBeGreaterThan(0);
     expect(hits[0]?.path).toBe('daily/2026-05-28.md');
+  });
+});
+
+// Pins the typo tolerance the README documents (SHA-264), so a MiniSearch
+// upgrade or an options change can't silently drop or widen it. fuzzy 0.2
+// allows round(0.2 × term length) edits per term: none for 1–2 letters, 1 for
+// 3–7, 2 for 8–12. Swapping two letters costs 2 edits.
+describe('search: typo tolerance', () => {
+  const ctx = buildCtx('/vault', [
+    { id: 'bench.md', title: 'Benchmark results', body: 'The quick brown fox.' },
+    { id: 'k8s.md', title: 'Kubernetes rollout', body: 'Meeting about the deployment.' },
+  ]);
+  const paths = (query: string) => search(ctx, { query, limit: 10 }).map((h) => h.path);
+
+  it.each([
+    ['benchamrk', 'bench.md'], // 9 letters, a swap (2 edits) is within budget
+    ['bencmark', 'bench.md'], // 8 letters, one missing letter
+    ['kuberentes', 'k8s.md'], // 10 letters, a swap
+    ['metting', 'k8s.md'], // 7 letters, one extra letter
+    ['meting', 'k8s.md'], // 6 letters, one missing letter
+  ])('finds "%s" despite the typo', (query, path) => {
+    expect(paths(query)).toContain(path);
+  });
+
+  it.each([
+    'qiuck', // 5 letters: a swap needs 2 edits, the budget is 1
+    'bnchmrk', // 7 letters, two missing letters
+  ])('misses "%s": beyond the typo budget', (query) => {
+    expect(paths(query)).toEqual([]);
+  });
+
+  it('also matches word prefixes', () => {
+    expect(paths('kuber')).toContain('k8s.md');
   });
 });

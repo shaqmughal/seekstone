@@ -413,6 +413,9 @@ Seekstone never modifies files except when you explicitly invoke one of its writ
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
 
+**Does search handle typos?**
+Yes, small ones. Keyword search allows one typo per word of 3–7 letters and two for words of 8 or more, so `benchamrk` still finds "benchmark". One- and two-letter words must match exactly, and swapping two letters counts as two typos. It also matches word prefixes: `kuber` finds "Kubernetes". The `tag` filter on `search`, `context_pack`, `query_notes`, and `list_notes` works like Obsidian's: it ignores case and includes nested tags, so `project` matches `#Project/alpha`. A tag no note has returns an `unknown_tag` error listing the closest existing tags.
+
 **What Obsidian vault sizes does it handle?**
 Seekstone has been profiled against vaults with thousands of notes. On the committed 10,000-note benchmark vault, the cold index build takes tens of seconds and process RSS lands under ~100 MB; typical personal vaults index in a few seconds. Semantic mode embeds in the background after boot (~30 s at 10k notes, then cached per-vault so restarts reload in well under a second).
 

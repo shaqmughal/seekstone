@@ -1,6 +1,7 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { extractExcerpt } from '../index/excerpt.js';
+import { assertTagExists, normalizeTag, noteHasTag } from '../index/tags.js';
 import type { SearchHit } from '../index/types.js';
 import { chunkExcerpt } from '../semantic/excerpt.js';
 import { MAX_ROUTE_WORDS, queryWords, routeToLexical } from '../semantic/route.js';
@@ -27,7 +28,12 @@ export const SearchInput = z.object({
     .string()
     .optional()
     .describe('Restrict results to notes under this vault-relative folder prefix.'),
-  tag: z.string().optional().describe('Restrict results to notes containing this tag.'),
+  tag: z
+    .string()
+    .optional()
+    .describe(
+      'Restrict results to notes with this tag. # optional, case-insensitive, and nested child tags match (e.g. "project" matches #project/alpha).',
+    ),
   excerptLength: z
     .number()
     .int()
@@ -56,6 +62,13 @@ export interface Retrieval {
 }
 
 export function retrieve(ctx: ServerContext, input: SearchInput): Retrieval {
+  const result = retrieveUnchecked(ctx, input);
+  // An empty tag-filtered result may be a misspelled tag: say so (SHA-264).
+  if (result.hits.length === 0 && input.tag) assertTagExists(ctx.notes, input.tag);
+  return result;
+}
+
+function retrieveUnchecked(ctx: ServerContext, input: SearchInput): Retrieval {
   // Direct in-process callers bypass the zod defaults — normalize here.
   const mode = input.mode ?? 'lexical';
   if (mode === 'lexical') return lexicalSearch(ctx, input);
@@ -173,12 +186,7 @@ function filterNote(ctx: ServerContext, input: SearchInput, path: string) {
   if (input.folder && !path.startsWith(input.folder)) return undefined;
   const note = ctx.notes.get(path);
   if (!note) return undefined;
-  if (input.tag) {
-    const noteTags = note.tags.split(' ');
-    if (!noteTags.some((t) => t === input.tag || t === input.tag?.replace(/^#/, ''))) {
-      return undefined;
-    }
-  }
+  if (input.tag && !noteHasTag(note.tags, normalizeTag(input.tag))) return undefined;
   return note;
 }
 

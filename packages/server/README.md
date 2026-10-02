@@ -209,6 +209,9 @@ Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, VS Code, Windsur
 **Does it work on Windows?**
 Yes — tested on macOS, Linux, and Windows in CI on every commit.
 
+**Does search handle typos?**
+Yes, small ones. Keyword search allows one typo per word of 3–7 letters and two for words of 8 or more, so `benchamrk` still finds "benchmark". One- and two-letter words must match exactly, and swapping two letters counts as two typos. It also matches word prefixes: `kuber` finds "Kubernetes". The `tag` filter on `search`, `context_pack`, `query_notes`, and `list_notes` works like Obsidian's: it ignores case and includes nested tags, so `project` matches `#Project/alpha`. A tag no note has returns an `unknown_tag` error listing the closest existing tags.
+
 **Is it safe?**
 No network calls while running, no telemetry (the optional semantic-search model is downloaded once by the explicit `fetch-model` subcommand, SHA-256-verified, before any serving starts — or shipped inside the `seekstone-semantic.mcpb` bundle and reassembled from disk at boot, verified against the same pinned hashes). The vault path is sandboxed — no tool reads or writes outside it. Writes are covered by the tested Write-Safety Contract above, and `SEEKSTONE_READ_ONLY=1` removes the write tools entirely.
 
