@@ -39,12 +39,13 @@ The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: push
 1. Create a GitHub App (Settings → Developer settings → GitHub Apps → New). Repository permissions: **Contents: Read & write** and **Pull requests: Read & write**. No webhook, no account permissions.
 2. **Install** the App on `shaqmughal/seekstone` (App settings → Install App).
 3. **Generate a private key** (App settings → bottom → Generate a private key → downloads a `.pem`).
-4. Add two repo secrets (Settings → Secrets and variables → Actions):
-   - `APP_ID` — the App's numeric ID (shown at the top of the App's settings page).
+4. Add a repo variable (Settings → Secrets and variables → Actions → **Variables**):
+   - `APP_CLIENT_ID` — the App's **Client ID** (the `Iv…` string near the top of the App's settings page), not the numeric App ID. It isn't sensitive, so it's a variable rather than a secret.
+5. Add repo secrets (same page → **Secrets**):
    - `APP_PRIVATE_KEY` — the full contents of the downloaded `.pem`, including the `-----BEGIN/END-----` lines.
    - `VERCEL_DEPLOY_HOOK_URL` (optional) — when set, a successful publish triggers a seekstone.dev rebuild so the site's displayed version stays current.
 
-Once both secrets exist, releases are hands-off. If the App is ever uninstalled or the secrets are removed, the `Mint release-bot token` step fails fast at the top of the job.
+Once the variable and the private key exist, releases are hands-off. If the App is ever uninstalled or either is removed, the `Mint release-bot token` step fails fast at the top of the job.
 
 ## Authentication — OIDC trusted publishing (no token)
 
