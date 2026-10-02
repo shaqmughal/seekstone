@@ -51,7 +51,11 @@ export const ALL_TOOLS = [
         },
         limit: { type: 'number', description: 'Max results (1–50, default 10).' },
         folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
-        tag: { type: 'string', description: 'Restrict to notes with this tag.' },
+        tag: {
+          type: 'string',
+          description:
+            'Restrict to notes with this tag. # optional, case-insensitive; nested child tags match ("project" matches project/alpha).',
+        },
         excerptLength: {
           type: 'number',
           description: 'Max characters of match context per hit (20–2000, default 120).',
@@ -90,7 +94,11 @@ export const ALL_TOOLS = [
           },
         },
         folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
-        tag: { type: 'string', description: 'Restrict to notes with this tag (# optional).' },
+        tag: {
+          type: 'string',
+          description:
+            'Restrict to notes with this tag. # optional, case-insensitive; nested child tags match ("project" matches project/alpha).',
+        },
         modifiedAfter: {
           type: 'string',
           description: 'Only notes modified at or after this ISO 8601 date/time.',
@@ -142,7 +150,11 @@ export const ALL_TOOLS = [
             'lexical = keyword search (default). semantic = meaning-based over local embeddings (needs SEEKSTONE_SEMANTIC=1 and a fetched model). hybrid = exact-title lookups go lexical, everything else semantic.',
         },
         folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
-        tag: { type: 'string', description: 'Restrict to notes with this tag.' },
+        tag: {
+          type: 'string',
+          description:
+            'Restrict to notes with this tag. # optional, case-insensitive; nested child tags match ("project" matches project/alpha).',
+        },
       },
       required: ['query'],
     },
@@ -197,7 +209,11 @@ export const ALL_TOOLS = [
       type: 'object',
       properties: {
         folder: { type: 'string', description: 'Vault-relative folder prefix.' },
-        tag: { type: 'string', description: 'Filter by tag (# prefix optional).' },
+        tag: {
+          type: 'string',
+          description:
+            'Filter by tag. # optional, case-insensitive; nested child tags match ("project" matches project/alpha).',
+        },
         limit: { type: 'number', description: 'Max results (1–500, default 100).' },
       },
       required: [],

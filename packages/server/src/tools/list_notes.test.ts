@@ -101,10 +101,26 @@ describe('listNotes', () => {
     expect(results).toEqual([]);
   });
 
-  it('returns [] when tag filter matches nothing', () => {
+  it('returns [] when the tag exists but the other filters exclude every note', () => {
     const ctx = buildCtx('/vault', SAMPLE_NOTES);
-    const results = listNotes(ctx, { tag: 'nonexistent', limit: 100 });
+    const results = listNotes(ctx, { folder: 'daily/', tag: 'work', limit: 100 });
     expect(results).toEqual([]);
+  });
+
+  it('throws unknown_tag with suggestions when no note has the tag (SHA-264)', () => {
+    const ctx = buildCtx('/vault', SAMPLE_NOTES);
+    expect(() => listNotes(ctx, { tag: 'projcet', limit: 100 })).toThrow(
+      /"error":"unknown_tag".*"didYouMean":\["project"\]/,
+    );
+  });
+
+  it('matches tags case-insensitively and includes nested child tags (SHA-264)', () => {
+    const ctx = buildCtx('/vault', [
+      ...SAMPLE_NOTES,
+      { id: 'projects/gamma.md', title: 'Gamma', body: 'Gamma.', tags: 'Project/Gamma' },
+    ]);
+    const results = listNotes(ctx, { tag: '#PROJECT', limit: 100 });
+    expect(results.map((r) => r.path)).toEqual(['projects/alpha.md', 'projects/gamma.md']);
   });
 
   it('includes path, title, tags array, and sizeBytes in each entry', () => {

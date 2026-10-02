@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
+import { assertTagExists, normalizeTag, noteHasTag } from '../index/tags.js';
 import { basenameNoExt } from './search.js';
 
 const OPS_WITHOUT_VALUE = new Set(['exists', 'missing']);
@@ -36,7 +37,12 @@ export const QueryNotesInput = z.object({
     .string()
     .optional()
     .describe('Restrict to notes under this vault-relative folder prefix.'),
-  tag: z.string().optional().describe('Restrict to notes with this tag (# prefix optional).'),
+  tag: z
+    .string()
+    .optional()
+    .describe(
+      'Restrict to notes with this tag. # optional, case-insensitive, and nested child tags match (e.g. "project" matches #project/alpha).',
+    ),
   modifiedAfter: ISO_DATE.optional().describe(
     'Only notes modified at or after this ISO 8601 date/time.',
   ),
@@ -129,7 +135,7 @@ function matches(fm: Record<string, unknown> | null, p: z.infer<typeof Predicate
 }
 
 export function queryNotes(ctx: ServerContext, input: QueryNotesInput): QueryHit[] {
-  const tag = input.tag?.replace(/^#/, '');
+  const tag = input.tag === undefined ? undefined : normalizeTag(input.tag);
   const after = input.modifiedAfter ? Date.parse(input.modifiedAfter) : undefined;
   const before = input.modifiedBefore ? Date.parse(input.modifiedBefore) : undefined;
   const fmKeys = input.select.filter((s) => s !== 'mtime' && s !== 'size' && s !== 'tags');
@@ -138,7 +144,7 @@ export function queryNotes(ctx: ServerContext, input: QueryNotesInput): QueryHit
 
   for (const [path, note] of ctx.notes) {
     if (input.folder && !path.startsWith(input.folder)) continue;
-    if (tag && !note.tags.split(' ').filter(Boolean).includes(tag)) continue;
+    if (tag && !noteHasTag(note.tags, tag)) continue;
     if (after !== undefined && note.mtimeMs < after) continue;
     if (before !== undefined && note.mtimeMs >= before) continue;
     if (input.minSizeBytes !== undefined && note.sizeBytes < input.minSizeBytes) continue;
@@ -163,6 +169,9 @@ export function queryNotes(ctx: ServerContext, input: QueryNotesInput): QueryHit
     }
     hits.push({ hit, note });
   }
+
+  // An empty tag-filtered result may be a misspelled tag: say so (SHA-264).
+  if (hits.length === 0 && input.tag) assertTagExists(ctx.notes, input.tag);
 
   const dir = input.order === 'desc' ? -1 : 1;
   hits.sort((a, b) => {
