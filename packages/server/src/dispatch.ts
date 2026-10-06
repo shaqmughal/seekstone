@@ -25,6 +25,7 @@ import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { ReadNotesInput, readNotes } from './tools/read_notes.js';
 import { RenameHeadingInput, renameHeading } from './tools/rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
+import { ResolveNoteInput, resolveNote } from './tools/resolve_note.js';
 import { SearchInput, search } from './tools/search.js';
 import { UndoWriteInput, undoWrite } from './tools/undo_write.js';
 
@@ -58,6 +59,7 @@ export const HANDLED_TOOLS = [
   'patch_note',
   'get_backlinks',
   'get_links',
+  'resolve_note',
   'replace_in_note',
   'get_periodic_note',
   'append_periodic_note',
@@ -460,6 +462,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = GetLinksInput.parse(args);
       const result = getLinks(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'resolve_note': {
+      const input = ResolveNoteInput.parse(args);
+      const result = resolveNote(ctx, input);
+      // Minified: a disambiguation hop should cost as few tokens as possible.
+      return { content: [{ type: 'text', text: JSON.stringify(result) }] };
     }
     case 'replace_in_note': {
       const input = ReplaceInNoteInput.parse(args);

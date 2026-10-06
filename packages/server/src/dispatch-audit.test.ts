@@ -211,6 +211,7 @@ describe('audit — one record per write-tool call', () => {
       'outline_note',
       'get_links',
       'get_backlinks',
+      'resolve_note',
       'list_writes',
       'context_pack',
       'query_notes',
@@ -220,7 +221,9 @@ describe('audit — one record per write-tool call', () => {
           ? { query: 'a' }
           : name === 'read_notes'
             ? { items: [{ path: 'Alpha.md' }] }
-            : { path: 'Alpha.md' };
+            : name === 'resolve_note'
+              ? { reference: 'Alpha' }
+              : { path: 'Alpha.md' };
       await dispatch(ctx, name, args, log);
     }
     await dispatch(ctx, 'get_periodic_note', { period: 'daily', date: '2026-01-03' }, log);
@@ -335,6 +338,7 @@ describe('audit — one record per write-tool call', () => {
       'outline_note',
       'get_backlinks',
       'get_links',
+      'resolve_note',
       'list_writes',
     ]);
   });

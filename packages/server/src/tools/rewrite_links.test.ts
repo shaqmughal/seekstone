@@ -77,6 +77,44 @@ describe('rewriteNoteLinks — wikilinks', () => {
     const r = rewriteNoteLinks('[[notes/a|A]]', 'ref.md', 'notes/a.md', 'archive/a2.md', pre, post);
     expect(r.content).toBe('[[a2|A]]');
   });
+
+  it('leaves alias-form wikilinks byte-identical on a move (alias travels with the note)', () => {
+    // [[Bob]] resolves to the moved note via its frontmatter alias both before
+    // and after the move, so the first "still resolves" guard leaves it alone.
+    const fm = { aliases: ['Bob'] };
+    const pre = new Map<string, unknown>([['Robert.md', { fm }]]);
+    const post = new Map<string, unknown>([['People/Robert.md', { fm }]]);
+    const r = rewriteNoteLinks(
+      'Met [[Bob]] and [[Robert]].',
+      'ref.md',
+      'Robert.md',
+      'People/Robert.md',
+      pre,
+      post,
+    );
+    // [[Robert]] (basename link) also still resolves after a folder move.
+    expect(r.content).toBe('Met [[Bob]] and [[Robert]].');
+    expect(r.count).toBe(0);
+  });
+
+  it('never hard-codes a path into an alias-form link, even when a tiebreak shifts (SHA-22)', () => {
+    // Two notes alias "Bob". Pre-move the moved note (a/One.md) wins the lex
+    // tiebreak; post-move (z/One.md) it loses to m/Two.md. Without the alias
+    // exclusion the link would be rewritten to a hard path, destroying the
+    // alias form.
+    const fm = { aliases: ['Bob'] };
+    const pre = new Map<string, unknown>([
+      ['a/One.md', { fm }],
+      ['m/Two.md', { fm }],
+    ]);
+    const post = new Map<string, unknown>([
+      ['z/One.md', { fm }],
+      ['m/Two.md', { fm }],
+    ]);
+    const r = rewriteNoteLinks('Met [[Bob]].', 'ref.md', 'a/One.md', 'z/One.md', pre, post);
+    expect(r.content).toBe('Met [[Bob]].');
+    expect(r.count).toBe(0);
+  });
 });
 
 describe('rewriteNoteLinks — markdown links', () => {

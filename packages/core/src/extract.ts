@@ -196,3 +196,19 @@ export function frontmatterTags(fm: Record<string, unknown> | null): string[] {
   }
   return [];
 }
+
+/**
+ * Pull aliases out of a parsed frontmatter object. Obsidian accepts `aliases:`
+ * or `alias:`, as either a string (comma-separated — aliases may contain
+ * spaces, so whitespace is not a separator) or a list.
+ */
+export function frontmatterAliases(fm: Record<string, unknown> | null): string[] {
+  if (!fm) return [];
+  const raw = fm.aliases ?? fm.alias;
+  if (raw == null) return [];
+  const values = Array.isArray(raw) ? raw : typeof raw === 'string' ? raw.split(',') : [];
+  return values
+    .filter((a): a is string => typeof a === 'string')
+    .map((a) => a.trim())
+    .filter(Boolean);
+}

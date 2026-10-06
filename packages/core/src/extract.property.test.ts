@@ -5,6 +5,7 @@ import {
   extractLinksWithLines,
   extractUrls,
   extractWikilinks,
+  frontmatterAliases,
   frontmatterTags,
 } from './extract.js';
 
@@ -156,6 +157,37 @@ describe('frontmatterTags properties', () => {
           expect(frontmatterTags({ tags: tags.join(sep) })).toEqual(tags);
         },
       ),
+    );
+  });
+});
+
+describe('frontmatterAliases properties', () => {
+  it('is total over arbitrary fm values and yields only trimmed non-empty strings', () => {
+    fc.assert(
+      fc.property(
+        fc.dictionary(fc.constantFrom('aliases', 'alias', 'other'), fc.anything()),
+        (fm) => {
+          const out = frontmatterAliases(fm as Record<string, unknown>);
+          for (const a of out) {
+            expect(typeof a).toBe('string');
+            expect(a).toBe(a.trim());
+            expect(a.length).toBeGreaterThan(0);
+          }
+        },
+      ),
+    );
+  });
+
+  it('round-trips comma-joined aliases, preserving interior spaces', () => {
+    const aliasValue = fc
+      .string({ minLength: 1, maxLength: 20 })
+      .map((s) => s.replace(/[,\s]+/g, ' ').trim())
+      .filter((s) => s.length > 0);
+    fc.assert(
+      fc.property(fc.array(aliasValue, { minLength: 1, maxLength: 6 }), (aliases) => {
+        expect(frontmatterAliases({ aliases: aliases.join(', ') })).toEqual(aliases);
+        expect(frontmatterAliases({ aliases })).toEqual(aliases);
+      }),
     );
   });
 });

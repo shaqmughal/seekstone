@@ -48,7 +48,7 @@ npx -y seekstone init --client cursor --write
 
 Or add the same `mcpServers` JSON block as Claude Desktop to `~/.cursor/mcp.json`. Any other MCP-over-stdio client (VS Code/Copilot, Windsurf, Cline, Continue, JetBrains, Zed) takes the identical block in its own MCP config file.
 
-## Tools (22)
+## Tools (23)
 
 Read:
 - `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes); optional `mode: "semantic"`/`"hybrid"` for meaning-based search via a local embedding model (`SEEKSTONE_SEMANTIC=1` + one-time `npx -y seekstone fetch-model`; fully offline at runtime)
@@ -61,6 +61,7 @@ Read:
 - `outline_note` — a note's heading and block structure without its full content
 - `get_backlinks` — all notes linking to a given note
 - `get_links` — all outgoing wikilinks and markdown links from a note
+- `resolve_note` — resolve a note name, path, or frontmatter alias to canonical vault path(s) with provenance; all candidates when ambiguous
 - `get_periodic_note` — read a daily/weekly/monthly/quarterly/yearly note, path resolved from vault config
 - `list_writes` — recent journaled writes (seq, timestamp, tool, paths, undoable); metadata only, never note content
 

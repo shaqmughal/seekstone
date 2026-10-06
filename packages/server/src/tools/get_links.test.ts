@@ -37,12 +37,25 @@ Points to [[Does Not Exist]] and [[Also Missing]].
 let vaultRoot: string;
 let ctx: ServerContext;
 
+const NOTE_ROBERT = `---
+aliases: [Bob]
+---
+# Robert
+`;
+
+const NOTE_DAILY = `# Daily
+
+Met [[Bob]] today.
+`;
+
 beforeAll(async () => {
   vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-get-links-'));
   await writeFile(join(vaultRoot, 'a.md'), NOTE_A, 'utf8');
   await writeFile(join(vaultRoot, 'b.md'), NOTE_B, 'utf8');
   await writeFile(join(vaultRoot, 'c.md'), NOTE_C, 'utf8');
   await writeFile(join(vaultRoot, 'orphan.md'), NOTE_UNRESOLVED, 'utf8');
+  await writeFile(join(vaultRoot, 'robert.md'), NOTE_ROBERT, 'utf8');
+  await writeFile(join(vaultRoot, 'daily.md'), NOTE_DAILY, 'utf8');
   const result = await buildIndex(vaultRoot);
   ctx = { ...result, vaultRoot, policy: PERMISSIVE_POLICY };
 });
@@ -73,6 +86,13 @@ describe('getLinks', () => {
     expect(cLink).toBeDefined();
     expect(cLink?.resolved).toBe(true);
     expect(cLink?.raw).toContain('[[c|alias]]');
+  });
+
+  it('resolves links through frontmatter aliases (SHA-22)', () => {
+    const result = getLinks(ctx, { path: 'daily.md' });
+    const bobLink = result.links.find((l) => l.raw.includes('[[Bob]]'));
+    expect(bobLink?.resolved).toBe(true);
+    expect(bobLink?.target).toBe('robert.md');
   });
 
   it('marks unresolved links with resolved: false and no target', () => {

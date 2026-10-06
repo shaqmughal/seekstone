@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><strong>The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window.</strong></p>
-<p align="center"><em>Filesystem-direct · single-digit-ms keyword search · ~26 ms semantic · ~2 KB payloads · 22 tools · macOS · Linux · Windows</em></p>
+<p align="center"><em>Filesystem-direct · single-digit-ms keyword search · ~26 ms semantic · ~2 KB payloads · 23 tools · macOS · Linux · Windows</em></p>
 
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
@@ -260,7 +260,7 @@ Seekstone is a standard MCP stdio server — any MCP client can run it. Use the 
 
 ---
 
-After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 22 tools below are then available to Claude.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 23 tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
@@ -303,6 +303,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `outline_note` | Return a note's heading and block structure without its full content — cheap navigation before a targeted read. |
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
+| `resolve_note` | Turn a note name, path, or frontmatter alias into its canonical vault path(s) — with provenance per match, all candidates when ambiguous, and did-you-mean suggestions when nothing matches. |
 | `get_periodic_note` | Read today's (or any date's) daily, weekly, monthly, quarterly, or yearly note — path resolved from your vault config, no Obsidian required. |
 | `list_writes` | Recent writes from the journal — seq, timestamp, tool, touched paths, and whether each is still undoable. Metadata only, never note content. |
 
@@ -448,7 +449,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 
 | Package | Purpose |
 |---|---|
-| `packages/server` | The published `seekstone` MCP server (22 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/server` | The published `seekstone` MCP server (23 tools, stdio, MiniSearch index, chokidar watcher). |
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, outline, percentiles, pmap, and the Model2Vec embedder. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
