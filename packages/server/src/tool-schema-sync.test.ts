@@ -29,6 +29,7 @@ import { ReadNoteInput } from './tools/read_note.js';
 import { ReadNotesInput } from './tools/read_notes.js';
 import { RenameHeadingInput } from './tools/rename_heading.js';
 import { ReplaceInNoteInput } from './tools/replace_in_note.js';
+import { ResolveNoteInput } from './tools/resolve_note.js';
 import { SearchInput } from './tools/search.js';
 import { UndoWriteInput } from './tools/undo_write.js';
 
@@ -52,6 +53,7 @@ const ZOD_INPUTS: Record<string, z.ZodType> = {
   get_backlinks: GetBacklinksInput,
   get_links: GetLinksInput,
   replace_in_note: ReplaceInNoteInput,
+  resolve_note: ResolveNoteInput,
   get_periodic_note: GetPeriodicNoteInput,
   append_periodic_note: AppendPeriodicNoteInput,
   list_writes: ListWritesInput,

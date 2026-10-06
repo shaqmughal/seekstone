@@ -77,7 +77,7 @@ describe('the server makes no outbound network calls', () => {
   });
 
   it('every tool runs without opening a connection', async () => {
-    // Covers ALL 22 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
+    // Covers ALL 23 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
     const calls: Array<[string, unknown]> = [
       ['search', { query: 'hello' }],
       ['query_notes', { where: [{ key: 'title', op: 'ne', value: 'x' }] }],
@@ -89,6 +89,7 @@ describe('the server makes no outbound network calls', () => {
       ['outline_note', { path: 'a.md' }],
       ['get_backlinks', { path: 'a.md' }],
       ['get_links', { path: 'a.md' }],
+      ['resolve_note', { reference: 'a' }],
       ['get_periodic_note', { period: 'daily' }],
       ['create_note', { path: 'new.md', content: 'x' }],
       ['append_note', { path: 'a.md', content: 'more' }],

@@ -91,11 +91,11 @@ flowchart TD
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (22) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (23) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (22)"]
-        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags<br/>outline_note · get_backlinks · get_links<br/>get_periodic_note · list_writes"]
+    subgraph tools["Tools layer — tools/ (23)"]
+        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags<br/>outline_note · get_backlinks · get_links · resolve_note<br/>get_periodic_note · list_writes"]
         writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · undo_write"]
     end
 
@@ -199,7 +199,7 @@ flowchart TD
    passes through as the error text. It is also the write
    **policy enforcement seam**: calls to any of the 10 `WRITE_TOOLS` are rejected
    in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
-   neutralized there too. `HANDLED_TOOLS` is the 22-name source of truth, kept
+   neutralized there too. `HANDLED_TOOLS` is the 23-name source of truth, kept
    in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
@@ -261,7 +261,7 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
-— all 22 tools normally, only the 12 read tools in read-only mode. On error,
+— all 23 tools normally, only the 13 read tools in read-only mode. On error,
 `dispatch()` catches and returns `{ isError: true, content: [...] }` rather
 than throwing — the session stays alive. Typed failures arrive as JSON in the
 error text: `hash_conflict` (stale `prevHash`), `undo_conflict` (file changed
@@ -422,7 +422,7 @@ are the receipts.
 
 ---
 
-## The 22 tools
+## The 23 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
@@ -436,6 +436,7 @@ are the receipts.
 | `outline_note` | read | Heading tree + block anchors, no body |
 | `get_backlinks` | read | Reverse-link lookup for a note |
 | `get_links` | read | Outgoing wikilinks/embeds of a note |
+| `resolve_note` | read | Reference (name/path/alias) → canonical path(s) with provenance |
 | `get_periodic_note` | read | Resolve today's / a given date's periodic note |
 | `list_writes` | read | Recent journal entries (seq, tool, paths, undoable) — metadata only |
 | `create_note` | write | Create a new note |

@@ -104,7 +104,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 ## Tools
 
-22 tools: 12 read, 10 write.
+23 tools: 13 read, 10 write.
 
 ### Read
 
@@ -120,6 +120,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `outline_note` | Return a note's heading and block structure without its full content. |
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
+| `resolve_note` | Turn a note name, path, or frontmatter alias into its canonical vault path(s) — with provenance per match, all candidates when ambiguous, and did-you-mean suggestions when nothing matches. |
 | `get_periodic_note` | Read a daily/weekly/monthly/quarterly/yearly note — path resolved from your vault config, no Obsidian required. |
 | `list_writes` | Recent writes from the journal — seq, timestamp, tool, touched paths, and whether each is still undoable. Metadata only, never note content. |
 

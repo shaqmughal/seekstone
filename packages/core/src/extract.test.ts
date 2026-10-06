@@ -4,6 +4,7 @@ import {
   extractLinksWithLines,
   extractUrls,
   extractWikilinks,
+  frontmatterAliases,
   frontmatterTags,
 } from './extract.js';
 
@@ -226,5 +227,31 @@ describe('frontmatterTags', () => {
   });
   it('returns [] for null fm', () => {
     expect(frontmatterTags(null)).toEqual([]);
+  });
+});
+
+describe('frontmatterAliases', () => {
+  it('handles list form, preserving spaces inside aliases', () => {
+    expect(frontmatterAliases({ aliases: ['Bob', 'Robert Smith'] })).toEqual([
+      'Bob',
+      'Robert Smith',
+    ]);
+  });
+  it('handles scalar string form', () => {
+    expect(frontmatterAliases({ aliases: 'Bob' })).toEqual(['Bob']);
+  });
+  it('splits strings on commas only, not whitespace', () => {
+    expect(frontmatterAliases({ aliases: 'Bob, Robert Smith' })).toEqual(['Bob', 'Robert Smith']);
+  });
+  it('handles `alias:` singular form', () => {
+    expect(frontmatterAliases({ alias: ['Bobby'] })).toEqual(['Bobby']);
+  });
+  it('drops non-string list members and empty entries', () => {
+    expect(frontmatterAliases({ aliases: ['Bob', 7, null, '  ', ''] })).toEqual(['Bob']);
+  });
+  it('returns [] for null or alias-free fm', () => {
+    expect(frontmatterAliases(null)).toEqual([]);
+    expect(frontmatterAliases({ tags: ['a'] })).toEqual([]);
+    expect(frontmatterAliases({ aliases: 42 })).toEqual([]);
   });
 });

@@ -564,6 +564,24 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'resolve_note',
+    annotations: READ_ONLY_ANNOTATIONS,
+    description:
+      'Resolve a note reference — a wikilink target, bare note name, path without extension, or frontmatter alias — to canonical vault-relative path(s). Each match carries provenance (path | basename | relpath | alias); matches[0] is exactly what a wikilink with that target resolves to, and ambiguous: true means more than one note matched. Empty matches means the reference resolves to nothing (didYouMean then lists close names). Returns paths only — resolve first, then read_notes. Pure index lookup.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        reference: {
+          type: 'string',
+          minLength: 1,
+          description:
+            'Reference to resolve: a vault-relative path ("Projects/Core.md"), a path without extension, a bare note name ("Core"), or a frontmatter alias.',
+        },
+      },
+      required: ['reference'],
+    },
+  },
+  {
     name: 'replace_in_note',
     annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:

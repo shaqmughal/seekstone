@@ -1,5 +1,5 @@
 import { posix } from 'node:path';
-import { resolveLink } from '../index/resolve.js';
+import { resolveCandidates } from '../index/resolve.js';
 
 /**
  * Pure link-rewriting for link-aware moves: given a referencing note's raw
@@ -105,9 +105,13 @@ export function rewriteNoteLinks(
     line.replace(WIKI_RE, (full, bang: string, target: string, frag?: string, alias?: string) => {
       const t = target.trim();
       // Still resolves to the moved note → Obsidian keeps working; don't touch.
-      if (resolveLink(t, postNotes) === newPath) return full;
-      // Only rewrite links that used to point at the moved note.
-      if (resolveLink(t, preNotes) !== oldPath) return full;
+      if (resolveCandidates(t, postNotes)[0]?.path === newPath) return full;
+      // Only rewrite links that used to point at the moved note — and never
+      // alias-form links: the alias travels with the note's frontmatter, so
+      // hard-coding a path would destroy the alias even when a tiebreak shift
+      // means it now resolves elsewhere.
+      const pre = resolveCandidates(t, preNotes)[0];
+      if (pre?.path !== oldPath || pre.via === 'alias') return full;
       count++;
       const next = wikiTargetFor(newPath, postNotes);
       return `${bang}[[${next}${frag ?? ''}${alias ?? ''}]]`;

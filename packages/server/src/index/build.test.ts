@@ -183,4 +183,23 @@ describe('buildIndex', () => {
       await rm(foldedVault, { recursive: true, force: true });
     }
   });
+
+  it('backlinks index resolves wikilinks through frontmatter aliases (SHA-22)', async () => {
+    const aliasVault = await mkdtemp(join(tmpdir(), 'seekstone-alias-'));
+    try {
+      await writeFile(
+        join(aliasVault, 'Robert.md'),
+        '---\naliases: [Bob]\n---\n# Robert\n',
+        'utf8',
+      );
+      await writeFile(join(aliasVault, 'Daily.md'), 'Met [[Bob]] today.\n', 'utf8');
+
+      const { backlinks } = await buildIndex(aliasVault);
+      expect(backlinks.get('Robert.md')).toEqual([
+        { path: 'Daily.md', line: 1, linkType: 'wikilink' },
+      ]);
+    } finally {
+      await rm(aliasVault, { recursive: true, force: true });
+    }
+  });
 });

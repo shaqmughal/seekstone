@@ -19,8 +19,8 @@
     "source": "packages/server/package.json#version"
   },
   "tools": {
-    "total": 22,
-    "read": 12,
+    "total": 23,
+    "read": 13,
     "write": 10,
     "source": "packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS"
   },
