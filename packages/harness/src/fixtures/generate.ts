@@ -32,10 +32,31 @@ export interface GenerateResult {
   unresolvedTargets: number;
   externalUrls: number;
   notesWithFrontmatter: number;
+  /** Checkbox items planted in daily notes (SHA-285) — real tasks only, not fenced decoys. */
+  tasksPlanted: number;
+  /** Subset of tasksPlanted with the open (`- [ ]`) marker. */
+  openTasks: number;
 }
 
 const EPOCH = Date.UTC(2023, 0, 1); // fixed base date for deterministic dates
 const DAY = 86_400_000;
+
+// Task vocabulary (SHA-285): generic PKM chores sharing no headwords with the
+// golden-set queries, so planting tasks cannot shift retrieval labels.
+const TASK_PHRASES = [
+  'Review captured links',
+  'File loose attachments',
+  'Merge duplicate stubs',
+  'Tidy the inbox folder',
+  'Archive stale clippings',
+  'Rebuild the MOC hubs',
+  'Check broken wikilinks',
+  'Refile orphaned captures',
+  'Prune unused tag names',
+  'Sync mobile drafts',
+  'Back up the vault copy',
+  'Empty the trash folder',
+];
 const EXTRA_URLS = [
   'https://archive.org/details/encyclopaediabri',
   'https://www.gutenberg.org/ebooks/author/various',
@@ -86,6 +107,10 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
   const count = opts.count ?? 10_000;
   const seed = opts.seed ?? 42;
   const rng = new Rng(seed);
+  // Isolated stream for checkbox planting (SHA-285): every draw for tasks
+  // comes from here, so the main `rng` sequence — and therefore every byte of
+  // every non-daily note — is identical to a pre-task-generator vault.
+  const taskRng = new Rng(seed * 7919 + 285);
   const { outDir, corpus } = opts;
 
   if (corpus.length < Math.ceil(count * 0.8)) {
@@ -131,6 +156,8 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     unresolvedTargets: 0,
     externalUrls: 0,
     notesWithFrontmatter: 0,
+    tasksPlanted: 0,
+    openTasks: 0,
   };
 
   rmSync(outDir, { recursive: true, force: true });
@@ -245,6 +272,29 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     parts.push('## Captured', '');
     const n = rng.int(1, 6);
     parts.push(Array.from({ length: n }, () => `- [[${wikilink()}]]`).join('\n'), '');
+
+    // Checkbox tasks (SHA-285), drawn ONLY from taskRng — see its declaration.
+    if (taskRng.chance(0.6)) {
+      parts.push('## Tasks', '');
+      const taskCount = taskRng.int(1, 6);
+      const lines: string[] = [];
+      for (let t = 0; t < taskCount; t++) {
+        const bullet = taskRng.chance(0.12) ? (taskRng.chance(0.5) ? '*' : '+') : '-';
+        const indent = t > 0 && taskRng.chance(0.2) ? '  ' : '';
+        const x = taskRng.next();
+        const state = x < 0.55 ? ' ' : x < 0.9 ? 'x' : taskRng.chance(0.5) ? '/' : '-';
+        lines.push(`${indent}${bullet} [${state}] ${taskRng.pick(TASK_PHRASES)}`);
+        result.tasksPlanted++;
+        if (state === ' ') result.openTasks++;
+      }
+      parts.push(lines.join('\n'), '');
+    }
+    // A few deterministic fenced decoys: scanner-exclusion ground truth in the
+    // committed fixture (a `- [ ]` inside a code fence must never be a task).
+    if (d % 400 === 7) {
+      parts.push('```', '- [ ] decoy task inside a fence', '```', '');
+    }
+
     if (rng.chance(0.4)) parts.push(`#${pickTag()}`, '');
     write(`Daily Notes/${date}.md`, parts.join('\n'));
     result.dailyNotes++;

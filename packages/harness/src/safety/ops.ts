@@ -9,7 +9,8 @@ export type OpKind =
   | 'recoverable-delete'
   | 'create-no-clobber'
   | 'cas-conflict'
-  | 'undo-roundtrip';
+  | 'undo-roundtrip'
+  | 'task-toggle';
 
 export interface OpResult {
   /** The bytes to write back via the adapter. */

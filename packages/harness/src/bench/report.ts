@@ -76,6 +76,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
     const hasAny =
       t.list ||
       t.listTags ||
+      t.listTasks ||
       t.contextPack ||
       t.outline ||
       t.getBacklinks ||
@@ -97,6 +98,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
 
       if (t.list) push(toolRow('list_notes', 'vault root', t.list));
       if (t.listTags) push(toolRow('list_tags', 'all tags', t.listTags));
+      if (t.listTasks) push(toolRow('list_tasks', 'open tasks, vault-wide', t.listTasks));
       if (t.contextPack)
         push(
           toolRow('context_pack', `\`${mdCellEscape(t.contextPack.query)}\``, t.contextPack.stats),
@@ -113,6 +115,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
       const unsupported: string[] = [];
       if (!t.list) unsupported.push('list_notes');
       if (!t.listTags) unsupported.push('list_tags');
+      if (!t.listTasks) unsupported.push('list_tasks');
       if (!t.contextPack) unsupported.push('context_pack');
       if (!t.outline) unsupported.push('outline_note');
       if (!t.getBacklinks) unsupported.push('get_backlinks');

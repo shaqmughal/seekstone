@@ -5,6 +5,7 @@ import {
   casConflictOp,
   createNoClobberOp,
   recoverableDeleteOp,
+  taskToggleOp,
   undoRoundtripOp,
 } from './behavioral-ops.js';
 import { copyVault } from './copy.js';
@@ -66,6 +67,7 @@ const BEHAVIORAL_OPS: OpKind[] = [
   'create-no-clobber',
   'cas-conflict',
   'undo-roundtrip',
+  'task-toggle',
 ];
 
 /**
@@ -171,12 +173,19 @@ export async function runSafety(opts: SafetyRunnerOptions): Promise<SafetySummar
         }
         const r = await casConflictOp(opts.backend, c.relPath, c.absPath);
         record(noteResults, { op: opKind, ...r });
-      } else {
+      } else if (opKind === 'undo-roundtrip') {
         if (!opts.backend.undoLastWrite || !opts.backend.readWithHash || !opts.backend.casWrite) {
           skip('undoLastWrite');
           continue;
         }
         const r = await undoRoundtripOp(opts.backend, c.relPath, c.absPath);
+        record(noteResults, { op: opKind, ...r });
+      } else {
+        if (!opts.backend.updateTask) {
+          skip('updateTask');
+          continue;
+        }
+        const r = await taskToggleOp(opts.backend, c.relPath, c.absPath);
         record(noteResults, { op: opKind, ...r });
       }
     }

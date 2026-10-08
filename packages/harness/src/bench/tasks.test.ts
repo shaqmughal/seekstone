@@ -41,7 +41,24 @@ describe('loadTaskSet', () => {
 
   it('throws when a task is missing id/question/searchQuery', async () => {
     const path = await writeTaskFile({ tasks: [{ id: 't1', readTopK: 3 }] });
-    await expect(loadTaskSet(path)).rejects.toThrow(/id, question and searchQuery/);
+    await expect(loadTaskSet(path)).rejects.toThrow(/needs id and question/);
+    const noQuery = await writeTaskFile({ tasks: [{ id: 't1', question: 'q?', readTopK: 3 }] });
+    await expect(loadTaskSet(noQuery)).rejects.toThrow(/needs searchQuery/);
+  });
+
+  it('accepts a taskQuery task without searchQuery/readTopK', async () => {
+    const path = await writeTaskFile({
+      tasks: [{ id: 't1', question: 'Open tasks?', taskQuery: { folder: 'Daily Notes/' } }],
+    });
+    const ts = await loadTaskSet(path);
+    expect(ts.tasks[0]?.taskQuery?.folder).toBe('Daily Notes/');
+  });
+
+  it('rejects a task mixing taskQuery with searchQuery', async () => {
+    const path = await writeTaskFile({
+      tasks: [{ ...validTask, taskQuery: { folder: 'Daily Notes/' } }],
+    });
+    await expect(loadTaskSet(path)).rejects.toThrow(/mutually exclusive/);
   });
 
   it('throws when readTopK is out of range (adapters cap search hits at 10)', async () => {
@@ -58,7 +75,11 @@ describe('loadTaskSet', () => {
     expect(ts.tasks.length).toBeGreaterThanOrEqual(3);
     for (const t of ts.tasks) {
       expect(t.question.length).toBeGreaterThan(0);
-      expect(t.searchQuery.length).toBeGreaterThan(0);
+      if (t.taskQuery) {
+        expect(t.searchQuery).toBeUndefined();
+      } else {
+        expect(t.searchQuery?.length).toBeGreaterThan(0);
+      }
     }
   });
 });

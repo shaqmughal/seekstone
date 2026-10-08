@@ -9,6 +9,7 @@ import {
   casConflictOp,
   createNoClobberOp,
   recoverableDeleteOp,
+  taskToggleOp,
   undoRoundtripOp,
 } from './behavioral-ops.js';
 
@@ -306,6 +307,62 @@ describe('undoRoundtripOp edge cases', () => {
     const r2 = await undoRoundtripOp(erroring, rel, abs);
     expect(r2.status).toBe('fail');
     expect(r2.reason).toContain('write call errored');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+});
+
+describe('taskToggleOp', () => {
+  it('passes against the shipped server: single-byte toggle + guarded refusal', async () => {
+    const { rel, abs, raw } = await seed('task-toggle.md');
+    const server = await SeekstoneAdapter.build({ vaultRoot: vaultDir });
+    const r = await taskToggleOp(server, rel, abs);
+    expect(r.status).toBe('pass');
+    expect(r.reason).toBe('single-byte toggle + guarded refusal');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('passes against the fs reference', async () => {
+    const { rel, abs, raw } = await seed('task-toggle-fs.md');
+    const r = await taskToggleOp(backend, rel, abs);
+    expect(r.status).toBe('pass');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('fails when the toggle rewrites more than the marker byte, and restores the note', async () => {
+    const { rel, abs, raw } = await seed('task-toggle-fat.md');
+    // A pre-existing open task means a sloppy replace-all touches two markers.
+    const withExisting = `${raw}- [ ] another open task\n`;
+    await writeFile(abs, withExisting, 'utf8');
+    const fat: Backend = {
+      ...backendShim(),
+      updateTask: async (path, _line, state) => {
+        const content = await readFile(join(vaultDir, path), 'utf8');
+        // A sloppy implementation: regex-replaces every open marker.
+        await writeFile(join(vaultDir, path), content.replaceAll('[ ]', `[${state}]`), 'utf8');
+      },
+    };
+    const r = await taskToggleOp(fat, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('more than the single marker byte');
+    expect(await readFile(abs, 'utf8')).toBe(withExisting);
+  });
+
+  it('fails when a wrong expectText is not refused', async () => {
+    const { rel, abs, raw } = await seed('task-toggle-noguard.md');
+    const noGuard: Backend = {
+      ...backendShim(),
+      updateTask: async (path, line, state) => {
+        const content = await readFile(join(vaultDir, path), 'utf8');
+        const lines = content.split('\n');
+        const target = lines[line - 1] as string;
+        const col = target.indexOf('[') + 1;
+        lines[line - 1] = `${target.slice(0, col)}${state}${target.slice(col + 1)}`;
+        await writeFile(join(vaultDir, path), lines.join('\n'), 'utf8');
+      },
+    };
+    const r = await taskToggleOp(noGuard, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('not refused');
     expect(await readFile(abs, 'utf8')).toBe(raw);
   });
 });

@@ -20,6 +20,7 @@ const allPassSummary: SafetySummary = {
     'create-no-clobber': { pass: 2, fail: 0, skipped: 0 },
     'cas-conflict': { ...zero, skipped: 2 },
     'undo-roundtrip': { ...zero, skipped: 2 },
+    'task-toggle': { ...zero, skipped: 2 },
   },
   notes: [
     {
@@ -65,6 +66,7 @@ const bodyAppendFailSummary: SafetySummary = {
     'create-no-clobber': { ...zero, skipped: 1 },
     'cas-conflict': { ...zero, skipped: 1 },
     'undo-roundtrip': { ...zero, skipped: 1 },
+    'task-toggle': { ...zero, skipped: 1 },
   },
   notes: [
     {

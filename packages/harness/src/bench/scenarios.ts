@@ -14,11 +14,11 @@ import { countTokens, timed } from './timer.js';
  * pays for search → read ×K → backlinks. The sum is the context tax per task.
  */
 
-export type ScenarioStrategy = 'context-pack' | 'search-read';
+export type ScenarioStrategy = 'context-pack' | 'search-read' | 'list-tasks' | 'folder-read';
 
 export interface TaskStep {
-  op: 'context_pack' | 'search' | 'read' | 'get_backlinks';
-  /** Query string (context_pack/search) or vault-relative note path. */
+  op: 'context_pack' | 'search' | 'read' | 'get_backlinks' | 'list_tasks' | 'list';
+  /** Query string (context_pack/search), folder, or vault-relative note path. */
   target: string;
   payloadBytes: number;
   payloadTokens: number;
@@ -65,8 +65,13 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
 
   const tasks: TaskResult[] = [];
   for (const task of taskSet.tasks) {
-    const strategy: ScenarioStrategy =
-      !forceMulticall && backend.contextPack ? 'context-pack' : 'search-read';
+    const strategy: ScenarioStrategy = task.taskQuery
+      ? !forceMulticall && backend.listTasks
+        ? 'list-tasks'
+        : 'folder-read'
+      : !forceMulticall && backend.contextPack
+        ? 'context-pack'
+        : 'search-read';
 
     const durations: number[] = [];
     const byteTotals: number[] = [];
@@ -111,26 +116,68 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
   };
 }
 
+/**
+ * folder-read reads at most this many notes. A real "list open tasks" sweep
+ * without list_tasks would read EVERY note in the folder (1,000 daily notes
+ * on the fixture), so the recorded multiplier is a deliberate understatement
+ * of the true read-whole-notes cost — keep the caveat in the report.
+ */
+const FOLDER_READ_CAP = 10;
+
 /** One pass over a task: the ordered calls an agent would make. */
 async function executeTask(
   backend: Backend,
   task: TaskDef,
   strategy: ScenarioStrategy,
 ): Promise<TaskStep[]> {
+  if (strategy === 'list-tasks') {
+    const listTasksFn = backend.listTasks?.bind(backend);
+    if (!listTasksFn) {
+      throw new Error(`Backend ${backend.name} has no listTasks but strategy is list-tasks.`);
+    }
+    const q = task.taskQuery ?? {};
+    const r = await listTasksFn(q);
+    return [step('list_tasks', q.folder ?? '(vault)', r)];
+  }
+
+  if (strategy === 'folder-read') {
+    // Fallback for backends without list_tasks: enumerate the folder, read
+    // the first K notes (deterministic path order), scan client-side.
+    const folder = task.taskQuery?.folder ?? '';
+    const steps: TaskStep[] = [];
+    const listing = await backend.list(folder);
+    steps.push(step('list', folder || '(vault)', listing));
+    const notePaths = listing.result
+      .filter((e) => !e.isDirectory && e.path.endsWith('.md'))
+      .map((e) => e.path)
+      .sort()
+      .slice(0, FOLDER_READ_CAP);
+    for (const p of notePaths) {
+      const r = await backend.read(p);
+      steps.push(step('read', p, r));
+    }
+    return steps;
+  }
+
+  const searchQuery = task.searchQuery;
+  if (!searchQuery) {
+    throw new Error(`Task ${task.id}: searchQuery missing for strategy ${strategy}.`);
+  }
+
   if (strategy === 'context-pack') {
     const contextPackFn = backend.contextPack?.bind(backend);
     if (!contextPackFn) {
       throw new Error(`Backend ${backend.name} has no contextPack but strategy is context-pack.`);
     }
-    const r = await contextPackFn(task.searchQuery, task.budgetBytes);
-    return [step('context_pack', task.searchQuery, r)];
+    const r = await contextPackFn(searchQuery, task.budgetBytes);
+    return [step('context_pack', searchQuery, r)];
   }
 
   const steps: TaskStep[] = [];
-  const search = await backend.search(task.searchQuery);
-  steps.push(step('search', task.searchQuery, search));
+  const search = await backend.search(searchQuery);
+  steps.push(step('search', searchQuery, search));
 
-  const hits = search.result.slice(0, task.readTopK);
+  const hits = search.result.slice(0, task.readTopK ?? 1);
   for (const hit of hits) {
     const r = await backend.read(hit.path);
     steps.push(step('read', hit.path, r));
