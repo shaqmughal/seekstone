@@ -32,6 +32,16 @@
       "readTopK": 2,
       "budgetBytes": 2048,
       "notes": "Wikilink-hub task: MOCs/ notes are link hubs. context_pack folds the link neighborhood in; the multi-call path needs read + get_backlinks. Zero hits from content-only searchers is a legitimate, reportable result."
+    },
+    {
+      "id": "open-tasks-daily",
+      "question": "Which tasks are still open from my daily notes this week?",
+      "taskQuery": {
+        "folder": "Daily Notes/",
+        "state": "open",
+        "limit": 500
+      },
+      "notes": "Task-triage task (SHA-285). Fixture mtimes are all checkout time, so 'this week' cannot be an mtime filter here; an agent would equivalently scope to the date-named Daily Notes folder, which is what the query does. Backends with list_tasks answer in ONE call of compact rows; the fallback lists the folder and reads the first 10 of ~1,000 daily notes — a deliberate UNDERSTATEMENT of the true read-whole-notes cost, so the reported multiplier is conservative."
     }
   ],
   "runs": 5,

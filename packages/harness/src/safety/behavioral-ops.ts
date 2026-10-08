@@ -193,6 +193,79 @@ export async function casConflictOp(
 }
 
 /**
+ * task-toggle (SHA-285): prove the single-character checkbox rewrite and its
+ * expectText guard. Sampled notes are frontmatter-heavy and carry no
+ * checkboxes, so the op seeds its own: append a known task line out-of-band,
+ * toggle it through the server's update_task, and require the post-file to
+ * differ from the seeded bytes at EXACTLY the marker byte. Then call again
+ * with a wrong expectText and require a refusal that leaves the file
+ * untouched. Restores the original afterwards.
+ */
+export async function taskToggleOp(
+  backend: Backend,
+  relPath: string,
+  absPath: string,
+): Promise<BehavioralOpOutcome> {
+  const change = 'seed a checkbox; toggle via server tool (1-byte diff); wrong expectText refused';
+  if (!backend.updateTask) throw new Error('caller must check backend.updateTask');
+  const updateTask = backend.updateTask.bind(backend);
+  const original = await readFile(absPath);
+
+  const TASK_TEXT = 'seekstone-harness task target';
+  const originalStr = original.toString('utf8');
+  const seeded = `${originalStr}${originalStr.endsWith('\n') ? '' : '\n'}- [ ] ${TASK_TEXT}\n`;
+  await writeFile(absPath, seeded);
+  const taskLine = seeded.split('\n').length - 1; // last content line (file ends with \n)
+  const markerOffset = seeded.lastIndexOf(`- [ ] ${TASK_TEXT}`) + 3;
+  const expected = `${seeded.slice(0, markerOffset)}x${seeded.slice(markerOffset + 1)}`;
+
+  const finish = async (outcome: BehavioralOpOutcome): Promise<BehavioralOpOutcome> => {
+    await writeFile(absPath, original);
+    return outcome;
+  };
+
+  try {
+    await updateTask(relPath, taskLine, 'x', TASK_TEXT);
+  } catch (err) {
+    return finish({
+      status: 'fail',
+      reason: `toggle call errored: ${(err as Error).message}`,
+      change,
+    });
+  }
+  const post = await readFile(absPath, 'utf8').catch(() => '');
+  if (post !== expected) {
+    return finish({
+      status: 'fail',
+      reason:
+        post === seeded
+          ? 'toggle reported success but the marker did not change'
+          : 'toggle changed more than the single marker byte',
+      change,
+    });
+  }
+
+  let refused = false;
+  try {
+    await updateTask(relPath, taskLine, ' ', 'WRONG TEXT — must be refused');
+  } catch {
+    refused = true;
+  }
+  const post2 = await readFile(absPath, 'utf8').catch(() => '');
+  if (!refused) {
+    return finish({ status: 'fail', reason: 'wrong expectText was not refused', change });
+  }
+  if (post2 !== expected) {
+    return finish({
+      status: 'fail',
+      reason: 'expectText refusal still modified the file',
+      change,
+    });
+  }
+  return finish({ status: 'pass', reason: 'single-byte toggle + guarded refusal', change });
+}
+
+/**
  * undo-roundtrip: prove "every write is reversible". Two journaled writes
  * through the server's own tools — a guarded whole-file replace (casWrite)
  * and a delete (deleteNote, when declared) — each followed by

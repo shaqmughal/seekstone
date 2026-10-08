@@ -12,14 +12,20 @@ export interface TaskDef {
   id: string;
   /** The human question — documentation and report label. */
   question: string;
-  /** What an agent would feed to search / context_pack. */
-  searchQuery: string;
-  /** How many top hits the multi-call path reads in full. */
-  readTopK: number;
+  /** What an agent would feed to search / context_pack. Required unless taskQuery is set. */
+  searchQuery?: string;
+  /** How many top hits the multi-call path reads in full. Required unless taskQuery is set. */
+  readTopK?: number;
   /** context_pack byte budget; the adapter default (2048) applies when omitted. */
   budgetBytes?: number;
   /** Follow up with get_backlinks on the top hit (multi-call path). Default true. */
   followBacklinks?: boolean;
+  /**
+   * Checkbox-triage task (SHA-285): one list_tasks call for backends that
+   * support it, folder-list + read ×K for backends that don't. Mutually
+   * exclusive with searchQuery/readTopK.
+   */
+  taskQuery?: { folder?: string; state?: string; limit?: number };
   notes?: string;
 }
 
@@ -41,10 +47,23 @@ export async function loadTaskSet(path: string): Promise<TaskSet> {
     throw new Error(`Task file ${path} has no tasks.`);
   }
   for (const t of parsed.tasks) {
-    if (!t.id || !t.question || !t.searchQuery) {
-      throw new Error(`Task file ${path}: every task needs id, question and searchQuery.`);
+    if (!t.id || !t.question) {
+      throw new Error(`Task file ${path}: every task needs id and question.`);
     }
-    if (!Number.isInteger(t.readTopK) || t.readTopK < 1 || t.readTopK > MAX_READ_TOP_K) {
+    if (t.taskQuery) {
+      if (t.searchQuery !== undefined || t.readTopK !== undefined) {
+        throw new Error(`Task ${t.id}: taskQuery is mutually exclusive with searchQuery/readTopK.`);
+      }
+      continue;
+    }
+    if (!t.searchQuery) {
+      throw new Error(`Task file ${path}: task ${t.id} needs searchQuery (or taskQuery).`);
+    }
+    if (
+      !Number.isInteger(t.readTopK) ||
+      (t.readTopK as number) < 1 ||
+      (t.readTopK as number) > MAX_READ_TOP_K
+    ) {
       throw new Error(
         `Task ${t.id}: readTopK must be an integer between 1 and ${MAX_READ_TOP_K} (adapters cap search results at 10).`,
       );

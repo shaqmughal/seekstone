@@ -211,6 +211,7 @@ describe('runSafety — behavioral ops and skip semantics', () => {
       'create-no-clobber',
       'cas-conflict',
       'undo-roundtrip',
+      'task-toggle',
     ] as const) {
       expect(summary.passByOp[op].skipped).toBe(3);
       expect(summary.passByOp[op].fail).toBe(0);
