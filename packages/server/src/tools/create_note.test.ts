@@ -130,6 +130,7 @@ describe('createNote', () => {
       fmKeys: '',
       fm: null,
       raw: 'old content',
+      tasks: [],
       sizeBytes: 11,
       mtimeMs: Date.now(),
     };

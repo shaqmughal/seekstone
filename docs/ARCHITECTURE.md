@@ -91,18 +91,18 @@ flowchart TD
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (23) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (25) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (23)"]
-        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags<br/>outline_note · get_backlinks · get_links · resolve_note<br/>get_periodic_note · list_writes"]
-        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · undo_write"]
+    subgraph tools["Tools layer — tools/ (25)"]
+        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags · list_tasks<br/>outline_note · get_backlinks · get_links · resolve_note<br/>get_periodic_note · list_writes"]
+        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · update_task · undo_write"]
     end
 
     prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>journal.ts journalWrite / begin() (pre-images before the first byte changes)<br/>tools/rewrite_links.ts (link-aware moves)"]
 
     vault[("Obsidian vault<br/>(filesystem)")]
-    core2["@seekstone/core<br/>frontmatter · extract · outline · walk · embed"]
+    core2["@seekstone/core<br/>frontmatter · extract · outline · tasks · walk · embed"]
 
     boot --> build
     build --> ctx
@@ -150,7 +150,7 @@ flowchart TD
    watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
    `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
    answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the
-   10 write tools are unregistered entirely, not just rejected; `list_writes`
+   11 write tools are unregistered entirely, not just rejected; `list_writes`
    is a read tool and stays).
 2. **Index layer (`index/`)** — `buildIndex(vaultRoot)` walks the vault, parses
    each note, and returns a `MiniSearch` full-text index, a `notes` map
@@ -197,9 +197,9 @@ flowchart TD
    failures by throwing JSON envelopes (`hash_conflict`,
    `semantic_unavailable`, `semantic_building` with progress) that dispatch
    passes through as the error text. It is also the write
-   **policy enforcement seam**: calls to any of the 10 `WRITE_TOOLS` are rejected
+   **policy enforcement seam**: calls to any of the 11 `WRITE_TOOLS` are rejected
    in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
-   neutralized there too. `HANDLED_TOOLS` is the 23-name source of truth, kept
+   neutralized there too. `HANDLED_TOOLS` is the 25-name source of truth, kept
    in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
@@ -261,7 +261,7 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
-— all 23 tools normally, only the 13 read tools in read-only mode. On error,
+— all 25 tools normally, only the 14 read tools in read-only mode. On error,
 `dispatch()` catches and returns `{ isError: true, content: [...] }` rather
 than throwing — the session stays alive. Typed failures arrive as JSON in the
 error text: `hash_conflict` (stale `prevHash`), `undo_conflict` (file changed
@@ -422,7 +422,7 @@ are the receipts.
 
 ---
 
-## The 23 tools
+## The 25 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
@@ -433,6 +433,7 @@ are the receipts.
 | `read_notes` | read | Batch-read up to 20 notes or spans under one byte budget (each item via `read_note`) |
 | `list_notes` | read | Enumerate notes, optionally by folder |
 | `list_tags` | read | All tags with usage counts |
+| `list_tasks` | read | Checkbox tasks as compact rows (path, line, state, text, heading) from the warm index; filter by note/folder/tag/mtime/state |
 | `outline_note` | read | Heading tree + block anchors, no body |
 | `get_backlinks` | read | Reverse-link lookup for a note |
 | `get_links` | read | Outgoing wikilinks/embeds of a note |
@@ -448,6 +449,7 @@ are the receipts.
 | `patch_frontmatter` | write | Edit frontmatter, preserving key order/comments |
 | `replace_in_note` | write | Find/replace within a note |
 | `append_periodic_note` | write | Append to today's / a given date's periodic note |
+| `update_task` | write | Set one checkbox's state by path + line — a single-character rewrite, everything else byte-identical; `expectText` guard + optional `prevHash` CAS |
 | `undo_write` | write | Restore every file a journaled write touched to its pre-image (all-or-nothing, CAS against the journal, `force` to override); self-journaling so undo of an undo redoes |
 
 The list is mirrored in `dispatch.ts` (`HANDLED_TOOLS`) and the `ListTools`

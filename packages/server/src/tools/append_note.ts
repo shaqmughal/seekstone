@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -69,6 +70,7 @@ export async function appendNote(
   if (cached) {
     cached.body = newBody;
     cached.raw = newContent;
+    cached.tasks = extractTasks(newContent);
   }
 
   return {

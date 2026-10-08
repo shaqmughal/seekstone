@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { extractTasks } from '@seekstone/core/tasks';
 import { parseDocument } from 'yaml';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -112,6 +113,7 @@ export async function patchFrontmatter(
     const updated = parseFrontmatter(newContent);
     cached.raw = newContent;
     cached.fmKeys = updated.keys.join(' ');
+    cached.tasks = extractTasks(newContent);
   }
 
   return {

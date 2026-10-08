@@ -120,6 +120,21 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('refreshes the task index when an edit adds a checkbox', async () => {
+    const ctx = freshCtx(tmpDir);
+    await writeFile(join(tmpDir, 'watch-task.md'), 'no tasks yet', 'utf8');
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'watch-task.md'), '# Todo\n\n- [ ] watcher task', 'utf8');
+      await waitFor(() => (ctx.notes.get('watch-task.md')?.tasks.length ?? 0) > 0);
+      const task = ctx.notes.get('watch-task.md')?.tasks[0];
+      expect(task).toMatchObject({ line: 3, state: ' ', text: 'watcher task', heading: 'Todo' });
+    } finally {
+      await stop();
+    }
+  });
+
   it('removes a deleted file from the index', async () => {
     const ctx = freshCtx(tmpDir);
     await writeFile(join(tmpDir, 'watch-del.md'), 'will be deleted', 'utf8');
@@ -131,6 +146,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       fmKeys: '',
       fm: null,
       raw: 'will be deleted',
+      tasks: [],
       sizeBytes: 15,
       mtimeMs: Date.now(),
     };

@@ -1,6 +1,7 @@
 import { access, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -286,6 +287,7 @@ export async function appendPeriodicNote(
   if (cached) {
     cached.body = newBody;
     cached.raw = newRaw;
+    cached.tasks = extractTasks(newRaw);
   }
 
   return {

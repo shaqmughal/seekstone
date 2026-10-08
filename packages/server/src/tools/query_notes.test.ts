@@ -30,6 +30,7 @@ function buildCtx(
       fmKeys: n.fm ? Object.keys(n.fm).join(' ') : '',
       fm: n.fm ?? null,
       raw: '',
+      tasks: [],
       sizeBytes: n.sizeBytes ?? 100,
       mtimeMs: n.mtimeMs ?? Date.UTC(2026, 0, 15),
     });

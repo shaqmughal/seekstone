@@ -48,7 +48,7 @@ npx -y seekstone init --client cursor --write
 
 Or add the same `mcpServers` JSON block as Claude Desktop to `~/.cursor/mcp.json`. Any other MCP-over-stdio client (VS Code/Copilot, Windsurf, Cline, Continue, JetBrains, Zed) takes the identical block in its own MCP config file.
 
-## Tools (23)
+## Tools (25)
 
 Read:
 - `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes); optional `mode: "semantic"`/`"hybrid"` for meaning-based search via a local embedding model (`SEEKSTONE_SEMANTIC=1` + one-time `npx -y seekstone fetch-model`; fully offline at runtime)
@@ -58,6 +58,7 @@ Read:
 - `read_notes` — read up to 20 notes or note slices in one call under a total byte budget; over budget, each is truncated to a fair share and flagged, and a bad path errors per item
 - `list_notes` — list notes filtered by folder prefix or tag
 - `list_tags` — list all tags sorted by usage count or alphabetically
+- `list_tasks` — list Markdown checkbox tasks as compact rows (path, line, state, text, nearest heading), vault-wide or filtered by note, folder, tag, state, or modified time; custom markers are single-char states
 - `outline_note` — a note's heading and block structure without its full content
 - `get_backlinks` — all notes linking to a given note
 - `get_links` — all outgoing wikilinks and markdown links from a note
@@ -75,6 +76,7 @@ Write:
 - `patch_note` — append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section)
 - `replace_in_note` — find and replace text in the note body (literal or regex, whole-word, case sensitivity, optional limit — replaces all occurrences by default, dry-run preview)
 - `append_periodic_note` — append to today's periodic note, creating it from a template if needed
+- `update_task` — set one checkbox's state by path + line (from `list_tasks`), rewriting exactly one character; `expectText` guard and optional `prevHash` compare-and-swap
 - `undo_write` — revert a journaled write byte-for-byte (multi-file moves/renames restored whole, deletes restored even if permanent); refuses with `undo_conflict` if the file changed since unless `force: true`; the undo is itself journaled, so `undo_write({ seq })` on an undo entry redoes it
 
 ## Requirements
@@ -86,7 +88,7 @@ Write:
 ## Environment variables
 
 - `SEEKSTONE_VAULT` (required) — absolute path to the vault
-- `SEEKSTONE_READ_ONLY=1` — unregister and reject all 10 write tools
+- `SEEKSTONE_READ_ONLY=1` — unregister and reject all 11 write tools
 - `SEEKSTONE_WRITE_PATHS` — comma-separated globs restricting where writes may land
 - `SEEKSTONE_SEMANTIC=1` — enable semantic/hybrid search modes (model must be fetched first)
 - `SEEKSTONE_MODEL_PATH` — override the embedding-model directory

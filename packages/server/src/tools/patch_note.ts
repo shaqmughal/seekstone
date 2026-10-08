@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { buildOutline } from '@seekstone/core/outline';
+import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -192,6 +193,7 @@ function updateCache(
   if (cached) {
     cached.body = newContent.slice(bodyStart);
     cached.raw = newContent;
+    cached.tasks = extractTasks(newContent);
     cached.sizeBytes = Buffer.byteLength(newContent, 'utf8');
   }
 }

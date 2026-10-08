@@ -14,6 +14,7 @@ function notes(...tagStrings: string[]): Map<string, IndexedNote> {
       fmKeys: '',
       fm: null,
       raw: '',
+      tasks: [],
       sizeBytes: 0,
       mtimeMs: 0,
     });

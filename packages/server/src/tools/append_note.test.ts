@@ -35,6 +35,7 @@ function buildCtx(
     fmKeys: n.fmKeys ?? '',
     fm: n.fm ?? null,
     raw: n.raw ?? n.body,
+    tasks: [],
     sizeBytes: Buffer.byteLength(n.raw ?? n.body, 'utf8'),
     mtimeMs: Date.now(),
   }));
@@ -145,6 +146,24 @@ describe('appendNote', () => {
     expect(cached).toBeDefined();
     expect(cached?.body).toContain('Cache update check.');
     expect(cached?.raw).toContain('Cache update check.');
+  });
+
+  it('recomputes cached tasks when the append adds a checkbox', async () => {
+    await writeFile(join(vaultRoot, 'with-fm.md'), NOTE_WITH_FM, 'utf8');
+    const ctx = buildCtx(vaultRoot, [
+      {
+        id: 'with-fm.md',
+        title: 'Test Note',
+        body: '# Hello\n\nBody line one.\n',
+        raw: NOTE_WITH_FM,
+      },
+    ]);
+
+    await appendNote(ctx, { path: 'with-fm.md', content: '- [ ] appended task' });
+
+    const cached = ctx.notes.get('with-fm.md');
+    expect(cached?.tasks).toHaveLength(1);
+    expect(cached?.tasks[0]).toMatchObject({ state: ' ', text: 'appended task' });
   });
 
   it('throws "Path outside vault" for path traversal', async () => {

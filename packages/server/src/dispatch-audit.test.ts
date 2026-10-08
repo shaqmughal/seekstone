@@ -33,6 +33,7 @@ tags: [x]
 ${BODY_SENTINEL} hello twice: hello.
 
 - item ^blk1
+- [ ] toggle me
 `;
 const NOTE_B = `# Beta
 
@@ -87,6 +88,8 @@ describe('audit — one record per write-tool call', () => {
   it('covers every write tool (plus get_periodic_note create) with ok outcomes and hash pairs', async () => {
     const calls: Array<[string, unknown]> = [
       ['create_note', { path: 'New.md', content: NEW_CONTENT_SENTINEL }],
+      // Before any other Alpha edit, so the task's line number is stable.
+      ['update_task', { path: 'Alpha.md', line: 11, state: 'x' }],
       ['append_note', { path: 'Alpha.md', content: NEW_CONTENT_SENTINEL }],
       ['patch_frontmatter', { path: 'Alpha.md', patch: { status: NEW_CONTENT_SENTINEL } }],
       [
@@ -335,6 +338,7 @@ describe('audit — one record per write-tool call', () => {
       'read_notes',
       'list_notes',
       'list_tags',
+      'list_tasks',
       'outline_note',
       'get_backlinks',
       'get_links',

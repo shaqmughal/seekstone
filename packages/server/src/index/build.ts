@@ -2,6 +2,7 @@ import { readFile } from 'node:fs/promises';
 import { basename, extname } from 'node:path';
 import { extractInlineTags, extractLinksWithLines, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { extractTasks } from '@seekstone/core/tasks';
 import { walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
@@ -59,6 +60,7 @@ export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
           fmKeys: fm.keys.join(' '),
           fm: fm.data,
           raw,
+          tasks: extractTasks(raw),
           sizeBytes: entry.sizeBytes,
           mtimeMs: entry.mtimeMs,
         };

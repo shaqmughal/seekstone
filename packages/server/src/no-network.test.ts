@@ -77,7 +77,7 @@ describe('the server makes no outbound network calls', () => {
   });
 
   it('every tool runs without opening a connection', async () => {
-    // Covers ALL 23 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
+    // Covers ALL 25 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
     const calls: Array<[string, unknown]> = [
       ['search', { query: 'hello' }],
       ['query_notes', { where: [{ key: 'title', op: 'ne', value: 'x' }] }],
@@ -86,6 +86,7 @@ describe('the server makes no outbound network calls', () => {
       ['read_notes', { items: [{ path: 'a.md' }] }],
       ['list_notes', {}],
       ['list_tags', {}],
+      ['list_tasks', {}],
       ['outline_note', { path: 'a.md' }],
       ['get_backlinks', { path: 'a.md' }],
       ['get_links', { path: 'a.md' }],
@@ -96,6 +97,7 @@ describe('the server makes no outbound network calls', () => {
       ['patch_frontmatter', { path: 'a.md', patch: { status: 'done' } }],
       ['patch_note', { path: 'a.md', target: { heading: 'A' }, operation: 'append', content: 'y' }],
       ['replace_in_note', { path: 'a.md', find: 'hello', replace: 'hi' }],
+      ['update_task', { path: 'a.md', line: 1, state: 'x' }],
       ['append_periodic_note', { period: 'daily', content: 'log line' }],
       ['rename_heading', { path: 'a.md', oldHeading: 'A', newHeading: 'B' }],
       ['move_note', { from: 'new.md', to: 'moved.md' }],

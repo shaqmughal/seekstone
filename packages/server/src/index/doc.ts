@@ -1,6 +1,7 @@
 import { basename, extname } from 'node:path';
 import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { extractTasks } from '@seekstone/core/tasks';
 import type { IndexedNote } from './types.js';
 
 /** Build an IndexedNote from a vault-relative path and raw file content. */
@@ -19,6 +20,7 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
     fmKeys: fm.keys.join(' '),
     fm: fm.data,
     raw,
+    tasks: extractTasks(raw),
     sizeBytes: Buffer.byteLength(raw, 'utf8'),
     mtimeMs: Date.now(),
   };
