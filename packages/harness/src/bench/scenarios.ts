@@ -117,12 +117,13 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
 }
 
 /**
- * folder-read reads at most this many notes. A real "list open tasks" sweep
- * without list_tasks would read EVERY note in the folder (1,000 daily notes
- * on the fixture), so the recorded multiplier is a deliberate understatement
- * of the true read-whole-notes cost — keep the caveat in the report.
+ * folder-read reads at most this many notes — a month of daily notes, so a
+ * month-scoped task-triage question is answered COMPLETELY by both paths and
+ * the multiplier compares like for like. The remaining conservatism is the
+ * fixture itself: its daily notes are a few hundred bytes, far smaller than
+ * real ones, so the read-whole-notes cost is still understated.
  */
-const FOLDER_READ_CAP = 10;
+const FOLDER_READ_CAP = 31;
 
 /** One pass over a task: the ordered calls an agent would make. */
 async function executeTask(
@@ -141,14 +142,30 @@ async function executeTask(
   }
 
   if (strategy === 'folder-read') {
-    // Fallback for backends without list_tasks: enumerate the folder, read
-    // the first K notes (deterministic path order), scan client-side.
+    // Fallback for backends without list_tasks: list the prefix (date-named
+    // notes make a folder prefix a date range — what an agent would ask for),
+    // read the first K matches, scan client-side. Backends whose list only
+    // accepts real directories get the containing folder + a client filter.
     const folder = task.taskQuery?.folder ?? '';
     const steps: TaskStep[] = [];
-    const listing = await backend.list(folder);
-    steps.push(step('list', folder || '(vault)', listing));
+    const matches = (e: { path: string; isDirectory: boolean }) =>
+      !e.isDirectory && e.path.endsWith('.md') && e.path.startsWith(folder);
+
+    let listing: BackendResponse<{ path: string; isDirectory: boolean }[]> | null = null;
+    let listedAs = folder || '(vault)';
+    try {
+      listing = await backend.list(folder);
+    } catch {
+      listing = null;
+    }
+    if (!listing || !listing.result.some(matches)) {
+      const parent = folder.includes('/') ? folder.slice(0, folder.lastIndexOf('/')) : '';
+      listing = await backend.list(parent);
+      listedAs = parent || '(vault)';
+    }
+    steps.push(step('list', listedAs, listing));
     const notePaths = listing.result
-      .filter((e) => !e.isDirectory && e.path.endsWith('.md'))
+      .filter(matches)
       .map((e) => e.path)
       .sort()
       .slice(0, FOLDER_READ_CAP);
