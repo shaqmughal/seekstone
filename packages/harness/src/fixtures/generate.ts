@@ -57,6 +57,52 @@ const TASK_PHRASES = [
   'Back up the vault copy',
   'Empty the trash folder',
 ];
+
+/** The isolated checkbox-planting stream — see its use in generateVault. */
+export function taskRngFor(seed: number): Rng {
+  return new Rng(seed * 7919 + 285);
+}
+
+export interface DailyTaskBlock {
+  /** Expanded lines to splice into the daily note's parts (may be empty). */
+  lines: string[];
+  planted: number;
+  open: number;
+}
+
+/**
+ * The task block for daily note `d`, drawn ONLY from taskRng. Shared by the
+ * generator and by plant-tasks.ts (the fixture-v2.1 migration that injected
+ * tasks into the committed vaults when the pinned corpus became unfetchable
+ * upstream) — one implementation, so the two can never disagree.
+ */
+export function buildDailyTaskBlock(taskRng: Rng, d: number): DailyTaskBlock {
+  const lines: string[] = [];
+  let planted = 0;
+  let open = 0;
+
+  if (taskRng.chance(0.6)) {
+    lines.push('## Tasks', '');
+    const taskCount = taskRng.int(1, 6);
+    const taskLines: string[] = [];
+    for (let t = 0; t < taskCount; t++) {
+      const bullet = taskRng.chance(0.12) ? (taskRng.chance(0.5) ? '*' : '+') : '-';
+      const indent = t > 0 && taskRng.chance(0.2) ? '  ' : '';
+      const x = taskRng.next();
+      const state = x < 0.55 ? ' ' : x < 0.9 ? 'x' : taskRng.chance(0.5) ? '/' : '-';
+      taskLines.push(`${indent}${bullet} [${state}] ${taskRng.pick(TASK_PHRASES)}`);
+      planted++;
+      if (state === ' ') open++;
+    }
+    lines.push(...taskLines, '');
+  }
+  // A few deterministic fenced decoys: scanner-exclusion ground truth in the
+  // committed fixture (a `- [ ]` inside a code fence must never be a task).
+  if (d % 400 === 7) {
+    lines.push('```', '- [ ] decoy task inside a fence', '```', '');
+  }
+  return { lines, planted, open };
+}
 const EXTRA_URLS = [
   'https://archive.org/details/encyclopaediabri',
   'https://www.gutenberg.org/ebooks/author/various',
@@ -110,7 +156,7 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
   // Isolated stream for checkbox planting (SHA-285): every draw for tasks
   // comes from here, so the main `rng` sequence — and therefore every byte of
   // every non-daily note — is identical to a pre-task-generator vault.
-  const taskRng = new Rng(seed * 7919 + 285);
+  const taskRng = taskRngFor(seed);
   const { outDir, corpus } = opts;
 
   if (corpus.length < Math.ceil(count * 0.8)) {
@@ -274,26 +320,10 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     parts.push(Array.from({ length: n }, () => `- [[${wikilink()}]]`).join('\n'), '');
 
     // Checkbox tasks (SHA-285), drawn ONLY from taskRng — see its declaration.
-    if (taskRng.chance(0.6)) {
-      parts.push('## Tasks', '');
-      const taskCount = taskRng.int(1, 6);
-      const lines: string[] = [];
-      for (let t = 0; t < taskCount; t++) {
-        const bullet = taskRng.chance(0.12) ? (taskRng.chance(0.5) ? '*' : '+') : '-';
-        const indent = t > 0 && taskRng.chance(0.2) ? '  ' : '';
-        const x = taskRng.next();
-        const state = x < 0.55 ? ' ' : x < 0.9 ? 'x' : taskRng.chance(0.5) ? '/' : '-';
-        lines.push(`${indent}${bullet} [${state}] ${taskRng.pick(TASK_PHRASES)}`);
-        result.tasksPlanted++;
-        if (state === ' ') result.openTasks++;
-      }
-      parts.push(lines.join('\n'), '');
-    }
-    // A few deterministic fenced decoys: scanner-exclusion ground truth in the
-    // committed fixture (a `- [ ]` inside a code fence must never be a task).
-    if (d % 400 === 7) {
-      parts.push('```', '- [ ] decoy task inside a fence', '```', '');
-    }
+    const taskBlock = buildDailyTaskBlock(taskRng, d);
+    parts.push(...taskBlock.lines);
+    result.tasksPlanted += taskBlock.planted;
+    result.openTasks += taskBlock.open;
 
     if (rng.chance(0.4)) parts.push(`#${pickTag()}`, '');
     write(`Daily Notes/${date}.md`, parts.join('\n'));
