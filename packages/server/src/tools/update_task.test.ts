@@ -2,13 +2,16 @@ import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
-import { afterEach, beforeEach, describe, expect, it } from 'vitest';
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
+import { atomicWrite } from '../atomic-write.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc } from '../index/doc.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY, parseWritePolicy } from '../policy.js';
 import { listTasks } from './list_tasks.js';
 import { UpdateTaskInput, updateTask } from './update_task.js';
+
+vi.mock('../atomic-write.js', { spy: true });
 
 const NOTE = `---
 title: Tasks
@@ -187,6 +190,34 @@ describe('updateTask — guards', () => {
     await expect(updateTask(ctx, { path: '../evil.md', line: 1, state: 'x' })).rejects.toThrow(
       /outside vault/i,
     );
+  });
+});
+
+describe('updateTask — write-safety tripwire', () => {
+  afterEach(() => {
+    vi.restoreAllMocks();
+  });
+
+  it('throws Write-safety violation if the frontmatter region is corrupted post-write', async () => {
+    const ctx = buildCtx(vaultRoot);
+    // Fault injection: the tripwire branch is unreachable through the real
+    // splice (the marker offset is always in the body), so corrupt the write
+    // itself to prove the post-write verification actually fires.
+    vi.mocked(atomicWrite).mockImplementationOnce(async (absPath: string, content: string) => {
+      await writeFile(absPath, content.replace('title: Tasks', 'title: tampered'), 'utf8');
+    });
+
+    await expect(updateTask(ctx, { path: 'note.md', line: 7, state: 'x' })).rejects.toThrow(
+      /Write-safety violation/,
+    );
+  });
+
+  it('the tripwire stays quiet on an honest write', async () => {
+    const ctx = buildCtx(vaultRoot);
+    await expect(updateTask(ctx, { path: 'note.md', line: 7, state: 'x' })).resolves.toMatchObject({
+      newState: 'x',
+    });
+    expect(vi.mocked(atomicWrite)).toHaveBeenCalled();
   });
 });
 

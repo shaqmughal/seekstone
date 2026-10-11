@@ -55,11 +55,12 @@ export function extractTasks(raw: string): TaskEntry[] {
 
     if (fence) {
       const close = FENCE_RE.exec(line);
+      const closeMarker = close?.[1] ?? '';
+      const closeTrailer = close?.[2] ?? '';
       if (
-        close &&
-        close[1]?.startsWith(fence.char) &&
-        (close[1]?.length ?? 0) >= fence.len &&
-        (close[2] ?? '') === ''
+        closeMarker.startsWith(fence.char) &&
+        closeMarker.length >= fence.len &&
+        closeTrailer === ''
       ) {
         fence = null;
       }

@@ -2,6 +2,13 @@ import { describe, expect, it } from 'vitest';
 import { buildOutline } from './outline.js';
 import { extractTasks } from './tasks.js';
 
+/** Index into an array the test knows is populated; fails loudly instead of masking a miss. */
+function at<T>(items: ArrayLike<T>, index: number): T {
+  const item = items[index];
+  if (item === undefined) throw new Error(`expected an element at index ${index}`);
+  return item;
+}
+
 describe('extractTasks', () => {
   it('finds -, *, and + checkboxes with any single-char marker', () => {
     const raw = [
@@ -48,8 +55,8 @@ describe('extractTasks', () => {
     const tasks = extractTasks(raw);
     expect(tasks.map((t) => t.col)).toEqual([3, 5, 4]);
     for (const [i, line] of raw.split('\n').entries()) {
-      const task = tasks[i];
-      expect(line[task!.col]).toBe(task!.state);
+      const task = at(tasks, i);
+      expect(line[task.col]).toBe(task.state);
     }
   });
 
@@ -68,7 +75,7 @@ describe('extractTasks', () => {
   it('matches a bare checkbox with no text', () => {
     const tasks = extractTasks('- [ ]');
     expect(tasks).toHaveLength(1);
-    expect(tasks[0]!.text).toBe('');
+    expect(at(tasks, 0).text).toBe('');
   });
 
   it('skips checkboxes inside backtick and tilde fences', () => {
@@ -122,8 +129,8 @@ describe('extractTasks', () => {
     const raw = ['---', 'todo: - [ ] not a task', '---', '', '- [ ] real task'].join('\n');
     const tasks = extractTasks(raw);
     expect(tasks).toHaveLength(1);
-    expect(tasks[0]!.text).toBe('real task');
-    expect(tasks[0]!.line).toBe(5);
+    expect(at(tasks, 0).text).toBe('real task');
+    expect(at(tasks, 0).line).toBe(5);
   });
 
   it('attaches the nearest preceding heading, undefined before the first', () => {
@@ -145,7 +152,7 @@ describe('extractTasks', () => {
     const raw = ['---', 'title: t', '---', '# My  Heading ', '', '- [ ] a task'].join('\n');
     const outline = buildOutline(raw);
     const tasks = extractTasks(raw);
-    expect(tasks[0]!.heading).toBe(outline.headings[0]!.text);
+    expect(at(tasks, 0).heading).toBe(at(outline.headings, 0).text);
   });
 
   it('handles CRLF files: clean text and a col that points at the marker', () => {
@@ -154,7 +161,7 @@ describe('extractTasks', () => {
     expect(tasks.map((t) => t.text)).toEqual(['crlf task', 'second']);
     const lines = raw.split('\n');
     for (const task of tasks) {
-      expect(lines[task.line - 1]![task.col]).toBe(task.state);
+      expect(at(lines, task.line - 1)[task.col]).toBe(task.state);
     }
   });
 
@@ -166,6 +173,6 @@ describe('extractTasks', () => {
 
   it('trims task text, including trailing hard-break spaces', () => {
     const tasks = extractTasks('- [ ]  padded text  ');
-    expect(tasks[0]!.text).toBe('padded text');
+    expect(at(tasks, 0).text).toBe('padded text');
   });
 });

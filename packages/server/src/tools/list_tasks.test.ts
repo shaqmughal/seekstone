@@ -4,7 +4,7 @@ import type { ServerContext } from '../context.js';
 import { buildDoc } from '../index/doc.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
-import { listTasks } from './list_tasks.js';
+import { ListTasksInput, listTasks } from './list_tasks.js';
 
 function buildCtx(notes: { path: string; raw: string; mtimeMs?: number }[]): ServerContext {
   const index = new MiniSearch<IndexedNote>({
@@ -170,7 +170,23 @@ describe('listTasks', () => {
     const raw = '---\ntitle: t\n---\n\n# H\n\n- [ ] target';
     const ctx = buildCtx([{ path: 'a.md', raw }]);
     const { tasks } = listTasks(ctx, { state: 'open', limit: 100 });
-    const line = tasks[0]!.line;
-    expect(raw.split('\n')[line - 1]).toBe('- [ ] target');
+    const [task] = tasks;
+    if (!task) throw new Error('expected exactly one task');
+    expect(raw.split('\n')[task.line - 1]).toBe('- [ ] target');
+  });
+
+  it('schema rejects an unparseable modifiedAfter and accepts an ISO one', () => {
+    const bad = ListTasksInput.safeParse({ state: 'open', limit: 10, modifiedAfter: 'not-a-date' });
+    expect(bad.success).toBe(false);
+    if (!bad.success) {
+      expect(bad.error.issues.map((i) => i.message)).toContain('not a parseable date');
+    }
+
+    const good = ListTasksInput.safeParse({
+      state: 'open',
+      limit: 10,
+      modifiedAfter: '2026-10-01T00:00:00Z',
+    });
+    expect(good.success).toBe(true);
   });
 });
