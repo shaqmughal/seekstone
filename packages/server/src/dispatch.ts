@@ -9,6 +9,7 @@ import { GetBacklinksInput, getBacklinks } from './tools/get_backlinks.js';
 import { GetLinksInput, getLinks } from './tools/get_links.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
 import { ListTagsInput, listTags } from './tools/list_tags.js';
+import { ListTasksInput, listTasks } from './tools/list_tasks.js';
 import { ListWritesInput, listWrites } from './tools/list_writes.js';
 import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { OutlineNoteInput, outlineNote } from './tools/outline_note.js';
@@ -28,6 +29,7 @@ import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { ResolveNoteInput, resolveNote } from './tools/resolve_note.js';
 import { SearchInput, search } from './tools/search.js';
 import { UndoWriteInput, undoWrite } from './tools/undo_write.js';
+import { UpdateTaskInput, updateTask } from './tools/update_task.js';
 
 export type ToolResult = {
   content: { type: 'text'; text: string }[];
@@ -49,6 +51,7 @@ export const HANDLED_TOOLS = [
   'read_notes',
   'list_notes',
   'list_tags',
+  'list_tasks',
   'create_note',
   'delete_note',
   'move_note',
@@ -63,6 +66,7 @@ export const HANDLED_TOOLS = [
   'replace_in_note',
   'get_periodic_note',
   'append_periodic_note',
+  'update_task',
   'list_writes',
   'undo_write',
 ] as const;
@@ -82,6 +86,7 @@ export const WRITE_TOOLS: ReadonlySet<string> = new Set([
   'patch_note',
   'replace_in_note',
   'append_periodic_note',
+  'update_task',
   'undo_write',
 ]);
 
@@ -109,6 +114,8 @@ const META_KEYS = [
   'period',
   'date',
   'permanent',
+  'line',
+  'state',
   'prevHash',
   'budgetBytes',
   'seq',
@@ -328,6 +335,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const result = listTags(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
+    case 'list_tasks': {
+      const input = ListTasksInput.parse(args);
+      const result = listTasks(ctx, input);
+      // Minified: one compact row per task is the tool's whole point.
+      return { content: [{ type: 'text', text: JSON.stringify(result) }] };
+    }
     case 'create_note': {
       const input = CreateNoteInput.parse(args);
       const result = await createNote(ctx, input);
@@ -508,6 +521,20 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
           path: result.path,
           contentHash: result.contentHash,
           bytesWritten: result.bytesWritten,
+        },
+      };
+    }
+    case 'update_task': {
+      const input = UpdateTaskInput.parse(args);
+      const result = await updateTask(ctx, input);
+      return {
+        content: [{ type: 'text', text: JSON.stringify(result) }],
+        audit: {
+          path: result.path,
+          line: result.line,
+          oldState: result.oldState,
+          newState: result.newState,
+          contentHash: result.contentHash,
         },
       };
     }

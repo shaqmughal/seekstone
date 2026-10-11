@@ -15,6 +15,7 @@ import { patchFrontmatter } from './patch_frontmatter.js';
 import { patchNote } from './patch_note.js';
 import { readNote } from './read_note.js';
 import { replaceInNote } from './replace_in_note.js';
+import { updateTask } from './update_task.js';
 
 /**
  * Compare-and-swap behavior across every edit tool that accepts prevHash:
@@ -127,6 +128,24 @@ describe('CAS on edit tools', () => {
     await expect(
       patchFrontmatter(ctx, { path, patch: { status: 'again' }, prevHash: hash }),
     ).rejects.toThrow(/hash_conflict/);
+  });
+
+  it('update_task: match succeeds and returns the new hash; stale conflicts and leaves disk untouched', async () => {
+    const taskNote = '# Todo\n\n- [ ] cas target task\n';
+    await writeFile(join(tmpDir, 'ut.md'), taskNote, 'utf8');
+    const hash = contentHash(taskNote);
+
+    const ok = await updateTask(ctx, { path: 'ut.md', line: 3, state: 'x', prevHash: hash });
+    expect(ok.contentHash).toBe(contentHash(await readFile(join(tmpDir, 'ut.md'), 'utf8')));
+
+    const before = await readFile(join(tmpDir, 'ut.md'), 'utf8');
+    await updateTask(ctx, { path: 'ut.md', line: 3, state: ' ', prevHash: hash }).then(
+      () => {
+        throw new Error('expected hash_conflict');
+      },
+      (err) => expectHashConflict(err, hash),
+    );
+    expect(await readFile(join(tmpDir, 'ut.md'), 'utf8')).toBe(before);
   });
 
   it('replace_in_note: stale conflicts even on dryRun', async () => {

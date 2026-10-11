@@ -1,3 +1,5 @@
+import type { TaskEntry } from '@seekstone/core/tasks';
+
 export interface IndexedNote {
   /** Vault-relative path. Used as the MiniSearch document ID. */
   id: string;
@@ -13,6 +15,8 @@ export interface IndexedNote {
   fm: Record<string, unknown> | null;
   /** Raw full text (FM + body) for excerpt extraction after a hit. */
   raw: string;
+  /** Checkbox items extracted at index time — list_tasks reads these, never disk. */
+  tasks: TaskEntry[];
   sizeBytes: number;
   mtimeMs: number;
 }

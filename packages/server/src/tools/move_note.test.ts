@@ -37,6 +37,7 @@ function seedInto(target: ServerContext, relPath: string, raw: string): IndexedN
     fmKeys: '',
     fm: null,
     raw,
+    tasks: [],
     sizeBytes: Buffer.byteLength(raw, 'utf8'),
     mtimeMs: Date.now(),
   };
@@ -54,6 +55,7 @@ function seedNote(relPath: string, raw: string): IndexedNote {
     fmKeys: '',
     fm: null,
     raw,
+    tasks: [],
     sizeBytes: Buffer.byteLength(raw, 'utf8'),
     mtimeMs: Date.now(),
   };

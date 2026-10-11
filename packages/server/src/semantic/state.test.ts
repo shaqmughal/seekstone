@@ -28,6 +28,7 @@ function note(id: string, body: string): IndexedNote {
     fmKeys: '',
     fm: null,
     raw: body,
+    tasks: [],
     sizeBytes: body.length,
     mtimeMs: 0,
   };

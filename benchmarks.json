@@ -19,9 +19,9 @@
     "source": "packages/server/package.json#version"
   },
   "tools": {
-    "total": 23,
-    "read": 13,
-    "write": 10,
+    "total": 25,
+    "read": 14,
+    "write": 11,
     "source": "packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS"
   },
   "guarantees": {

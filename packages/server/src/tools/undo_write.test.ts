@@ -21,6 +21,7 @@ import { renameHeading } from './rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './replace_in_note.js';
 import { SearchInput, search } from './search.js';
 import { undoWrite } from './undo_write.js';
+import { updateTask } from './update_task.js';
 
 /**
  * The acceptance test for SHA-298: for every write tool, write → undo_write
@@ -142,6 +143,26 @@ describe('undo_write — byte-identical round trip per write tool', () => {
     );
     await undoWrite(ctx, {});
     expect(await disk('Alpha.md')).toBe(A);
+  });
+
+  it('update_task — toggle is journaled and restores byte-identically; no-op journals nothing', async () => {
+    const T = '# Todo\n\n- [ ] undo target\n';
+    await writeFile(join(vault, 'Tasks.md'), T, 'utf8');
+
+    await updateTask(ctx, { path: 'Tasks.md', line: 3, state: 'x' });
+    expect(await disk('Tasks.md')).toBe(T.replace('- [ ]', '- [x]'));
+
+    const r = await undoWrite(ctx, {});
+    expect(r.tool).toBe('update_task');
+    expect(r.restored).toEqual([{ path: 'Tasks.md', restoredHash: contentHash(T) }]);
+    expect(await disk('Tasks.md')).toBe(T);
+
+    // Same-state call: success, but nothing journaled — the undo above was
+    // the journal's last real entry, so the next default undo redoes it.
+    const noop = await updateTask(ctx, { path: 'Tasks.md', line: 3, state: ' ' });
+    expect(noop.oldState).toBe(' ');
+    const writes = await listWrites(ctx, {});
+    expect(writes.writes[0]?.tool).toBe('undo_write');
   });
 
   it('create_note — undo removes a fresh note, restores an overwritten one', async () => {

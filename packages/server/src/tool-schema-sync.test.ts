@@ -18,6 +18,7 @@ import { GetBacklinksInput } from './tools/get_backlinks.js';
 import { GetLinksInput } from './tools/get_links.js';
 import { ListNotesInput } from './tools/list_notes.js';
 import { ListTagsInput } from './tools/list_tags.js';
+import { ListTasksInput } from './tools/list_tasks.js';
 import { ListWritesInput } from './tools/list_writes.js';
 import { MoveNoteInput } from './tools/move_note.js';
 import { OutlineNoteInput } from './tools/outline_note.js';
@@ -32,6 +33,7 @@ import { ReplaceInNoteInput } from './tools/replace_in_note.js';
 import { ResolveNoteInput } from './tools/resolve_note.js';
 import { SearchInput } from './tools/search.js';
 import { UndoWriteInput } from './tools/undo_write.js';
+import { UpdateTaskInput } from './tools/update_task.js';
 
 /** Tool name → the zod schema its dispatch case parses with. */
 const ZOD_INPUTS: Record<string, z.ZodType> = {
@@ -42,6 +44,7 @@ const ZOD_INPUTS: Record<string, z.ZodType> = {
   read_notes: ReadNotesInput,
   list_notes: ListNotesInput,
   list_tags: ListTagsInput,
+  list_tasks: ListTasksInput,
   create_note: CreateNoteInput,
   delete_note: DeleteNoteInput,
   move_note: MoveNoteInput,
@@ -58,6 +61,7 @@ const ZOD_INPUTS: Record<string, z.ZodType> = {
   append_periodic_note: AppendPeriodicNoteInput,
   list_writes: ListWritesInput,
   undo_write: UndoWriteInput,
+  update_task: UpdateTaskInput,
 };
 
 type JsonSchema = {

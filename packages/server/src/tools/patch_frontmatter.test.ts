@@ -37,6 +37,7 @@ function buildCtx(
     fmKeys: n.fmKeys ?? '',
     fm: n.fm ?? null,
     raw: n.raw ?? n.body,
+    tasks: [],
     sizeBytes: Buffer.byteLength(n.raw ?? n.body, 'utf8'),
     mtimeMs: Date.now(),
   }));

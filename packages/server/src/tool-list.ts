@@ -302,6 +302,47 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'list_tasks',
+    annotations: READ_ONLY_ANNOTATIONS,
+    description:
+      'List Markdown checkbox tasks as compact structured rows (path, line, state, text, nearest heading) — vault-wide or scoped by note, folder, tag, or modified time. Defaults to open tasks. Custom markers like "/" are single-char states. Rows feed straight into update_task; use this instead of searching for "- [ ]" or reading whole notes.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        path: {
+          type: 'string',
+          description: 'Vault-relative path to a single note. Omit to search the whole vault.',
+        },
+        folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
+        tag: {
+          type: 'string',
+          description:
+            'Restrict to notes with this tag. # optional, case-insensitive; nested child tags match ("project" matches project/alpha).',
+        },
+        state: {
+          anyOf: [
+            {
+              type: 'string',
+              enum: ['open', 'done', 'any'],
+              description: 'open = "- [ ]" (default); done = "- [x]" or "- [X]"; any = every task.',
+            },
+            {
+              type: 'string',
+              description: 'A single custom marker character, e.g. "/" or "-".',
+            },
+          ],
+          description: 'Which tasks to return. Default: open.',
+        },
+        modifiedAfter: {
+          type: 'string',
+          description: 'Only tasks in notes modified at or after this ISO 8601 date/time.',
+        },
+        limit: { type: 'number', description: 'Max tasks (1–500, default 100).' },
+      },
+      required: [],
+    },
+  },
+  {
     name: 'create_note',
     annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
@@ -682,6 +723,37 @@ export const ALL_TOOLS = [
         },
       },
       required: ['content'],
+    },
+  },
+  {
+    name: 'update_task',
+    annotations: IDEMPOTENT_DESTRUCTIVE_WRITE_ANNOTATIONS,
+    description:
+      'Set the state of one Markdown checkbox identified by path + line (from list_tasks), rewriting exactly one character — the rest of the file, frontmatter included, stays byte-identical. Pass expectText to guard against the line having changed, and prevHash for full compare-and-swap. Setting the current state again is a success no-op.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        path: { type: 'string', description: 'Vault-relative path to the note.' },
+        line: {
+          type: 'number',
+          description: '1-based line number of the task, as returned by list_tasks.',
+        },
+        expectText: {
+          type: 'string',
+          description:
+            'Optional guard: the task text list_tasks returned. Fails with task_text_mismatch if the line’s text changed since.',
+        },
+        state: {
+          type: 'string',
+          description: 'New marker character: "x" (done), " " (open), or a custom marker like "/".',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+        },
+      },
+      required: ['path', 'line', 'state'],
     },
   },
   {

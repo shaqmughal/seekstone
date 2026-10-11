@@ -36,7 +36,7 @@ against the same pinned SHA-256 hashes.
   subcommand.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 23 tools** through the real dispatcher —
+  the real index build **and all 25 tools** through the real dispatcher —
   including semantic/hybrid search with the semantic index enabled, built,
   and persisting its cache under the stubs, plus the semantic bundle's
   disk-only model reassembly. Any connection attempt fails the suite.
@@ -114,7 +114,7 @@ reports where it went. `permanent: true` is the explicit opt-out.
 ### 7. Optional compare-and-swap on every write
 
 `read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Every
-content-editing tool — the nine original write tools — accepts `prevHash` and refuse to act — with a structured
+content-editing tool — the ten pre-undo write tools, `update_task` included — accepts `prevHash` and refuse to act — with a structured
 `hash_conflict` error carrying the current hash — when the note changed since
 it was read, so a concurrent edit is never silently discarded, moved, or
 deleted. Every mutating result returns a `contentHash`, so chained edits need
@@ -132,7 +132,7 @@ locking.
 
 ### 8. Write scoping and read-only mode
 
-`SEEKSTONE_READ_ONLY=1` removes the 10 write tools (`undo_write` included)
+`SEEKSTONE_READ_ONLY=1` removes the 11 write tools (`undo_write` included)
 from `tools/list` entirely (and rejects them at dispatch if a client calls
 anyway — including `get_periodic_note`'s create flag); `list_writes` is a read
 tool and stays visible. `SEEKSTONE_WRITE_PATHS` restricts writes to
