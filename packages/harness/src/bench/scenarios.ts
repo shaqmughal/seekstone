@@ -14,11 +14,11 @@ import { countTokens, timed } from './timer.js';
  * pays for search → read ×K → backlinks. The sum is the context tax per task.
  */
 
-export type ScenarioStrategy = 'context-pack' | 'search-read';
+export type ScenarioStrategy = 'context-pack' | 'search-read' | 'list-tasks' | 'folder-read';
 
 export interface TaskStep {
-  op: 'context_pack' | 'search' | 'read' | 'get_backlinks';
-  /** Query string (context_pack/search) or vault-relative note path. */
+  op: 'context_pack' | 'search' | 'read' | 'get_backlinks' | 'list_tasks' | 'list';
+  /** Query string (context_pack/search), folder, or vault-relative note path. */
   target: string;
   payloadBytes: number;
   payloadTokens: number;
@@ -65,8 +65,13 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
 
   const tasks: TaskResult[] = [];
   for (const task of taskSet.tasks) {
-    const strategy: ScenarioStrategy =
-      !forceMulticall && backend.contextPack ? 'context-pack' : 'search-read';
+    const strategy: ScenarioStrategy = task.taskQuery
+      ? !forceMulticall && backend.listTasks
+        ? 'list-tasks'
+        : 'folder-read'
+      : !forceMulticall && backend.contextPack
+        ? 'context-pack'
+        : 'search-read';
 
     const durations: number[] = [];
     const byteTotals: number[] = [];
@@ -111,26 +116,85 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
   };
 }
 
+/**
+ * folder-read reads at most this many notes — a month of daily notes, so a
+ * month-scoped task-triage question is answered COMPLETELY by both paths and
+ * the multiplier compares like for like. The remaining conservatism is the
+ * fixture itself: its daily notes are a few hundred bytes, far smaller than
+ * real ones, so the read-whole-notes cost is still understated.
+ */
+const FOLDER_READ_CAP = 31;
+
 /** One pass over a task: the ordered calls an agent would make. */
 async function executeTask(
   backend: Backend,
   task: TaskDef,
   strategy: ScenarioStrategy,
 ): Promise<TaskStep[]> {
+  if (strategy === 'list-tasks') {
+    const listTasksFn = backend.listTasks?.bind(backend);
+    if (!listTasksFn) {
+      throw new Error(`Backend ${backend.name} has no listTasks but strategy is list-tasks.`);
+    }
+    const q = task.taskQuery ?? {};
+    const r = await listTasksFn(q);
+    return [step('list_tasks', q.folder ?? '(vault)', r)];
+  }
+
+  if (strategy === 'folder-read') {
+    // Fallback for backends without list_tasks: list the prefix (date-named
+    // notes make a folder prefix a date range — what an agent would ask for),
+    // read the first K matches, scan client-side. Backends whose list only
+    // accepts real directories get the containing folder + a client filter.
+    const folder = task.taskQuery?.folder ?? '';
+    const steps: TaskStep[] = [];
+    const matches = (e: { path: string; isDirectory: boolean }) =>
+      !e.isDirectory && e.path.endsWith('.md') && e.path.startsWith(folder);
+
+    let listing: BackendResponse<{ path: string; isDirectory: boolean }[]> | null = null;
+    let listedAs = folder || '(vault)';
+    try {
+      listing = await backend.list(folder);
+    } catch {
+      listing = null;
+    }
+    if (!listing || !listing.result.some(matches)) {
+      const parent = folder.includes('/') ? folder.slice(0, folder.lastIndexOf('/')) : '';
+      listing = await backend.list(parent);
+      listedAs = parent || '(vault)';
+    }
+    steps.push(step('list', listedAs, listing));
+    const notePaths = listing.result
+      .filter(matches)
+      .map((e) => e.path)
+      .sort()
+      .slice(0, FOLDER_READ_CAP);
+    for (const p of notePaths) {
+      const r = await backend.read(p);
+      steps.push(step('read', p, r));
+    }
+    return steps;
+  }
+
+  const searchQuery = task.searchQuery;
+  if (!searchQuery) {
+    throw new Error(`Task ${task.id}: searchQuery missing for strategy ${strategy}.`);
+  }
+
   if (strategy === 'context-pack') {
     const contextPackFn = backend.contextPack?.bind(backend);
     if (!contextPackFn) {
       throw new Error(`Backend ${backend.name} has no contextPack but strategy is context-pack.`);
     }
-    const r = await contextPackFn(task.searchQuery, task.budgetBytes);
-    return [step('context_pack', task.searchQuery, r)];
+    const r = await contextPackFn(searchQuery, task.budgetBytes);
+    return [step('context_pack', searchQuery, r)];
   }
 
   const steps: TaskStep[] = [];
-  const search = await backend.search(task.searchQuery);
-  steps.push(step('search', task.searchQuery, search));
+  const search = await backend.search(searchQuery);
+  steps.push(step('search', searchQuery, search));
 
-  const hits = search.result.slice(0, task.readTopK);
+  const hits = search.result.slice(0, task.readTopK ?? 1);
   for (const hit of hits) {
     const r = await backend.read(hit.path);
     steps.push(step('read', hit.path, r));

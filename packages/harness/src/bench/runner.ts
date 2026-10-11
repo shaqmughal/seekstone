@@ -8,6 +8,8 @@ export interface ToolBenchmarks {
   list: RunStats | null;
   /** list_tags — all tags sorted by count. */
   listTags: RunStats | null;
+  /** list_tasks — vault-wide open-task listing from the warm index (SHA-285). */
+  listTasks: RunStats | null;
   /** context_pack — one-call context assembly for the first search query. */
   contextPack: { query: string; stats: RunStats } | null;
   /** outline_note — heading/block structure of the small read target. */
@@ -165,6 +167,9 @@ async function runToolBenchmarks(
   const listTagsFn = backend.listTags?.bind(backend);
   const listTags = listTagsFn ? await bench(() => listTagsFn()) : null;
 
+  const listTasksFn = backend.listTasks?.bind(backend);
+  const listTasks = listTasksFn ? await bench(() => listTasksFn({ state: 'open' })) : null;
+
   // context_pack — one-call context assembly; needs a query string
   const contextPackFn = backend.contextPack?.bind(backend);
   const contextPack =
@@ -205,7 +210,16 @@ async function runToolBenchmarks(
   const getPeriodicNoteFn = backend.getPeriodicNote?.bind(backend);
   const getPeriodicNote = getPeriodicNoteFn ? await bench(() => getPeriodicNoteFn('daily')) : null;
 
-  return { list, listTags, contextPack, outline, getBacklinks, getLinks, getPeriodicNote };
+  return {
+    list,
+    listTags,
+    listTasks,
+    contextPack,
+    outline,
+    getBacklinks,
+    getLinks,
+    getPeriodicNote,
+  };
 }
 
 async function resolveReadPaths(

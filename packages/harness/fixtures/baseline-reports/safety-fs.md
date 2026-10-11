@@ -1,9 +1,9 @@
 # Write Safety — fs
 
 - **Adapter:** Filesystem-direct (MiniSearch in-process, no HTTP round-trip)
-- **Snapshot:** 2026-09-07T04:09:11.715Z
+- **Snapshot:** 2026-10-08T05:45:54.436Z
 - **Sample:** 25 frontmatter-heavy notes
-- **Vault copy:** `<tmpdir>/seekstone-safety-dXmbkB`
+- **Vault copy:** `<tmpdir>/seekstone-safety-jvQhII`
 - **Original (read-only, untouched):** `packages/harness/fixtures/vault`
 
 ## Summary
@@ -19,6 +19,7 @@
 | create-no-clobber | 25 | 0 | 0 | ✅ Pass |
 | cas-conflict | 25 | 0 | 0 | ✅ Pass |
 | undo-roundtrip | 0 | 0 | 25 | — n/a (unsupported by adapter) |
+| task-toggle | 25 | 0 | 0 | ✅ Pass |
 
 > Skipped = the adapter does not expose the capability (delete/create/CAS), or the op does not apply to a note's shape. Skips are the capability matrix, not failures.
 

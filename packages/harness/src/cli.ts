@@ -394,6 +394,9 @@ cli
     console.log(
       `           ${r.wikilinks} planted random links (noise floor, ${(r.wikilinks / r.notes).toFixed(1)}/note; ${r.unresolvedTargets} unresolved), ${r.externalUrls} URLs, ${r.notesWithFrontmatter} with frontmatter`,
     );
+    console.log(
+      `           ${r.tasksPlanted} checkbox tasks in daily notes (${r.openTasks} open; isolated PRNG stream — non-daily notes byte-identical across this change)`,
+    );
     console.log(`           wrote ${outDir}`);
   });
 

@@ -8,7 +8,7 @@ runs in CI on every commit and every release. Claims → proof, in one page.
 The end-to-end proof is the harness **write-safety suite**
 ([`packages/harness/src/safety/`](../packages/harness/src/safety/)): it copies a
 vault to a scratch directory (never touching the original — the copy step
-refuses same-path or nested destinations), runs nine operations against every
+refuses same-path or nested destinations), runs ten operations against every
 sampled note through the server's own tool handlers, and verifies the outcome
 **byte-by-byte on disk**. The committed baseline for the 10,000-note fixture
 vault is
@@ -250,12 +250,18 @@ Full per-server reports live in
 | create-no-clobber | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | — n/a | ✅ 25/25 |
 | cas-conflict | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a | — n/a |
 | undo-roundtrip | ✅ 25/25 | — n/a | — n/a | — n/a | — n/a |
+| task-toggle | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a | — n/a |
 
 <sup>The cas-conflict op was extended on 2026-08-19 to also exercise stale-hash
 **move** and **delete** guards (seekstone and the fs reference declare and pass
 all three). The competitor rows are unchanged: their reports are dated
 snapshots from 2026-08-03, and none of those servers exposed a CAS surface for
-the op to drive in the first place.</sup>
+the op to drive in the first place. The task-toggle op (SHA-285) was added in
+2026-10: it seeds a checkbox, toggles it through the server's `update_task`,
+requires the post-file to differ at **exactly one byte**, then requires a wrong
+`expectText` to be refused with the file untouched. The same dated-snapshot
+caveat applies to its competitor columns — none of those servers exposed a
+line-guarded task-toggle surface for the op to drive.</sup>
 
 <sup>† obsidian-mcp-pro exposes no whole-file update tool — its `create_note`
 refuses existing paths, so the byte-edit ops cannot be exercised through its

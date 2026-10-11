@@ -32,6 +32,16 @@
       "readTopK": 2,
       "budgetBytes": 2048,
       "notes": "Wikilink-hub task: MOCs/ notes are link hubs. context_pack folds the link neighborhood in; the multi-call path needs read + get_backlinks. Zero hits from content-only searchers is a legitimate, reportable result."
+    },
+    {
+      "id": "open-tasks-daily",
+      "question": "Which tasks are still open from my daily notes this month?",
+      "taskQuery": {
+        "folder": "Daily Notes/2025-09",
+        "state": "open",
+        "limit": 500
+      },
+      "notes": "Task-triage task (SHA-285). Fixture mtimes are all checkout time, so recency cannot be an mtime filter; daily notes are date-named, so the folder PREFIX 'Daily Notes/2025-09' is the vault's final month — the scope an agent would use. Backends with list_tasks answer in ONE call of compact structured rows; the fallback lists the prefix and reads every matching note (a month, ≤31), so both paths produce the COMPLETE answer and the multiplier compares like for like. Still conservative: the fixture's daily notes are a few hundred bytes — far smaller than real ones."
     }
   ],
   "runs": 5,

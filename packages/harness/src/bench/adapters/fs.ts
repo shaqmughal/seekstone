@@ -189,6 +189,34 @@ export class FsAdapter implements Backend {
     await this.deleteNote(path);
   }
 
+  async updateTask(path: string, line: number, state: string, expectText?: string): Promise<void> {
+    // Reference semantics for the task-toggle op (SHA-285): validate the
+    // target line is a checkbox, honor the expectText guard, and splice
+    // exactly one character — the marker — leaving every other byte alone.
+    const abs = join(this.vaultRoot, path);
+    const content = await readFile(abs, 'utf8');
+    const lines = content.split('\n');
+    const target = lines[line - 1];
+    const m =
+      target === undefined
+        ? null
+        : /^([ \t]*[-*+] \[)(.)(\](?: |$))/.exec(target.replace(/\r$/, ''));
+    if (!m) throw new Error(`not_a_task: ${path}:${line}`);
+    const text = target
+      ?.replace(/\r$/, '')
+      .slice((m[1] as string).length + 1 + (m[3] as string).length)
+      .trim();
+    if (expectText !== undefined && text !== expectText) {
+      throw new Error(`task_text_mismatch: expected ${JSON.stringify(expectText)}`);
+    }
+    const col = (m[1] as string).length;
+    lines[line - 1] =
+      `${(target as string).slice(0, col)}${state}${(target as string).slice(col + 1)}`;
+    const updated = lines.join('\n');
+    await writeFile(abs, updated, 'utf8');
+    this.noteMap.set(path, updated);
+  }
+
   private async assertHashUnchanged(path: string, prevHash: string): Promise<void> {
     const current = await readFile(join(this.vaultRoot, path), 'utf8');
     const actual = createHash('sha256').update(current).digest('hex');

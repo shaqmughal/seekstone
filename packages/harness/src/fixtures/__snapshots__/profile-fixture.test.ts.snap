@@ -168,7 +168,7 @@ exports[`benchmark vault profile (golden): vault > produces the committed determ
   },
   "noteSizeDistribution": {
     "max": 857275,
-    "mean": 7042.2282,
+    "mean": 7048.4375,
     "median": 2052,
     "min": 51,
     "n": 10000,
@@ -454,7 +454,7 @@ exports[`benchmark vault profile (golden): vault-1k > produces the committed det
   },
   "noteSizeDistribution": {
     "max": 398882,
-    "mean": 6633.342,
+    "mean": 6639.246,
     "median": 1964,
     "min": 50,
     "n": 1000,
@@ -740,7 +740,7 @@ exports[`benchmark vault profile (golden): vault-5k > produces the committed det
   },
   "noteSizeDistribution": {
     "max": 802679,
-    "mean": 6634.2592,
+    "mean": 6640.3518,
     "median": 2060,
     "min": 51,
     "n": 5000,

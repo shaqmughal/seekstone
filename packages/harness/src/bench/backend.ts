@@ -62,6 +62,14 @@ export interface Backend {
 
   /** list_tags — all tags with usage counts. */
   listTags?(): Promise<BackendResponse<unknown>>;
+  /** list_tasks — checkbox items as compact structured rows (SHA-285). */
+  listTasks?(filter?: {
+    path?: string;
+    folder?: string;
+    tag?: string;
+    state?: string;
+    limit?: number;
+  }): Promise<BackendResponse<unknown>>;
   /** context_pack — byte-budgeted one-call context assembly for a question. */
   contextPack?(query: string, budgetBytes?: number): Promise<BackendResponse<unknown>>;
   /** outline_note — heading tree + block anchors without body content. */
@@ -97,6 +105,13 @@ export interface Backend {
   casMove?(from: string, to: string, prevHash: string): Promise<void>;
   /** Delete guarded by a version token; expected to fail when the note changed. */
   casDelete?(path: string, prevHash: string): Promise<void>;
+  /**
+   * Set one checkbox's state by path + line (SHA-285). Declaring this claims
+   * the single-character-rewrite guarantee and the expectText guard — the
+   * task-toggle op verifies exactly one byte changed and that a wrong
+   * expectText is refused with the file untouched.
+   */
+  updateTask?(path: string, line: number, state: string, expectText?: string): Promise<void>;
   /**
    * Revert the most recent write made through this backend's server tools.
    * Declaring it claims "every write is reversible" — the undo-roundtrip op

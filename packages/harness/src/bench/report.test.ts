@@ -43,6 +43,7 @@ const minimalSummary: BenchmarkSummary = {
   tools: {
     list: null,
     listTags: null,
+    listTasks: null,
     contextPack: null,
     outline: null,
     getBacklinks: null,
@@ -208,6 +209,7 @@ describe('renderBenchmarkMarkdown', () => {
       tools: {
         list: toolStats,
         listTags: toolStats,
+        listTasks: null,
         contextPack: { query: 'hello world', stats: toolStats },
         outline: { path: 'notes/small.md', stats: toolStats },
         getBacklinks: { path: 'notes/small.md', stats: toolStats },
@@ -240,6 +242,7 @@ describe('renderBenchmarkMarkdown', () => {
       tools: {
         list: toolStats,
         listTags: null,
+        listTasks: null,
         contextPack: null,
         outline: null,
         getBacklinks: null,

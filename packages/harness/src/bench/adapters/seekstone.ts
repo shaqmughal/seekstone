@@ -11,11 +11,13 @@ import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/g
 import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links.js';
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
 import { listTags as listTagsTool } from '../../../../server/src/tools/list_tags.js';
+import { listTasks as listTasksTool } from '../../../../server/src/tools/list_tasks.js';
 import { moveNote as moveNoteTool } from '../../../../server/src/tools/move_note.js';
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
 import { undoWrite as undoWriteTool } from '../../../../server/src/tools/undo_write.js';
+import { updateTask as updateTaskTool } from '../../../../server/src/tools/update_task.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 export interface SeekstoneAdapterOptions {
@@ -100,6 +102,28 @@ export class SeekstoneAdapter implements Backend {
 
   async listTags(): Promise<BackendResponse<unknown>> {
     const result = listTagsTool(this.ctx, { sort: 'count' });
+    const payload = JSON.stringify(result);
+    return {
+      result,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
+    };
+  }
+
+  async listTasks(filter?: {
+    path?: string;
+    folder?: string;
+    tag?: string;
+    state?: string;
+    limit?: number;
+  }): Promise<BackendResponse<unknown>> {
+    // Direct fn call bypasses the zod schema, so apply its defaults here.
+    const result = listTasksTool(this.ctx, {
+      ...filter,
+      state: filter?.state ?? 'open',
+      limit: filter?.limit ?? 100,
+    });
+    // Minified like the dispatch case — the payload IS the thesis here.
     const payload = JSON.stringify(result);
     return {
       result,
@@ -199,5 +223,10 @@ export class SeekstoneAdapter implements Backend {
   async undoLastWrite(): Promise<void> {
     await this.ensureJournal();
     await undoWriteTool(this.ctx, {});
+  }
+
+  async updateTask(path: string, line: number, state: string, expectText?: string): Promise<void> {
+    await this.ensureJournal();
+    await updateTaskTool(this.ctx, { path, line, state, expectText });
   }
 }
