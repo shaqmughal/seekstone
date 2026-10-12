@@ -109,6 +109,13 @@ const RETIRED = [
   /~23 minutes/,
   /88% of the time/,
   /beats obsidian-tc'?s plain/,
+  // SHA-342: the fixture-v2.0 in-process canon (5.2 ms @10k), retired by the
+  // fixture-v2.1 canon re-run of 2026-10-12 (5.6 ms). Every multiplier divides
+  // by that figure, so the old headline set goes with it.
+  /(?<![\d.])5\.2\s*ms/,
+  /~?514×/,
+  /~7× slower/,
+  /~?110–300×/,
 ];
 const RETIRED_SURFACES = [
   'README.md',

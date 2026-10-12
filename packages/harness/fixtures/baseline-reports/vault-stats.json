@@ -1,6 +1,6 @@
 {
   "vaultRoot": "packages/harness/fixtures/vault",
-  "snapshotDate": "2026-09-05T14:51:52.766Z",
+  "snapshotDate": "2026-10-12T15:41:51.122Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
@@ -34,8 +34,8 @@
     }
   },
   "size": {
-    "totalBytes": 70435222,
-    "notesBytes": 70422282,
+    "totalBytes": 70497315,
+    "notesBytes": 70484375,
     "attachmentsBytes": 12940,
     "noteSizeDistribution": {
       "n": 10000,
@@ -45,7 +45,7 @@
       "p95": 24474,
       "p99": 93191,
       "max": 857275,
-      "mean": 7042.2282
+      "mean": 7048.4375
     },
     "largestNotes": [
       {
@@ -514,8 +514,8 @@
     ]
   },
   "freshness": {
-    "modifiedLast7Days": 10000,
-    "modifiedLast30Days": 10000,
+    "modifiedLast7Days": 587,
+    "modifiedLast30Days": 587,
     "modifiedLast90Days": 10000
   }
 }

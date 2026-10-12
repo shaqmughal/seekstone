@@ -45,8 +45,18 @@ deliberately distinct populations, and `gen-vault` reports their densities separ
   label-independent, exactly as in fixture v1 — the golden-set rule that relevance labels
   derive from body prose only (never tags or planted links) still holds.
 
+**Checkbox tasks (fixture v2.1, SHA-285).** The daily notes carry planted Markdown
+checkbox tasks — **1,514 tasks (910 open) across 557 of the 1,000 daily notes** at 10k
+(742 / 433 at 5k, 142 / 83 at 1k) — so `list_tasks` / `update_task` have something real
+to measure. They are drawn from an isolated PRNG stream and touch only `Daily Notes/`;
+article notes, links, and tags are byte-identical to fixture v2, and the retrieval
+baseline is bit-identical. v2.1 is a revision of the v2 generation, so `benchmarks.json`
+still reports `fixture.version: 2`; the in-process bench rows were re-run on v2.1
+(SHA-342).
+
 The vault is the **canonical committed artifact** — running the benchmark needs nothing
-else. The source corpus is only needed to *regenerate* it.
+else. The source corpus is only needed to *regenerate* it, and **regeneration from
+source is currently not possible** (see below).
 
 ### Run the suite against the fixture
 
@@ -92,9 +102,20 @@ npm run harness -- fetch-corpus              # download + checksum-verify PG EB1
 npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+seed → identical vault
 ```
 
+> **Known break (SHA-340).** Project Gutenberg has re-issued 28 of the 125 pinned
+> volumes since the manifest was committed, and no byte-identical copy of those 28 is
+> publicly fetchable any more. `fetch-corpus` therefore fails checksum verification on
+> them, and the re-issued text parses to a different article pool — so `gen-vault`
+> **cannot reproduce the committed vaults** today. The committed vaults remain the
+> canonical benchmark target and nothing below is needed to run the suite. Until the
+> corpus is re-pinned (fixture v3), change a fixture only by a PRNG-isolated migration
+> proven byte-exact against the generator — `src/fixtures/plant-tasks.ts` (fixture
+> v2.1) is the exemplar. Details: [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
+
 - `fetch-corpus` reads [`fixtures/corpus/manifest.json`](./fixtures/corpus/manifest.json)
   (pinned ebook IDs + SHA-256) and downloads the raw volume text to
-  `fixtures/corpus/raw/` (gitignored). Checksums guarantee byte-identical input.
+  `fixtures/corpus/raw/` (gitignored). Every file is checksum-verified, so a drifted
+  upstream file is rejected rather than silently used.
 - `gen-vault` is seeded (`--seed`, default 42) and uses no `Math.random`, so output is
   fully deterministic — including the prose cross-links, which are a pure function of the
   sampled article set (see [`src/fixtures/linkify.ts`](./src/fixtures/linkify.ts)).
@@ -128,10 +149,32 @@ target can't silently drift.**
 
 `fixtures/baseline-reports/scaling/benchmark-scaling.md` compares every adapter
 across **1k / 5k / 10k** vaults — the headline artifact showing that seekstone
-stays flat (~1–8 ms, ~2–3 KB per search) as the vault grows while REST-proxy and
+stays flat (~1–6 ms, ~2 KB per search) as the vault grows while REST-proxy and
 full-scan servers climb with it. All three vaults are committed
 (`fixtures/vault-1k`, `vault-5k`, `vault`), each with its own query set in
 `queries/`.
+
+### Canon conditions (read before committing a re-run)
+
+Latency in the committed reports is only comparable when every row is measured the
+same way. A re-run that will be committed must match these, or re-run every adapter:
+
+- **Machine:** the canon 16-CPU machine (`machine.cpus: 16` in each report). Gate
+  verdicts and multipliers shift on other hardware.
+- **Node: v25.9.0** — the version every committed row was recorded on
+  (`machine.node`). Node 26 measures roughly 8% slower on the in-process rows, which
+  would silently deflate every "× slower" multiplier if only some rows moved. If that
+  isn't the installed Node, prefix the commands: `npx -y -p node@25.9.0 -- npm run harness -- …`.
+- **Quiet machine:** no heavy background work (check `ps -Ao pcpu,comm -r | head`
+  first — macOS indexing daemons can each take a full core).
+- **One official pass.** The committed report is a single run, not the best of
+  several; repeat into a scratch dir if you want the spread. On 2026-10-12 six
+  consecutive 10k `seekstone` runs spanned about ±3% (SHA-342).
+
+Every published multiplier divides a competitor's 10k latency by Seekstone's, so a
+shift in the two in-process rows moves all of them: rebuild `benchmarks.json`
+(`npm run build:benchmarks`) and let `npm run check:docs` name every README /
+`llms.txt` figure that must follow.
 
 ### Regenerate the automated adapters (headless)
 
