@@ -117,6 +117,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `read_notes` | Read up to 20 notes (or sections, blocks, line ranges) in one call under a total byte budget (default 16 KB). Over budget, each note is cut to a fair share and marked `truncated`; one bad path returns its own error without failing the batch. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
+| `list_tasks` | List Markdown checkbox tasks as compact structured rows (path, line, state, text, nearest heading) — vault-wide or filtered by note, folder, tag, state, or modified time. Custom markers (`- [/]`, `- [-]`, …) are first-class single-char states. |
 | `outline_note` | Return a note's heading and block structure without its full content. |
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
@@ -137,9 +138,10 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `patch_note` | Append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section) — frontmatter untouched. |
 | `replace_in_note` | Find and replace text in the note body — literal or regex, whole-word, case sensitivity, optional `limit` (replaces **all** occurrences by default), dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
+| `update_task` | Set one checkbox's state by path + line (from `list_tasks`) — rewrites exactly one character, leaving every other byte untouched. An `expectText` guard refuses if the task text changed since it was listed. |
 | `undo_write` | Revert a journaled write: every file it touched goes back to its byte-identical pre-write state (a multi-file move or heading rename is restored whole; a delete is restored even if it was `permanent`). Defaults to the most recent write; refuses with `undo_conflict` if a file changed since, unless `force: true`. The undo is itself journaled — `undo_write({ seq })` on the undo entry redoes it. |
 
-Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
+Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, `update_task`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
 
 ---
 

@@ -22,6 +22,14 @@ export function readToolCounts(root) {
   return { total, read: total - write, write };
 }
 
+/** Every tool name in dispatch.ts's HANDLED_TOOLS, in registration order. */
+export function readToolNames(root) {
+  const dispatch = readFileSync(join(root, 'packages/server/src/dispatch.ts'), 'utf8');
+  const handled = dispatch.match(/HANDLED_TOOLS = \[([\s\S]*?)\]/);
+  if (!handled) throw new Error('cannot locate HANDLED_TOOLS in dispatch.ts');
+  return [...handled[1].matchAll(/'([^']+)'/g)].map((m) => m[1]);
+}
+
 /** Number of named guarantees in the Write-Safety Contract (contiguous "### N." headings). */
 export function readGuaranteeCount(root) {
   const text = readFileSync(join(root, 'docs/WRITE-SAFETY.md'), 'utf8');

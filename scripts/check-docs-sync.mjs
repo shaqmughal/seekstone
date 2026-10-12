@@ -27,7 +27,7 @@ import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 import { checkNumbers, figureCount } from './benchmarks-guard.mjs';
-import { readGuaranteeCount, readToolCounts } from './lib/source-of-truth.mjs';
+import { readGuaranteeCount, readToolCounts, readToolNames } from './lib/source-of-truth.mjs';
 
 const root = new URL('..', import.meta.url).pathname;
 const read = (p) => readFileSync(join(root, p), 'utf8');
@@ -65,6 +65,17 @@ for (const file of COUNT_SURFACES) {
       const line = text.slice(0, m.index).split('\n').length;
       errors.push(`${file}:${line} says "${m[0]}" but the server has ${kind.expect} ${kind.label}`);
     }
+  }
+}
+
+// Tool tables. A correct count is not enough: 0.22.0 shipped an npm README
+// that said "25 tools" above a 23-row table. Both READMEs must carry one table
+// row per registered tool.
+const toolNames = readToolNames(root);
+for (const file of ['README.md', 'packages/server/README.md']) {
+  const rows = new Set([...read(file).matchAll(/^\| `([a-z_]+)` \|/gm)].map((m) => m[1]));
+  for (const name of toolNames) {
+    if (!rows.has(name)) errors.push(`${file} tool table has no row for \`${name}\``);
   }
 }
 
