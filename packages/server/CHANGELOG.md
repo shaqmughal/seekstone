@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.22.0
+
+### Minor Changes
+
+- bf77994: New `resolve_note` tool + alias-aware link resolution everywhere (SHA-22). `resolve_note` turns a note name, path, or frontmatter alias into its canonical vault path(s), with provenance per match (`path`/`basename`/`relpath`/`alias`), all candidates listed when a reference is ambiguous, and did-you-mean suggestions when nothing matches. The shared resolver now reads frontmatter `aliases:`/`alias:` as a lowest-precedence tier, so `get_links`, `get_backlinks`, `context_pack`, and semantic link expansion resolve `[[Alias]]` wikilinks instead of reporting them unresolved — and `move_note`'s link rewriting leaves alias-form links untouched, since the alias travels with the moved note. Source-relative resolution (a `from` parameter) is deferred until the link index itself resolves relative targets.
+- 893b36a: New task tools: `list_tasks` + `update_task` (SHA-285). `list_tasks` enumerates Markdown checkbox items as compact structured rows — path, line, state, text, and nearest enclosing heading — vault-wide or filtered by note, folder, tag, state, or modified time, answering "what's open across my daily notes?" in a few hundred bytes instead of whole-note reads. Checkboxes are extracted at index time (watcher-maintained) from a new shared scanner in `@seekstone/core` that recognizes `-`/`*`/`+` bullets at any indent with single-char custom markers (`- [/]`, `- [-]`, …) and skips fenced code blocks and frontmatter. `update_task` sets one checkbox's state by path + line, rewriting exactly one character — everything else, frontmatter included, byte-identical — with an `expectText` guard (`task_text_mismatch`), optional `prevHash` compare-and-swap, pre-image journaling (undoable via `undo_write`), audit records, and `SEEKSTONE_WRITE_PATHS`/read-only policy gating like every other write tool. Setting a task to its current state is a success no-op that writes nothing. 25 tools total (14 read, 11 write).
+
+### Patch Changes
+
+- d3f0718: Bump @modelcontextprotocol/sdk from 1.30.1 to 1.32.0.
+
 ## 0.21.0
 
 ### Minor Changes
