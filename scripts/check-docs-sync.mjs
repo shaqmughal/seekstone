@@ -127,6 +127,9 @@ const RETIRED = [
   /~?514×/,
   /~7× slower/,
   /~?110–300×/,
+  // Same-day competitor re-run of 2026-10-12: obsidian-tc moved 2,667 → 2,849 ms
+  // at 10k, so the headline multiplier is ~508×.
+  /~?476×/,
 ];
 const RETIRED_SURFACES = [
   'README.md',

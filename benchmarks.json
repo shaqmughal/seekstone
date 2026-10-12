@@ -219,9 +219,9 @@
         "architecture": "fs-direct subprocess",
         "kind": "competitor",
         "warmMs": [
-          89,
-          435.5,
-          897.1
+          89.7,
+          431.3,
+          892.5
         ],
         "payloadBytes": [
           1758,
@@ -234,35 +234,35 @@
           706
         ],
         "vsSeekstone10k": {
-          "exact": 160,
-          "display": 160
+          "exact": 159.2,
+          "display": 159
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 786.14,
+            "warmMedianMs": 787.76,
             "payloadBytes": 2371,
             "payloadTokens": 714
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 992.63,
+            "warmMedianMs": 988.06,
             "payloadBytes": 2299,
             "payloadTokens": 711
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 1028.83,
+            "warmMedianMs": 1025.58,
             "payloadBytes": 2259,
             "payloadTokens": 748
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 780.77,
+            "warmMedianMs": 768.55,
             "payloadBytes": 2129,
             "payloadTokens": 650
           }
@@ -275,7 +275,7 @@
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-mcpvault.json",
-            "snapshotDate": "2026-09-07T02:57:55.652Z",
+            "snapshotDate": "2026-10-12T20:08:16.829Z",
             "fixtureVersion": 2,
             "size": 1000,
             "runs": 20,
@@ -284,7 +284,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-mcpvault.json",
-            "snapshotDate": "2026-09-07T03:13:30.536Z",
+            "snapshotDate": "2026-10-12T20:08:52.878Z",
             "fixtureVersion": 2,
             "size": 5000,
             "runs": 20,
@@ -293,7 +293,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-mcpvault.json",
-            "snapshotDate": "2026-09-07T03:38:59.283Z",
+            "snapshotDate": "2026-10-12T20:10:05.755Z",
             "fixtureVersion": 2,
             "size": 10000,
             "runs": 20,
@@ -307,84 +307,84 @@
         "architecture": "fs-direct subprocess",
         "kind": "competitor",
         "warmMs": [
-          46.2,
-          213.4,
-          430.2
+          41,
+          199.5,
+          407.1
         ],
         "payloadBytes": [
-          25626,
-          86354,
-          117038
+          25628,
+          86397,
+          117228
         ],
         "payloadTokens": [
-          6049,
-          20338,
-          27566
+          6050,
+          20356,
+          27646
         ],
         "vsSeekstone10k": {
-          "exact": 76.7,
-          "display": 77
+          "exact": 72.6,
+          "display": 73
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 425.49,
-            "payloadBytes": 410205,
-            "payloadTokens": 96442
+            "warmMedianMs": 396.94,
+            "payloadBytes": 410880,
+            "payloadTokens": 96730
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 435.19,
-            "payloadBytes": 30453,
-            "payloadTokens": 7252
+            "warmMedianMs": 414.29,
+            "payloadBytes": 30519,
+            "payloadTokens": 7278
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 458.07,
-            "payloadBytes": 15759,
-            "payloadTokens": 3785
+            "warmMedianMs": 431.63,
+            "payloadBytes": 15776,
+            "payloadTokens": 3791
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 402.07,
+            "warmMedianMs": 385.67,
             "payloadBytes": 11735,
             "payloadTokens": 2786
           }
         ],
         "worst10k": {
           "query": "church",
-          "bytes": 410205,
-          "tokens": 96442
+          "bytes": 410880,
+          "tokens": 96730
         },
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp-pro.json",
-            "snapshotDate": "2026-06-26T02:52:43.663Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T21:01:06.489Z",
+            "fixtureVersion": 2,
             "size": 1000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-pro.json",
-            "snapshotDate": "2026-06-26T02:52:52.962Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T21:01:23.695Z",
+            "fixtureVersion": 2,
             "size": 5000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-pro.json",
-            "snapshotDate": "2026-06-26T02:53:12.858Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T21:01:57.738Z",
+            "fixtureVersion": 2,
             "size": 10000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           }
@@ -395,84 +395,84 @@
         "architecture": "fs-direct subprocess",
         "kind": "competitor",
         "warmMs": [
-          81.6,
-          404.8,
-          811.1
+          78.1,
+          379.8,
+          771.7
         ],
         "payloadBytes": [
-          18582,
-          107270,
-          206121
+          18598,
+          107724,
+          207916
         ],
         "payloadTokens": [
-          5001,
-          28659,
-          55161
+          5007,
+          28873,
+          55999
         ],
         "vsSeekstone10k": {
-          "exact": 144.7,
-          "display": 145
+          "exact": 137.6,
+          "display": 138
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 825.42,
-            "payloadBytes": 751410,
-            "payloadTokens": 199850
+            "warmMedianMs": 762.45,
+            "payloadBytes": 758092,
+            "payloadTokens": 202998
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 803.75,
-            "payloadBytes": 24146,
-            "payloadTokens": 6518
+            "warmMedianMs": 786.86,
+            "payloadBytes": 24297,
+            "payloadTokens": 6583
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 838.69,
-            "payloadBytes": 46176,
-            "payloadTokens": 13544
+            "warmMedianMs": 795.71,
+            "payloadBytes": 46524,
+            "payloadTokens": 13685
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 776.59,
+            "warmMedianMs": 741.93,
             "payloadBytes": 2750,
             "payloadTokens": 730
           }
         ],
         "worst10k": {
           "query": "church",
-          "bytes": 751410,
-          "tokens": 199850
+          "bytes": 758092,
+          "tokens": 202998
         },
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp.json",
-            "snapshotDate": "2026-06-26T02:52:46.592Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T22:59:47.123Z",
+            "fixtureVersion": 2,
             "size": 1000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp.json",
-            "snapshotDate": "2026-06-26T02:53:02.478Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T23:00:18.778Z",
+            "fixtureVersion": 2,
             "size": 5000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp.json",
-            "snapshotDate": "2026-06-26T02:53:30.582Z",
-            "fixtureVersion": 1,
+            "snapshotDate": "2026-10-12T23:01:22.118Z",
+            "fixtureVersion": 2,
             "size": 10000,
-            "runs": 5,
+            "runs": 20,
             "capture": "auto",
             "commit": "0af29c38"
           }
@@ -483,63 +483,63 @@
         "architecture": "fs-direct, per-query scan",
         "kind": "competitor",
         "warmMs": [
-          5.8,
-          17.9,
-          35.2
+          6,
+          18.7,
+          35.7
         ],
         "payloadBytes": [
-          5543,
-          5911,
-          6354
+          5541,
+          5912,
+          6346
         ],
         "payloadTokens": [
           1569,
           1663,
-          1791
+          1786
         ],
         "vsSeekstone10k": {
-          "exact": 6.3,
+          "exact": 6.4,
           "display": 6
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 32.2,
-            "payloadBytes": 7316,
-            "payloadTokens": 1962
+            "warmMedianMs": 31.96,
+            "payloadBytes": 7307,
+            "payloadTokens": 1957
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 34.63,
-            "payloadBytes": 7634,
-            "payloadTokens": 2178
+            "warmMedianMs": 35.94,
+            "payloadBytes": 7629,
+            "payloadTokens": 2176
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 49.36,
-            "payloadBytes": 7692,
-            "payloadTokens": 2260
+            "warmMedianMs": 49.94,
+            "payloadBytes": 7678,
+            "payloadTokens": 2251
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 24.68,
-            "payloadBytes": 2773,
-            "payloadTokens": 762
+            "warmMedianMs": 24.84,
+            "payloadBytes": 2770,
+            "payloadTokens": 760
           }
         ],
         "worst10k": {
           "query": "the capital of",
-          "bytes": 7692,
-          "tokens": 2260
+          "bytes": 7678,
+          "tokens": 2251
         },
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp-rs.json",
-            "snapshotDate": "2026-09-07T02:57:57.430Z",
+            "snapshotDate": "2026-10-12T20:10:12.445Z",
             "fixtureVersion": 2,
             "size": 1000,
             "runs": 20,
@@ -548,7 +548,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-rs.json",
-            "snapshotDate": "2026-09-07T03:13:33.635Z",
+            "snapshotDate": "2026-10-12T20:10:15.333Z",
             "fixtureVersion": 2,
             "size": 5000,
             "runs": 20,
@@ -557,7 +557,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-rs.json",
-            "snapshotDate": "2026-09-07T03:39:03.903Z",
+            "snapshotDate": "2026-10-12T20:10:19.708Z",
             "fixtureVersion": 2,
             "size": 10000,
             "runs": 20,
@@ -571,63 +571,63 @@
         "architecture": "SQLite platform",
         "kind": "competitor",
         "warmMs": [
-          262.8,
-          1253.4,
-          2666.5
+          273.4,
+          1380.1,
+          2848.5
         ],
         "payloadBytes": [
-          4757,
-          6936,
-          7420
+          4753,
+          6942,
+          7434
         ],
         "payloadTokens": [
-          1391,
-          2023,
-          2143
+          1392,
+          2028,
+          2153
         ],
         "vsSeekstone10k": {
-          "exact": 475.6,
-          "display": 476
+          "exact": 508,
+          "display": 508
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 2652.42,
-            "payloadBytes": 8660,
-            "payloadTokens": 2372
+            "warmMedianMs": 2834.46,
+            "payloadBytes": 8710,
+            "payloadTokens": 2405
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 2684.78,
-            "payloadBytes": 7918,
-            "payloadTokens": 2336
+            "warmMedianMs": 2873.52,
+            "payloadBytes": 7920,
+            "payloadTokens": 2339
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 2683.77,
-            "payloadBytes": 8138,
-            "payloadTokens": 2440
+            "warmMedianMs": 2861.66,
+            "payloadBytes": 8135,
+            "payloadTokens": 2442
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 2645.01,
-            "payloadBytes": 4965,
-            "payloadTokens": 1422
+            "warmMedianMs": 2824.41,
+            "payloadBytes": 4972,
+            "payloadTokens": 1426
           }
         ],
         "worst10k": {
           "query": "church",
-          "bytes": 8660,
-          "tokens": 2372
+          "bytes": 8710,
+          "tokens": 2405
         },
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-tc.json",
-            "snapshotDate": "2026-09-07T02:58:22.307Z",
+            "snapshotDate": "2026-10-12T23:01:50.597Z",
             "fixtureVersion": 2,
             "size": 1000,
             "runs": 20,
@@ -636,7 +636,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-tc.json",
-            "snapshotDate": "2026-09-07T03:25:44.184Z",
+            "snapshotDate": "2026-10-12T23:08:16.523Z",
             "fixtureVersion": 2,
             "size": 5000,
             "runs": 20,
@@ -645,7 +645,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-tc.json",
-            "snapshotDate": "2026-09-07T03:42:41.035Z",
+            "snapshotDate": "2026-10-12T23:12:17.115Z",
             "fixtureVersion": 2,
             "size": 10000,
             "runs": 20,
@@ -947,14 +947,14 @@
     },
     "slowest": {
       "adapter": "obsidian-tc",
-      "warmMs": 2666.5,
-      "exact": 475.6,
-      "display": 476
+      "warmMs": 2848.5,
+      "exact": 508,
+      "display": 508
     },
     "fastestCompetitor": {
       "adapter": "obsidian-mcp-rs",
-      "warmMs": 35.2,
-      "exact": 6.3,
+      "warmMs": 35.7,
+      "exact": 6.4,
       "display": 6
     },
     "restProxyRange": {
