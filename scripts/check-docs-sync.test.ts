@@ -17,29 +17,29 @@ describe('benchmarks guard (docs-sync check 4)', () => {
 
   it('fails on a deliberately perturbed README number', () => {
     const readme = real('README.md');
-    const target = '| Warm search latency @ 10k notes | **5.2 ms** |';
+    const target = '| Warm search latency @ 10k notes | **5.6 ms** |';
     expect(readme).toContain(target);
     const errs = checkNumbers(
       bench,
-      withReadme(readme.replace(target, target.replace('5.2', '6.2'))),
+      withReadme(readme.replace(target, target.replace('5.6', '6.2'))),
     );
     expect(errs).toHaveLength(1);
     expect(errs[0]).toMatch(
-      /^README\.md:\d+ "comparison table latency row" says 6\.2 but benchmarks\.json says 5\.2$/,
+      /^README\.md:\d+ "comparison table latency row" says 6\.2 but benchmarks\.json says 5\.6$/,
     );
   });
 
   it('fails on a perturbed table cell, naming the row', () => {
     const readme = real('README.md');
-    const target = '| obsidian-tc | 263 | 1,253 | 2,667 | ~514× slower |';
+    const target = '| obsidian-tc | 263 | 1,253 | 2,667 | ~476× slower |';
     expect(readme).toContain(target);
     const errs = checkNumbers(
       bench,
-      withReadme(readme.replace(target, target.replace('~514×', '~440×'))),
+      withReadme(readme.replace(target, target.replace('~476×', '~440×'))),
     );
     expect(errs).toHaveLength(1);
     expect(errs[0]).toMatch(
-      /latency table row "obsidian-tc" says ~440× slower but benchmarks\.json says ~514× slower/,
+      /latency table row "obsidian-tc" says ~440× slower but benchmarks\.json says ~476× slower/,
     );
   });
 
