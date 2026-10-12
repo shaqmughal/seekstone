@@ -1,7 +1,7 @@
 # Vault Stats
 
 - **Vault:** `packages/harness/fixtures/vault`
-- **Snapshot:** 2026-09-05T14:51:52.766Z
+- **Snapshot:** 2026-10-12T15:41:51.122Z
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
 
 ## Counts
@@ -35,8 +35,8 @@
 
 ## Size
 
-- Total bytes: **67.17 MB**
-- Notes: 67.16 MB
+- Total bytes: **67.23 MB**
+- Notes: 67.22 MB
 - Attachments: 12.6 KB
 
 ### Note size distribution
@@ -163,6 +163,6 @@
 
 ## Freshness
 
-- Modified last 7 days: 10,000
-- Modified last 30 days: 10,000
+- Modified last 7 days: 587
+- Modified last 30 days: 587
 - Modified last 90 days: 10,000
