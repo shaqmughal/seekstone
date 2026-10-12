@@ -286,7 +286,7 @@ quality (hit@5 / MRR@10 against a committed golden query set), not payload.
 flowchart TD
     cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · scale-render · gen-vault<br/>fetch-corpus · fetch-models · retrieval"]
 
-    backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS)<br/>every method → BackendResponse{ result, payloadBytes }"]
+    backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS/undo/task)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
     subgraph inproc["In-process adapters"]
         fs["fs<br/>standalone MiniSearch"]
@@ -300,7 +300,7 @@ flowchart TD
     subgraph modules["Four measurement modules"]
         profiler["profiler/<br/>walk · aggregate → VaultStats"]
         bench["bench/<br/>runN cold/warm → BenchmarkSummary<br/>scenarios (tokens-per-task) → ScenarioSummary<br/>report · compare · scaling · timer"]
-        safety["safety/<br/>copyVault → runSafety ops → SafetySummary<br/>byte ops: identity · body-append · fm-edit<br/>patch-note · replace-in-note<br/>behavioral ops: recoverable-delete<br/>create-no-clobber · cas-conflict (write · move · delete)"]
+        safety["safety/<br/>copyVault → runSafety ops → SafetySummary<br/>byte ops: identity · body-append · fm-edit<br/>patch-note · replace-in-note<br/>behavioral ops: recoverable-delete<br/>create-no-clobber · cas-conflict (write · move · delete)<br/>undo-roundtrip · task-toggle"]
         retrieval["retrieval/<br/>golden set → lexical · semantic · hybrid conditions<br/>hit@5 · MRR@10 per subset · warm latency<br/>pre-registered ship gate · --experiments · --shipped"]
     end
 
@@ -331,11 +331,11 @@ flowchart TD
 
 - **`Backend` contract** (`bench/backend.ts`) — a tiny required core:
   `search`, `read`, `write`, `list`, plus optional extended tools
-  (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`,
-  `getPeriodicNote`, `searchStream`, `close`) and optional write-safety
-  methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`, `casMove`,
-  `casDelete` — declaring one claims the guard) that drive the behavioral
-  safety matrix. Every call returns
+  (`listTags`, `listTasks`, `contextPack`, `outline`, `getBacklinks`,
+  `getLinks`, `getPeriodicNote`, `searchStream`, `close`) and optional
+  write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`,
+  `casMove`, `casDelete`, `undoLastWrite`, `updateTask` — declaring one claims
+  the guard) that drive the behavioral safety matrix. Every call returns
   `BackendResponse<T> = { result, payloadBytes, payloadText? }`, so the raw
   bytes a backend served are recorded at the boundary.
 - **Adapters** split into **in-process** (`fs`, `seekstone` — zero IPC, the most
@@ -347,14 +347,17 @@ flowchart TD
   **warm** (runs 2..N) so a cheap warm number can't hide a brutal cold start,
   and renders per-adapter + cross-adapter (`compare`) + multi-scale (`scaling`)
   reports.
-- **safety** copies the vault to a scratch dir and runs eight op kinds: five
+- **safety** copies the vault to a scratch dir and runs ten op kinds: five
   byte-faithful round-trips (proving frontmatter stays byte-identical) plus
-  three behavioral ops proving recoverable deletes, no-clobber creates, and
+  five behavioral ops proving recoverable deletes, no-clobber creates,
   compare-and-swap conflict detection — the `cas-conflict` op probes all three
-  CAS guards (stale-hash write, move, and delete must each be refused).
+  CAS guards (stale-hash write, move, and delete must each be refused) —
+  byte-identical undo (`undo-roundtrip`), and single-character task toggles
+  with a refused stale `expectText` (`task-toggle`).
 - **retrieval** scores retrieval *quality* against `queries/golden.json`
-  (50 hand-authored queries: 30 description-style semantic, 10 exact-term
-  lexical controls, 10 topical; drift-guarded in CI) and computes the
+  (150 hand-authored queries: 90 description-style semantic, 30 exact-term
+  lexical controls, 30 topical, each with an immutable dev/holdout split;
+  drift-guarded in CI) and computes the
   pre-registered SHA-257 ship gate in code: hybrid must gain ≥ +10 pts hit@5
   on the semantic subset, regress ≤ 2 pts on the lexical subset, and warm
   semantic p95 must stay ≤ 15 ms at 10k notes. `--experiments` adds the
@@ -364,7 +367,7 @@ flowchart TD
   cache (note: the one harness path that writes outside the repo, honoring
   `SEEKSTONE_CACHE_DIR`). The committed baseline is
   `fixtures/baseline-reports/retrieval-eval.{json,md}`, produced with
-  `--model potion-base-8M --shipped`.
+  `--model potion-retrieval-32M,potion-base-8M --shipped --split all`.
 - **fixtures** generate the committed, personal-data-free 10k-note synthetic
   vault from the public-domain 1911 Encyclopædia Britannica (deterministic,
   seed 42 — hence the custom `prng`, since `Math.random()` is banned harness-wide).
