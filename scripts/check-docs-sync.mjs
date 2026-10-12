@@ -95,7 +95,9 @@ const RETIRED = [
   /\b1,?302\b/,
   /\b958\s*ms/,
   /~14\s*ms/,
-  /~6× slower/,
+  // "~6× slower" (obsidian-mcp-rs) was retired here with the v1 canon, but the
+  // SHA-342 fixture-v2.1 re-baseline measures 6.3× again — it is a live figure,
+  // pinned to benchmarks.json by check 4, so it must not be listed as retired.
   /~?90–250×/,
   /91\.7% (on the )?held-out/,
   /vs our 91\.7%/,

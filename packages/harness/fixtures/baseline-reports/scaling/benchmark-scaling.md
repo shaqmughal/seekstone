@@ -8,8 +8,8 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 
 | Adapter | 1k | 5k | 10k | scaling 1k→10k |
 | --- | ---: | ---: | ---: | ---: |
-| **seekstone** | 1.0 | 2.7 | 5.2 | 5.4× |
-| **fs** | 1.1 | 2.7 | 5.5 | 4.9× |
+| **seekstone** | 1.0 | 2.8 | 5.6 | 5.5× |
+| **fs** | 1.2 | 3.0 | 5.7 | 4.7× |
 | **mcpvault** | 89.0 | 435.5 | 897.1 | 10.1× |
 | **obsidian-mcp-pro** | 46.2 | 213.4 | 430.2 | 9.3× |
 | **obsidian-mcp** | 81.6 | 404.8 | 811.1 | 9.9× |
@@ -53,14 +53,14 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 
 | Adapter | warm search (ms) | × seekstone |
 | --- | ---: | ---: |
-| **seekstone** | 5.2 | 1× |
-| **fs** | 5.5 | 1× |
-| **mcpvault** | 897.1 | 173× |
-| **obsidian-mcp-pro** | 430.2 | 83× |
-| **obsidian-mcp** | 811.1 | 156× |
-| **obsidian-mcp-rs** | 35.2 | 7× |
-| **obsidian-tc** | 2666.5 | 514× |
-| **rest** | 574.8 | 111× |
-| **obsidian-mcp-server** | 731.8 | 141× |
-| **mcp-obsidian** | 1550.4 | 299× |
+| **seekstone** | 5.6 | 1× |
+| **fs** | 5.7 | 1× |
+| **mcpvault** | 897.1 | 160× |
+| **obsidian-mcp-pro** | 430.2 | 77× |
+| **obsidian-mcp** | 811.1 | 145× |
+| **obsidian-mcp-rs** | 35.2 | 6× |
+| **obsidian-tc** | 2666.5 | 476× |
+| **rest** | 574.8 | 103× |
+| **obsidian-mcp-server** | 731.8 | 131× |
+| **mcp-obsidian** | 1550.4 | 277× |
 

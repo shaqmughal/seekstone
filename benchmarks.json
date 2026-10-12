@@ -6,7 +6,7 @@
     "issue": "SHA-322",
     "noteCount": 10000,
     "vault": "packages/harness/fixtures/vault",
-    "commit": "7da298e8",
+    "commit": "c5d56b04",
     "machine": {
       "platform": "darwin",
       "arch": "arm64",
@@ -44,17 +44,17 @@
         "kind": "seekstone",
         "warmMs": [
           1,
-          2.7,
-          5.2
+          2.8,
+          5.6
         ],
         "payloadBytes": [
-          1636,
-          1807,
+          1635,
+          1808,
           2085
         ],
         "payloadTokens": [
           463,
-          506,
+          507,
           578
         ],
         "vsSeekstone10k": {
@@ -65,28 +65,28 @@
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 1.33,
+            "warmMedianMs": 1.32,
             "payloadBytes": 1867,
             "payloadTokens": 507
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 2.98,
-            "payloadBytes": 2145,
+            "warmMedianMs": 3.29,
+            "payloadBytes": 2146,
             "payloadTokens": 602
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 15.39,
-            "payloadBytes": 1980,
+            "warmMedianMs": 16.75,
+            "payloadBytes": 1981,
             "payloadTokens": 565
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 1.04,
+            "warmMedianMs": 1.06,
             "payloadBytes": 2347,
             "payloadTokens": 637
           }
@@ -99,7 +99,7 @@
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-seekstone.json",
-            "snapshotDate": "2026-09-07T02:57:44.518Z",
+            "snapshotDate": "2026-10-12T15:22:16.116Z",
             "fixtureVersion": 2,
             "size": 1000,
             "runs": 20,
@@ -108,7 +108,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-seekstone.json",
-            "snapshotDate": "2026-09-07T03:09:11.950Z",
+            "snapshotDate": "2026-10-12T15:22:26.652Z",
             "fixtureVersion": 2,
             "size": 5000,
             "runs": 20,
@@ -117,7 +117,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-seekstone.json",
-            "snapshotDate": "2026-09-07T03:37:37.557Z",
+            "snapshotDate": "2026-10-12T15:22:39.907Z",
             "fixtureVersion": 2,
             "size": 10000,
             "runs": 20,
@@ -131,14 +131,14 @@
         "architecture": "filesystem-direct baseline",
         "kind": "baseline",
         "warmMs": [
-          1.1,
-          2.7,
-          5.5
+          1.2,
+          3,
+          5.7
         ],
         "payloadBytes": [
           2105,
           2380,
-          2811
+          2814
         ],
         "payloadTokens": [
           584,
@@ -146,48 +146,48 @@
           756
         ],
         "vsSeekstone10k": {
-          "exact": 1.1,
+          "exact": 1,
           "display": 1
         },
         "queries10k": [
           {
             "id": "single-term",
             "query": "church",
-            "warmMedianMs": 1.4,
-            "payloadBytes": 2850,
+            "warmMedianMs": 1.36,
+            "payloadBytes": 2852,
             "payloadTokens": 753
           },
           {
             "id": "multi-term",
             "query": "Roman Empire",
-            "warmMedianMs": 3.29,
-            "payloadBytes": 2807,
+            "warmMedianMs": 3.36,
+            "payloadBytes": 2811,
             "payloadTokens": 755
           },
           {
             "id": "phrase",
             "query": "the capital of",
-            "warmMedianMs": 15.93,
+            "warmMedianMs": 16.94,
             "payloadBytes": 2799,
-            "payloadTokens": 764
+            "payloadTokens": 765
           },
           {
             "id": "rare-term",
             "query": "phlogiston",
-            "warmMedianMs": 1.21,
-            "payloadBytes": 2788,
-            "payloadTokens": 751
+            "warmMedianMs": 1.22,
+            "payloadBytes": 2792,
+            "payloadTokens": 750
           }
         ],
         "worst10k": {
           "query": "church",
-          "bytes": 2850,
+          "bytes": 2852,
           "tokens": 753
         },
         "provenance": [
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-fs.json",
-            "snapshotDate": "2026-09-07T02:57:45.798Z",
+            "snapshotDate": "2026-10-12T15:22:41.562Z",
             "fixtureVersion": 2,
             "size": 1000,
             "runs": 20,
@@ -196,7 +196,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-fs.json",
-            "snapshotDate": "2026-09-07T03:09:15.741Z",
+            "snapshotDate": "2026-10-12T15:22:45.975Z",
             "fixtureVersion": 2,
             "size": 5000,
             "runs": 20,
@@ -205,7 +205,7 @@
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-fs.json",
-            "snapshotDate": "2026-09-07T03:37:45.208Z",
+            "snapshotDate": "2026-10-12T15:22:54.660Z",
             "fixtureVersion": 2,
             "size": 10000,
             "runs": 20,
@@ -234,8 +234,8 @@
           706
         ],
         "vsSeekstone10k": {
-          "exact": 173,
-          "display": 173
+          "exact": 160,
+          "display": 160
         },
         "queries10k": [
           {
@@ -322,8 +322,8 @@
           27566
         ],
         "vsSeekstone10k": {
-          "exact": 83,
-          "display": 83
+          "exact": 76.7,
+          "display": 77
         },
         "queries10k": [
           {
@@ -410,8 +410,8 @@
           55161
         ],
         "vsSeekstone10k": {
-          "exact": 156.4,
-          "display": 156
+          "exact": 144.7,
+          "display": 145
         },
         "queries10k": [
           {
@@ -498,8 +498,8 @@
           1791
         ],
         "vsSeekstone10k": {
-          "exact": 6.8,
-          "display": 7
+          "exact": 6.3,
+          "display": 6
         },
         "queries10k": [
           {
@@ -586,8 +586,8 @@
           2143
         ],
         "vsSeekstone10k": {
-          "exact": 514.3,
-          "display": 514
+          "exact": 475.6,
+          "display": 476
         },
         "queries10k": [
           {
@@ -674,8 +674,8 @@
           16781174
         ],
         "vsSeekstone10k": {
-          "exact": 110.9,
-          "display": 111
+          "exact": 102.5,
+          "display": 103
         },
         "queries10k": [
           {
@@ -762,8 +762,8 @@
           14643
         ],
         "vsSeekstone10k": {
-          "exact": 141.2,
-          "display": 141
+          "exact": 130.5,
+          "display": 131
         },
         "queries10k": [
           {
@@ -850,8 +850,8 @@
           24943983
         ],
         "vsSeekstone10k": {
-          "exact": 299,
-          "display": 299
+          "exact": 276.5,
+          "display": 277
         },
         "queries10k": [
           {
@@ -921,7 +921,7 @@
     }
   },
   "headline": {
-    "warmMs10k": 5.2,
+    "warmMs10k": 5.6,
     "semanticWarmP50Ms10k": {
       "value": 25.76,
       "display": 26,
@@ -941,21 +941,21 @@
       "bytes": 99144477
     },
     "contextTax": {
-      "exact": 47557,
+      "exact": 47546,
       "display": 47000,
       "rule": "floor to thousands"
     },
     "slowest": {
       "adapter": "obsidian-tc",
       "warmMs": 2666.5,
-      "exact": 514.3,
-      "display": 514
+      "exact": 475.6,
+      "display": 476
     },
     "fastestCompetitor": {
       "adapter": "obsidian-mcp-rs",
       "warmMs": 35.2,
-      "exact": 6.8,
-      "display": 7
+      "exact": 6.3,
+      "display": 6
     },
     "restProxyRange": {
       "adapters": [
@@ -964,12 +964,12 @@
         "mcp-obsidian"
       ],
       "exact": {
-        "min": 111,
-        "max": 299
+        "min": 103,
+        "max": 277
       },
       "display": {
-        "min": 110,
-        "max": 300
+        "min": 100,
+        "max": 280
       },
       "rule": "round to tens"
     },
