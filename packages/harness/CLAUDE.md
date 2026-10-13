@@ -2,6 +2,28 @@
 
 Harness-specific guidance; the repo-wide picture is in the root `CLAUDE.md` and `docs/ARCHITECTURE.md`.
 
+## Commands
+
+Run from the repo root.
+
+```bash
+npm run -w @seekstone/harness test                    # tests for harness only
+npx tsc -p packages/harness/tsconfig.json --noEmit    # typecheck
+
+# the harness itself (run after `npm install`)
+npm run harness -- profile --vault "$SEEKSTONE_VAULT"
+npm run harness -- bench   --queries packages/harness/queries/default.json --stats reports/vault-stats.json
+npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/fixtures/vault"   # tokens-per-task
+npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
+npm run harness -- fetch-models                       # download + pin-verify the Model2Vec embedding models
+npm run harness -- retrieval --shipped                # retrieval-quality eval (golden set; --shipped = through the real search tool)
+
+# the committed synthetic benchmark vault (no personal vault needed)
+npm run harness -- gen-vault --count 10000            # regenerate fixtures/vault (deterministic, seed 42)
+npm run harness -- fetch-corpus                       # download PG EB1911 corpus → fixtures/corpus/raw (gitignored)
+npm run harness -- bench --backend fs --vault "$PWD/packages/harness/fixtures/vault" --out "$PWD/packages/harness/fixtures/baseline-reports"
+```
+
 ## Benchmark vault (committed fixture)
 
 `packages/harness/fixtures/vault/` is a **committed 10,000-note synthetic vault** generated from the public-domain 1911 Encyclopædia Britannica (Project Gutenberg). It's the canonical, reproducible, personal-data-free benchmark target — use it instead of a personal vault. The generator (`src/fixtures/`, deterministic, seed 42) + pinned corpus manifest are committed; the raw corpus text under `fixtures/corpus/raw/` is gitignored — and **no longer re-fetchable byte-identically** (Project Gutenberg re-issued 28 of the 125 pinned volumes; SHA-340), so the committed vaults cannot be regenerated from source until a fixture-v3 re-pin: change a fixture only via a PRNG-isolated migration proven byte-exact against the generator (`src/fixtures/plant-tasks.ts`, which made **fixture v2.1** by planting checkbox tasks in `Daily Notes/` for SHA-285, is the exemplar). Committed bench baselines are canon-conditions only — 16-CPU machine, Node v25.9.0, quiet machine (see `README.md`, "Canon conditions"). Since fixture v2 (SHA-322) the vault carries **two wikilink populations**: deterministic prose cross-links (headword mentions linkified via `src/fixtures/linkify.ts`, PRNG-free, DF-filtered — the topical *signal* that makes graph retrieval measurable) and the seeded-random See-also/daily/MOC links (the label-independent *noise floor*); `gen-vault` reports both densities and any generator change must keep them distinguishable. The same committed-manifest/gitignored-payload pattern covers the Model2Vec embedding models (`fixtures/models/manifest.json` + `fetch-models`). `queries/golden.json` (150 retrieval queries: 90 semantic / 30 lexical / 30 topical, each carrying an immutable `split: dev|holdout` — tuning reads dev only, gate v2 reports on holdout only; SHA-312) is a committed methodology artifact guarded by `src/retrieval/golden.test.ts` — regenerating the vault with a different count/seed breaks it by design; fix the golden set in the same change. `src/fixtures/profile-fixture.test.ts` snapshots the vault's content-derived profile so the target can't silently drift. See `packages/harness/README.md`. Freshness stats are N/A for the fixture (mtime = checkout time).
@@ -48,3 +70,8 @@ Quality, not payload: scores lexical vs semantic vs hybrid retrieval against `qu
 ## Adding a backend
 
 Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cli.ts:buildBackend()`. Add an env var pattern matching `SEEKSTONE_<NAME>_*` for config. Reports pick up the new adapter via its `name` field — output files get suffixed `benchmark-<name>.{json,md}` and `safety-<name>.{json,md}` — but add the name to `src/bench/scaling.ts`'s `order` array or the scaling table sorts it last.
+
+## Conventions
+
+- **`Distribution` is the single percentile shape** (`min`/`median`/`p90`/`p95`/`p99`/`max`/`mean`). Any new metric goes through `summarise()` so the report tables stay uniform.
+- **Reports are deterministic for a fixed snapshot.** Frontmatter-heavy notes are sorted lexically then strided so the safety sample is the same across runs of the same vault. `Math.random()` is banned harness-wide (seeded `prng.ts` when randomness is needed).

@@ -10,23 +10,7 @@ The product story behind the harness (kept in version control because it's how t
 
 ## Commands
 
-```bash
-npm run -w @seekstone/harness test                    # tests for harness only
-npx tsc -p packages/harness/tsconfig.json --noEmit    # typecheck
-
-# the harness itself (run after `npm install`)
-npm run harness -- profile --vault "$SEEKSTONE_VAULT"
-npm run harness -- bench   --queries packages/harness/queries/default.json --stats reports/vault-stats.json
-npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/fixtures/vault"   # tokens-per-task
-npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
-npm run harness -- fetch-models                       # download + pin-verify the Model2Vec embedding models
-npm run harness -- retrieval --shipped                # retrieval-quality eval (golden set; --shipped = through the real search tool)
-
-# the committed synthetic benchmark vault (no personal vault needed)
-npm run harness -- gen-vault --count 10000            # regenerate fixtures/vault (deterministic, seed 42)
-npm run harness -- fetch-corpus                       # download PG EB1911 corpus → fixtures/corpus/raw (gitignored)
-npm run harness -- bench --backend fs --vault "$PWD/packages/harness/fixtures/vault" --out "$PWD/packages/harness/fixtures/baseline-reports"
-```
+Harness commands (profile, bench, scenarios, safety, retrieval, fixture generation) live in `packages/harness/CLAUDE.md`.
 
 The **server** has a real build — `npm run build -w seekstone` bundles it (and `packages/core`) to `dist/index.js` via tsup for publishing. The **harness** has no build step; it runs via `tsx`. `tsc` is used for typecheck only. Tests are co-located as `*.test.ts` next to source.
 
@@ -39,7 +23,5 @@ For the full picture — package graph, the server's five layers, the end-to-end
 ## Conventions
 
 - **Module imports use `.js` extensions** even when importing TS sources — that's what NodeNext + tsx + tsc emit all agree on. `*.ts` extensions in imports require `allowImportingTsExtensions` and are avoided.
-- **`Distribution` is the single percentile shape** (`min`/`median`/`p90`/`p95`/`p99`/`max`/`mean`). Any new metric goes through `summarise()` so the report tables stay uniform.
-- **Reports are deterministic for a fixed snapshot.** Frontmatter-heavy notes are sorted lexically then strided so the safety sample is the same across runs of the same vault. `Math.random()` is banned harness-wide (seeded `prng.ts` when randomness is needed).
 - **Never mutate the live vault.** Anything touching writes routes through the safety harness or an adapter pointed at a scratch copy. The CLI's `safety` command enforces this explicitly.
 
