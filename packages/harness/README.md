@@ -164,7 +164,10 @@ same way. A re-run that will be committed must match these, or re-run every adap
 - **Node: v25.9.0** — the version every committed row was recorded on
   (`machine.node`). Node 26 measures roughly 8% slower on the in-process rows, which
   would silently deflate every "× slower" multiplier if only some rows moved. If that
-  isn't the installed Node, prefix the commands: `npx -y -p node@25.9.0 -- npm run harness -- …`.
+  isn't the installed Node, put a v25.9.0 `node` first on `PATH` for the whole run
+  (`npx -y -p node@25.9.0 -- npm run harness -- …` works for the in-process `fs` and
+  `seekstone` rows only — the subprocess adapters launch their servers with their
+  own `npx`, which fails when nested inside that wrapper).
 - **Quiet machine:** no heavy background work (check `ps -Ao pcpu,comm -r | head`
   first — macOS indexing daemons can each take a full core).
 - **One official pass.** The committed report is a single run, not the best of
@@ -193,9 +196,19 @@ done
 npm run harness -- scale-render --dir "$R"   # → benchmark-scaling.md
 ```
 
-`obsidian-mcp` and `obsidian-mcp-pro` are filesystem-direct but currently excluded
-(slow synchronous init at scale; a read-path quirk respectively) — raise
-`SEEKSTONE_MCP_INIT_TIMEOUT` to give the former more headroom.
+`obsidian-mcp` and `obsidian-mcp-pro` are filesystem-direct and headless too; run
+them with the same loop. `obsidian-mcp` 1.x refuses a vault with no
+`.obsidian/app.json` (Obsidian writes it on first open; the fixtures commit only
+`.obsidian/.gitkeep`) — create an empty `{}` one for the run and delete it after,
+or the adapter waits out `SEEKSTONE_MCP_INIT_TIMEOUT`.
+
+The adapters launch each server unpinned (`npx -y <pkg>`), so a re-run measures
+whatever is latest that day. When a release breaks an adapter, pin the last
+compatible one via `SEEKSTONE_<NAME>_CMD` and record it. The 2026-10-12 re-run
+measured mcpvault 0.16.0, obsidian-mcp-rs 0.7.1, obsidian-mcp-pro 4.0.1,
+**obsidian-tc 1.24.0** (pinned: 1.32.0 rejects the adapter's generated config; a
+1.31.0 cross-check agreed within 1% on warm medians) and
+**obsidian-mcp 1.0.6** (pinned: 2.x renamed the `search-vault` tool).
 
 `obsidian-tc` notes: it requires **Node ≥ 24**, and it persists its SQLite index
 in `~/.obsidian-tc/` (not inside the vault) — `rm -rf ~/.obsidian-tc` before a

@@ -1,19 +1,19 @@
 # Benchmark — obsidian-tc
 
 - **Adapter:** obsidian-tc (SQLite governance platform, direct tool calls, no Obsidian required)
-- **Snapshot:** 2026-09-07T03:25:44.184Z
+- **Snapshot:** 2026-10-12T23:08:16.523Z
 - **Runs per measurement:** 20 (cold = run 1; warm = runs 2..N)
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
-- **Process RSS:** before 153.05 MB, peak 198.19 MB (Δ 45.14 MB)
+- **Process RSS:** before 156.98 MB, peak 232.20 MB (Δ 75.22 MB)
 
 ## Search
 
 | Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| `church` | single | 1272.58 ms | 1242.04 ms | 1275.44 ms | — | — | 8.3 KB | 2,369 | 50 |
-| `Roman Empire` | multi | 1301.93 ms | 1267.85 ms | 1325.76 ms | — | — | 8.1 KB | 2,449 | 50 |
-| `the capital of` | phrase | 1258.67 ms | 1299.95 ms | 1417.35 ms | — | — | 8.0 KB | 2,490 | 50 |
-| `phlogiston` | rare | 1361.36 ms | 1203.93 ms | 1346.21 ms | — | — | 2.7 KB | 784 | 17 |
+| `church` | single | 1396.79 ms | 1366.47 ms | 1410.30 ms | — | — | 8.3 KB | 2,386 | 50 |
+| `Roman Empire` | multi | 1435.52 ms | 1390.42 ms | 1400.07 ms | — | — | 8.1 KB | 2,442 | 50 |
+| `the capital of` | phrase | 1452.24 ms | 1397.47 ms | 1440.59 ms | — | — | 8.0 KB | 2,500 | 50 |
+| `phlogiston` | rare | 1367.07 ms | 1366.03 ms | 1373.50 ms | — | — | 2.7 KB | 784 | 17 |
 
 > **Context tax.** Payload is the raw bytes returned for the query. Token count is encoder-approximate: tiktoken `cl100k_base` (an OpenAI encoder) on the raw payload text — per-model tokenizers differ in absolute counts, but cross-adapter ratios hold.
 
@@ -21,8 +21,8 @@
 
 | Sample | Path | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| small | `Encyclopedia/H/Hoole.md` | 1.81 ms | 0.56 ms | 2.59 ms | 4.4 KB |
-| large | `Encyclopedia/I/Italy.md` | 15.63 ms | 13.97 ms | 14.83 ms | 1.56 MB |
+| small | `Encyclopedia/H/Hoole.md` | 1.85 ms | 0.54 ms | 2.47 ms | 4.4 KB |
+| large | `Encyclopedia/I/Italy.md` | 12.59 ms | 11.93 ms | 13.41 ms | 1.56 MB |
 
 ## Tools
 
@@ -30,9 +30,9 @@ Latency for tools beyond search/read. Cold = first call; Warm p50 = median of su
 
 | Tool | Target | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| `list_notes` | vault root | 16.69 ms | 11.69 ms | 13.08 ms | 14.1 KB |
+| `list_notes` | vault root | 17.15 ms | 12.30 ms | 14.09 ms | 14.1 KB |
 
-> **Not supported by this backend:** `list_tags`, `context_pack`, `outline_note`, `get_backlinks`, `get_links`, `get_periodic_note`.
+> **Not supported by this backend:** `list_tags`, `list_tasks`, `context_pack`, `outline_note`, `get_backlinks`, `get_links`, `get_periodic_note`.
 
 ## Methodology notes
 

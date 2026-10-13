@@ -32,15 +32,15 @@ describe('benchmarks guard (docs-sync check 4)', () => {
 
   it('fails on a perturbed table cell, naming the row', () => {
     const readme = real('README.md');
-    const target = '| obsidian-tc | 263 | 1,253 | 2,667 | ~476× slower |';
+    const target = '| obsidian-tc | 273 | 1,380 | 2,849 | ~508× slower |';
     expect(readme).toContain(target);
     const errs = checkNumbers(
       bench,
-      withReadme(readme.replace(target, target.replace('~476×', '~440×'))),
+      withReadme(readme.replace(target, target.replace('~508×', '~440×'))),
     );
     expect(errs).toHaveLength(1);
     expect(errs[0]).toMatch(
-      /latency table row "obsidian-tc" says ~440× slower but benchmarks\.json says ~476× slower/,
+      /latency table row "obsidian-tc" says ~440× slower but benchmarks\.json says ~508× slower/,
     );
   });
 
