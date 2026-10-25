@@ -24,7 +24,7 @@
     "check:docs": "node scripts/check-docs-sync.mjs",
     "build:benchmarks": "node scripts/build-benchmarks-json.mjs",
     "check:benchmarks": "node scripts/build-benchmarks-json.mjs --check",
-    "version-packages": "changeset version && node scripts/sync-server-json.mjs && node scripts/build-benchmarks-json.mjs && biome format --write .",
+    "version-packages": "changeset version && npm install --package-lock-only --ignore-scripts && node scripts/sync-server-json.mjs && node scripts/build-benchmarks-json.mjs && biome format --write .",
     "release": "changeset publish",
     "check:actions": "node scripts/check-action-inputs.mjs"
   },

@@ -59,7 +59,7 @@ Once configured, the publish step authenticates automatically — there is no `N
 
 ## Post-publish: automated pipeline
 
-On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundle** (`seekstone.mcpb`), generates a **SLSA build-provenance attestation** for it, uploads both to the **GitHub Release** (`seekstone.mcpb` + `seekstone.mcpb.intoto.jsonl`), waits for npm to serve the new version (up to 5 minutes — the registry validates against npm, whose packument can lag the publish), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
+On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundles** (`seekstone.mcpb` and `seekstone-semantic.mcpb`), generates one **SLSA build-provenance attestation** covering both, uploads all three to the **GitHub Release** (`seekstone.mcpb` + `seekstone-semantic.mcpb` + `seekstone.mcpb.intoto.jsonl`), waits for npm to serve the new version (up to 5 minutes — the registry validates against npm, whose packument can lag the publish), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
 
 ## GitHub Actions bumps
 
