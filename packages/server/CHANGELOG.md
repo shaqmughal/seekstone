@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.22.3
+
+### Patch Changes
+
+- 349b9e1: Fix a slow regular expression in checkbox-task scanning (`list_tasks`, `update_task`). A note with a very long line of tabs inside a code block could make the scan take minutes. It now runs in linear time.
+
 ## 0.22.2
 
 ### Patch Changes
