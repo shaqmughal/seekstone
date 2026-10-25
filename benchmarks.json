@@ -15,7 +15,7 @@
     }
   },
   "release": {
-    "version": "0.22.1",
+    "version": "0.22.2",
     "source": "packages/server/package.json#version"
   },
   "tools": {
@@ -280,7 +280,7 @@
             "size": 1000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-mcpvault.json",
@@ -289,7 +289,7 @@
             "size": 5000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-mcpvault.json",
@@ -298,7 +298,7 @@
             "size": 10000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           }
         ]
       },
@@ -368,7 +368,7 @@
             "size": 1000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-pro.json",
@@ -377,7 +377,7 @@
             "size": 5000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-pro.json",
@@ -386,7 +386,7 @@
             "size": 10000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           }
         ]
       },
@@ -456,7 +456,7 @@
             "size": 1000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp.json",
@@ -465,7 +465,7 @@
             "size": 5000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp.json",
@@ -474,7 +474,7 @@
             "size": 10000,
             "runs": 20,
             "capture": "auto",
-            "commit": "0af29c38"
+            "commit": "3c8854e3"
           }
         ]
       },
@@ -544,7 +544,7 @@
             "size": 1000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-rs.json",
@@ -553,7 +553,7 @@
             "size": 5000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-rs.json",
@@ -562,7 +562,7 @@
             "size": 10000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           }
         ]
       },
@@ -632,7 +632,7 @@
             "size": 1000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-tc.json",
@@ -641,7 +641,7 @@
             "size": 5000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           },
           {
             "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-tc.json",
@@ -650,7 +650,7 @@
             "size": 10000,
             "runs": 20,
             "capture": "auto",
-            "commit": "7da298e8"
+            "commit": "3c8854e3"
           }
         ]
       },
