@@ -1,0 +1,26 @@
+# Known advisories accepted for now. OpenSSF Scorecard's Vulnerabilities
+# check reads this file. Each entry expires, so it resurfaces if the
+# upstream fix still hasn't landed; re-check before extending.
+
+# node-forge: RSA PKCS#1 v1.5 signature verification flaw.
+[[IgnoredVulns]]
+id = "GHSA-86w9-cpqp-85rv"
+ignoreUntil = 2027-01-22
+reason = """
+Dev-only, via @anthropic-ai/mcpb. The .mcpb build runs only `mcpb pack`;
+node-forge is loaded only by mcpb's signing code (dist/node/sign.js), which
+we never call. Not in the npm package or the .mcpb bundles. No patched
+node-forge release exists (1.4.0 is affected) and mcpb 2.1.2 still depends
+on it. Dependabot alert #44 was dismissed for the same reason.
+"""
+
+# zod < 4.6.6: memory exhaustion validating oversized constrained collections.
+[[IgnoredVulns]]
+id = "GHSA-mrhx-c7xc-m3w5"
+ignoreUntil = 2027-01-22
+reason = """
+Only the zod 3.25.76 copy nested under the dev-only @anthropic-ai/mcpb CLI,
+which requires zod ^3. The server and the MCP SDK use zod 4.6.7 (the SDK
+via the root package.json override), so the npm package and the .mcpb
+bundles ship only the fixed version.
+"""
