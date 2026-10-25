@@ -111,6 +111,28 @@ describe('extractTasks', () => {
     expect(extractTasks(raw).map((t) => t.text)).toEqual(['outside']);
   });
 
+  it('does not close a fence on a line with text after the fence run', () => {
+    const raw = [
+      '```',
+      '- [ ] inside',
+      '``` js',
+      '- [ ] still inside',
+      '```  ',
+      '- [ ] outside',
+    ].join('\n');
+    expect(extractTasks(raw).map((t) => t.text)).toEqual(['outside']);
+  });
+
+  it('scans a long tab-padded line inside a fence in linear time', () => {
+    // The old close-fence regex backtracked quadratically here: ~160 ms for
+    // 20k tabs, minutes for a 1 MB line. 200k tabs keeps the margin wide.
+    const evil = `\`\`\`${'\t'.repeat(200_000)}\``;
+    const raw = ['```', evil, '```', '- [ ] after'].join('\n');
+    const start = performance.now();
+    expect(extractTasks(raw).map((t) => t.text)).toEqual(['after']);
+    expect(performance.now() - start).toBeLessThan(250);
+  });
+
   it('suppresses to end of file on an unclosed fence', () => {
     const raw = ['- [ ] before', '```', '- [ ] fenced forever'].join('\n');
     expect(extractTasks(raw).map((t) => t.text)).toEqual(['before']);
