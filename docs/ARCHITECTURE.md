@@ -46,7 +46,13 @@ flowchart TD
   `@seekstone/core` workspace package** into a single self-contained
   `dist/index.js` (ESM, `#!/usr/bin/env node` shebang); the npm deps stay
   external and install normally. This is why `@seekstone/core` is a *devDep*
-  with `noExternal: [/^@seekstone\//]` in `tsup.config.ts`.
+  with `noExternal: [/^@seekstone\//]` in `tsup.config.ts`. The `.mcpb`
+  build (`tsup.mcpb.config.ts`, `noExternal: [/.*/]`) is different: it inlines
+  every dependency *as resolved in this monorepo*, so the root lockfile decides
+  what ships in the Claude Desktop bundle. That is why the root `package.json`
+  has an `overrides` entry pinning `@modelcontextprotocol/sdk`'s `zod` to `^4`:
+  without it the SDK resolves to the zod 3 hoisted for the dev-only
+  `@anthropic-ai/mcpb` CLI, and the bundle ships that copy.
 - **`@seekstone/harness`** — the measurement suite. Runs from source via `tsx`
   (no build step; `tsc` is typecheck-only). It depends on `@seekstone/core` and
   also imports `packages/server/src` **directly** — the `seekstone` adapter
