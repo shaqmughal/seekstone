@@ -23,7 +23,10 @@ export interface TaskEntry {
 const TASK_RE = /^([ \t]*)([-*+]) \[(.)\](?: (.*))?$/;
 
 const HEADING_RE = /^(#{1,6})\s+(.+)/;
-const FENCE_RE = /^[ \t]*(`{3,}|~{3,})[ \t]*([^`]*)$/;
+// A closing fence: the fence run with only whitespace around it. Kept free of
+// a second whitespace-matching group after the run — that ambiguity made the
+// old /…[ \t]*([^`]*)$/ form backtrack quadratically on a long line of tabs.
+const FENCE_CLOSE_RE = /^[ \t]*(`{3,}|~{3,})[ \t]*$/;
 
 /**
  * Extract every Markdown checkbox item from a note in one pass, skipping the
@@ -54,14 +57,8 @@ export function extractTasks(raw: string): TaskEntry[] {
     const line = rawLine.endsWith('\r') ? rawLine.slice(0, -1) : rawLine;
 
     if (fence) {
-      const close = FENCE_RE.exec(line);
-      const closeMarker = close?.[1] ?? '';
-      const closeTrailer = close?.[2] ?? '';
-      if (
-        closeMarker.startsWith(fence.char) &&
-        closeMarker.length >= fence.len &&
-        closeTrailer === ''
-      ) {
+      const closeMarker = FENCE_CLOSE_RE.exec(line)?.[1] ?? '';
+      if (closeMarker.startsWith(fence.char) && closeMarker.length >= fence.len) {
         fence = null;
       }
       continue;
