@@ -1,5 +1,14 @@
 # seekstone
 
+## 0.22.2
+
+### Patch Changes
+
+- 85adbf4: Bump @modelcontextprotocol/sdk from 1.32.0 to 1.32.1.
+- b2b44ed: The Claude Desktop bundle (`.mcpb`) now uses zod 4.6.7 inside the MCP SDK instead of zod 3.25.76, fixing zod's memory-exhaustion advisory (affects versions below 4.6.6) for bundle users. The npm package was not affected.
+- cbc1be9: Bump zod from 4.6.5 to 4.6.6.
+- 7871157: Bump zod from 4.6.6 to 4.6.7.
+
 ## 0.22.1
 
 ### Patch Changes
