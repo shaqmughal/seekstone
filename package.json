@@ -30,7 +30,10 @@
   },
   "overrides": {
     "tmp": ">=0.2.6",
-    "esbuild": "^0.28.1"
+    "esbuild": "^0.28.1",
+    "@modelcontextprotocol/sdk": {
+      "zod": "^4.6.7"
+    }
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^2.1.2",
