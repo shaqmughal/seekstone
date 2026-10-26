@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.22.4
+
+### Patch Changes
+
+- cc348d3: Bump @modelcontextprotocol/sdk from 1.32.1 to 1.32.2.
+
 ## 0.22.3
 
 ### Patch Changes
