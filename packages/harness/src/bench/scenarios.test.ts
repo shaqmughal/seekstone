@@ -162,6 +162,73 @@ describe('runScenarios', () => {
     expect(summary.tasks[0]?.payloadStable).toBe(false);
   });
 
+  describe('folder-read (taskQuery on a backend without listTasks)', () => {
+    const entries = [
+      { path: 'Daily/2026-10', isDirectory: true },
+      { path: 'Daily/2026-10-02.md', isDirectory: false },
+      { path: 'Daily/2026-10-01.md', isDirectory: false },
+      { path: 'Daily/2026-09-30.md', isDirectory: false },
+      { path: 'Daily/2026-10-01.txt', isDirectory: false },
+    ];
+    const folderTask = task({ taskQuery: { folder: 'Daily/2026-10' } });
+
+    it('lists the folder prefix and reads matching notes in path order', async () => {
+      const listed: string[] = [];
+      const backend = multicallBackend({
+        list: async (folder?: string) => {
+          listed.push(folder ?? '');
+          return resp(entries);
+        },
+      });
+      const summary = await runScenarios({ backend, taskSet: taskSet([folderTask], 1) });
+      const t = summary.tasks[0];
+      expect(t?.strategy).toBe('folder-read');
+      expect(listed).toEqual(['Daily/2026-10']);
+      expect(t?.steps.map((s) => [s.op, s.target])).toEqual([
+        ['list', 'Daily/2026-10'],
+        ['read', 'Daily/2026-10-01.md'],
+        ['read', 'Daily/2026-10-02.md'],
+      ]);
+    });
+
+    it('falls back to the parent folder when listing the prefix throws', async () => {
+      const listed: string[] = [];
+      const backend = multicallBackend({
+        list: async (folder?: string) => {
+          listed.push(folder ?? '');
+          if (folder === 'Daily/2026-10') throw new Error('not a directory');
+          return resp(entries);
+        },
+      });
+      const summary = await runScenarios({ backend, taskSet: taskSet([folderTask], 1) });
+      expect(listed).toEqual(['Daily/2026-10', 'Daily']);
+      expect(summary.tasks[0]?.steps.map((s) => [s.op, s.target])).toEqual([
+        ['list', 'Daily'],
+        ['read', 'Daily/2026-10-01.md'],
+        ['read', 'Daily/2026-10-02.md'],
+      ]);
+    });
+
+    it('falls back to the vault root when a top-level prefix lists no matches', async () => {
+      const listed: string[] = [];
+      const backend = multicallBackend({
+        list: async (folder?: string) => {
+          listed.push(folder ?? '');
+          return resp(folder === '' ? [{ path: 'Inbox.md', isDirectory: false }] : []);
+        },
+      });
+      const summary = await runScenarios({
+        backend,
+        taskSet: taskSet([task({ taskQuery: { folder: 'Inbox' } })], 1),
+      });
+      expect(listed).toEqual(['Inbox', '']);
+      expect(summary.tasks[0]?.steps.map((s) => [s.op, s.target])).toEqual([
+        ['list', '(vault)'],
+        ['read', 'Inbox.md'],
+      ]);
+    });
+  });
+
   it('reports cold/warm latency with the RunStats split (cold = run 1)', async () => {
     const backend = multicallBackend();
     const summary = await runScenarios({ backend, taskSet: taskSet([task()], 4) });

@@ -158,7 +158,7 @@ async function executeTask(
     } catch {
       listing = null;
     }
-    if (!listing || !listing.result.some(matches)) {
+    if (!listing?.result.some(matches)) {
       const parent = folder.includes('/') ? folder.slice(0, folder.lastIndexOf('/')) : '';
       listing = await backend.list(parent);
       listedAs = parent || '(vault)';
