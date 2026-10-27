@@ -10,15 +10,25 @@ const tools = [
 describe('renderSchemaTaxMarkdown', () => {
   const md = renderSchemaTaxMarkdown(
     buildReport('seekstone', [
-      measureSurface('read-write', { tools, instructions: 'Prefer search.' }),
+      measureSurface('read-write', {
+        tools,
+        instructions: 'Prefer search.',
+        prompts: [{ name: 'daily-review' }],
+        resources: [{ uri: 'obsidian://a', name: 'a' }],
+        resourceTemplates: [{ uriTemplate: 'obsidian://{path}', name: 'note' }],
+      }),
       measureSurface('read-only', { tools: tools.slice(1) }),
     ]),
   );
 
-  it('renders a summary row per mode, with instructions or "none"', () => {
+  it('renders a summary row per mode, with instructions, prompts and resources or "none"', () => {
     expect(md).toContain('# Schema tax — seekstone');
-    expect(md).toMatch(/\| Read-write \(default\) \| 2 \| \d+ B \| \d+ \| \d+ tokens \|/);
-    expect(md).toMatch(/\| Read-only \(`SEEKSTONE_READ_ONLY=1`\) \| 1 \| \d+ B \| \d+ \| none \|/);
+    expect(md).toMatch(
+      /\| Read-write \(default\) \| 2 \| \d+ B \| \d+ \| \d+ tokens \| 1 \(\d+ tokens\) \| 2 \(\d+ tokens\) \|/,
+    );
+    expect(md).toMatch(
+      /\| Read-only \(`SEEKSTONE_READ_ONLY=1`\) \| 1 \| \d+ B \| \d+ \| none \| none \| none \|/,
+    );
   });
 
   it('renders a per-tool table per mode, most expensive first, with shares', () => {

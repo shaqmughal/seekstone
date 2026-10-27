@@ -325,6 +325,9 @@ const modeRow = (m) => ({
   bytes: m.totalBytes,
   tokens: m.totalTokens,
   instructionsBytes: m.instructionsBytes,
+  prompts: m.prompts,
+  resources: m.resources,
+  resourceTemplates: m.resourceTemplates,
   largestTools: m.perTool.slice(0, 3),
 });
 const schemaTax = {

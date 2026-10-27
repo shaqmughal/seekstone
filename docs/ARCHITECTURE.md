@@ -377,11 +377,12 @@ flowchart TD
   `SEEKSTONE_CACHE_DIR`). The committed baseline is
   `fixtures/baseline-reports/retrieval-eval.{json,md}`, produced with
   `--model potion-retrieval-32M,potion-base-8M --shipped --split all`.
-- **schema-tax** measures the session-start cost of the tool list: it boots the
-  built server over stdio in read-write and read-only mode, reads `tools/list`,
-  and records bytes and tokens per tool. The committed baseline feeds
-  `benchmarks.json`, and CI's `schema-tax --check` fails when the served tool
-  list stops matching it.
+- **schema-tax** measures the session-start cost of what the server serves: it
+  boots the built server over stdio in read-write and read-only mode, reads
+  `tools/list` (plus the prompt and resource lists when advertised), and
+  records bytes and tokens per tool. The committed baseline feeds
+  `benchmarks.json`, and CI's `schema-tax --check` fails when the served lists
+  stop matching it.
 - **fixtures** generate the committed, personal-data-free 10k-note synthetic
   vault from the public-domain 1911 Encyclopædia Britannica (deterministic,
   seed 42 — hence the custom `prng`, since `Math.random()` is banned harness-wide).

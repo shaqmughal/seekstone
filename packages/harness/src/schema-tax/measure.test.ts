@@ -40,6 +40,25 @@ describe('measureSurface', () => {
     expect(m.instructionsTokens).toBe(countTokens('Prefer search.', 14));
   });
 
+  it('reports zero-cost prompt and resource lists when none are served', () => {
+    const m = measureSurface('read-write', { tools: [small], prompts: [] });
+    const zero = { count: 0, bytes: 0, tokens: 0 };
+    expect(m.prompts).toEqual(zero);
+    expect(m.resources).toEqual(zero);
+    expect(m.resourceTemplates).toEqual(zero);
+  });
+
+  it('measures served prompt and resource lists as compact JSON', () => {
+    const prompts = [{ name: 'daily-review', description: 'Review today.' }];
+    const m = measureSurface('read-write', { tools: [small], prompts });
+    const text = JSON.stringify(prompts);
+    expect(m.prompts).toEqual({
+      count: 1,
+      bytes: Buffer.byteLength(text),
+      tokens: countTokens(text, 0),
+    });
+  });
+
   it('rejects a tool without a name', () => {
     expect(() => measureSurface('read-write', { tools: [small, { description: 'x' }] })).toThrow(
       'tools/list entry 1 has no name',
@@ -83,6 +102,16 @@ describe('diffReports', () => {
     expect(diffReports(report([small, big, { name: 'x' }]), report([small, big]))).toContain(
       'read-write: 2 → 3 tools',
     );
+  });
+
+  it('reports a new prompt list', () => {
+    const base = buildReport('seekstone', [measureSurface('read-write', { tools: [small] })]);
+    const withPrompts = buildReport('seekstone', [
+      measureSurface('read-write', { tools: [small], prompts: [{ name: 'daily-review' }] }),
+    ]);
+    expect(diffReports(withPrompts, base)).toEqual([
+      expect.stringMatching(/^read-write: prompts 0 → 1 \(0 → \d+ tokens\)$/),
+    ]);
   });
 
   it('reports a mode present on only one side', () => {

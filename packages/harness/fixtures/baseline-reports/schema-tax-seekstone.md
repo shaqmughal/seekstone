@@ -1,11 +1,11 @@
 # Schema tax — seekstone
 
-What a client loads into context when a session starts, before any tool is called: the name, description and input schema of every tool the server offers, plus its instructions string if it sends one.
+What a client can load into context when a session starts, before any tool is called: the name, description and input schema of every tool the server offers, its instructions string if it sends one, and any prompts and resources it advertises.
 
-| Mode | Tools | Tool list | Tokens (approx) | Instructions |
-| --- | ---: | ---: | ---: | ---: |
-| Read-write (default) | 25 | 25.5 KB | 5,742 | none |
-| Read-only (`SEEKSTONE_READ_ONLY=1`) | 14 | 14.4 KB | 3,261 | none |
+| Mode | Tools | Tool list | Tokens (approx) | Instructions | Prompts | Resources |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Read-write (default) | 25 | 25.5 KB | 5,742 | none | none | none |
+| Read-only (`SEEKSTONE_READ_ONLY=1`) | 14 | 14.4 KB | 3,261 | none | none | none |
 
 ## Per tool — Read-write (default)
 
@@ -60,5 +60,5 @@ Most expensive first.
 | `list_notes` | 510 | 113 | 3.5% |
 | `get_links` | 420 | 91 | 2.8% |
 
-> **Method.** Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). Tokens: tiktoken cl100k_base.
-> Clients reformat tool definitions before passing them to a model, so absolute counts vary by client and model. Comparisons between servers measured the same way still hold.
+> **Method.** Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). prompts/list, resources/list and resources/templates/list are measured the same way when the server advertises them. Tokens: tiktoken cl100k_base.
+> Clients reformat these definitions before passing them to a model, and some (Claude Code with tool search, for one) load only tool names until a tool is needed, so treat these counts as an upper bound that varies by client and model. Comparisons between servers measured the same way still hold.

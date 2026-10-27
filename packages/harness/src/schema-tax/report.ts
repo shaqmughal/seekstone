@@ -1,4 +1,4 @@
-import type { ModeCost, SchemaTaxReport } from './measure.js';
+import type { ListCost, ModeCost, SchemaTaxReport } from './measure.js';
 
 /** Renderer for the schema-tax report (SHA-341). */
 
@@ -9,6 +9,12 @@ function fmtBytes(n: number): string {
 }
 function fmtInt(n: number): string {
   return n.toLocaleString('en-US');
+}
+
+function fmtList(...lists: ListCost[]): string {
+  const count = lists.reduce((a, l) => a + l.count, 0);
+  const tokens = lists.reduce((a, l) => a + l.tokens, 0);
+  return count === 0 ? 'none' : `${count} (${fmtInt(tokens)} tokens)`;
 }
 
 function modeLabel(m: ModeCost): string {
@@ -22,15 +28,15 @@ export function renderSchemaTaxMarkdown(r: SchemaTaxReport): string {
   push(`# Schema tax — ${r.backend}`);
   push();
   push(
-    'What a client loads into context when a session starts, before any tool is called: the name, description and input schema of every tool the server offers, plus its instructions string if it sends one.',
+    'What a client can load into context when a session starts, before any tool is called: the name, description and input schema of every tool the server offers, its instructions string if it sends one, and any prompts and resources it advertises.',
   );
   push();
-  push('| Mode | Tools | Tool list | Tokens (approx) | Instructions |');
-  push('| --- | ---: | ---: | ---: | ---: |');
+  push('| Mode | Tools | Tool list | Tokens (approx) | Instructions | Prompts | Resources |');
+  push('| --- | ---: | ---: | ---: | ---: | ---: | ---: |');
   for (const m of r.modes) {
     const instr = m.instructionsBytes === 0 ? 'none' : `${fmtInt(m.instructionsTokens)} tokens`;
     push(
-      `| ${modeLabel(m)} | ${m.toolCount} | ${fmtBytes(m.totalBytes)} | ${fmtInt(m.totalTokens)} | ${instr} |`,
+      `| ${modeLabel(m)} | ${m.toolCount} | ${fmtBytes(m.totalBytes)} | ${fmtInt(m.totalTokens)} | ${instr} | ${fmtList(m.prompts)} | ${fmtList(m.resources, m.resourceTemplates)} |`,
     );
   }
   push();
@@ -52,7 +58,7 @@ export function renderSchemaTaxMarkdown(r: SchemaTaxReport): string {
 
   push(`> **Method.** ${r.method}`);
   push(
-    '> Clients reformat tool definitions before passing them to a model, so absolute counts vary by client and model. Comparisons between servers measured the same way still hold.',
+    '> Clients reformat these definitions before passing them to a model, and some (Claude Code with tool search, for one) load only tool names until a tool is needed, so treat these counts as an upper bound that varies by client and model. Comparisons between servers measured the same way still hold.',
   );
   push();
   return out.join('\n');

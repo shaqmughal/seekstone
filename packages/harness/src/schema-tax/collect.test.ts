@@ -24,9 +24,16 @@ readline.createInterface({ input: process.stdin }).on('line', (line) => {
   const req = JSON.parse(line);
   if (req.id === undefined) return;
   if (req.method === 'initialize') {
-    const result = { serverInfo: { name: 'fake', version: '0.0.0' } };
+    const result = { serverInfo: { name: 'fake', version: '0.0.0' }, capabilities: { tools: {} } };
     if (env.FAKE_INSTRUCTIONS) result.instructions = env.FAKE_INSTRUCTIONS;
+    if (env.FAKE_EXTRAS) Object.assign(result.capabilities, { prompts: {}, resources: {} });
     send({ jsonrpc: '2.0', id: req.id, result });
+  } else if (req.method === 'prompts/list') {
+    send({ jsonrpc: '2.0', id: req.id, result: { prompts: [{ name: 'daily-review' }] } });
+  } else if (req.method === 'resources/list') {
+    send({ jsonrpc: '2.0', id: req.id, result: { resources: [{ uri: 'obsidian://a', name: 'a' }] } });
+  } else if (req.method === 'resources/templates/list') {
+    send({ jsonrpc: '2.0', id: req.id, result: {} });
   } else if (req.method === 'tools/list') {
     const first = !req.params || !req.params.cursor;
     send({
@@ -54,6 +61,20 @@ describe('collectSurface', () => {
   it('captures the initialize instructions string', async () => {
     const s = await collectSurface('fake', cmd, { FAKE_INSTRUCTIONS: 'Prefer search.' });
     expect(s.instructions).toBe('Prefer search.');
+  });
+
+  it('skips prompt and resource lists the server does not advertise', async () => {
+    const s = await collectSurface('fake', cmd, {});
+    expect(s).not.toHaveProperty('prompts');
+    expect(s).not.toHaveProperty('resources');
+    expect(s).not.toHaveProperty('resourceTemplates');
+  });
+
+  it('reads prompts, resources and templates when the capabilities are advertised', async () => {
+    const s = await collectSurface('fake', cmd, { FAKE_EXTRAS: '1' });
+    expect(s.prompts).toEqual([{ name: 'daily-review' }]);
+    expect(s.resources).toEqual([{ uri: 'obsidian://a', name: 'a' }]);
+    expect(s.resourceTemplates).toEqual([]);
   });
 });
 

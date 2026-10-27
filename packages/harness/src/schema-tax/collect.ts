@@ -4,7 +4,11 @@ import { join } from 'node:path';
 import { McpSubprocess } from '../bench/adapters/mcp-subprocess.js';
 import type { SchemaTaxMode, ServedSurface } from './measure.js';
 
-/** Connect to an MCP server over stdio and read what it serves at session start. */
+/**
+ * Connect to an MCP server over stdio and read what it serves at session
+ * start: the tool list, the instructions string, and the prompt and resource
+ * lists when the server advertises those capabilities in `initialize`.
+ */
 export async function collectSurface(
   name: string,
   cmd: string[],
@@ -12,9 +16,18 @@ export async function collectSurface(
 ): Promise<ServedSurface> {
   const sub = await McpSubprocess.connect(name, cmd, { env, replaceEnv: true });
   try {
-    const tools = await sub.listTools();
-    const instructions = sub.initializeResult.instructions;
-    return instructions ? { tools, instructions } : { tools };
+    const { instructions, capabilities } = sub.initializeResult;
+    const surface: ServedSurface = { tools: await sub.listTools() };
+    if (instructions) surface.instructions = instructions;
+    if (capabilities?.prompts) surface.prompts = await sub.listAll('prompts/list', 'prompts');
+    if (capabilities?.resources) {
+      surface.resources = await sub.listAll('resources/list', 'resources');
+      surface.resourceTemplates = await sub.listAll(
+        'resources/templates/list',
+        'resourceTemplates',
+      );
+    }
+    return surface;
   } finally {
     await sub.close();
   }

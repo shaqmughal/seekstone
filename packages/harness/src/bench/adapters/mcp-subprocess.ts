@@ -24,6 +24,7 @@ export interface McpToolResult {
 export interface McpInitializeResult {
   serverInfo?: { name?: string; version?: string };
   instructions?: string;
+  capabilities?: { tools?: unknown; prompts?: unknown; resources?: unknown };
 }
 
 /**
@@ -107,16 +108,29 @@ export class McpSubprocess {
   }
 
   /** Every tool the server serves, following `nextCursor` pagination. */
-  async listTools(timeout = 60_000): Promise<Array<Record<string, unknown>>> {
-    const tools: Array<Record<string, unknown>> = [];
+  listTools(timeout = 60_000): Promise<Array<Record<string, unknown>>> {
+    return this.listAll('tools/list', 'tools', timeout);
+  }
+
+  /**
+   * Every item of a paginated MCP list (`tools/list`, `prompts/list`,
+   * `resources/list`, `resources/templates/list`), following `nextCursor`.
+   */
+  async listAll(
+    method: string,
+    key: string,
+    timeout = 60_000,
+  ): Promise<Array<Record<string, unknown>>> {
+    const items: Array<Record<string, unknown>> = [];
     let cursor: string | undefined;
     do {
-      const resp = await this.rpc('tools/list', cursor ? { cursor } : {}, timeout);
-      const page = resp.result as { tools?: Array<Record<string, unknown>>; nextCursor?: string };
-      tools.push(...(page?.tools ?? []));
-      cursor = page?.nextCursor;
+      const resp = await this.rpc(method, cursor ? { cursor } : {}, timeout);
+      const page = resp.result as Record<string, unknown> | undefined;
+      const batch = page?.[key];
+      if (Array.isArray(batch)) items.push(...batch);
+      cursor = typeof page?.nextCursor === 'string' ? page.nextCursor : undefined;
     } while (cursor);
-    return tools;
+    return items;
   }
 
   async callTool(name: string, args: Record<string, unknown>, timeout = 60_000): Promise<string> {

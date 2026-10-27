@@ -1,14 +1,16 @@
 import { countTokens } from '../bench/timer.js';
 
 /**
- * Schema tax (SHA-341): the context a client loads at session start, before
- * the first tool call — every served tool's name, description and input
- * schema, plus the server's `instructions` string if it sends one.
+ * Schema tax (SHA-341): the context a client can load at session start,
+ * before the first tool call — every served tool's name, description and
+ * input schema, the server's `instructions` string if it sends one, and any
+ * prompts, resources and resource templates it advertises.
  *
- * Sizes are taken from the tool list exactly as the server returned it over
- * MCP (`tools/list`), compact-JSON serialized the way it crossed the wire.
- * Clients reformat tool definitions before handing them to a model, so the
- * absolute token count is encoder-approximate; the cross-server ratios hold.
+ * Sizes are taken from the lists exactly as the server returned them over
+ * MCP, compact-JSON serialized the way they crossed the wire. Clients
+ * reformat definitions before handing them to a model, and some defer tool
+ * schemas until a tool is needed, so the absolute token count is an
+ * encoder-approximate upper bound; the cross-server ratios hold.
  */
 
 export const TOKENIZER = 'tiktoken cl100k_base';
@@ -16,14 +18,29 @@ export const TOKENIZER = 'tiktoken cl100k_base';
 export const METHOD =
   'Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; ' +
   'totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own ' +
-  '(per-tool tokens do not sum exactly to the total). Tokens: tiktoken cl100k_base.';
+  '(per-tool tokens do not sum exactly to the total). prompts/list, resources/list and ' +
+  'resources/templates/list are measured the same way when the server advertises them. ' +
+  'Tokens: tiktoken cl100k_base.';
 
 export type SchemaTaxMode = 'read-write' | 'read-only';
 
+type Items = Array<Record<string, unknown>>;
+
 /** What a server serves at session start. */
 export interface ServedSurface {
-  tools: Array<Record<string, unknown>>;
+  tools: Items;
   instructions?: string;
+  /** Present only when the server advertises the capability. */
+  prompts?: Items;
+  resources?: Items;
+  resourceTemplates?: Items;
+}
+
+/** Size of one non-tool list; all zero when the server does not serve it. */
+export interface ListCost {
+  count: number;
+  bytes: number;
+  tokens: number;
 }
 
 export interface ToolCost {
@@ -40,9 +57,15 @@ export interface ModeCost {
   /** Size of the `initialize` instructions string (0 when the server sends none). */
   instructionsBytes: number;
   instructionsTokens: number;
+  prompts: ListCost;
+  resources: ListCost;
+  resourceTemplates: ListCost;
   /** Most expensive first; ties broken by name so the order is deterministic. */
   perTool: ToolCost[];
 }
+
+/** The non-tool lists, in report order. */
+export const EXTRA_LISTS = ['prompts', 'resources', 'resourceTemplates'] as const;
 
 export interface SchemaTaxReport {
   schemaVersion: 1;
@@ -74,8 +97,16 @@ export function measureSurface(mode: SchemaTaxMode, surface: ServedSurface): Mod
     totalTokens: total.tokens,
     instructionsBytes: instructions.bytes,
     instructionsTokens: instructions.tokens,
+    prompts: listCost(surface.prompts),
+    resources: listCost(surface.resources),
+    resourceTemplates: listCost(surface.resourceTemplates),
     perTool,
   };
+}
+
+function listCost(items: Items | undefined): ListCost {
+  if (!items || items.length === 0) return { count: 0, bytes: 0, tokens: 0 };
+  return { count: items.length, ...cost(JSON.stringify(items)) };
 }
 
 export function buildReport(backend: string, modes: ModeCost[]): SchemaTaxReport {
@@ -111,6 +142,14 @@ export function diffReports(fresh: SchemaTaxReport, baseline: SchemaTaxReport): 
       before.delete(t.name);
     }
     for (const name of before.keys()) out.push(`${f.mode}: removed tool ${name}`);
+    for (const list of EXTRA_LISTS) {
+      const [now, was] = [f[list], b[list]];
+      if (now.count !== was.count || now.bytes !== was.bytes) {
+        out.push(
+          `${f.mode}: ${list} ${was.count} → ${now.count} (${was.tokens} → ${now.tokens} tokens)`,
+        );
+      }
+    }
   }
   for (const b of baseline.modes) {
     if (!fresh.modes.some((m) => m.mode === b.mode)) out.push(`${b.mode}: missing from the run`);

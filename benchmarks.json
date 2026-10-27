@@ -26,12 +26,27 @@
   },
   "schemaTax": {
     "tokenizer": "tiktoken cl100k_base",
-    "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). Tokens: tiktoken cl100k_base.",
+    "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). prompts/list, resources/list and resources/templates/list are measured the same way when the server advertises them. Tokens: tiktoken cl100k_base.",
     "readWrite": {
       "toolCount": 25,
       "bytes": 26125,
       "tokens": 5742,
       "instructionsBytes": 0,
+      "prompts": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resources": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resourceTemplates": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
       "largestTools": [
         {
           "name": "query_notes",
@@ -55,6 +70,21 @@
       "bytes": 14751,
       "tokens": 3261,
       "instructionsBytes": 0,
+      "prompts": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resources": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resourceTemplates": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
       "largestTools": [
         {
           "name": "query_notes",
@@ -80,7 +110,7 @@
     "provenance": {
       "report": "packages/harness/fixtures/baseline-reports/schema-tax-seekstone.json",
       "capture": "auto",
-      "commit": null
+      "commit": "6c8e12b4"
     }
   },
   "guarantees": {
