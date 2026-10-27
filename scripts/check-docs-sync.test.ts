@@ -44,6 +44,15 @@ describe('benchmarks guard (docs-sync check 4)', () => {
     );
   });
 
+  it('pins the schema-tax sentence to benchmarks.json', () => {
+    const readme = real('README.md');
+    const target = `falls to **~${bench.schemaTax.readOnly.tokens.toLocaleString('en-US')} tokens**`;
+    expect(readme).toContain(target);
+    const errs = checkNumbers(bench, withReadme(readme.replace(target, 'falls to **~1 tokens**')));
+    expect(errs).toHaveLength(1);
+    expect(errs[0]).toMatch(/"schema tax \(tool list at session start\)" says 1 but/);
+  });
+
   it('fails loudly when an anchored sentence is rewritten away', () => {
     const readme = real('README.md').replace(
       'up to a **~47,000× reduction**',

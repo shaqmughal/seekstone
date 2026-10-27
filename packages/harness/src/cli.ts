@@ -36,6 +36,14 @@ import { loadGoldenSet } from './retrieval/golden.js';
 import { renderRetrievalMarkdown } from './retrieval/report.js';
 import { runRetrievalEval } from './retrieval/runner.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
+import { collectSeekstone } from './schema-tax/collect.js';
+import {
+  buildReport,
+  diffReports,
+  measureSurface,
+  type SchemaTaxReport,
+} from './schema-tax/measure.js';
+import { renderSchemaTaxMarkdown } from './schema-tax/report.js';
 
 // `npm run -w @seekstone/harness start` runs tsx with cwd = packages/harness,
 // which makes relative path args (e.g. `packages/harness/queries/default.json`,
@@ -180,6 +188,61 @@ cli
     const outPath = join(outDir, 'scenarios-comparison.md');
     await writeFile(outPath, renderScenarioComparisonMarkdown(summaries));
     console.log(`scenarios-compare: wrote ${outPath}`);
+  });
+
+// ---------- schema-tax ----------
+cli
+  .command(
+    'schema-tax',
+    "Measure the built server's tool-list payload (read-write + read-only) — SHA-341.",
+  )
+  .option('--server <path>', 'Built server entry point.', {
+    default: 'packages/server/dist/index.js',
+  })
+  .option('--out <dir>', 'Output directory.', { default: 'reports' })
+  .option('--check', 'Compare against the committed baseline instead of writing; exit 1 on drift.')
+  .action(async (opts) => {
+    const server = resolve(opts.server);
+    try {
+      await readFile(server);
+    } catch {
+      console.error(`schema-tax: ${server} not found — run \`npm run build -w seekstone\` first.`);
+      process.exit(2);
+    }
+    const served = await collectSeekstone([process.execPath, server]);
+    const report = buildReport('seekstone', [
+      measureSurface('read-write', served['read-write']),
+      measureSurface('read-only', served['read-only']),
+    ]);
+    if (opts.check) {
+      const baselinePath = join(FIXTURES, 'baseline-reports', 'schema-tax-seekstone.json');
+      const baseline = JSON.parse(await readFile(baselinePath, 'utf8')) as SchemaTaxReport;
+      const drift = diffReports(report, baseline);
+      if (drift.length > 0) {
+        console.error('✗ schema-tax drift: the served tool list no longer matches the baseline.');
+        for (const d of drift) console.error(`  ${d}`);
+        console.error('  If the change is intentional, rebuild the server and regenerate it:');
+        console.error(
+          '  npm run build -w seekstone && npm run harness -- schema-tax --out packages/harness/fixtures/baseline-reports && npm run build:benchmarks',
+        );
+        process.exit(1);
+      }
+      console.log('✓ schema-tax matches the committed baseline.');
+      return;
+    }
+    const outDir = resolve(opts.out);
+    await mkdir(outDir, { recursive: true });
+    const jsonPath = join(outDir, 'schema-tax-seekstone.json');
+    const mdPath = join(outDir, 'schema-tax-seekstone.md');
+    await writeFile(jsonPath, `${JSON.stringify(report, null, 2)}\n`);
+    await writeFile(mdPath, renderSchemaTaxMarkdown(report));
+    for (const m of report.modes) {
+      console.log(
+        `schema-tax (${m.mode}): ${m.toolCount} tools, ${m.totalTokens} tokens (${m.totalBytes} bytes).`,
+      );
+    }
+    console.log(`         wrote ${jsonPath}`);
+    console.log(`         wrote ${mdPath}`);
   });
 
 // ---------- safety ----------

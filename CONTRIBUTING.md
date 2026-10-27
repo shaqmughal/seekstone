@@ -49,6 +49,15 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
 - **Never mutate the live vault outside an explicit tool.** Write paths must preserve byte-faithful frontmatter; see the write-safety harness.
 - **No telemetry, and no network calls on the serving path.** This is a core promise — keep it. The sole sanctioned network code is the `fetch-model` CLI subcommand (pinned-hash model download, exits before serving); `no-network.test.ts` is the guard, and it must keep passing with semantic search enabled.
 
+## Adding a tool
+
+Every tool costs every user context in every session, called or not, because its name, description, and input schema load when the session starts. Since Seekstone's whole case is a small context footprint, a PR that adds a tool has to show two things:
+
+1. **A token win.** Add a task to `packages/harness/queries/tasks.json` that the new tool answers in fewer tokens than the existing tools can between them. Run `npm run harness -- scenarios` and put the before and after numbers in the PR. `list_tasks` (SHA-285) went in this way.
+2. **Its schema-tax cost.** This is how many tokens the tool adds to the tool list. Rebuild and re-measure with `npm run build -w seekstone && npm run harness -- schema-tax --out packages/harness/fixtures/baseline-reports && npm run build:benchmarks`, commit the updated baseline and `benchmarks.json`, fix any README figure `npm run check:docs` flags, and quote the old and new totals in the PR. CI fails if the committed baseline doesn't match the tool list the server serves.
+
+If no task shows a win, the capability probably belongs as a parameter on an existing tool.
+
 ## Commit & PR
 
 - Branch off `main`; keep PRs focused.

@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "backend": "seekstone",
+  "tokenizer": "tiktoken cl100k_base",
+  "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). Tokens: tiktoken cl100k_base.",
+  "modes": [
+    {
+      "mode": "read-write",
+      "toolCount": 25,
+      "totalBytes": 26125,
+      "totalTokens": 5742,
+      "instructionsBytes": 0,
+      "instructionsTokens": 0,
+      "perTool": [
+        {
+          "name": "query_notes",
+          "bytes": 2155,
+          "tokens": 480
+        },
+        {
+          "name": "read_notes",
+          "bytes": 1797,
+          "tokens": 417
+        },
+        {
+          "name": "context_pack",
+          "bytes": 1666,
+          "tokens": 357
+        },
+        {
+          "name": "patch_note",
+          "bytes": 1586,
+          "tokens": 345
+        },
+        {
+          "name": "list_tasks",
+          "bytes": 1356,
+          "tokens": 324
+        },
+        {
+          "name": "replace_in_note",
+          "bytes": 1347,
+          "tokens": 290
+        },
+        {
+          "name": "read_note",
+          "bytes": 1223,
+          "tokens": 273
+        },
+        {
+          "name": "update_task",
+          "bytes": 1187,
+          "tokens": 267
+        },
+        {
+          "name": "search",
+          "bytes": 1185,
+          "tokens": 265
+        },
+        {
+          "name": "rename_heading",
+          "bytes": 1118,
+          "tokens": 246
+        },
+        {
+          "name": "move_note",
+          "bytes": 1118,
+          "tokens": 233
+        },
+        {
+          "name": "append_periodic_note",
+          "bytes": 1031,
+          "tokens": 228
+        },
+        {
+          "name": "create_note",
+          "bytes": 973,
+          "tokens": 213
+        },
+        {
+          "name": "undo_write",
+          "bytes": 872,
+          "tokens": 198
+        },
+        {
+          "name": "get_periodic_note",
+          "bytes": 878,
+          "tokens": 193
+        },
+        {
+          "name": "resolve_note",
+          "bytes": 880,
+          "tokens": 191
+        },
+        {
+          "name": "delete_note",
+          "bytes": 767,
+          "tokens": 171
+        },
+        {
+          "name": "patch_frontmatter",
+          "bytes": 720,
+          "tokens": 159
+        },
+        {
+          "name": "list_tags",
+          "bytes": 674,
+          "tokens": 149
+        },
+        {
+          "name": "get_backlinks",
+          "bytes": 680,
+          "tokens": 148
+        },
+        {
+          "name": "outline_note",
+          "bytes": 732,
+          "tokens": 145
+        },
+        {
+          "name": "append_note",
+          "bytes": 644,
+          "tokens": 142
+        },
+        {
+          "name": "list_writes",
+          "bytes": 580,
+          "tokens": 126
+        },
+        {
+          "name": "list_notes",
+          "bytes": 510,
+          "tokens": 113
+        },
+        {
+          "name": "get_links",
+          "bytes": 420,
+          "tokens": 91
+        }
+      ]
+    },
+    {
+      "mode": "read-only",
+      "toolCount": 14,
+      "totalBytes": 14751,
+      "totalTokens": 3261,
+      "instructionsBytes": 0,
+      "instructionsTokens": 0,
+      "perTool": [
+        {
+          "name": "query_notes",
+          "bytes": 2155,
+          "tokens": 480
+        },
+        {
+          "name": "read_notes",
+          "bytes": 1797,
+          "tokens": 417
+        },
+        {
+          "name": "context_pack",
+          "bytes": 1666,
+          "tokens": 357
+        },
+        {
+          "name": "list_tasks",
+          "bytes": 1356,
+          "tokens": 324
+        },
+        {
+          "name": "read_note",
+          "bytes": 1223,
+          "tokens": 273
+        },
+        {
+          "name": "search",
+          "bytes": 1185,
+          "tokens": 265
+        },
+        {
+          "name": "get_periodic_note",
+          "bytes": 878,
+          "tokens": 193
+        },
+        {
+          "name": "resolve_note",
+          "bytes": 880,
+          "tokens": 191
+        },
+        {
+          "name": "list_tags",
+          "bytes": 674,
+          "tokens": 149
+        },
+        {
+          "name": "get_backlinks",
+          "bytes": 680,
+          "tokens": 148
+        },
+        {
+          "name": "outline_note",
+          "bytes": 732,
+          "tokens": 145
+        },
+        {
+          "name": "list_writes",
+          "bytes": 580,
+          "tokens": 126
+        },
+        {
+          "name": "list_notes",
+          "bytes": 510,
+          "tokens": 113
+        },
+        {
+          "name": "get_links",
+          "bytes": 420,
+          "tokens": 91
+        }
+      ]
+    }
+  ]
+}

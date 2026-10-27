@@ -82,6 +82,14 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/build-benchmarks-json.mjs --check
 
+      # Guard: the committed schema-tax baseline (SHA-341) must match the tool
+      # list the built server actually serves, in read-write and read-only
+      # mode. Any change to a tool's name, description or schema fails here
+      # until the baseline (and benchmarks.json) is regenerated. Runs once (Linux).
+      - name: schema-tax baseline
+        if: matrix.os == 'ubuntu-latest'
+        run: npm run harness -- schema-tax --check
+
       # Guard: docs must not drift from the code — tool counts across every doc
       # surface, retired marketing claims (575× etc.), the env-var tables, and
       # every headline benchmark figure (vs benchmarks.json) are all checked

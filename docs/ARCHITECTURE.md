@@ -279,7 +279,7 @@ since the journaled write), `entry_evicted`, `semantic_unavailable`
 
 ## 4. Harness — measurement architecture
 
-The harness is four modules behind one CLI. Profiler, bench, and safety all
+The harness is five modules behind one CLI. Profiler, bench, and safety all
 speak the same `Backend` contract — the same `search / read / write / list`
 surface the server exposes. That symmetry is deliberate: it lets every
 competing Obsidian-MCP approach be measured against seekstone on equal
@@ -287,10 +287,13 @@ footing, with **payload bytes captured at the boundary** as the headline
 "context tax" metric. The fourth module, the **retrieval eval**, deliberately
 bypasses `Backend` and calls server internals directly — it measures ranking
 quality (hit@5 / MRR@10 against a committed golden query set), not payload.
+The fifth, **schema-tax**, skips `Backend` as well: it talks to the built
+server over MCP stdio and measures the tool list a client loads at session
+start.
 
 ```mermaid
 flowchart TD
-    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · scale-render · gen-vault<br/>fetch-corpus · fetch-models · retrieval"]
+    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · schema-tax · scale-render<br/>gen-vault · fetch-corpus · fetch-models · retrieval"]
 
     backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS/undo/task)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
@@ -374,6 +377,11 @@ flowchart TD
   `SEEKSTONE_CACHE_DIR`). The committed baseline is
   `fixtures/baseline-reports/retrieval-eval.{json,md}`, produced with
   `--model potion-retrieval-32M,potion-base-8M --shipped --split all`.
+- **schema-tax** measures the session-start cost of the tool list: it boots the
+  built server over stdio in read-write and read-only mode, reads `tools/list`,
+  and records bytes and tokens per tool. The committed baseline feeds
+  `benchmarks.json`, and CI's `schema-tax --check` fails when the served tool
+  list stops matching it.
 - **fixtures** generate the committed, personal-data-free 10k-note synthetic
   vault from the public-domain 1911 Encyclopædia Britannica (deterministic,
   seed 42 — hence the custom `prng`, since `Math.random()` is banned harness-wide).

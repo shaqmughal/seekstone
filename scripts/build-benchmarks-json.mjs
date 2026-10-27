@@ -299,6 +299,46 @@ for (const setup of comp.competitorSetups ?? []) {
       };
 }
 
+// ---------- schema tax (tool-list payload at session start, SHA-341) ----------
+// Measured from the built server over stdio by `npm run harness -- schema-tax`;
+// CI's `schema-tax --check` keeps the report in step with the served tool list.
+const SCHEMA_TAX = posix.join(REPORTS, 'schema-tax-seekstone.json');
+const schemaTaxReport = readJson(SCHEMA_TAX);
+const toolCounts = readToolCounts(root);
+const modeOf = (mode) => {
+  const m = schemaTaxReport.modes.find((x) => x.mode === mode);
+  if (!m) throw new Error(`${SCHEMA_TAX}: no ${mode} mode`);
+  return m;
+};
+const rw = modeOf('read-write');
+const ro = modeOf('read-only');
+// The report must describe today's tool surface: a tool added or removed
+// without re-running schema-tax fails here, not in a published number.
+if (rw.toolCount !== toolCounts.total || ro.toolCount !== toolCounts.read) {
+  throw new Error(
+    `${SCHEMA_TAX} covers ${rw.toolCount} tools (${ro.toolCount} read-only) but dispatch.ts has ` +
+      `${toolCounts.total} (${toolCounts.read} read) — re-run \`npm run harness -- schema-tax\``,
+  );
+}
+const modeRow = (m) => ({
+  toolCount: m.toolCount,
+  bytes: m.totalBytes,
+  tokens: m.totalTokens,
+  instructionsBytes: m.instructionsBytes,
+  largestTools: m.perTool.slice(0, 3),
+});
+const schemaTax = {
+  tokenizer: schemaTaxReport.tokenizer,
+  method: schemaTaxReport.method,
+  readWrite: modeRow(rw),
+  readOnly: modeRow(ro),
+  readOnlySaving: {
+    tokens: rw.totalTokens - ro.totalTokens,
+    percent: Math.round(((rw.totalTokens - ro.totalTokens) / rw.totalTokens) * 100),
+  },
+  provenance: { report: SCHEMA_TAX, capture: 'auto', commit: commitFor(SCHEMA_TAX) },
+};
+
 // ---------- headline figures ----------
 const bigI = sizes.length - 1;
 const competitors = Object.entries(adapters).filter(
@@ -388,9 +428,10 @@ const doc = {
   },
   release: { version: readServerVersion(root), source: 'packages/server/package.json#version' },
   tools: {
-    ...readToolCounts(root),
+    ...toolCounts,
     source: 'packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS',
   },
+  schemaTax,
   guarantees: { count: readGuaranteeCount(root), source: 'docs/WRITE-SAFETY.md "### N." headings' },
   scaling: {
     sizes,

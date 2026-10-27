@@ -256,6 +256,7 @@ present and lists anything still missing under "Not yet captured."
 | `bench`   | Runs the query set against a `--backend` (`fs`, `rest`, …), capturing latency **and payload bytes/tokens** | `benchmark-<backend>.{json,md}` |
 | `scenarios` | Tokens-per-task: runs each task in `queries/tasks.json` as the call sequence an agent would make (one `context_pack` call where supported, else search → read ×K → backlinks) and sums payload across it | `scenarios-<label>.{json,md}` |
 | `scenarios-compare` | Cross-adapter tokens-per-task table from scenario JSONs | `scenarios-comparison.md` |
+| `schema-tax` | Measures the tool list the built server serves over MCP (read-write and read-only), in bytes and tokens, total and per tool. `--check` compares against the committed baseline and exits 1 on drift (CI runs this). | `schema-tax-seekstone.{json,md}` |
 | `safety`  | Write-safety suite (operates on a vault **copy**): five byte-faithful round-trip ops plus five behavioral ops — recoverable-delete, create-no-clobber, cas-conflict, undo-roundtrip, task-toggle | `safety-<backend>.{json,md}` |
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
 | `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |
@@ -278,6 +279,10 @@ tiktoken `cl100k_base`) tokens are summed per task; latency is whole-task cold/w
 (reported as `<name>-multicall`) — the ablation that shows the win is `context_pack`
 itself, not the adapter. Committed baselines live in
 `fixtures/baseline-reports/scenarios-*.{json,md}` + `scenarios-comparison.md`.
+
+### Schema tax (`schema-tax`)
+
+The tool list is context tax too. A client loads every tool's name, description, and input schema at session start, before the first call. `schema-tax` boots the built server (`packages/server/dist/index.js`; run `npm run build -w seekstone` first) against a throwaway one-note vault, reads `initialize` and every page of `tools/list` over stdio, and measures each tool as compact JSON, in bytes and in tiktoken `cl100k_base` tokens (the encoder `bench` and `scenarios` use). It runs twice, in the default read-write mode and with `SEEKSTONE_READ_ONLY=1`, and drops any `SEEKSTONE_*` variables inherited from your shell so they can't change the result. For a given build the output is deterministic. The committed baseline is `fixtures/baseline-reports/schema-tax-seekstone.{json,md}` and `benchmarks.json` publishes its totals; regenerate both whenever a tool's name, description, or schema changes.
 
 See the root [`CLAUDE.md`](../../CLAUDE.md) for architecture details (the `Backend`
 contract, percentile shapes, write-safety guard rails) and required env vars for the
