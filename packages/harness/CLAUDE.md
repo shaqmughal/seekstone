@@ -17,6 +17,7 @@ npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
 npm run harness -- fetch-models                       # download + pin-verify the Model2Vec embedding models
 npm run harness -- retrieval --shipped                # retrieval-quality eval (golden set; --shipped = through the real search tool)
+npm run harness -- schema-tax --check                 # tool-list payload vs the committed baseline (build the server first; drop --check and add --out packages/harness/fixtures/baseline-reports to regenerate)
 
 # the committed synthetic benchmark vault (no personal vault needed)
 npm run harness -- gen-vault --count 10000            # regenerate fixtures/vault (deterministic, seed 42)
@@ -36,7 +37,7 @@ npm run harness -- bench --backend fs --vault "$PWD/packages/harness/fixtures/va
 
 ## Architecture
 
-The harness is four modules behind one CLI. Profiler, benchmark runner, and write-safety share the `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter); the retrieval eval deliberately bypasses `Backend` and calls server internals directly — it measures ranking quality, not payload bytes.
+The harness is five modules behind one CLI. Profiler, benchmark runner, and write-safety share the `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter); the retrieval eval deliberately bypasses `Backend` and calls server internals directly — it measures ranking quality, not payload bytes. Schema-tax (`src/schema-tax/`, SHA-341) also skips `Backend`: it boots the built server over MCP stdio and measures the served tool list, and CI's `schema-tax --check` fails on any drift from `fixtures/baseline-reports/schema-tax-seekstone.json`.
 
 ### Backend interface (`packages/harness/src/bench/backend.ts`)
 A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `listTasks`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`, `casMove`, `casDelete`, `undoLastWrite`, `updateTask` — declaring one claims the guard) that drive the behavioral safety ops, plus optional `searchStream` (TTFR) and `close`. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (25 tools; the `seekstone` adapter calls its tool functions in-process).

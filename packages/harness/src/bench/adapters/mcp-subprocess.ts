@@ -20,6 +20,13 @@ export interface McpToolResult {
   isError?: boolean;
 }
 
+/** The `initialize` result fields the harness reads (the rest is ignored). */
+export interface McpInitializeResult {
+  serverInfo?: { name?: string; version?: string };
+  instructions?: string;
+  capabilities?: { tools?: unknown; prompts?: unknown; resources?: unknown };
+}
+
 /**
  * Shared MCP JSON-RPC stdio subprocess handler.
  * Spawns a process, performs the initialize handshake, and provides
@@ -27,6 +34,8 @@ export interface McpToolResult {
  */
 export class McpSubprocess {
   private nextId = 1;
+  /** What the server answered to `initialize` (serverInfo, instructions). */
+  initializeResult: McpInitializeResult = {};
   private readonly pending = new Map<
     number,
     {
@@ -46,12 +55,14 @@ export class McpSubprocess {
   static async connect(
     serverName: string,
     cmd: string[],
-    opts: { env?: Record<string, string>; initTimeout?: number } = {},
+    // replaceEnv: use `env` as the child's whole environment instead of
+    // layering it over process.env (so nothing from the caller's shell leaks in).
+    opts: { env?: Record<string, string>; initTimeout?: number; replaceEnv?: boolean } = {},
   ): Promise<McpSubprocess> {
     const [bin, ...args] = cmd;
     const proc = spawn(bin ?? '', args, {
       stdio: ['pipe', 'pipe', 'ignore'],
-      env: { ...process.env, ...opts.env },
+      env: opts.replaceEnv ? { ...opts.env } : { ...process.env, ...opts.env },
     });
 
     const rl = createInterface({ input: proc.stdout as NodeJS.ReadableStream });
@@ -82,7 +93,7 @@ export class McpSubprocess {
     // per-adapter default so the scaling run can give slow servers more headroom.
     const initTimeout =
       Number(process.env.SEEKSTONE_MCP_INIT_TIMEOUT) || opts.initTimeout || 30_000;
-    await sub.rpc(
+    const init = await sub.rpc(
       'initialize',
       {
         protocolVersion: '2024-11-05',
@@ -91,8 +102,35 @@ export class McpSubprocess {
       },
       initTimeout,
     );
+    sub.initializeResult = (init.result ?? {}) as McpInitializeResult;
     sub.notify('notifications/initialized', {});
     return sub;
+  }
+
+  /** Every tool the server serves, following `nextCursor` pagination. */
+  listTools(timeout = 60_000): Promise<Array<Record<string, unknown>>> {
+    return this.listAll('tools/list', 'tools', timeout);
+  }
+
+  /**
+   * Every item of a paginated MCP list (`tools/list`, `prompts/list`,
+   * `resources/list`, `resources/templates/list`), following `nextCursor`.
+   */
+  async listAll(
+    method: string,
+    key: string,
+    timeout = 60_000,
+  ): Promise<Array<Record<string, unknown>>> {
+    const items: Array<Record<string, unknown>> = [];
+    let cursor: string | undefined;
+    do {
+      const resp = await this.rpc(method, cursor ? { cursor } : {}, timeout);
+      const page = resp.result as Record<string, unknown> | undefined;
+      const batch = page?.[key];
+      if (Array.isArray(batch)) items.push(...batch);
+      cursor = typeof page?.nextCursor === 'string' ? page.nextCursor : undefined;
+    } while (cursor);
+    return items;
   }
 
   async callTool(name: string, args: Record<string, unknown>, timeout = 60_000): Promise<string> {

@@ -201,6 +201,19 @@ export function expectations(bench) {
     },
     {
       file: 'README.md',
+      label: 'schema tax (tool list at session start)',
+      re: /Seekstone's (\d+) tools cost \*\*~([\d,]+) tokens\*\* \(([\d.]+ KB)\)\. With `SEEKSTONE_READ_ONLY=1` the (\d+) write tools drop out of the list and it falls to \*\*~([\d,]+) tokens\*\*, (\d+)% less/,
+      expect: [
+        String(bench.schemaTax.readWrite.toolCount),
+        fmtInt(bench.schemaTax.readWrite.tokens),
+        fmtBytesShort(bench.schemaTax.readWrite.bytes),
+        String(bench.schemaTax.readWrite.toolCount - bench.schemaTax.readOnly.toolCount),
+        fmtInt(bench.schemaTax.readOnly.tokens),
+        String(bench.schemaTax.readOnlySaving.percent),
+      ],
+    },
+    {
+      file: 'README.md',
       label: 'fastest competitor + REST range',
       re: /is \*\*~(\d+)× slower\*\* warm at 10k notes with \*\*\d+× the payload\*\*, and the REST-proxy generation runs \*\*~(\d+)–(\d+)× slower\*\*/,
       expect: [String(H.fastestCompetitor.display), restLo, restHi],

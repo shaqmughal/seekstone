@@ -24,6 +24,95 @@
     "write": 11,
     "source": "packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS"
   },
+  "schemaTax": {
+    "tokenizer": "tiktoken cl100k_base",
+    "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). prompts/list, resources/list and resources/templates/list are measured the same way when the server advertises them. Tokens: tiktoken cl100k_base.",
+    "readWrite": {
+      "toolCount": 25,
+      "bytes": 26125,
+      "tokens": 5742,
+      "instructionsBytes": 0,
+      "prompts": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resources": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resourceTemplates": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "largestTools": [
+        {
+          "name": "query_notes",
+          "bytes": 2155,
+          "tokens": 480
+        },
+        {
+          "name": "read_notes",
+          "bytes": 1797,
+          "tokens": 417
+        },
+        {
+          "name": "context_pack",
+          "bytes": 1666,
+          "tokens": 357
+        }
+      ]
+    },
+    "readOnly": {
+      "toolCount": 14,
+      "bytes": 14751,
+      "tokens": 3261,
+      "instructionsBytes": 0,
+      "prompts": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resources": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "resourceTemplates": {
+        "count": 0,
+        "bytes": 0,
+        "tokens": 0
+      },
+      "largestTools": [
+        {
+          "name": "query_notes",
+          "bytes": 2155,
+          "tokens": 480
+        },
+        {
+          "name": "read_notes",
+          "bytes": 1797,
+          "tokens": 417
+        },
+        {
+          "name": "context_pack",
+          "bytes": 1666,
+          "tokens": 357
+        }
+      ]
+    },
+    "readOnlySaving": {
+      "tokens": 2481,
+      "percent": 43
+    },
+    "provenance": {
+      "report": "packages/harness/fixtures/baseline-reports/schema-tax-seekstone.json",
+      "capture": "auto",
+      "commit": "6c8e12b4"
+    }
+  },
   "guarantees": {
     "count": 10,
     "source": "docs/WRITE-SAFETY.md \"### N.\" headings"

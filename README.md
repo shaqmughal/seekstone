@@ -110,6 +110,10 @@ Seekstone stays **flat (~2 KB)** no matter how big your vault gets, because it a
 
 Every competitor spawns a subprocess or makes HTTP round-trips per query, and most do work that scales with vault size. Seekstone holds a warm in-process index — **no IPC, no network** — so keyword search stays in **single-digit milliseconds** even at 10,000 notes (the shipped semantic pipeline — embed, scan, MaxSim rerank — lands at ~26 ms). And the gap **widens with scale**: from 1k → 10k notes the competitors slow down 5–10×, while Seekstone barely moves. Even the *fastest* alternative — [obsidian-mcp-rs](https://www.npmjs.com/package/obsidian-mcp-rs), which re-scans the vault on every query — is **~6× slower** warm at 10k notes with **3× the payload**, and the REST-proxy generation runs **~100–280× slower**.
 
+**Tool list — tokens loaded before the first call (lower is better)**
+
+When a session starts, most MCP clients load the server's tool list (each tool's name, description, and input schema) into the model's context, before any tool is called. Some, such as Claude Code with tool search, load only the names until a tool is needed. Loaded in full, Seekstone's 25 tools cost **~5,742 tokens** (26 KB). With `SEEKSTONE_READ_ONLY=1` the 11 write tools drop out of the list and it falls to **~3,261 tokens**, 43% less. The harness measures this from the built server over MCP (`npm run harness -- schema-tax`), and CI re-measures it on every commit, so a change to any tool's description or schema fails the build until the published number is updated.
+
 **Seekstone is the only server in our benchmark set that delivers both ~2 KB payloads and single-digit-ms keyword latency at every vault size** — and, as far as we know, the only Obsidian MCP server with published, reproducible benchmarks. The harness, the synthetic vaults, and the full results are open source: see [`benchmark-scaling.md`](packages/harness/fixtures/baseline-reports/scaling/benchmark-scaling.md) and the [harness](packages/harness). Clone, run, verify.
 
 ---
