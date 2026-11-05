@@ -164,6 +164,58 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('drops notes in a deleted folder and keeps watching a re-created one', async () => {
+    // chokidar 6 changed directory-removal handling (chokidar#1421: removed
+    // files reported as `unlink`, not `unlinkDir`; chokidar#1463: watching no
+    // longer stops after a watched directory is removed). This watcher only
+    // handles `unlink`, so pin both behaviors across upgrades.
+    const ctx = freshCtx(tmpDir);
+    await mkdir(join(tmpDir, 'proj'));
+    await writeFile(join(tmpDir, 'proj', 'old.md'), 'in a folder', 'utf8');
+    const doc: IndexedNote = {
+      id: 'proj/old.md',
+      title: 'old',
+      body: 'in a folder',
+      tags: '',
+      fmKeys: '',
+      fm: null,
+      raw: 'in a folder',
+      tasks: [],
+      sizeBytes: 11,
+      mtimeMs: Date.now(),
+    };
+    ctx.notes.set('proj/old.md', doc);
+    ctx.index.add(doc);
+
+    const rawEvents: string[] = [];
+    const { stop, ready } = startWatcher(ctx, undefined, {
+      usePolling: true,
+      pollInterval: 50,
+      onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
+    });
+    try {
+      await ready;
+      await rm(join(tmpDir, 'proj'), { recursive: true });
+      await waitFor(() => !ctx.notes.has('proj/old.md'));
+      expect(ctx.notes.has('proj/old.md')).toBe(false);
+
+      await mkdir(join(tmpDir, 'proj'));
+      await writeFile(join(tmpDir, 'proj', 'new.md'), 'recreated_unique_ghi', 'utf8');
+      try {
+        await waitFor(() => ctx.notes.has('proj/new.md'), {
+          nudge: dirNudger(join(tmpDir, 'proj')),
+        });
+      } catch {
+        throw new Error(
+          `waitFor timeout — diagnostics:\n  platform=${process.platform}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
+        );
+      }
+      expect(ctx.notes.get('proj/new.md')?.body).toContain('recreated_unique_ghi');
+    } finally {
+      await stop();
+    }
+  });
+
   it('detects a new note in a nested folder (the Linux fs.watch gap)', async () => {
     // The crux of SHA-35: fs.watch(recursive) silently misses nested events on
     // Linux; chokidar must deliver them. A single nested add proves recursive

@@ -81,7 +81,7 @@ Write:
 
 ## Requirements
 
-- Node.js ≥ 22
+- Node.js ≥ 22.22
 - No Obsidian app or plugins required
 - Semantic/hybrid search additionally needs `SEEKSTONE_SEMANTIC=1` and a one-time `npx -y seekstone fetch-model` (~30 MB, SHA-256-verified; the running server never fetches)
 
