@@ -223,7 +223,7 @@ No network calls while running, no telemetry (the optional semantic-search model
 
 ## Requirements
 
-- Node.js ≥ 22 (for CLI install options; the `.mcpb` bundle has no external requirements)
+- Node.js ≥ 22.22 (for CLI install options; the `.mcpb` bundle has no external requirements)
 - macOS, Linux, or Windows
 
 ---

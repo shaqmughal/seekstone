@@ -28,7 +28,7 @@
   <a href="https://scorecard.dev/viewer/?uri=github.com/shaqmughal/seekstone"><img src="https://api.scorecard.dev/projects/github.com/shaqmughal/seekstone/badge" alt="OpenSSF Scorecard" /></a>
   <a href="https://www.bestpractices.dev/projects/13166"><img src="https://www.bestpractices.dev/projects/13166/badge" alt="OpenSSF Best Practices" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
-  <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
+  <img src="https://img.shields.io/badge/Node.js-%E2%89%A522.22-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22.22" />
   <a href="https://glama.ai/mcp/servers/shaqmughal/seekstone"><img src="https://glama.ai/mcp/servers/shaqmughal/seekstone/badges/score.svg" alt="shaqmughal/seekstone MCP server" /></a>
   <a href="https://x.com/seekstone"><img src="https://img.shields.io/badge/Follow-%40seekstone-000000?logo=x&logoColor=white" alt="Follow @seekstone on X" /></a>
   <a href="https://bsky.app/profile/seekstone.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%40seekstone-0285FF?logo=bluesky&logoColor=white" alt="Follow @seekstone on Bluesky" /></a>
