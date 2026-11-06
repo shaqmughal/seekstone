@@ -53,9 +53,17 @@ Fill every section of `docs/PRD_TEMPLATE.md`. If a section doesn't apply, write
 - **§7 Surfaces table.** Keep only the rows that apply.
 - **§8 Acceptance criteria.** Binary and testable. Include at least one error
   or edge case and one payload-size criterion.
-- **§10 Non-functional.** A latency target (warm p95) and a payload budget in
-  bytes. Retrieval-path work holds p95 ≤ 30 ms and about 2 KB per payload.
-  Write tools list every write-safety item from the template.
+- **§10 Non-functional.** A payload budget in bytes. Retrieval-path work holds
+  p95 ≤ 30 ms and about 2 KB per payload. Write tools list every write-safety
+  item from the template.
+- **§10b Speed budget.** Seekstone's thesis is that it's the fastest Obsidian
+  MCP server, so weigh every design choice against speed first. Fill in the
+  budget table: warm p95 for the new call, added cost to the boot index build
+  and to each watcher event, and "no regression" on the existing bench rows,
+  each with the command the PR uses to prove it. Name the fastest design you
+  found. If you chose something slower, say why. A design that slows an
+  existing benchmark row doesn't ship; take it to the user as an open
+  decision.
 - **§10a Admission bar.** Required for any new tool, prompt, or resource: why
   not a parameter, the `tasks.json` task, the expected token win, and the
   estimated schema-tax cost.

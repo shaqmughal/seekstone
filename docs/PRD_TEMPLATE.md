@@ -149,6 +149,19 @@ Every claim about the codebase should name a real file/symbol so it can be check
 - **Expected win:** <rough bytes/tokens today vs with the new tool; the real numbers come from `npm run harness -- scenarios` in the PR.>
 - **Schema-tax cost:** <estimated tokens added at session start; the PR quotes the measured old and new totals.>
 
+## 10b. Speed budget (required)
+<Seekstone's case is that it is the fastest Obsidian MCP server. Every PRD states what the change costs in time, and a regression in an existing benchmark row blocks the change; it is not traded for the feature.>
+
+| Path | Budget | How it's measured in the PR |
+|---|---|---|
+| The new call, warm p95 @ 10k notes | <e.g. ≤ 5 ms> | <bench or profile command, before/after> |
+| Boot index build @ 10k | <+0 ms, or the added cost and why it's worth it> | `npm run harness -- profile` / bench cold rows |
+| Per watcher event | <+0, or the added cost> | <test or timing> |
+| Existing bench rows (search, read, etc.) | no regression | `npm run harness -- bench` on the fixture vault |
+
+- **Where the work happens:** <call time, index build, or watcher, and why. A tool called once per session should do its work at call time rather than add bookkeeping to every watcher event. A tool on the hot path may justify index-time work if its boot and watcher cost is measured.>
+- **Faster alternative considered:** <the quickest design you found and why it was or wasn't chosen.>
+
 ## 11. Rollout & docs
 - **Release:** <changeset bump level; any migration; feature-flagged?>
 - **Docs to update:** <README sections, docs/*, tool descriptions, CHANGELOG via changeset>
