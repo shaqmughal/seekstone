@@ -31,27 +31,40 @@ repo. Running the benchmark needs only that vault — the corpus is required sol
 
 ## Reproducibility status (SHA-340)
 
-**The committed vaults can no longer be regenerated from source.** Project Gutenberg
-has re-issued 28 of the 125 pinned volume files since the manifest was committed
-(2026-06-26). The canonical URLs, the mirror network, and the Wayback Machine were all
-checked: no byte-identical copy of those 28 remains publicly fetchable, so
-`fetch-corpus` fails checksum verification on them. The re-issued files parse to a
-different article pool, so generating from the current upstream text does not
-reproduce the committed article notes.
+**The pinned corpus still regenerates the committed vaults byte for byte, but you
+can't download all of it from Project Gutenberg any more.**
 
-What this means in practice:
+- **Regeneration works.** On 2026-11-06 all 125 local `raw/` files matched their
+  `manifest.json` checksums, and `gen-vault` with `--count` 10000, 1000 and 5000
+  produced output identical to `../vault`, `../vault-1k` and `../vault-5k`
+  (`diff -r`, no differences).
+- **Downloading doesn't.** Project Gutenberg has re-issued some pinned volumes since
+  the manifest was committed (2026-06-26). On 2026-11-06, 16 of the 125 failed
+  checksum verification: pg19699, pg19846, pg27478, pg27479, pg27480, pg33189,
+  pg34702, pg34751, pg35092, pg35169, pg35236, pg35473, pg35561, pg35606, pg35747 and
+  pg36735. The set changes over time (a check in October 2026 counted 28), so
+  `fetch-corpus` doesn't hard-code it. It saves every volume that verifies, then
+  names each one that didn't, with its range and the reason.
+- **The pinned copy is archived off-repo.** A complete, checksum-verified archive of
+  all 125 volumes is kept outside this repository; its location is recorded on
+  SHA-340. A public mirror with a `fetch-corpus` fallback is planned, so a fresh clone
+  can fetch the full pinned set again. Until then, regenerating needs a copy of that
+  archive placed in `raw/`.
 
-- **Running the benchmarks is unaffected.** The committed vaults (`../vault`,
-  `../vault-1k`, `../vault-5k`) are the canonical artifact, and every published number
-  is measured against them.
-- **Fixtures ≤ v2.1 are not regenerable.** Until the corpus is re-pinned (fixture v3),
-  a fixture change must be a migration over the committed files that draws from an
-  isolated PRNG stream and is proven byte-exact against the generator (generate with
-  the old and the new generator from the same corpus; the migration applied to the old
-  output must equal the new output). `src/fixtures/plant-tasks.ts`, which produced
-  fixture v2.1, is the exemplar.
-- The 97 volumes that still match their pins, plus dated snapshots of the 28
-  re-issues, are archived off-repo (location recorded on SHA-340).
+An earlier version of this section said the committed vaults could no longer be
+regenerated from source and that a re-pin (fixture v3) would be needed. That was
+wrong: the re-issued text parses differently, but the pinned text survived, and it
+reproduces the vaults exactly.
+
+**Changing a fixture.** With the pinned corpus in `raw/`, change the generator and
+rerun `gen-vault`, as before. Without it, use a migration over the committed files
+that draws from an isolated PRNG stream, and prove it byte-exact against the
+generator: generate with the old and the new generator from the same corpus, and the
+migration applied to the old output must equal the new output.
+`src/fixtures/plant-tasks.ts`, which produced fixture v2.1, is the example.
+
+Running the benchmarks never needs the corpus. The committed vaults are the canonical
+artifact, and every published number is measured against them.
 
 ## Boilerplate handling
 
@@ -66,6 +79,6 @@ npm run harness -- fetch-corpus            # download + checksum-verify raw volu
 npm run harness -- gen-vault --count 10000 # regenerate the canonical vault
 ```
 
-See "Reproducibility status" above: with the manifest as currently pinned,
-`fetch-corpus` fails on the 28 re-issued volumes, so these commands do not reproduce
-the committed vaults until the fixture-v3 re-pin.
+`fetch-corpus` currently fails on the volumes Project Gutenberg has re-issued (see
+"Reproducibility status" above). With the archived pinned corpus copied into `raw/`,
+`gen-vault` reproduces the committed vaults exactly.
