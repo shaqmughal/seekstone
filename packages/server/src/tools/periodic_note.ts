@@ -8,13 +8,13 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
-import { assertWritable } from '../policy.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { assertWritable, isReadable } from '../policy.js';
+import { containVaultPath, resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
 
 const PERIOD = z.enum(['daily', 'weekly', 'monthly', 'quarterly', 'yearly']);
-type Period = z.infer<typeof PERIOD>;
+export type Period = z.infer<typeof PERIOD>;
 
 // ── Config shapes (read from .obsidian on disk) ───────────────────────────────
 
@@ -50,7 +50,10 @@ async function readJson<T>(absPath: string): Promise<T | null> {
   }
 }
 
-async function resolveConfig(vaultRoot: string, period: Period): Promise<Required<PeriodicEntry>> {
+export async function resolveConfig(
+  vaultRoot: string,
+  period: Period,
+): Promise<Required<PeriodicEntry>> {
   const defaults = DEFAULTS[period];
 
   if (period === 'daily') {
@@ -166,13 +169,17 @@ export async function getPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  const abs = resolveVaultPath(ctx.vaultRoot, path);
+  // A periodic note outside SEEKSTONE_READ_PATHS reports as missing — the
+  // access() probe below must not become an existence oracle for it.
+  const abs = containVaultPath(ctx.vaultRoot, path);
 
   let existed = false;
-  try {
-    await access(abs);
-    existed = true;
-  } catch {}
+  if (isReadable(ctx.policy, path)) {
+    try {
+      await access(abs);
+      existed = true;
+    } catch {}
+  }
 
   if (existed) return { path, existed: true, created: false };
 
@@ -186,8 +193,9 @@ export async function getPeriodicNote(
   let body = '';
   if (cfg.template) {
     try {
+      // Outside the read scope the template reads as missing (SHA-291 D4).
       const templateAbs = resolveVaultPath(
-        ctx.vaultRoot,
+        ctx,
         cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`,
       );
       body = await readFile(templateAbs, 'utf8');
@@ -239,8 +247,8 @@ export async function appendPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  const abs = resolveVaultPath(ctx.vaultRoot, path);
   assertWritable(ctx.policy, path);
+  const abs = resolveVaultPath(ctx, path);
 
   let original = '';
   try {

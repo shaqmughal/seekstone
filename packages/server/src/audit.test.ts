@@ -127,6 +127,9 @@ describe('classifyError', () => {
       policy: 'write_paths',
       error: 'write_paths',
     });
+    expect(
+      classifyError('Write not permitted: "x" is outside SEEKSTONE_READ_PATHS (a/**).'),
+    ).toEqual({ outcome: 'policy_denied', policy: 'read_paths', error: 'read_paths' });
     expect(classifyError('Note not found: a.md').error).toBe('not_found');
     expect(classifyError("ENOENT: no such file or directory, open '/v/a.md'").error).toBe(
       'not_found',

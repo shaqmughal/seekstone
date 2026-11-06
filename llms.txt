@@ -89,6 +89,7 @@ Write:
 
 - `SEEKSTONE_VAULT` (required) — absolute path to the vault
 - `SEEKSTONE_READ_ONLY=1` — unregister and reject all 11 write tools
+- `SEEKSTONE_READ_PATHS` — comma-separated globs (a leading `!` excludes) hiding everything outside them from the agent; also limits writes
 - `SEEKSTONE_WRITE_PATHS` — comma-separated globs restricting where writes may land
 - `SEEKSTONE_SEMANTIC=1` — enable semantic/hybrid search modes (model must be fetched first)
 - `SEEKSTONE_MODEL_PATH` — override the embedding-model directory

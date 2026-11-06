@@ -3,7 +3,7 @@ import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { resolveLink } from '../index/resolve.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { containVaultPath } from '../vault-path.js';
 
 export const GetLinksInput = z.object({
   path: z.string().describe('Vault-relative path to the note.'),
@@ -25,7 +25,7 @@ export interface GetLinksResult {
 }
 
 export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResult {
-  resolveVaultPath(ctx.vaultRoot, input.path); // containment validation only
+  containVaultPath(ctx.vaultRoot, input.path); // containment validation only
   const note = ctx.notes.get(input.path);
   if (note === undefined) throw new Error(`Note not found: ${input.path}`);
 

@@ -77,7 +77,7 @@ flowchart TD
         fetchm["semantic/fetch-model.ts<br/>pinned sha256 model download<br/>(CLI-only; exits before serving)"]
         guards["process-guards.ts"]
         log["log.ts<br/>structured logger<br/>SEEKSTONE_LOG_LEVEL · SEEKSTONE_LOG_FILE<br/>SEEKSTONE_LOG_MAX_SIZE"]
-        pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_WRITE_PATHS globs"]
+        pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_READ_PATHS · SEEKSTONE_WRITE_PATHS globs"]
         jrn["journal.ts<br/>Journal.open: pre-image blobs + JSONL manifest<br/>under .seekstone/history · SEEKSTONE_HISTORY<br/>SEEKSTONE_HISTORY_MAX_SIZE · SEEKSTONE_HISTORY_MAX_ENTRIES"]
         aud["audit.ts<br/>AuditLog.open: JSONL write receipts<br/>SEEKSTONE_AUDIT_FILE · SEEKSTONE_AUDIT_MAX_SIZE"]
         instr["instructions.ts<br/>resolveInstructions: SEEKSTONE_INSTRUCTIONS<br/>file → trimmed, ≤16 KB MCP instructions string"]
@@ -140,7 +140,9 @@ flowchart TD
    starts), then for an MCP session: installs process guards first (a stray
    unhandled rejection must not kill a long-lived stdio session), requires
    `SEEKSTONE_VAULT`, parses the write policy (`policy.ts` —
-   `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`), builds the index,
+   `SEEKSTONE_READ_ONLY`, `SEEKSTONE_READ_PATHS`, `SEEKSTONE_WRITE_PATHS`),
+   builds the index (walking only the read scope, so hidden files are never
+   read or indexed),
    constructs the `ServerContext`, opens the write journal (`journal.ts` —
    `SEEKSTONE_HISTORY`, `SEEKSTONE_HISTORY_MAX_SIZE`,
    `SEEKSTONE_HISTORY_MAX_ENTRIES`; skipped in read-only mode or when

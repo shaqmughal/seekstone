@@ -1,6 +1,7 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import type { JournalListRow } from '../journal.js';
+import { isReadable } from '../policy.js';
 
 export const ListWritesInput = z.object({
   limit: z
@@ -27,7 +28,11 @@ export interface ListWritesResult {
 export function listWrites(ctx: ServerContext, rawInput: ListWritesInput): ListWritesResult {
   const input = ListWritesInput.parse(rawInput);
   if (!ctx.journal) return { writes: [], total: 0, disabled: true };
-  const opts: { limit: number; path?: string } = { limit: input.limit };
+  const opts: { limit: number; path?: string; visible?: (path: string) => boolean } = {
+    limit: input.limit,
+  };
   if (input.path !== undefined) opts.path = input.path;
+  // Entries that touched a path outside SEEKSTONE_READ_PATHS stay hidden (SHA-291 D3).
+  if (ctx.policy.readGlobs) opts.visible = (p) => isReadable(ctx.policy, p);
   return ctx.journal.list(opts);
 }

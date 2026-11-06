@@ -17,6 +17,7 @@ npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
 npm run harness -- fetch-models                       # download + pin-verify the Model2Vec embedding models
 npm run harness -- retrieval --shipped                # retrieval-quality eval (golden set; --shipped = through the real search tool)
+npm run harness -- read-scope                         # boot the built server with SEEKSTONE_READ_PATHS hiding a folder; every tool probed, a planted marker must never leak (SHA-291)
 npm run harness -- schema-tax --check                 # tool-list payload vs the committed baseline (build the server first; drop --check and add --out packages/harness/fixtures/baseline-reports to regenerate)
 
 # the committed synthetic benchmark vault (no personal vault needed)

@@ -156,6 +156,7 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_WATCH_POLL_INTERVAL` | no | Stat-poll interval in ms (default `10000`). Only used with `SEEKSTONE_WATCH_POLL=1`. Lower = faster pickup of external edits, higher CPU. |
 | `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 11 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_READ_PATHS` | no | Comma-separated vault-relative globs (e.g. `Projects/**,Reference/**`, or `!Journal/**` for everything except `Journal/`). Files outside them are invisible to the agent: never indexed, never in any tool output, and a direct read gets the same not-found error as a missing file. Writes are also limited to this scope. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 | `SEEKSTONE_HISTORY` | no | Set to `0` to disable the write journal (default on). With it on, every write tool stores the pre-image of each file it touches under `<vault>/.seekstone/history/` so `undo_write` can restore it byte-for-byte. |
 | `SEEKSTONE_HISTORY_MAX_SIZE` | no | Cap on stored pre-images (e.g. `100mb`; default 50 MB). Oldest entries are evicted first and then show `undoable: false` in `list_writes` — never silently. |

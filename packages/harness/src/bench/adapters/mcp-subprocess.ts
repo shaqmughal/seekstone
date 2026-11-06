@@ -142,6 +142,20 @@ export class McpSubprocess {
     return tool?.content?.[0]?.text ?? '';
   }
 
+  /** Call a tool and return its text whether or not it is an error result. */
+  async callToolRaw(
+    name: string,
+    args: Record<string, unknown>,
+    timeout = 60_000,
+  ): Promise<{ text: string; isError: boolean }> {
+    const resp = await this.rpc('tools/call', { name, arguments: args }, timeout);
+    const tool = resp.result as McpToolResult | undefined;
+    const text = (tool?.content ?? []).map((c) => c.text ?? '').join('\n');
+    // A JSON-RPC-level error (e.g. unknown tool) has no result; report its message.
+    if (!tool) return { text: JSON.stringify(resp.error ?? {}), isError: true };
+    return { text, isError: tool.isError === true };
+  }
+
   async close(): Promise<void> {
     for (const [, w] of this.pending) {
       clearTimeout(w.timer);

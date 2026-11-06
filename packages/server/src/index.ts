@@ -17,8 +17,9 @@ import { parseInitArgs, runInit } from './init.js';
 import { resolveInstructions } from './instructions.js';
 import { Journal, resolveJournalConfig } from './journal.js';
 import { createLogger } from './log.js';
-import { parseWritePolicy } from './policy.js';
+import { parseWritePolicy, readScopeWalk } from './policy.js';
 import { installProcessGuards } from './process-guards.js';
+import { scopeWarnings } from './scope-warnings.js';
 import { materializeBundledModel } from './semantic/bundled-model.js';
 import { resolveSemanticConfig } from './semantic/config.js';
 import { Semantic } from './semantic/state.js';
@@ -85,9 +86,10 @@ const vaultRoot = resolve(rawVaultRoot);
 const policy = parseWritePolicy(process.env);
 if (policy.readOnly) log.info('read-only mode', { env: 'SEEKSTONE_READ_ONLY' });
 if (policy.writeGlobs) log.info('write paths scoped', { globs: policy.writeGlobs });
+if (policy.readGlobs) log.info('read paths scoped', { globs: policy.readGlobs });
 
 log.info('building index', { vault: vaultRoot });
-const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot);
+const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot, readScopeWalk(policy));
 log.info('index ready', { notes: notes.size, buildMs });
 
 const ctx: ServerContext = { vaultRoot, index, notes, backlinks, policy };
@@ -151,6 +153,13 @@ if (semanticCfg) {
 }
 
 const watcher = startWatcher(ctx, log);
+
+// Read-scope sanity checks (SHA-291 D1/D4). Off the boot path: warnings only.
+void scopeWarnings(vaultRoot, policy)
+  .then((warnings) => {
+    for (const w of warnings) log.warn(w);
+  })
+  .catch(() => {});
 // Exit handlers must stay synchronous — kick off the close; nothing awaits it.
 process.on('exit', () => void watcher.stop());
 

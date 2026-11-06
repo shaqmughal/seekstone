@@ -51,8 +51,8 @@ export async function patchFrontmatter(
   ctx: ServerContext,
   input: PatchFrontmatterInput,
 ): Promise<PatchFrontmatterResult> {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   const original = await readFile(absPath, 'utf8');
   if (input.prevHash !== undefined) assertHashMatch(original, input.prevHash, input.path);

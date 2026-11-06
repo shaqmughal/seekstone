@@ -228,12 +228,25 @@ export class Journal {
   }
 
   /** Newest-first rows for `list_writes`. */
-  list(opts: { limit?: number; path?: string } = {}): { writes: JournalListRow[]; total: number } {
+  /**
+   * Newest-first metadata rows. `visible` hides entries that touched any path
+   * it rejects (the read scope, SHA-291 D3); hidden entries don't count
+   * toward `total` either.
+   */
+  list(opts: { limit?: number; path?: string; visible?: (path: string) => boolean } = {}): {
+    writes: JournalListRow[];
+    total: number;
+  } {
     const limit = opts.limit ?? 20;
+    const { path, visible } = opts;
     const filtered =
-      opts.path === undefined
+      path === undefined && visible === undefined
         ? this.entries
-        : this.entries.filter((e) => e.files.some((f) => f.path === opts.path));
+        : this.entries.filter(
+            (e) =>
+              (path === undefined || e.files.some((f) => f.path === path)) &&
+              (visible === undefined || e.files.every((f) => visible(f.path))),
+          );
     const writes: JournalListRow[] = [];
     for (let i = filtered.length - 1; i >= 0 && writes.length < limit; i--) {
       const e = filtered[i] as JournalEntry;
@@ -271,10 +284,11 @@ export class Journal {
    * undo/redo); an undo that was itself undone re-exposes its target. Redo is
    * always explicit: `undo_write({ seq: <the undo's seq> })`.
    */
-  latestUndoable(): JournalEntry | undefined {
+  latestUndoable(visible?: (path: string) => boolean): JournalEntry | undefined {
     const cancelled = new Set<number>();
     for (let i = this.entries.length - 1; i >= 0; i--) {
       const e = this.entries[i] as JournalEntry;
+      if (visible && !e.files.every((f) => visible(f.path))) continue;
       if (cancelled.has(e.seq)) continue;
       if (e.undoOf !== undefined) {
         cancelled.add(e.undoOf);

@@ -257,6 +257,7 @@ present and lists anything still missing under "Not yet captured."
 | `scenarios` | Tokens-per-task: runs each task in `queries/tasks.json` as the call sequence an agent would make (one `context_pack` call where supported, else search → read ×K → backlinks) and sums payload across it | `scenarios-<label>.{json,md}` |
 | `scenarios-compare` | Cross-adapter tokens-per-task table from scenario JSONs | `scenarios-comparison.md` |
 | `schema-tax` | Measures the tool list the built server serves over MCP (read-write and read-only), in bytes and tokens, total and per tool. `--check` compares against the committed baseline and exits 1 on drift (CI runs this). | `schema-tax-seekstone.{json,md}` |
+| `read-scope` | Boots the built server with `SEEKSTONE_READ_PATHS=!Private/**` on a vault copy, plants a marker note in `Private/`, calls every served tool with a probe that would surface it, and fails on any leak, any unprobed tool, or any change to the hidden note | `read-scope-seekstone.{json,md}` |
 | `safety`  | Write-safety suite (operates on a vault **copy**): five byte-faithful round-trip ops plus five behavioral ops — recoverable-delete, create-no-clobber, cas-conflict, undo-roundtrip, task-toggle | `safety-<backend>.{json,md}` |
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
 | `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |

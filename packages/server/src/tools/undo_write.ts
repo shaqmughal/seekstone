@@ -7,7 +7,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
-import { assertWritable } from '../policy.js';
+import { assertWritable, isReadable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
@@ -66,12 +66,16 @@ export async function undoWrite(
     throw new Error('Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.');
   }
 
+  // Entries that touched a path outside SEEKSTONE_READ_PATHS are invisible:
+  // skipped as "latest", and not found by seq (SHA-291 D3).
+  const visible = ctx.policy.readGlobs ? (p: string) => isReadable(ctx.policy, p) : undefined;
   let entry: JournalEntry | undefined;
   if (input.seq === undefined) {
-    entry = journal.latestUndoable();
+    entry = journal.latestUndoable(visible);
     if (!entry) throw new Error('No undoable writes in the journal.');
   } else {
     entry = journal.get(input.seq);
+    if (entry && visible && !entry.files.every((f) => visible(f.path))) entry = undefined;
     if (!entry) throw new Error(`Journal entry ${input.seq} not found.`);
     if (!journal.isUndoable(entry)) {
       throw new Error(
@@ -91,7 +95,7 @@ export async function undoWrite(
   const current = new Map<string, string | null>();
   const conflicts: UndoConflict[] = [];
   for (const f of entry.files) {
-    const abs = resolveVaultPath(ctx.vaultRoot, f.path);
+    const abs = resolveVaultPath(ctx, f.path);
     let cur: string | null = null;
     try {
       cur = await readFile(abs, 'utf8');
@@ -136,7 +140,7 @@ export async function undoWrite(
 
   const restored: UndoWriteResult['restored'] = [];
   for (const f of entry.files) {
-    const abs = resolveVaultPath(ctx.vaultRoot, f.path);
+    const abs = resolveVaultPath(ctx, f.path);
     const pre = preimages.get(f.path) ?? null;
     if (pre === null) {
       await rm(abs, { force: true });

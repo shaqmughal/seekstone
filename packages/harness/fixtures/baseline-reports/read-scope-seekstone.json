@@ -1,0 +1,326 @@
+{
+  "scope": "!Private/**",
+  "hiddenNote": "Private/Read Scope Sentinel.md",
+  "sentinel": "zzseekstonereadscopeqq",
+  "servedTools": [
+    "append_note",
+    "append_periodic_note",
+    "context_pack",
+    "create_note",
+    "delete_note",
+    "get_backlinks",
+    "get_links",
+    "get_periodic_note",
+    "list_notes",
+    "list_tags",
+    "list_tasks",
+    "list_writes",
+    "move_note",
+    "outline_note",
+    "patch_frontmatter",
+    "patch_note",
+    "query_notes",
+    "read_note",
+    "read_notes",
+    "rename_heading",
+    "replace_in_note",
+    "resolve_note",
+    "search",
+    "undo_write",
+    "update_task"
+  ],
+  "calls": [
+    {
+      "tool": "context_pack",
+      "args": {
+        "query": "zzseekstonereadscopeqq"
+      },
+      "isError": false,
+      "bytes": 83
+    },
+    {
+      "tool": "get_backlinks",
+      "args": {
+        "path": "0 Inbox/Angerona.md",
+        "includeContext": true
+      },
+      "isError": false,
+      "bytes": 261
+    },
+    {
+      "tool": "get_backlinks",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md"
+      },
+      "isError": false,
+      "bytes": 81
+    },
+    {
+      "tool": "get_links",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md"
+      },
+      "isError": true,
+      "bytes": 53
+    },
+    {
+      "tool": "get_periodic_note",
+      "args": {},
+      "isError": false,
+      "bytes": 69
+    },
+    {
+      "tool": "list_notes",
+      "args": {},
+      "isError": false,
+      "bytes": 14010
+    },
+    {
+      "tool": "list_notes",
+      "args": {
+        "folder": "Private"
+      },
+      "isError": false,
+      "bytes": 2
+    },
+    {
+      "tool": "list_tags",
+      "args": {},
+      "isError": false,
+      "bytes": 19838
+    },
+    {
+      "tool": "list_tasks",
+      "args": {},
+      "isError": false,
+      "bytes": 10891
+    },
+    {
+      "tool": "list_tasks",
+      "args": {
+        "folder": "Private"
+      },
+      "isError": false,
+      "bytes": 40
+    },
+    {
+      "tool": "list_writes",
+      "args": {},
+      "isError": false,
+      "bytes": 32
+    },
+    {
+      "tool": "outline_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md"
+      },
+      "isError": true,
+      "bytes": 160
+    },
+    {
+      "tool": "query_notes",
+      "args": {},
+      "isError": false,
+      "bytes": 3131
+    },
+    {
+      "tool": "query_notes",
+      "args": {
+        "where": {
+          "mood": "zzseekstonereadscopeqq mood"
+        }
+      },
+      "isError": true,
+      "bytes": 170
+    },
+    {
+      "tool": "query_notes",
+      "args": {
+        "tag": "zzseekstonereadscopeqqfm"
+      },
+      "isError": true,
+      "bytes": 235
+    },
+    {
+      "tool": "read_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md"
+      },
+      "isError": true,
+      "bytes": 160
+    },
+    {
+      "tool": "read_notes",
+      "args": {
+        "items": [
+          {
+            "path": "Private/Read Scope Sentinel.md"
+          },
+          {
+            "path": "0 Inbox/Angerona.md"
+          }
+        ]
+      },
+      "isError": false,
+      "bytes": 1786
+    },
+    {
+      "tool": "resolve_note",
+      "args": {
+        "reference": "Read Scope Sentinel"
+      },
+      "isError": false,
+      "bytes": 66
+    },
+    {
+      "tool": "resolve_note",
+      "args": {
+        "reference": "Private/Read Scope Sentinel.md"
+      },
+      "isError": false,
+      "bytes": 77
+    },
+    {
+      "tool": "search",
+      "args": {
+        "query": "zzseekstonereadscopeqq"
+      },
+      "isError": false,
+      "bytes": 2
+    },
+    {
+      "tool": "search",
+      "args": {
+        "query": "zzseekstonereadscopeqq heading",
+        "mode": "lexical"
+      },
+      "isError": false,
+      "bytes": 2302
+    },
+    {
+      "tool": "search",
+      "args": {
+        "query": "Body text"
+      },
+      "isError": false,
+      "bytes": 2227
+    },
+    {
+      "tool": "append_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "content": "x"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "append_periodic_note",
+      "args": {
+        "date": "2026-01-03",
+        "content": "read-scope probe"
+      },
+      "isError": false,
+      "bytes": 113
+    },
+    {
+      "tool": "create_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "content": "x"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "delete_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "move_note",
+      "args": {
+        "from": "Private/Read Scope Sentinel.md",
+        "to": "moved-by-read-scope-check.md"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "patch_frontmatter",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "patch": {
+          "a": 1
+        }
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "patch_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "target": {
+          "heading": "zzseekstonereadscopeqq heading"
+        },
+        "operation": "append",
+        "content": "x"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "rename_heading",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "oldHeading": "zzseekstonereadscopeqq heading",
+        "newHeading": "x"
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "replace_in_note",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "find": "Body",
+        "replace": "B",
+        "dryRun": true
+      },
+      "isError": true,
+      "bytes": 107
+    },
+    {
+      "tool": "undo_write",
+      "args": {},
+      "isError": false,
+      "bytes": 155
+    },
+    {
+      "tool": "undo_write",
+      "args": {
+        "seq": 1
+      },
+      "isError": true,
+      "bytes": 379
+    },
+    {
+      "tool": "update_task",
+      "args": {
+        "path": "Private/Read Scope Sentinel.md",
+        "line": 10,
+        "state": "x"
+      },
+      "isError": true,
+      "bytes": 107
+    }
+  ],
+  "leaks": [],
+  "unprobed": [],
+  "hiddenIntact": true,
+  "pass": true
+}

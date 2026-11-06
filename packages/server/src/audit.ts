@@ -58,7 +58,7 @@ export interface AuditRecord {
   seq?: number;
   files?: AuditFile[];
   /** Which policy refused a `policy_denied` call. */
-  policy?: 'read_only' | 'write_paths';
+  policy?: 'read_only' | 'read_paths' | 'write_paths';
   /**
    * Error CODE for non-ok outcomes (`hash_conflict`, `heading_not_found`,
    * `not_found`, `exists`, `invalid_input`, …) — never the message: tool
@@ -160,6 +160,9 @@ export function classifyError(message: string): {
   }
   if (message.startsWith('Server is read-only')) {
     return { outcome: 'policy_denied', policy: 'read_only', error: 'read_only' };
+  }
+  if (message.startsWith('Write not permitted') && message.includes('SEEKSTONE_READ_PATHS')) {
+    return { outcome: 'policy_denied', policy: 'read_paths', error: 'read_paths' };
   }
   if (message.startsWith('Write not permitted')) {
     return { outcome: 'policy_denied', policy: 'write_paths', error: 'write_paths' };

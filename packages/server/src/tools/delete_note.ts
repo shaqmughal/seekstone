@@ -55,10 +55,10 @@ export async function deleteNote(
   rawInput: DeleteNoteInput,
 ): Promise<DeleteNoteResult> {
   const input = DeleteNoteInput.parse(rawInput);
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   // Policy applies to the note being deleted; the .trash/ destination is the
   // safety mechanism itself, not a user write.
   assertWritable(ctx.policy, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   // Read before deleting: ENOENT propagates for a missing note (same shape rm
   // gave), the bytes are the CAS identity, and the hash documents exactly
