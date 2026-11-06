@@ -55,7 +55,7 @@ export interface ReadNoteResult {
 }
 
 export async function readNote(ctx: ServerContext, input: ReadNoteInput): Promise<ReadNoteResult> {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   const raw = await readFile(absPath, 'utf8');
   const noteBytes = Buffer.byteLength(raw, 'utf8');

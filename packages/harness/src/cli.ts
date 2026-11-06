@@ -36,6 +36,7 @@ import { loadGoldenSet } from './retrieval/golden.js';
 import { renderRetrievalMarkdown } from './retrieval/report.js';
 import { runRetrievalEval } from './retrieval/runner.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
+import { renderReadScopeMarkdown, runReadScopeCheck } from './safety/read-scope.js';
 import { collectSeekstone } from './schema-tax/collect.js';
 import {
   buildReport,
@@ -188,6 +189,42 @@ cli
     const outPath = join(outDir, 'scenarios-comparison.md');
     await writeFile(outPath, renderScenarioComparisonMarkdown(summaries));
     console.log(`scenarios-compare: wrote ${outPath}`);
+  });
+
+// ---------- read-scope ----------
+cli
+  .command(
+    'read-scope',
+    'Boot the built server with SEEKSTONE_READ_PATHS hiding a folder and prove no hidden bytes leak through any tool (SHA-291).',
+  )
+  .option('--vault <path>', 'Vault to copy (never modified).', {
+    default: 'packages/harness/fixtures/vault',
+  })
+  .option('--server <path>', 'Built server entry point.', {
+    default: 'packages/server/dist/index.js',
+  })
+  .option('--out <dir>', 'Write read-scope-seekstone.{json,md} here.')
+  .action(async (opts) => {
+    const server = resolve(opts.server);
+    try {
+      await readFile(server);
+    } catch {
+      console.error(`read-scope: ${server} not found — run \`npm run build -w seekstone\` first.`);
+      process.exit(2);
+    }
+    const report = await runReadScopeCheck([process.execPath, server], resolve(opts.vault));
+    const md = renderReadScopeMarkdown(report);
+    if (opts.out) {
+      const out = resolve(opts.out);
+      await mkdir(out, { recursive: true });
+      await writeFile(
+        join(out, 'read-scope-seekstone.json'),
+        `${JSON.stringify(report, null, 2)}\n`,
+      );
+      await writeFile(join(out, 'read-scope-seekstone.md'), md);
+    }
+    console.log(md);
+    if (!report.pass) process.exit(1);
   });
 
 // ---------- schema-tax ----------

@@ -3,7 +3,7 @@ import { basename, extname } from 'node:path';
 import { extractInlineTags, extractLinksWithLines, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
-import { walkVault } from '@seekstone/core/walk';
+import { type WalkOptions, walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
 import { buildResolveMaps, resolveLink } from './resolve.js';
@@ -18,7 +18,12 @@ export interface BuildResult {
   buildMs: number;
 }
 
-export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
+/**
+ * Build the in-memory index. `scope` narrows the walk to the read scope
+ * (SEEKSTONE_READ_PATHS): files outside it are never read, parsed or indexed,
+ * so every index-backed tool is scoped by construction.
+ */
+export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promise<BuildResult> {
   const t0 = Date.now();
 
   const index = new MiniSearch<IndexedNote>({
@@ -32,7 +37,7 @@ export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
     },
   });
 
-  const entries = await walkVault(vaultRoot);
+  const entries = await walkVault(vaultRoot, scope);
   const noteEntries = entries.filter((e) => e.kind === 'note');
 
   const docs: IndexedNote[] = [];

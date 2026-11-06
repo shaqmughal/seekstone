@@ -18,7 +18,7 @@ export const OutlineNoteInput = z.object({
 export type OutlineNoteInput = z.infer<typeof OutlineNoteInput>;
 
 export async function outlineNote(ctx: ServerContext, input: OutlineNoteInput) {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   const raw = await readFile(absPath, 'utf8');
   return buildOutline(raw, {

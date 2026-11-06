@@ -6,6 +6,7 @@ import type { ServerContext } from './context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from './index/backlinks.js';
 import { buildDoc, upsertDoc } from './index/doc.js';
 import type { Logger } from './log.js';
+import { isReadable } from './policy.js';
 
 /**
  * Watch the vault for .md changes and keep the in-memory index in sync.
@@ -142,7 +143,8 @@ export function startWatcher(
   const onUpsert = (op: 'add' | 'change') => (abs: string) => {
     const relPath = toRel(abs);
     opts?.onRawEvent?.(op, abs, relPath);
-    if (relPath.endsWith('.md')) void upsert(relPath, op);
+    // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
+    if (relPath.endsWith('.md') && isReadable(ctx.policy, relPath)) void upsert(relPath, op);
   };
 
   const watcher = chokidar.watch(vaultRoot, {
@@ -172,7 +174,7 @@ export function startWatcher(
     .on('unlink', (abs: string) => {
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
-      if (relPath.endsWith('.md')) remove(relPath);
+      if (relPath.endsWith('.md') && isReadable(ctx.policy, relPath)) remove(relPath);
     });
 
   const ready = new Promise<void>((resolve) => {

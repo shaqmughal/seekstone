@@ -1,6 +1,6 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { containVaultPath } from '../vault-path.js';
 
 export const GetBacklinksInput = z.object({
   path: z.string().describe('Vault-relative path to the target note.'),
@@ -34,7 +34,7 @@ export interface GetBacklinksResult {
 const EXCERPT_MAX = 200;
 
 export function getBacklinks(ctx: ServerContext, input: GetBacklinksInput): GetBacklinksResult {
-  resolveVaultPath(ctx.vaultRoot, input.path); // containment validation only
+  containVaultPath(ctx.vaultRoot, input.path); // containment validation only
 
   const includeContext = input.includeContext ?? true;
   const limit = input.limit ?? 50;

@@ -59,15 +59,25 @@ export function classify(relPath: string): FileKind {
   return 'other';
 }
 
-export async function walkVault(vaultRoot: string): Promise<FileEntry[]> {
+export interface WalkOptions {
+  /**
+   * Vault-relative globs to walk instead of everything (`**\/*`). Directories
+   * no glob can match are never descended into, so a narrow scope walks less.
+   */
+  include?: string[];
+  /** Extra vault-relative globs to skip, on top of the built-in ignore list. */
+  exclude?: string[];
+}
+
+export async function walkVault(vaultRoot: string, opts: WalkOptions = {}): Promise<FileEntry[]> {
   // We use fast-glob with `stats: true` so we can avoid an extra stat() round per file.
-  const matches = await fg('**/*', {
+  const matches = await fg(opts.include ?? '**/*', {
     cwd: vaultRoot,
     absolute: true,
     onlyFiles: true,
     followSymbolicLinks: false,
     dot: true, // include dotfiles so the ignore globs are the only gate
-    ignore: IGNORE_GLOBS,
+    ignore: opts.exclude ? [...IGNORE_GLOBS, ...opts.exclude] : IGNORE_GLOBS,
     stats: true,
     suppressErrors: true,
   });

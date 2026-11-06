@@ -52,10 +52,10 @@ export async function moveNote(
   // Parse here (not only in dispatch) so defaults like rewriteLinks apply to
   // direct callers too — same pattern as periodic_note.
   const input = MoveNoteInput.parse(rawInput);
-  const absFrom = resolveVaultPath(ctx.vaultRoot, input.from);
-  const absTo = resolveVaultPath(ctx.vaultRoot, input.to);
   assertWritable(ctx.policy, input.from);
   assertWritable(ctx.policy, input.to);
+  const absFrom = resolveVaultPath(ctx, input.from);
+  const absTo = resolveVaultPath(ctx, input.to);
 
   // Read the source bytes up front: they are the CAS identity, the result
   // hash (a rename never changes content), and the truth the index entry at

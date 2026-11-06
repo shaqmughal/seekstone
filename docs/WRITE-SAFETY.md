@@ -130,7 +130,7 @@ locking.
   harness `cas-conflict` op — a stale-hash write, move, or delete after an
   out-of-band edit must be refused, and the out-of-band edit must survive.
 
-### 8. Write scoping and read-only mode
+### 8. Path scoping and read-only mode
 
 `SEEKSTONE_READ_ONLY=1` removes the 11 write tools (`undo_write` included)
 from `tools/list` entirely (and rejects them at dispatch if a client calls
@@ -140,12 +140,39 @@ an explicit glob allowlist. Both are enforced at the dispatch layer plus a
 shared `assertWritable` in every write handler, so a new tool cannot forget
 the check.
 
+`SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
+excludes, so `!Journal/**` means everything except `Journal/`). Hidden files
+are never walked, indexed, embedded or watched, so search, listings, tags,
+tasks, links and backlinks never see them, and a link to one resolves like a
+link to nothing. Every tool that reads a file by path goes through
+`resolveVaultPath`, which answers for a hidden file with the same ENOENT error
+a missing file gets, so a hidden note can't be told apart from a nonexistent
+one. A path is writable only if it is also readable; writes are checked before
+the path is resolved, so a refused write reveals nothing about what exists.
+Write-history entries that touched a hidden path are left out of `list_writes`
+and reported as not found by `undo_write` (they stay in the journal and come
+back if the scope is widened). Two consequences to know: moving a visible note
+does not rewrite links inside hidden notes, since that would write to files the
+agent can't see, and a periodic-note template outside the scope is treated as
+missing (boot logs a warning for this and for write globs that reach outside
+the read scope).
+
 - Enforced by: [`policy.ts`](../packages/server/src/policy.ts),
   [`dispatch.ts`](../packages/server/src/dispatch.ts) (`WRITE_TOOLS`),
-  [`tool-list.ts`](../packages/server/src/tool-list.ts) (`visibleTools`).
+  [`tool-list.ts`](../packages/server/src/tool-list.ts) (`visibleTools`),
+  [`vault-path.ts`](../packages/server/src/vault-path.ts) (`resolveVaultPath`),
+  [`index/build.ts`](../packages/server/src/index/build.ts) and
+  [`watcher.ts`](../packages/server/src/watcher.ts).
 - Proven by: [`policy.test.ts`](../packages/server/src/policy.test.ts),
-  [`tool-list.test.ts`](../packages/server/src/tool-list.test.ts), and the
-  read-only dispatch tests.
+  [`tool-list.test.ts`](../packages/server/src/tool-list.test.ts), the
+  read-only dispatch tests,
+  [`read-scope.test.ts`](../packages/server/src/read-scope.test.ts) (every
+  tool, hidden vs missing, links, journal, watcher),
+  [`path-guard.test.ts`](../packages/server/src/tools/path-guard.test.ts)
+  (no tool reads a file without the guard), and the harness `read-scope`
+  check, which boots the built server and greps every response for a marker
+  planted in a hidden note
+  ([`read-scope-seekstone.md`](../packages/harness/fixtures/baseline-reports/read-scope-seekstone.md)).
 
 ### 9. Every write is reversible
 

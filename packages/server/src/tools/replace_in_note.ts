@@ -71,8 +71,8 @@ export async function replaceInNote(
   ctx: ServerContext,
   input: ReplaceInNoteInput,
 ): Promise<ReplaceInNoteResult> {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   // Validate regex before any IO.
   let re: RegExp;

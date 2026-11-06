@@ -53,8 +53,8 @@ export async function createNote(
   rawInput: CreateNoteInput,
 ): Promise<CreateNoteResult> {
   const input = CreateNoteInput.parse(rawInput);
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   // Pre-image for the journal: the note being overwritten, or null for a
   // fresh create (undo then removes the file).

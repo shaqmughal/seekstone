@@ -65,8 +65,8 @@ export async function patchNote(
   ctx: ServerContext,
   input: PatchNoteInput,
 ): Promise<PatchNoteResult> {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
+  const absPath = resolveVaultPath(ctx, input.path);
 
   const raw = await readFile(absPath, 'utf8');
   if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.path);
