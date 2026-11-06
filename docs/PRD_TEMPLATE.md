@@ -96,6 +96,17 @@ Every claim about the codebase should name a real file/symbol so it can be check
 - <e.g. follow the testable-core pattern in `init.ts`/`cli-args.ts`: pure logic + a thin IO wrapper with injected `env`/`platform`/`timestamp`>
 - <relevant existing helper to call>
 
+**Surfaces a new tool touches** (delete the rows that don't apply, don't leave them blank):
+| Surface | Path |
+|---|---|
+| Dispatch: `HANDLED_TOOLS`, `WRITE_TOOLS` (writes), the case, its `audit` detail (writes) | `packages/server/src/dispatch.ts` |
+| Tool list + its test | `packages/server/src/tool-list.ts`, `tool-list.test.ts` |
+| No-network suite runs the new tool | `packages/server/src/no-network.test.ts` |
+| Admission-bar task | `packages/harness/queries/tasks.json` |
+| Schema-tax baseline + benchmarks | `packages/harness/fixtures/baseline-reports/`, `benchmarks.json` |
+| Docs | both READMEs, `docs/ARCHITECTURE.md`, `SECURITY.md`, `docs/REGISTRIES.md`, `docs/CLIENT-TESTING.md`, `llms.txt`, `CLAUDE.md`, `packages/server/package.json` description |
+| Write-safety contract (writes) | `docs/WRITE-SAFETY.md`, `packages/harness/src/safety/` |
+
 **Conventions to honor** (from CONTRIBUTING.md):
 - `.js` import extensions on TS sources; NodeNext.
 - Run `npm run format`; LF line endings; biome must pass.
@@ -125,10 +136,18 @@ Every claim about the codebase should name a real file/symbol so it can be check
 
 - **Performance / payload (the thesis):** <latency target; payload must stay small — name the budget.>
 - **No network / no telemetry:** <assert it still holds; or justify + test.>
-- **Write-safety:** <if it writes: atomic, byte-faithful frontmatter, backup/no-clobber.>
+- **Write-safety:** <if it writes: policy-gated, atomic temp+rename, byte-faithful frontmatter; optional `prevHash` compare-and-swap; returns `contentHash`; journals pre-images via `journalWrite` (one file) or `ctx.journal.begin()` (several files, all rewrites computed first) before the first vault byte changes, so `undo_write` restores the whole operation; returns an `audit` detail from dispatch (paths and counts only). Name which `docs/WRITE-SAFETY.md` guarantees it is covered by.>
 - **Cross-platform:** <works on macOS/Linux/Windows; covered by CI matrix.>
 - **Determinism:** <same input → same output; no `Math.random()`/wall-clock in core paths.>
 - **Footprint:** <new deps justified; bundle impact noted.>
+
+## 10a. Admission bar (new tool, prompt, or resource only)
+<Required by CONTRIBUTING.md, "Adding a tool, prompt, or resource" (SHA-341). Mark N/A only if the PRD adds no tool, prompt, or resource.>
+
+- **Why not a parameter on an existing tool?** <name the closest existing tool and say why extending it is worse.>
+- **Token-win task:** <the `tasks.json` entry: question, and the existing-tool sequence it replaces.>
+- **Expected win:** <rough bytes/tokens today vs with the new tool; the real numbers come from `npm run harness -- scenarios` in the PR.>
+- **Schema-tax cost:** <estimated tokens added at session start; the PR quotes the measured old and new totals.>
 
 ## 11. Rollout & docs
 - **Release:** <changeset bump level; any migration; feature-flagged?>
