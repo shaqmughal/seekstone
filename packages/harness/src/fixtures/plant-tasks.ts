@@ -9,11 +9,14 @@ import { buildDailyTaskBlock, taskRngFor } from './generate.js';
  * `gen-vault` would have produced had the vault been regenerated.
  *
  * Why this exists: regenerating the committed vaults requires the pinned
- * EB1911 corpus, and Project Gutenberg re-issued 28 of the 125 pinned volume
- * files after fixture v2 was generated — no byte-identical source for them
- * remains fetchable (canonical, mirrors, or Wayback), so `gen-vault` can no
- * longer reproduce the committed article notes. Task planting, however, is
- * drawn from an isolated PRNG stream and touches only `Daily Notes/` — so
+ * EB1911 corpus, and Project Gutenberg re-issued some pinned volume files
+ * after fixture v2 was generated, so `fetch-corpus` can't download the full
+ * pinned set (SHA-340). The pinned text was later found intact in an off-repo
+ * archive, and `gen-vault` reproduces the committed vaults from it, but this
+ * migration remains the way to change a fixture without that archive.
+ *
+ * Task planting is drawn from an isolated PRNG stream and touches only
+ * `Daily Notes/`, so
  * this script replays exactly that stream (through the same
  * `buildDailyTaskBlock` the generator uses) against the committed files.
  *

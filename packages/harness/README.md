@@ -102,15 +102,15 @@ npm run harness -- fetch-corpus              # download + checksum-verify PG EB1
 npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+seed → identical vault
 ```
 
-> **Known break (SHA-340).** Project Gutenberg has re-issued 28 of the 125 pinned
-> volumes since the manifest was committed, and no byte-identical copy of those 28 is
-> publicly fetchable any more. `fetch-corpus` therefore fails checksum verification on
-> them, and the re-issued text parses to a different article pool — so `gen-vault`
-> **cannot reproduce the committed vaults** today. The committed vaults remain the
-> canonical benchmark target and nothing below is needed to run the suite. Until the
-> corpus is re-pinned (fixture v3), change a fixture only by a PRNG-isolated migration
-> proven byte-exact against the generator — `src/fixtures/plant-tasks.ts` (fixture
-> v2.1) is the exemplar. Details: [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
+> **Known break (SHA-340).** Project Gutenberg has re-issued some of the 125 pinned
+> volumes since the manifest was committed (16 on 2026-11-06), so `fetch-corpus` can't
+> download the full pinned set. It saves the volumes that verify and names the ones
+> that don't. The pinned text itself survives in an off-repo archive, and with it in
+> `fixtures/corpus/raw/`, `gen-vault` reproduces all three committed vaults byte for
+> byte (checked 2026-11-06). Without the archive, change a fixture by a PRNG-isolated
+> migration proven byte-exact against the generator; `src/fixtures/plant-tasks.ts`
+> (fixture v2.1) is the example. Running the suite never needs the corpus. Details:
+> [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
 
 - `fetch-corpus` reads [`fixtures/corpus/manifest.json`](./fixtures/corpus/manifest.json)
   (pinned ebook IDs + SHA-256) and downloads the raw volume text to

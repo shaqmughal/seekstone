@@ -343,10 +343,18 @@ cli
     default: `${FIXTURES}/corpus/raw`,
   })
   .action(async (opts) => {
-    const { fetched, skipped } = await fetchCorpus(resolve(opts.manifest), resolve(opts.raw), (m) =>
-      console.log(`fetch-corpus: ${m}`),
-    );
-    console.log(`fetch-corpus: ${fetched} fetched, ${skipped} already present (verified).`);
+    try {
+      const { fetched, skipped } = await fetchCorpus(
+        resolve(opts.manifest),
+        resolve(opts.raw),
+        (m) => console.log(`fetch-corpus: ${m}`),
+      );
+      console.log(`fetch-corpus: ${fetched} fetched, ${skipped} already present (verified).`);
+    } catch (err) {
+      // fetchCorpus's error is the user-facing report; a stack trace would bury it.
+      console.error(`fetch-corpus: ${err instanceof Error ? err.message : String(err)}`);
+      process.exit(1);
+    }
   });
 
 // ---------- fetch-models ----------
