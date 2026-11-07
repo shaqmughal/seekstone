@@ -390,6 +390,37 @@ describe('publishCorpus', () => {
     expect(run).not.toHaveBeenCalled();
   });
 
+  it('retries the post-publish check while GitHub still reports the release missing', async () => {
+    const missing = ['release owner/corpus@eb1911-v1 does not exist.'];
+    const verify = vi
+      .fn<() => Promise<string[]>>()
+      .mockResolvedValueOnce(missing)
+      .mockResolvedValueOnce(missing)
+      .mockResolvedValueOnce(missing)
+      .mockResolvedValueOnce([]);
+    const sleep = vi.fn(async () => {});
+    await publishCorpus(writeManifest('p-lag.json', pinned, MIRROR), raw(), {
+      run: async () => {},
+      verify,
+      sleep,
+    });
+    expect(verify).toHaveBeenCalledTimes(4);
+    expect(sleep).toHaveBeenCalledTimes(2);
+  });
+
+  it('gives up after five retries if the release never appears', async () => {
+    const verify = vi.fn(async () => ['release owner/corpus@eb1911-v1 does not exist.']);
+    const sleep = vi.fn(async () => {});
+    await expect(
+      publishCorpus(writeManifest('p-never.json', pinned, MIRROR), raw(), {
+        run: async () => {},
+        verify,
+        sleep,
+      }),
+    ).rejects.toThrow(/does not verify/);
+    expect(sleep).toHaveBeenCalledTimes(5);
+  });
+
   it('fails when the published release does not verify', async () => {
     const verify = vi
       .fn<() => Promise<string[]>>()

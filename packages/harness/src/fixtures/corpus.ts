@@ -250,7 +250,13 @@ export type CommandRunner = (cmd: string, args: string[]) => Promise<void>;
 export async function publishCorpus(
   manifestPath: string,
   rawDir: string,
-  opts: { run: CommandRunner; verify?: () => Promise<string[]>; log?: (msg: string) => void },
+  opts: {
+    run: CommandRunner;
+    verify?: () => Promise<string[]>;
+    log?: (msg: string) => void;
+    /** Waits between post-publish checks; injectable so tests don't sleep. */
+    sleep?: (ms: number) => Promise<void>;
+  },
 ): Promise<void> {
   const manifest = readManifest(manifestPath);
   const m = manifest.mirror;
@@ -295,7 +301,14 @@ export async function publishCorpus(
   await opts.run('gh', ['release', 'edit', m.tag, '--repo', m.repo, '--draft=false', '--latest']);
   log(`published ${m.repo}@${m.tag}.`);
 
-  const after = await verify();
+  // GitHub's API can take a few seconds to serve a just-published release,
+  // so retry while it still reports the release as missing.
+  const sleep = opts.sleep ?? ((ms: number) => new Promise<void>((r) => setTimeout(r, ms)));
+  let after = await verify();
+  for (let i = 0; i < 5 && after.length === 1 && after[0]?.endsWith('does not exist.'); i++) {
+    await sleep(3000);
+    after = await verify();
+  }
   if (after.length > 0) {
     throw new Error(
       [`published ${m.repo}@${m.tag}, but it does not verify:`, ...after.map((p) => `  ${p}`)].join(
