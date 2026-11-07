@@ -15,7 +15,7 @@
     }
   },
   "release": {
-    "version": "0.23.0",
+    "version": "0.24.0",
     "source": "packages/server/package.json#version"
   },
   "tools": {
