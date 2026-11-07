@@ -98,24 +98,27 @@ latency (and therefore the gate's ≤ 15 ms clause) is machine-specific.
 ### Regenerate the vault (only if you change it)
 
 ```bash
-npm run harness -- fetch-corpus              # download + checksum-verify PG EB1911 volumes
+npm run harness -- fetch-corpus              # download + checksum-verify PG EB1911 volumes (mirror fallback)
 npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+seed → identical vault
 ```
 
-> **Known break (SHA-340).** Project Gutenberg has re-issued some of the 125 pinned
-> volumes since the manifest was committed (16 on 2026-11-06), so `fetch-corpus` can't
-> download the full pinned set. It saves the volumes that verify and names the ones
-> that don't. The pinned text itself survives in an off-repo archive, and with it in
-> `fixtures/corpus/raw/`, `gen-vault` reproduces all three committed vaults byte for
-> byte (checked 2026-11-06). Without the archive, change a fixture by a PRNG-isolated
-> migration proven byte-exact against the generator; `src/fixtures/plant-tasks.ts`
-> (fixture v2.1) is the example. Running the suite never needs the corpus. Details:
-> [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
+> **Mirror (SHA-340, SHA-464).** Project Gutenberg has re-issued some of the 125 pinned
+> volumes since the manifest was committed (16 on 2026-11-06). `fetch-corpus` takes
+> those from an immutable release of
+> [`shaqmughal/seekstone-corpus`](https://github.com/shaqmughal/seekstone-corpus), so
+> these two commands reproduce all three committed vaults byte for byte. The
+> `Corpus mirror` CI workflow checks the release against `manifest.json` (on manifest
+> changes and monthly). Running the suite never needs the corpus. Details, including
+> how to re-pin: [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
 
 - `fetch-corpus` reads [`fixtures/corpus/manifest.json`](./fixtures/corpus/manifest.json)
   (pinned ebook IDs + SHA-256) and downloads the raw volume text to
-  `fixtures/corpus/raw/` (gitignored). Every file is checksum-verified, so a drifted
-  upstream file is rejected rather than silently used.
+  `fixtures/corpus/raw/` (gitignored), from Project Gutenberg or, when Gutenberg's file
+  no longer matches, from the mirror. Every file is checksum-verified, so a drifted
+  file is rejected rather than silently used.
+- `verify-corpus-mirror` checks the mirror release against `manifest.json` by the
+  digests GitHub reports (no downloads); `publish-corpus` publishes a new release for
+  a re-pin.
 - `gen-vault` is seeded (`--seed`, default 42) and uses no `Math.random`, so output is
   fully deterministic — including the prose cross-links, which are a pure function of the
   sampled article set (see [`src/fixtures/linkify.ts`](./src/fixtures/linkify.ts)).

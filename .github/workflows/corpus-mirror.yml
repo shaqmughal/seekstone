@@ -1,0 +1,76 @@
+name: Corpus mirror
+
+# Checks that the benchmark corpus mirror (the immutable GitHub release named in
+# packages/harness/fixtures/corpus/manifest.json) holds exactly the pinned files.
+# One GitHub API call compares each asset's SHA-256 digest with its pin; nothing
+# is downloaded. See packages/harness/fixtures/corpus/PROVENANCE.md ("Mirror").
+#
+# - On a PR that changes the manifest, a failure blocks the merge until the new
+#   release is published with `npm run harness -- publish-corpus`.
+# - On the monthly run, a failure opens (or comments on) a GitHub issue, so no
+#   one has to watch the run history.
+
+on:
+  pull_request:
+    paths:
+      - packages/harness/fixtures/corpus/manifest.json
+      - packages/harness/src/fixtures/corpus.ts
+      - .github/workflows/corpus-mirror.yml
+  push:
+    branches: [main]
+    paths:
+      - packages/harness/fixtures/corpus/manifest.json
+      - packages/harness/src/fixtures/corpus.ts
+      - .github/workflows/corpus-mirror.yml
+  schedule:
+    - cron: '17 6 1 * *' # 06:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  verify:
+    name: verify corpus mirror
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write # only used to report a failed scheduled or manual run
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Verify the mirror release against manifest.json
+        id: verify
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run harness -- verify-corpus-mirror 2>&1 | tee verify.log; exit "${PIPESTATUS[0]}"
+
+      - name: Report a failure as an issue
+        if: failure() && steps.verify.outcome == 'failure' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Corpus mirror does not match manifest.json"
+          {
+            echo "The corpus mirror check failed on a \`$GITHUB_EVENT_NAME\` run: $RUN_URL"
+            echo
+            echo '```'
+            cat verify.log
+            echo '```'
+            echo
+            echo 'See packages/harness/fixtures/corpus/PROVENANCE.md ("Mirror") for how to fix it.'
+          } > body.md
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file body.md
+          else
+            gh issue create --title "$title" --body-file body.md
+          fi

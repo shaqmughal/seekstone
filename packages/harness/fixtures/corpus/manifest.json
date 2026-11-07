@@ -1,7 +1,11 @@
 {
   "source": "Project Gutenberg — Encyclopaedia Britannica, 11th Edition (1911)",
   "license": "Public domain (United States). PG header/footer stripped at parse time.",
-  "note": "Pinned volume slices. `npm run harness -- fetch-corpus` downloads each to corpus/raw/ (gitignored) and verifies sha256. The generated vault under fixtures/vault/ is the canonical artifact; this corpus is only needed to regenerate it.",
+  "note": "Pinned volume slices. `npm run harness -- fetch-corpus` downloads each to corpus/raw/ (gitignored), trying Project Gutenberg first and then the `mirror` release, and verifies sha256 either way. The generated vault under fixtures/vault/ is the canonical artifact; this corpus is only needed to regenerate it.",
+  "mirror": {
+    "repo": "shaqmughal/seekstone-corpus",
+    "tag": "eb1911-v1"
+  },
   "entries": [
     {
       "id": 13600,

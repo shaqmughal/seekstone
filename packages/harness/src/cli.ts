@@ -26,7 +26,7 @@ import {
   renderScenarioMarkdown,
 } from './bench/scenarios-report.js';
 import { loadTaskSet } from './bench/tasks.js';
-import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
+import { fetchCorpus, loadCorpus, publishCorpus, verifyCorpusMirror } from './fixtures/corpus.js';
 import { generateVault } from './fixtures/generate.js';
 import { fetchModels } from './fixtures/models.js';
 import { profileVault } from './profiler/index.js';
@@ -381,15 +381,72 @@ cli
   })
   .action(async (opts) => {
     try {
-      const { fetched, skipped } = await fetchCorpus(
+      const { fetched, skipped, fromMirror } = await fetchCorpus(
         resolve(opts.manifest),
         resolve(opts.raw),
         (m) => console.log(`fetch-corpus: ${m}`),
       );
-      console.log(`fetch-corpus: ${fetched} fetched, ${skipped} already present (verified).`);
+      console.log(
+        `fetch-corpus: ${fetched} fetched (${fromMirror} from the mirror), ${skipped} already present (verified).`,
+      );
     } catch (err) {
       // fetchCorpus's error is the user-facing report; a stack trace would bury it.
       console.error(`fetch-corpus: ${err instanceof Error ? err.message : String(err)}`);
+      process.exit(1);
+    }
+  });
+
+// ---------- verify-corpus-mirror ----------
+cli
+  .command(
+    'verify-corpus-mirror',
+    "Check that the corpus mirror release matches manifest.json (GitHub's asset digests; no downloads).",
+  )
+  .option('--manifest <file>', 'Corpus manifest JSON.', {
+    default: `${FIXTURES}/corpus/manifest.json`,
+  })
+  .action(async (opts) => {
+    // GITHUB_TOKEN (set in CI) lifts the unauthenticated API rate limit; it's optional locally.
+    const problems = await verifyCorpusMirror(resolve(opts.manifest), {
+      token: process.env.GITHUB_TOKEN,
+    });
+    if (problems.length > 0) {
+      console.error('verify-corpus-mirror: the mirror does not match manifest.json:');
+      for (const p of problems) console.error(`  ${p}`);
+      console.error(
+        'If manifest.json was re-pinned, publish the new release with `npm run harness -- publish-corpus`',
+      );
+      console.error('(see packages/harness/fixtures/corpus/PROVENANCE.md, "Mirror").');
+      process.exit(1);
+    }
+    console.log('verify-corpus-mirror: every pinned volume is in the immutable mirror release.');
+  });
+
+// ---------- publish-corpus ----------
+cli
+  .command(
+    'publish-corpus',
+    'Publish the pinned corpus in --raw as the immutable mirror release named in manifest.json (needs gh).',
+  )
+  .option('--manifest <file>', 'Corpus manifest JSON.', {
+    default: `${FIXTURES}/corpus/manifest.json`,
+  })
+  .option('--raw <dir>', 'Directory holding the pin-exact volumes.', {
+    default: `${FIXTURES}/corpus/raw`,
+  })
+  .action(async (opts) => {
+    const { execFile } = await import('node:child_process');
+    const { promisify } = await import('node:util');
+    const run = promisify(execFile);
+    try {
+      await publishCorpus(resolve(opts.manifest), resolve(opts.raw), {
+        run: async (cmd, args) => {
+          await run(cmd, args, { maxBuffer: 16 * 1024 * 1024 });
+        },
+        log: (m) => console.log(`publish-corpus: ${m}`),
+      });
+    } catch (err) {
+      console.error(`publish-corpus: ${err instanceof Error ? err.message : String(err)}`);
       process.exit(1);
     }
   });

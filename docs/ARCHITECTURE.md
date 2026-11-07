@@ -295,7 +295,7 @@ start.
 
 ```mermaid
 flowchart TD
-    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · schema-tax · scale-render<br/>gen-vault · fetch-corpus · fetch-models · retrieval"]
+    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · schema-tax · scale-render<br/>gen-vault · fetch-corpus · verify-corpus-mirror<br/>publish-corpus · fetch-models · retrieval"]
 
     backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS/undo/task)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
@@ -315,7 +315,7 @@ flowchart TD
         retrieval["retrieval/<br/>golden set → lexical · semantic · hybrid conditions<br/>hit@5 · MRR@10 per subset · warm latency<br/>pre-registered ship gate · --experiments · --shipped"]
     end
 
-    fixtures["fixtures/<br/>EB1911 corpus → 10k-note synthetic vault<br/>generate · prng · tags · parse-volume · corpus<br/>models.ts → pinned Model2Vec downloads (gitignored)"]
+    fixtures["fixtures/<br/>EB1911 corpus → 10k-note synthetic vault<br/>generate · prng · tags · parse-volume · corpus<br/>(Gutenberg + immutable mirror release, SHA-464)<br/>models.ts → pinned Model2Vec downloads (gitignored)"]
     queries["queries/ — committed methodology artifacts<br/>default · tasks · vault-1k/5k · golden.json (150 queries, dev/holdout split)"]
     reports["reports & committed baselines<br/>*.json + *.md"]
 
