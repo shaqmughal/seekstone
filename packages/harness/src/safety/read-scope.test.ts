@@ -72,23 +72,31 @@ describe('read-scope no-leak check', () => {
         process.env,
         (_, text) => texts.push(text),
       );
-      const why = async () =>
-        [
-          'Control run did not leak. Per-call results:',
-          ...report.calls.map(
-            (c, i) =>
-              `  ${c.tool} isError=${c.isError} bytes=${c.bytes}${
-                c.isError ? ` :: ${(texts[i] ?? '').slice(0, 200)}` : ''
-              }`,
-          ),
-          `hiddenIntact=${report.hiddenIntact}`,
-          'Server log:',
-          await readFile(serverLog, 'utf8').catch((e: Error) => `  (no log: ${e.message})`),
-        ].join('\n');
-      if (report.pass) expect.fail(await why());
-      expect(report.leaks.some((l) => l.tool === 'search')).toBe(true);
-      expect(report.leaks.some((l) => l.tool === 'read_note')).toBe(true);
-      expect(report.hiddenIntact).toBe(false); // unscoped writes reach it
+      // Attached to every assertion below, so any failure of the control
+      // explains itself: each probe's result, the error text of failed
+      // calls, and the server's own log (SHA-474; see SHA-531).
+      const why = [
+        'Control run diagnostics. Per-call results:',
+        ...report.calls.map(
+          (c, i) =>
+            `  ${c.tool} isError=${c.isError} bytes=${c.bytes}${
+              c.isError ? ` :: ${(texts[i] ?? '').slice(0, 200)}` : ''
+            }`,
+        ),
+        `pass=${report.pass} leaks=${report.leaks.length} hiddenIntact=${report.hiddenIntact}`,
+        'Server log:',
+        await readFile(serverLog, 'utf8').catch((e: Error) => `  (no log: ${e.message})`),
+      ].join('\n');
+      expect(report.pass, why).toBe(false);
+      expect(
+        report.leaks.some((l) => l.tool === 'search'),
+        why,
+      ).toBe(true);
+      expect(
+        report.leaks.some((l) => l.tool === 'read_note'),
+        why,
+      ).toBe(true);
+      expect(report.hiddenIntact, why).toBe(false); // unscoped writes reach it
       expect(renderReadScopeMarkdown(report)).toContain('## Leaks');
     } finally {
       await rm(dir, { recursive: true, force: true });
