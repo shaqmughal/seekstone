@@ -58,7 +58,8 @@
     "build": "tsup",
     "prepack": "tsup",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "bench": "vitest bench --run"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.2",
@@ -70,6 +71,7 @@
     "zod": "^4.6.7"
   },
   "devDependencies": {
+    "@codspeed/vitest-plugin": "^6.1.1",
     "@seekstone/core": "*",
     "@types/picomatch": "^4.0.3"
   }
