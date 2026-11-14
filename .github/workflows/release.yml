@@ -13,6 +13,10 @@ permissions: read-all
 jobs:
   release:
     runs-on: ubuntu-latest
+    # APP_PRIVATE_KEY and VERCEL_DEPLOY_HOOK_URL live in the `release`
+    # environment, which only runs on main. Other workflows can't read them
+    # (SHA-515). The npm trusted publisher names this environment too.
+    environment: release
     permissions:
       contents: write # changesets opens the version PR and pushes tags
       pull-requests: write # changesets opens the version PR

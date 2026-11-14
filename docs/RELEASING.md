@@ -41,7 +41,8 @@ The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: push
 3. **Generate a private key** (App settings → bottom → Generate a private key → downloads a `.pem`).
 4. Add a repo variable (Settings → Secrets and variables → Actions → **Variables**):
    - `APP_CLIENT_ID` — the App's **Client ID** (the `Iv…` string near the top of the App's settings page), not the numeric App ID. It isn't sensitive, so it's a variable rather than a secret.
-5. Add repo secrets (same page → **Secrets**):
+5. Create a **`release` environment** (Settings → Environments → New environment). Under **Deployment branches and tags**, choose **Selected branches and tags** and add `main`. No required reviewers: releases stay hands-off.
+6. Add these as **environment secrets** on `release`, not as repo secrets. Only the release job declares `environment: release`, so no other workflow can read them:
    - `APP_PRIVATE_KEY` — the full contents of the downloaded `.pem`, including the `-----BEGIN/END-----` lines.
    - `VERCEL_DEPLOY_HOOK_URL` (optional) — when set, a successful publish triggers a seekstone.dev rebuild so the site's displayed version stays current.
 
@@ -53,7 +54,7 @@ The workflow publishes via **OIDC trusted publishing**: no npm token is stored, 
 
 **One-time setup on npmjs.com** (required before the first OIDC publish):
 
-- The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`.
+- The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`, environment `release`.
 
 Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used (deleted 2026-06-27).
 
