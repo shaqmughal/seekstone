@@ -3,13 +3,13 @@
 // CodSpeed runs these under CPU simulation (instruction counting), so the
 // numbers are stable enough to fail a PR on a regression even on shared CI
 // runners. Locally, `npm run bench -w seekstone` falls back to plain Vitest
-// timings. The vault is the committed 1k-note synthetic fixture: big enough
-// to be realistic, small enough that simulation stays fast. Writes go to a
-// scratch copy, never the fixture.
+// timings. The vault is the committed 1k-note synthetic fixture (index build
+// uses a fixed 100-note slice of it, see SLICE). Writes go to a scratch copy,
+// never the fixture.
 
-import { cp, mkdtemp, rm } from 'node:fs/promises';
+import { copyFile, cp, mkdir, mkdtemp, readdir, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join, resolve } from 'node:path';
+import { dirname, join, resolve } from 'node:path';
 import { afterAll, beforeAll, describe, test, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { buildIndex } from '../index/build.js';
@@ -31,7 +31,13 @@ const HUB = 'Encyclopedia/K/Kalinjar.md';
 const SLOW = 15 * 60_000;
 vi.setConfig({ testTimeout: SLOW, hookTimeout: SLOW });
 
+// Index build runs on a fixed slice of the fixture: the full 1k-note build
+// took ~11 minutes under simulation. The first SLICE notes by sorted path are
+// the same every run, so per-note indexing cost is still compared like for like.
+const SLICE = 100;
+
 let vaultRoot: string;
+let sliceRoot: string;
 let ctx: ServerContext;
 
 beforeAll(async () => {
@@ -40,16 +46,28 @@ beforeAll(async () => {
   const built = await buildIndex(vaultRoot);
   ctx = { ...built, vaultRoot, policy: PERMISSIVE_POLICY };
   ctx.journal = await Journal.open(vaultRoot, { maxBytes: 50e6, maxEntries: 1000 });
+
+  sliceRoot = await mkdtemp(join(tmpdir(), 'seekstone-bench-slice-'));
+  const notes = ((await readdir(FIXTURE, { recursive: true })) as string[])
+    .map((p) => p.replaceAll('\\', '/'))
+    .filter((p) => p.endsWith('.md') && !p.split('/').some((s) => s.startsWith('.')))
+    .sort()
+    .slice(0, SLICE);
+  for (const rel of notes) {
+    await mkdir(dirname(join(sliceRoot, rel)), { recursive: true });
+    await copyFile(join(FIXTURE, rel), join(sliceRoot, rel));
+  }
 });
 
 afterAll(async () => {
   await rm(vaultRoot, { recursive: true, force: true });
+  await rm(sliceRoot, { recursive: true, force: true });
 });
 
 describe('index', () => {
   test('build', async ({ bench }) => {
-    await bench('buildIndex (1k notes)', async () => {
-      await buildIndex(vaultRoot);
+    await bench(`buildIndex (${SLICE} notes)`, async () => {
+      await buildIndex(sliceRoot);
     }).run();
   });
 });
