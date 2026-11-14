@@ -1,0 +1,51 @@
+# TEMPORARY (SHA-474): loop the read-scope test on Windows to reproduce the
+# flake. Runs only on this branch. Delete before merging.
+name: SHA-474 repro
+
+on:
+  push:
+    branches: [shaqmughal/sha-474-flaky-test-read-scope-control-test-fails]
+
+permissions:
+  contents: read
+
+jobs:
+  loop:
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4, 5]
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run the read-scope test 10 times
+        shell: bash
+        run: |
+          fails=0
+          for i in $(seq 1 10); do
+            if ! out=$(npx vitest run --root packages/harness src/safety/read-scope.test.ts 2>&1); then
+              fails=$((fails+1))
+              echo "::group::run $i FAILED"
+              echo "$out"
+              echo "::endgroup::"
+            else
+              echo "run $i passed"
+            fi
+          done
+          echo "shard ${{ matrix.shard }}: $fails / 10 failed"
+          [ "$fails" -eq 0 ]
