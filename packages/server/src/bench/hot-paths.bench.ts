@@ -10,7 +10,7 @@
 import { cp, mkdtemp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
-import { afterAll, beforeAll, describe, test } from 'vitest';
+import { afterAll, beforeAll, describe, test, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { buildIndex } from '../index/build.js';
 import { buildResolveMaps, resolveLink } from '../index/resolve.js';
@@ -24,6 +24,12 @@ import { search } from '../tools/search.js';
 const FIXTURE = resolve(import.meta.dirname, '../../../harness/fixtures/vault-1k');
 // The most-linked note in the fixture (269 inbound links).
 const HUB = 'Encyclopedia/K/Kalinjar.md';
+
+// Under CodSpeed's CPU simulation everything runs far slower than native,
+// including setup (copying 1k notes, building the index). Generous limits
+// here, for this file only, keep Vitest's defaults from cutting runs short.
+const SLOW = 15 * 60_000;
+vi.setConfig({ testTimeout: SLOW, hookTimeout: SLOW });
 
 let vaultRoot: string;
 let ctx: ServerContext;
