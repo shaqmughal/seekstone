@@ -38,7 +38,7 @@ The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: push
 
 1. Create a GitHub App (Settings → Developer settings → GitHub Apps → New). Repository permissions: **Contents: Read & write** and **Pull requests: Read & write**. No webhook, no account permissions.
 2. **Install** the App on `shaqmughal/seekstone` (App settings → Install App).
-3. **Generate a private key** (App settings → bottom → Generate a private key → downloads a `.pem`).
+3. **Generate a private key** (App settings → **Credentials** → Private keys → Generate a private key → downloads a `.pem`). When rotating, delete the old key on the same page once a Release run passes with the new one.
 4. Add a repo variable (Settings → Secrets and variables → Actions → **Variables**):
    - `APP_CLIENT_ID` — the App's **Client ID** (the `Iv…` string near the top of the App's settings page), not the numeric App ID. It isn't sensitive, so it's a variable rather than a secret.
 5. Create a **`release` environment** (Settings → Environments → New environment). Under **Deployment branches and tags**, choose **Selected branches and tags** and add `main`. No required reviewers: releases stay hands-off.
