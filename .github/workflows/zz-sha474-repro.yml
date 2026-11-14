@@ -33,19 +33,24 @@ jobs:
 
       - run: npm ci
 
-      - name: Run the read-scope test 10 times
+      - run: npm run build -w seekstone
+
+      # The flake only showed up in the full suite (parallel files, loaded
+      # runner), never in this file alone (0/50 in isolation), so loop the
+      # whole thing like CI does.
+      - name: Run the full test suite 6 times
         shell: bash
         run: |
           fails=0
-          for i in $(seq 1 10); do
-            if ! out=$(npx vitest run --root packages/harness src/safety/read-scope.test.ts 2>&1); then
+          for i in $(seq 1 6); do
+            if ! out=$(npm test 2>&1); then
               fails=$((fails+1))
               echo "::group::run $i FAILED"
-              echo "$out"
+              echo "$out" | grep -E "FAIL|×|Error|Control run|isError|\"msg\"" | head -150
               echo "::endgroup::"
             else
               echo "run $i passed"
             fi
           done
-          echo "shard ${{ matrix.shard }}: $fails / 10 failed"
+          echo "shard ${{ matrix.shard }}: $fails / 6 failed"
           [ "$fails" -eq 0 ]
