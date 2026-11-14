@@ -65,11 +65,22 @@ describe('read-scope no-leak check', () => {
       'utf8',
     );
     try {
-      const report = await runReadScopeCheck([process.execPath, '--import', 'tsx', wrapper], vault);
+      const texts: string[] = [];
+      const report = await runReadScopeCheck(
+        [process.execPath, '--import', 'tsx', wrapper],
+        vault,
+        process.env,
+        (_, text) => texts.push(text),
+      );
       const why = async () =>
         [
           'Control run did not leak. Per-call results:',
-          ...report.calls.map((c) => `  ${c.tool} isError=${c.isError} bytes=${c.bytes}`),
+          ...report.calls.map(
+            (c, i) =>
+              `  ${c.tool} isError=${c.isError} bytes=${c.bytes}${
+                c.isError ? ` :: ${(texts[i] ?? '').slice(0, 200)}` : ''
+              }`,
+          ),
           `hiddenIntact=${report.hiddenIntact}`,
           'Server log:',
           await readFile(serverLog, 'utf8').catch((e: Error) => `  (no log: ${e.message})`),

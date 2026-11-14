@@ -167,6 +167,8 @@ export async function runReadScopeCheck(
   cmd: string[],
   srcVault: string,
   base: NodeJS.ProcessEnv = process.env,
+  /** Sees every raw response; for diagnostics only, never part of the report. */
+  onCall?: (call: ReadScopeCall, text: string) => void,
 ): Promise<ReadScopeReport> {
   const { copyRoot } = await copyVault(srcVault);
   try {
@@ -203,7 +205,9 @@ export async function runReadScopeCheck(
       for (const tool of ordered) {
         for (const a of probes[tool] ?? []) {
           const { text, isError } = await sub.callToolRaw(tool, a);
-          calls.push({ tool, args: a, isError, bytes: Buffer.byteLength(text, 'utf8') });
+          const call = { tool, args: a, isError, bytes: Buffer.byteLength(text, 'utf8') };
+          calls.push(call);
+          onCall?.(call, text);
           const judged = withoutEchoes(text, a);
           const at = judged.indexOf(READ_SCOPE_SENTINEL);
           const namesHidden = LISTINGS.has(tool) && judged.includes(`${HIDDEN_DIR}/`);
