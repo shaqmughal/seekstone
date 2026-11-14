@@ -1,6 +1,10 @@
+import codspeedPlugin from '@codspeed/vitest-plugin';
 import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
+  // CodSpeed instruments `vitest bench` in CI (SHA-518); elsewhere it falls
+  // back to plain Vitest, and it never affects `vitest run`.
+  plugins: [codspeedPlugin()],
   test: {
     // The watcher suite drives real chokidar filesystem events; under parallel
     // load (worse under coverage instrumentation), event delivery can lag many
@@ -21,6 +25,7 @@ export default defineConfig({
         'src/index/types.ts',
         'src/watcher.ts',
         '**/*.test.ts',
+        '**/*.bench.ts',
       ],
       thresholds: {
         statements: 90,

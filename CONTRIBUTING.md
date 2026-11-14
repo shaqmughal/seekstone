@@ -47,6 +47,7 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
 - **Line endings are LF** (enforced via `.gitattributes`).
 - **Imports use `.js` extensions** even for TypeScript sources — that's what NodeNext + tsx + tsc agree on.
 - **Never mutate the live vault outside an explicit tool.** Write paths must preserve byte-faithful frontmatter; see the write-safety harness.
+- **Speed regressions fail the PR.** The CodSpeed check runs the hot-path benchmarks in `packages/server/src/bench/` (index build, search, read, links, a journaled write) by counting CPU instructions, so results don't drift with runner load, and compares them with `main`. Run them locally with `npm run bench -w seekstone`; local numbers are plain timings. A new hot path should get a bench case in the same PR.
 - **No telemetry, and no network calls on the serving path.** This is a core promise — keep it. The sole sanctioned network code is the `fetch-model` CLI subcommand (pinned-hash model download, exits before serving); `no-network.test.ts` is the guard, and it must keep passing with semantic search enabled.
 
 ## Adding a tool, prompt, or resource
