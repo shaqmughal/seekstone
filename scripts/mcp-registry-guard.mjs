@@ -8,7 +8,7 @@
 // validation errors, the npm-lag 404 ("version ... was not found"), network
 // errors, and a duplicate for some other name or version.
 
-const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 /**
  * @param {{ exitCode: number | null, output: string, name: string, version: string }} result
@@ -18,7 +18,7 @@ export function classifyPublishResult({ exitCode, output, name, version }) {
   if (exitCode === 0) return { ok: true };
 
   const duplicate = new RegExp(
-    `cannot publish duplicate version: ${escape(name)}@${escape(version)} already exists`,
+    `cannot publish duplicate version: ${escapeRegExp(name)}@${escapeRegExp(version)} already exists`,
   );
   if (duplicate.test(output)) {
     return {
