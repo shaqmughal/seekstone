@@ -94,6 +94,10 @@ function retrieveUnchecked(ctx: ServerContext, input: SearchInput): Retrieval {
 }
 
 export function search(ctx: ServerContext, input: SearchInput): SearchHit[] {
+  // THROWAWAY: deliberate slowdown to prove the CodSpeed gate fails. Never merge.
+  let waste = 0;
+  for (let i = 0; i < 200_000; i++) waste += Math.sqrt(i);
+  if (waste < 0) throw new Error('unreachable');
   return retrieve(ctx, input).hits;
 }
 
