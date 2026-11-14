@@ -1,6 +1,7 @@
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import {
   READ_SCOPE_SENTINEL,
@@ -45,24 +46,52 @@ describe('read-scope no-leak check', () => {
   }, 120_000);
 
   it('fails when the server does not scope reads (control: same probes, no SEEKSTONE_READ_PATHS)', async () => {
-    // A server that ignores SEEKSTONE_READ_PATHS: strip it in a wrapper.
-    const wrapper = join(vault, '..', `unscoped-${Date.now()}.mjs`);
+    // A server that ignores SEEKSTONE_READ_PATHS: strip it in a wrapper. The
+    // wrapper also turns on the server's file log, so a failure here shows
+    // what the server saw (scope applied? notes indexed? errors?) — SHA-474.
+    const dir = await mkdtemp(join(tmpdir(), 'seekstone-readscope-ctl-'));
+    const wrapper = join(dir, 'unscoped.mjs');
+    const serverLog = join(dir, 'server.log');
     await writeFile(
       wrapper,
-      `delete process.env.SEEKSTONE_READ_PATHS; await import(${JSON.stringify(
-        `file://${SERVER_SRC}`,
-      )});\n`,
+      [
+        'delete process.env.SEEKSTONE_READ_PATHS;',
+        `process.env.SEEKSTONE_LOG_FILE = ${JSON.stringify(serverLog)};`,
+        "process.env.SEEKSTONE_LOG_LEVEL = 'debug';",
+        // pathToFileURL, not `file://${path}`: a Windows path makes a malformed URL.
+        `await import(${JSON.stringify(pathToFileURL(SERVER_SRC).href)});`,
+        '',
+      ].join('\n'),
       'utf8',
     );
     try {
-      const report = await runReadScopeCheck([process.execPath, '--import', 'tsx', wrapper], vault);
-      expect(report.pass).toBe(false);
+      const texts: string[] = [];
+      const report = await runReadScopeCheck(
+        [process.execPath, '--import', 'tsx', wrapper],
+        vault,
+        process.env,
+        (_, text) => texts.push(text),
+      );
+      const why = async () =>
+        [
+          'Control run did not leak. Per-call results:',
+          ...report.calls.map(
+            (c, i) =>
+              `  ${c.tool} isError=${c.isError} bytes=${c.bytes}${
+                c.isError ? ` :: ${(texts[i] ?? '').slice(0, 200)}` : ''
+              }`,
+          ),
+          `hiddenIntact=${report.hiddenIntact}`,
+          'Server log:',
+          await readFile(serverLog, 'utf8').catch((e: Error) => `  (no log: ${e.message})`),
+        ].join('\n');
+      if (report.pass) expect.fail(await why());
       expect(report.leaks.some((l) => l.tool === 'search')).toBe(true);
       expect(report.leaks.some((l) => l.tool === 'read_note')).toBe(true);
       expect(report.hiddenIntact).toBe(false); // unscoped writes reach it
       expect(renderReadScopeMarkdown(report)).toContain('## Leaks');
     } finally {
-      await rm(wrapper, { force: true });
+      await rm(dir, { recursive: true, force: true });
     }
   }, 120_000);
 
