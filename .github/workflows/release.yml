@@ -13,6 +13,10 @@ permissions: read-all
 jobs:
   release:
     runs-on: ubuntu-latest
+    # APP_PRIVATE_KEY and VERCEL_DEPLOY_HOOK_URL live in the `release`
+    # environment, which only runs on main. Other workflows can't read them
+    # (SHA-515). The npm trusted publisher names this environment too.
+    environment: release
     permissions:
       contents: write # changesets opens the version PR and pushes tags
       pull-requests: write # changesets opens the version PR
@@ -23,6 +27,11 @@ jobs:
       run:
         shell: bash
     steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
       # Mint a short-lived GitHub App installation token for the release bot.
       # The App token never expires from under us (it's re-minted each run and
       # auto-expires in ~1h) and, crucially, pushes made with it DO trigger
@@ -186,11 +195,14 @@ jobs:
           echo "::error::seekstone@${VERSION} still not visible on npm after 5 minutes"
           exit 1
 
+      # A version already on the registry counts as success (with a warning), so
+      # a manual recovery run gets past this step and finishes the release. Any
+      # other registry error still fails it (SHA-528).
       - name: Publish to MCP Registry
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           ./mcp-publisher login github-oidc
-          ./mcp-publisher publish
+          node scripts/publish-mcp-registry.mjs
 
       # Rebuild seekstone.dev so its build-time npm version lookup picks up the
       # release we just published (site repo: src/version.ts). Deploy hooks are

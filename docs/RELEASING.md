@@ -41,7 +41,8 @@ The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: push
 3. **Generate a private key** (App settings → bottom → Generate a private key → downloads a `.pem`).
 4. Add a repo variable (Settings → Secrets and variables → Actions → **Variables**):
    - `APP_CLIENT_ID` — the App's **Client ID** (the `Iv…` string near the top of the App's settings page), not the numeric App ID. It isn't sensitive, so it's a variable rather than a secret.
-5. Add repo secrets (same page → **Secrets**):
+5. Create a **`release` environment** (Settings → Environments → New environment). Under **Deployment branches and tags**, choose **Selected branches and tags** and add `main`. No required reviewers: releases stay hands-off.
+6. Add these as **environment secrets** on `release`, not as repo secrets. Only the release job declares `environment: release`, so no other workflow can read them:
    - `APP_PRIVATE_KEY` — the full contents of the downloaded `.pem`, including the `-----BEGIN/END-----` lines.
    - `VERCEL_DEPLOY_HOOK_URL` (optional) — when set, a successful publish triggers a seekstone.dev rebuild so the site's displayed version stays current.
 
@@ -53,7 +54,7 @@ The workflow publishes via **OIDC trusted publishing**: no npm token is stored, 
 
 **One-time setup on npmjs.com** (required before the first OIDC publish):
 
-- The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`.
+- The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`, environment `release`.
 
 Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used (deleted 2026-06-27).
 
@@ -74,7 +75,7 @@ The check cannot see behavior changes. Before merging an action major that `rele
 
 Any failed `Release` run opens a GitHub issue labelled **`release-failure`** ("Release workflow is failing"), or comments on the one already open, with a link to the run. The next green run closes it. Watch the repo's issues and a broken release cannot sit unnoticed.
 
-To recover once the cause is fixed: if the failure was before the npm publish, push the fix to `main` and the workflow retries. If npm already has the version but a later step failed, run `gh workflow run release.yml` — a `workflow_dispatch` run re-runs the npm wait, the MCP Registry publish, and the seekstone.dev rebuild (the npm publish itself is a no-op for an existing version). Use a fresh dispatch, not "Re-run failed jobs": on a re-run `changeset publish` finds the version already on npm, reports nothing published, and every `published == 'true'` step is skipped. For the same reason the MCPB build, attestation, and GitHub Release upload only ever run on the publishing push; if one of those failed, build and attach the bundles by hand (`npm run build:mcpb`, then `gh release upload "seekstone@<version>" seekstone.mcpb seekstone-semantic.mcpb --clobber`) — the provenance attestation cannot be reproduced outside CI.
+To recover once the cause is fixed: if the failure was before the npm publish, push the fix to `main` and the workflow retries. If npm already has the version but a later step failed, run `gh workflow run release.yml` — a `workflow_dispatch` run re-runs the npm wait, the MCP Registry publish, and the seekstone.dev rebuild (the npm publish itself is a no-op for an existing version). It's safe to repeat: if the registry already lists the version, that step logs a warning and the run carries on to the rebuild (`scripts/publish-mcp-registry.mjs`). Any other registry error still fails the run. Use a fresh dispatch, not "Re-run failed jobs": on a re-run `changeset publish` finds the version already on npm, reports nothing published, and every `published == 'true'` step is skipped. For the same reason the MCPB build, attestation, and GitHub Release upload only ever run on the publishing push; if one of those failed, build and attach the bundles by hand (`npm run build:mcpb`, then `gh release upload "seekstone@<version>" seekstone.mcpb seekstone-semantic.mcpb --clobber`) — the provenance attestation cannot be reproduced outside CI.
 
 ## Post-publish: Glama (manual)
 
