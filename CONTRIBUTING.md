@@ -70,6 +70,7 @@ If no task shows a win, the capability probably belongs as a parameter on an exi
   ```
   Pick `seekstone`, choose the bump (patch/minor/major), and write a one-line summary. Commit the generated `.changeset/*.md` file. Name only `seekstone` — `@seekstone/core` and `@seekstone/harness` are private, and CI rejects a changeset that lists them. Docs-only or internal changes don't need one. See [docs/RELEASING.md](docs/RELEASING.md) for how releases work.
 - Open the PR against `main`; fill in the PR template; make sure CI is green.
+- CodeRabbit reviews every PR. Its rules live in `.coderabbit.yaml` and cover what this repo cares about (journaling before writes, `resolveVaultPath` for reads, the tool admission bar, `.js` imports). Its comments are advice: reply or resolve them, and a maintainer decides. Ask it things with `@coderabbitai` in a PR comment.
 
 ## Reporting bugs & requesting features
 
