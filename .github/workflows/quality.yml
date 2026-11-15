@@ -17,8 +17,12 @@ on:
 
 permissions: read-all
 
+# Runs for the same kind of event cancel each other (a new push cancels the
+# old push's run), but different kinds don't. A PR opened with labels fires
+# `opened` and `labeled` together; if one cancelled the other, the cancelled
+# run could be the newest and the required checks would read as failed.
 concurrency:
-  group: quality-${{ github.event.pull_request.number }}
+  group: quality-${{ github.event.pull_request.number }}-${{ github.event.action }}
   cancel-in-progress: true
 
 jobs:
