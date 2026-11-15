@@ -36,6 +36,8 @@ export class McpSubprocess {
   private nextId = 1;
   /** What the server answered to `initialize` (serverInfo, instructions). */
   initializeResult: McpInitializeResult = {};
+  /** Set once the child has exited or failed to start. */
+  private exited: Error | undefined;
   private readonly pending = new Map<
     number,
     {
@@ -67,6 +69,20 @@ export class McpSubprocess {
 
     const rl = createInterface({ input: proc.stdout as NodeJS.ReadableStream });
     const sub = new McpSubprocess(proc, rl, proc.stdin as NodeJS.WritableStream, serverName);
+
+    // Without these, a child that dies leaves every request waiting out its
+    // timeout, and a spawn failure (ENOENT) crashes the harness. `close` fires
+    // after stdout has drained, so replies sent just before exit still land.
+    proc.on('error', (err) =>
+      sub.fail(new Error(`${serverName} failed to start \`${cmd.join(' ')}\`: ${err.message}`)),
+    );
+    proc.on('close', (code, signal) =>
+      sub.fail(
+        new Error(`${serverName} exited with ${signal ? `signal ${signal}` : `code ${code}`}`),
+      ),
+    );
+    // Writes to a dead child fail with EPIPE; the close handler reports the exit.
+    proc.stdin?.on('error', () => {});
 
     rl.on('line', (line) => {
       if (!line.trim()) return;
@@ -163,13 +179,29 @@ export class McpSubprocess {
     }
     this.pending.clear();
     this.rl.close();
+    if (this.exited || this.proc.exitCode !== null || this.proc.signalCode !== null) return;
     this.proc.kill();
     await new Promise<void>((res) => this.proc.once('exit', res));
+  }
+
+  /** The child is gone: reject everything pending and every later request. */
+  private fail(err: Error): void {
+    if (this.exited) return;
+    this.exited = err;
+    for (const [, w] of this.pending) {
+      clearTimeout(w.timer);
+      w.reject(err);
+    }
+    this.pending.clear();
   }
 
   private rpc(method: string, params: unknown, timeout = 60_000): Promise<JsonRpcResponse> {
     const id = this.nextId++;
     return new Promise((resolve, reject) => {
+      if (this.exited) {
+        reject(this.exited);
+        return;
+      }
       const timer = setTimeout(() => {
         this.pending.delete(id);
         reject(new Error(`${this.serverName} timeout: ${method}`));

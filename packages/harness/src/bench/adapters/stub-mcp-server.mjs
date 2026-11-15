@@ -1,7 +1,8 @@
 // Stub MCP server for mcp-subprocess.test.ts. Speaks newline-delimited
 // JSON-RPC on stdio and answers with fixed responses. Tool names pick the
 // behaviour: "echo", "fail" (isError result), "empty" (reply with no result
-// and no error), "silent" (no reply). Any other tool gets a JSON-RPC error.
+// and no error), "silent" (no reply), "exit" (process exits with code 7).
+// Any other tool gets a JSON-RPC error.
 import { createInterface } from 'node:readline';
 
 const PAGES = {
@@ -47,6 +48,9 @@ function handle({ id, method, params }) {
         send({ id });
         return;
       case 'silent':
+        return;
+      case 'exit':
+        process.exit(7);
         return;
       default:
         send({ id, error: { code: -32601, message: 'unknown tool' } });
