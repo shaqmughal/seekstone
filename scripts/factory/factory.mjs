@@ -141,16 +141,28 @@ export function linear(apiKey, fetchImpl = fetch) {
       if (!data.issue) throw new Error(`Linear: no issue ${id}`);
       return data.issue;
     },
+    // Every page of Todo factory tickets. Page sizes stay small because
+    // Linear multiplies nested page sizes into a query's complexity cost.
     async todoFactoryIssues() {
-      const data = await gql(
-        `query { issues(first: 100, filter: {
-          labels: { name: { eqIgnoreCase: "factory" } }, state: { name: { eq: "Todo" } }
-        }) { nodes {
-          identifier priority createdAt
-          inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
-        } } }`,
-      );
-      return data.issues.nodes;
+      const nodes = [];
+      let after = null;
+      do {
+        const data = await gql(
+          `query($after: String) { issues(first: 50, after: $after, filter: {
+            labels: { name: { eqIgnoreCase: "factory" } }, state: { name: { eq: "Todo" } }
+          }) {
+            nodes {
+              identifier priority createdAt
+              inverseRelations(first: 20) { nodes { type issue { identifier state { type } } } }
+            }
+            pageInfo { hasNextPage endCursor }
+          } }`,
+          { after },
+        );
+        nodes.push(...data.issues.nodes);
+        after = data.issues.pageInfo.hasNextPage ? data.issues.pageInfo.endCursor : null;
+      } while (after);
+      return nodes;
     },
     async moveTo(issue, stateName) {
       const state = issue.team.states.nodes.find((s) => s.name === stateName);
@@ -255,7 +267,7 @@ export function selectTickets(issues, { limit, openPrs }) {
 
 /**
  * Whether a Claude Code stream-json transcript shows the Max allowance ran
- * out: a rate-limit event that wasn't allowed, a switch to paid overage
+ * out: a rejected rate-limit event, a switch to paid overage
  * (the factory spends nothing extra), or an error result about usage limits.
  */
 export function quotaExhausted(transcript) {
@@ -268,7 +280,8 @@ export function quotaExhausted(transcript) {
       continue;
     }
     const info = e.type === 'rate_limit_event' ? e.rate_limit_info : null;
-    if (info && (info.status !== 'allowed' || info.isUsingOverage === true)) return true;
+    // `allowed_warning` only means the limit is near; keep working.
+    if (info && (info.status === 'rejected' || info.isUsingOverage === true)) return true;
     if (
       e.type === 'result' &&
       e.is_error &&

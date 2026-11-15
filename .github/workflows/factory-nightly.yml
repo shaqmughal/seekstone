@@ -84,7 +84,11 @@ jobs:
               exit 1
             fi
             echo "$ticket: run $id"
-            gh run watch "$id" --repo "$GITHUB_REPOSITORY" --interval 60 > /dev/null || true
+            # Wait until GitHub says the run finished. A watch that stops on an
+            # API error must not let the next ticket start early.
+            until [ "$(gh run view "$id" --repo "$GITHUB_REPOSITORY" --json status --jq .status 2>/dev/null)" = "completed" ]; do
+              sleep 60
+            done
             # deliver leaves a notice when the allowance ran out; stop for the night.
             deliver=$(gh run view "$id" --repo "$GITHUB_REPOSITORY" --json jobs --jq '.jobs[] | select(.name == "deliver") | .databaseId')
             if [ -n "$deliver" ] && gh api "repos/$GITHUB_REPOSITORY/check-runs/$deliver/annotations" \

@@ -340,6 +340,10 @@ describe('quotaExhausted', () => {
     expect(quotaExhausted(log)).toBe(false);
   });
 
+  it('keeps going on a warning that the limit is near', () => {
+    expect(quotaExhausted(rate('allowed_warning'))).toBe(false);
+  });
+
   it('is true when a limit was hit or paid overage started', () => {
     expect(quotaExhausted(rate('rejected'))).toBe(true);
     expect(quotaExhausted(rate('allowed', true))).toBe(true);
@@ -363,5 +367,34 @@ describe('requeue', () => {
     await requeue('SHA-9', 'Allowance ran out.', api);
     expect(api.comment.mock.calls[0][1]).toContain('Allowance ran out.');
     expect(api.moveTo).toHaveBeenCalledWith(expect.anything(), 'Todo');
+  });
+});
+
+describe('todoFactoryIssues', () => {
+  it('follows every page', async () => {
+    const page = (ids: string[], next: string | null) =>
+      new Response(
+        JSON.stringify({
+          data: {
+            issues: {
+              nodes: ids.map((identifier) => ({ identifier })),
+              pageInfo: { hasNextPage: next !== null, endCursor: next },
+            },
+          },
+        }),
+        { status: 200 },
+      );
+    const pages = [page(['SHA-1', 'SHA-2'], 'c1'), page(['SHA-3'], null)];
+    const fetchImpl = vi.fn(async () => pages.shift() as Response);
+    const got = await linear('k', fetchImpl).todoFactoryIssues();
+    expect(got.map((i: { identifier: string }) => i.identifier)).toEqual([
+      'SHA-1',
+      'SHA-2',
+      'SHA-3',
+    ]);
+    const second = JSON.parse(
+      (fetchImpl.mock.calls[1] as unknown as [string, RequestInit])[1].body as string,
+    );
+    expect(second.variables).toEqual({ after: 'c1' });
   });
 });

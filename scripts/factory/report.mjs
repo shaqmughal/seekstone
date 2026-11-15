@@ -74,10 +74,14 @@ export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
       .map((r) => `${r.ticket}: ${r.reason || 'see run'} ([run](${r.url}))`),
   );
   section(
-    'Out of Max allowance (back in Todo for another night)',
+    'Out of Max allowance',
     done
       .filter((r) => r.outcome === 'quota')
-      .map((r) => `${r.ticket}${r.fix ? ' (fix)' : ''}: [run](${r.url})`),
+      .map((r) =>
+        r.fix
+          ? `${r.ticket} (fix): Blocked, re-run it once the allowance resets ([run](${r.url}))`
+          : `${r.ticket}: back in Todo, retried on a later night ([run](${r.url}))`,
+      ),
   );
   section(
     'Failed runs',
