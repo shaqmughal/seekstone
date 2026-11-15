@@ -34,24 +34,19 @@ export const isTestSupport = (path) => TEST_SUPPORT.test(path);
 
 /**
  * The PR's source files for failing-test-first: changed ones to restore from
- * the base commit, and added ones to delete. Tests and test support are left
- * as the PR has them.
- * @returns {{ changed: string[], added: string[] }}
+ * the base commit, added ones to delete, and renamed ones whose new path gets
+ * the old path's base content (so imports still resolve and the tests run
+ * against the old code, not against a missing file). Tests and test support
+ * are left as the PR has them.
+ * @returns {{ changed: string[], added: string[], renamed: { from: string, to: string }[] }}
  */
 export function sourceToRevert(files) {
   const source = files.filter((f) => !isTestFile(f.filename) && !isTestSupport(f.filename));
-  // A rename puts the code at a new path. Restoring only the old path would
-  // leave the fixed file in place, so the new path is removed like an added
-  // file and the old one comes back from the base commit.
-  const renamed = source.filter((f) => f.status === 'renamed' && f.previous_filename);
+  const isRename = (f) => f.status === 'renamed' && f.previous_filename;
   return {
-    changed: source
-      .filter((f) => f.status !== 'added')
-      .map((f) => f.previous_filename ?? f.filename),
-    added: [
-      ...source.filter((f) => f.status === 'added').map((f) => f.filename),
-      ...renamed.map((f) => f.filename),
-    ],
+    changed: source.filter((f) => f.status !== 'added' && !isRename(f)).map((f) => f.filename),
+    added: source.filter((f) => f.status === 'added').map((f) => f.filename),
+    renamed: source.filter(isRename).map((f) => ({ from: f.previous_filename, to: f.filename })),
   };
 }
 

@@ -44,7 +44,7 @@ if (result.weakened.length > 0 && !labels.includes('tests-weakened')) {
   if (!res.ok) console.log(`::notice::could not add the tests-weakened label (HTTP ${res.status})`);
 }
 
-const { changed: sourceFiles, added: addedSource } = sourceToRevert(files);
+const { changed: sourceFiles, added: addedSource, renamed } = sourceToRevert(files);
 
 if (GITHUB_OUTPUT) {
   appendFileSync(
@@ -54,6 +54,7 @@ if (GITHUB_OUTPUT) {
       `has-tests=${result.testFiles.length > 0}`,
       `source-files=${JSON.stringify(sourceFiles)}`,
       `added-source-files=${JSON.stringify(addedSource)}`,
+      `renamed-source-files=${JSON.stringify(renamed)}`,
       '',
     ].join('\n'),
   );
