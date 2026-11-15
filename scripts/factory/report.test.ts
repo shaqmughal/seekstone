@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { classifyRun, renderDaily, renderWeekly, weeklyMetrics } from './report.mjs';
+import { classifyRun, renderDaily, renderWeekly, revertedSha, weeklyMetrics } from './report.mjs';
 
 const job = (name: string, conclusion: string) => ({ name, conclusion });
 const run = (title: string, conclusion: string, jobs: ReturnType<typeof job>[], extra = {}) => ({
@@ -40,9 +40,18 @@ describe('classifyRun', () => {
       fix: false,
       outcome: 'delivered',
     });
-    expect(classifyRun(skipped)).toMatchObject({ outcome: 'skipped', reason: /Backlog/ });
+    expect(classifyRun(skipped)).toMatchObject({ outcome: 'skipped' });
+    expect(classifyRun(skipped).reason).toMatch(/Backlog/);
     expect(classifyRun(failed)).toMatchObject({ ticket: 'SHA-3', fix: true, outcome: 'failed' });
     expect(classifyRun({ ...delivered, status: 'in_progress' }).outcome).toBe('running');
+  });
+
+  it('counts a crashed prepare as failed, not skipped', () => {
+    const crashed = run('Factory SHA-8', 'failure', [
+      job('prepare', 'failure'),
+      job('work', 'skipped'),
+    ]);
+    expect(classifyRun(crashed).outcome).toBe('failed');
   });
 
   it('counts a fix run that blocked its ticket as delivered, not skipped', () => {
@@ -106,7 +115,7 @@ describe('weeklyMetrics', () => {
         run('Factory SHA-2', 'success', [job('work', 'success')]),
         run('Factory SHA-4', 'success', [job('work', 'success')]),
         run('Factory SHA-4 fix', 'success', [job('work', 'success')]),
-        run('Factory SHA-6', 'success', [job('work', 'skipped')]),
+        run('Factory SHA-6', 'success', [job('prepare', 'success'), job('work', 'skipped')]),
         run('Factory SHA-7', 'success', [job('work', 'success')]),
       ],
       blockedTickets: ['SHA-7'],
@@ -134,5 +143,15 @@ describe('weeklyMetrics', () => {
     const m = weeklyMetrics({ prs: [], runs: [], blockedTickets: [], reverts: [], markers: [] });
     expect(m.blockRate).toBe(0);
     expect(m.reviewRounds).toBe(0);
+  });
+});
+
+describe('revertedSha', () => {
+  it('reads the reverted commit from a git revert message', () => {
+    expect(revertedSha('Revert "fix: x (#457)"\n\nThis reverts commit 23795014abcdef.')).toBe(
+      '23795014abcdef',
+    );
+    expect(revertedSha('fix: Revert "x"\n\nThis reverts commit 23795014.')).toBeNull();
+    expect(revertedSha('Revert "x"')).toBeNull();
   });
 });

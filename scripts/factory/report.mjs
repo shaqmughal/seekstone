@@ -14,7 +14,7 @@ import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { linear, linearAuth } from './factory.mjs';
 import { MARKER_RE } from './followup.mjs';
-import { gh } from './github.mjs';
+import { gh, ghAll } from './github.mjs';
 
 const DAY = 24 * 60 * 60 * 1000;
 const BOTS = /\[bot\]$/;
@@ -27,6 +27,9 @@ export function classifyRun(run) {
   let outcome;
   if (run.status !== 'completed') outcome = 'running';
   else if (
+    // Skipped means the gate said no: prepare finished and work never ran.
+    // A prepare that crashed also skips work, but that is a failure.
+    job('prepare')?.conclusion === 'success' &&
     job('work')?.conclusion === 'skipped' &&
     job('fix-not-started')?.conclusion !== 'success'
   ) {
@@ -34,6 +37,12 @@ export function classifyRun(run) {
   } else if (run.conclusion === 'success') outcome = 'delivered';
   else outcome = 'failed';
   return { ticket, fix, outcome, url: run.html_url, reason: run.skipReason ?? '' };
+}
+
+/** The commit a `git revert` commit undoes, from its message, or null. */
+export function revertedSha(message) {
+  if (!/^Revert "/.test(message)) return null;
+  return message.match(/This reverts commit ([0-9a-f]{7,40})/)?.[1] ?? null;
 }
 
 const link = (pr) => `[#${pr.number}](${pr.url}) ${pr.title}`;
@@ -121,10 +130,10 @@ export function renderWeekly(m) {
   ].join('\n');
 }
 
+/** Factory PRs updated since `since`, or every open one when `since` is null. */
 async function factoryPrs(repo, since) {
-  const issues = await gh(
-    `repos/${repo}/issues?labels=factory&state=all&since=${since}&per_page=100`,
-  );
+  const filter = since ? `state=all&since=${since}` : 'state=open';
+  const issues = await ghAll(`repos/${repo}/issues?labels=factory&${filter}&per_page=100`);
   const prs = [];
   for (const i of issues.filter((x) => x.pull_request)) {
     const p = await gh(`repos/${repo}/pulls/${i.number}`);
@@ -146,8 +155,9 @@ async function factoryPrs(repo, since) {
 }
 
 async function factoryRuns(repo, since) {
-  const { workflow_runs } = await gh(
+  const workflow_runs = await ghAll(
     `repos/${repo}/actions/workflows/factory.yml/runs?created=%3E%3D${since}&per_page=100`,
+    { key: 'workflow_runs' },
   );
   for (const run of workflow_runs) {
     run.jobs = (await gh(`repos/${repo}/actions/runs/${run.id}/jobs`)).jobs;
@@ -197,7 +207,8 @@ async function main() {
   const prs = await factoryPrs(repo, weekly ? weekAgo : since);
   const runs = await factoryRuns(repo, weekly ? weekAgo : since);
   const blocked = api ? await blockedTickets(api) : [];
-  const waiting = prs.filter((p) => p.state === 'open' && !p.draft);
+  // Waiting PRs have no activity cutoff: a PR nobody touched for days still waits.
+  const waiting = (await factoryPrs(repo, null)).filter((p) => !p.draft);
   for (const pr of waiting) {
     const { check_runs } = await gh(
       `repos/${repo}/commits/${pr.headSha}/check-runs?check_name=CodeRabbit`,
@@ -230,12 +241,16 @@ async function main() {
         }
       }
     }
-    const commits = await gh(`repos/${repo}/commits?sha=main&since=${weekAgo}&per_page=100`);
-    const titles = prs.map((p) => p.title);
-    const reverts = commits.filter((c) => {
-      const m = c.commit.message.match(/^Revert "(.+)"/);
-      return m && titles.some((t) => m[1].startsWith(t));
-    });
+    // A revert names the commit it undoes; count it when that commit came
+    // from a factory PR, however long ago it merged.
+    const commits = await ghAll(`repos/${repo}/commits?sha=main&since=${weekAgo}&per_page=100`);
+    const reverts = [];
+    for (const c of commits) {
+      const sha = revertedSha(c.commit.message);
+      if (!sha) continue;
+      const pulls = await gh(`repos/${repo}/commits/${sha}/pulls`);
+      if (pulls.some((p) => p.labels.some((l) => l.name === 'factory'))) reverts.push(c);
+    }
     body += `\n${renderWeekly(
       weeklyMetrics({
         prs,

@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { apiUrl, requiredChecks } from './github.mjs';
+import { apiUrl, ghAll, nextPage, requiredChecks } from './github.mjs';
 
 afterEach(() => vi.unstubAllGlobals());
 
@@ -45,5 +45,29 @@ describe('requiredChecks', () => {
   it('fails closed when main has no required checks', async () => {
     stub([{ type: 'deletion' }]);
     await expect(requiredChecks('o/r')).rejects.toThrow(/no required status checks/);
+  });
+});
+
+describe('paging', () => {
+  it('reads the next page from a Link header', () => {
+    const link =
+      '<https://api.github.com/repos/o/r/issues?page=2>; rel="next", <https://api.github.com/repos/o/r/issues?page=5>; rel="last"';
+    expect(nextPage(link)).toBe('repos/o/r/issues?page=2');
+    expect(nextPage('<https://api.github.com/repos/o/r/issues?page=1>; rel="prev"')).toBeNull();
+    expect(nextPage(null)).toBeNull();
+  });
+
+  it('follows pages and unwraps keyed lists', async () => {
+    const pages = [
+      new Response(JSON.stringify({ workflow_runs: [1, 2] }), {
+        headers: { link: '<https://api.github.com/repos/o/r/runs?page=2>; rel="next"' },
+      }),
+      new Response(JSON.stringify({ workflow_runs: [3] })),
+    ];
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async () => pages.shift()),
+    );
+    expect(await ghAll('repos/o/r/runs', { key: 'workflow_runs' })).toEqual([1, 2, 3]);
   });
 });
