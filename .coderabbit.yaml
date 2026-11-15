@@ -1,0 +1,129 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+#
+# CodeRabbit review config (SHA-522). The path instructions below are the
+# rules a generic reviewer wouldn't know; CLAUDE.md, AGENTS.md and
+# CONTRIBUTING.md are read as code guidelines too.
+
+language: en-US
+
+reviews:
+  profile: chill
+  request_changes_workflow: false
+  # Keep the PR description as the author wrote it; the summary goes in the
+  # walkthrough comment instead.
+  high_level_summary: true
+  high_level_summary_in_walkthrough: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: true
+  sequence_diagrams: false
+  suggested_reviewers: false
+  auto_apply_labels: false
+  auto_review:
+    enabled: true
+    drafts: false
+    base_branches: ['main']
+  # Nothing pushes commits to a PR branch without a person asking for it.
+  finishing_touches:
+    unit_tests:
+      enabled: false
+    autofix:
+      enabled: false
+    fix_ci:
+      enabled: false
+    resolve_merge_conflict:
+      enabled: false
+    simplify:
+      enabled: false
+
+  path_filters:
+    - '!**/package-lock.json'
+    - '!**/CHANGELOG.md'
+    - '!**/dist/**'
+    - '!**/coverage/**'
+    - '!packages/harness/fixtures/vault/**'
+    - '!packages/harness/fixtures/vault-1k/**'
+    - '!packages/harness/fixtures/vault-5k/**'
+    - '!packages/harness/fixtures/corpus/**'
+    - '!packages/harness/fixtures/models/**'
+    - '!packages/harness/fixtures/baseline-reports/**'
+    - '!reports/**'
+    - '!benchmarks.json'
+    - '!mcp-publisher'
+    - '!**/*.mcpb'
+    - '!**/*.gif'
+    - '!**/*.png'
+
+  path_instructions:
+    - path: 'packages/server/src/tools/**/*.ts'
+      instructions: |
+        Seekstone's MCP tools. Check these rules, which the type checker won't catch:
+        - Every file read by path goes through `resolveVaultPath` (vault-path.ts),
+          so `SEEKSTONE_READ_PATHS` hides files consistently. Flag direct `fs`
+          reads of a joined vault path. `path-guard.test.ts` enforces this; a new
+          tool that reads files must be covered by it.
+        - Write tools call `assertWritable` (policy.ts) before resolving the path.
+        - Write tools journal the pre-image before the first vault byte changes:
+          `journalWrite` for one file, or `ctx.journal.begin()` for several (work
+          out every rewrite first, journal them under one `seq`, then write). A
+          write that happens before the journal entry breaks `undo_write`.
+        - Writes go through `atomicWrite`, never a bare `writeFile` on a vault path.
+        - Write tools support optional `prevHash` compare-and-swap and return a
+          `contentHash` in the result.
+        - Deletes move to `.trash/`; moves rewrite inbound links.
+        - Nothing on the serving path makes a network call.
+        - Input schemas and their `.describe()` text are part of the schema tax.
+          Changing them needs the regenerated baseline described for
+          `tool-list.ts`.
+    - path: 'packages/server/src/dispatch.ts'
+      instructions: |
+        A new write tool's dispatch case must return an `audit` detail object
+        (paths and counts only, never note content), or its calls are not
+        recorded when `SEEKSTONE_AUDIT_FILE` is set. Flag any audit detail that
+        includes note text or frontmatter values.
+    - path: 'packages/server/src/{tool-list,instructions}.ts'
+      instructions: |
+        Changes to tool, prompt or resource names, descriptions or schemas cost
+        context in every session. A new tool, prompt or resource needs the
+        admission-bar artifacts in the same PR: a task in
+        `packages/harness/queries/tasks.json` that shows a token win, and a
+        regenerated schema-tax baseline in
+        `packages/harness/fixtures/baseline-reports` plus `benchmarks.json`.
+        Even a one-word description change needs the regenerated baseline, or
+        CI's `schema-tax --check` fails. Point out wordy descriptions; every
+        token counts here.
+    - path: 'packages/{server,core,harness}/src/**/*.ts'
+      instructions: |
+        - Relative imports use `.js` extensions, even for TypeScript sources
+          (NodeNext). Flag `.ts` extensions and extensionless relative imports.
+        - Speed is the project's main claim. Flag work added to hot paths (index
+          build, search, read, link resolution, writes): extra passes over all
+          notes, repeated parsing, sync I/O in loops, or new dependencies. A new
+          hot path should get a case in `packages/server/src/bench/`.
+        - Tests are co-located `*.test.ts` files. Behavior changes need a test.
+    - path: '**/*.test.ts'
+      instructions: |
+        Tests must not touch a real vault; they use temp copies or fixtures.
+        Flag `.skip`, `.only` and `.todo`, removed assertions, and loosened
+        expectations. Tests that depend on timing or ordering of file-system
+        events are likely to be flaky on Windows.
+    - path: '.changeset/*.md'
+      instructions: |
+        Only the `seekstone` package may be named; `@seekstone/core` and
+        `@seekstone/harness` are private. The summary is a user-facing changelog
+        line in plain language.
+    - path: '.github/workflows/*.yml'
+      instructions: |
+        Actions are pinned to a full commit SHA with a version comment. Each job
+        starts with the Harden-Runner step. Permissions are least-privilege at
+        job level, and checkouts set `persist-credentials: false`. Untrusted
+        values (PR titles, branch names, file names) go through `env:`, never
+        straight into `run:` with `${{ }}`.
+
+chat:
+  auto_reply: true
+
+knowledge_base:
+  linear:
+    usage: auto
+    team_keys: ['SHA']
