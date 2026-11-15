@@ -21,18 +21,33 @@ export const PLACEHOLDERS = [
 ];
 
 /**
+ * For each line, whether it is part of a fenced code block (the fence lines
+ * included). A fence closes only on the same character, at least as long as
+ * the opener, with nothing after it (CommonMark).
+ */
+export function fencedLines(lines) {
+  let open = null;
+  return lines.map((l) => {
+    const m = l.match(/^ {0,3}(`{3,}|~{3,})(.*)$/);
+    if (open === null) {
+      if (m && !(m[1][0] === '`' && m[2].includes('`'))) open = m[1];
+      return open !== null;
+    }
+    if (m && m[1][0] === open[0] && m[1].length >= open.length && m[2].trim() === '') open = null;
+    return true;
+  });
+}
+
+/**
  * The body of the first `## Heading` section whose title starts with
  * `heading` (case-insensitive, ignoring a PRD-style number like `8.`), or
  * null when absent. So `## 2. Problem & motivation` counts as `Problem`.
+ * Headings inside fenced code blocks are example text, not structure.
  */
 export function section(markdown, heading) {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
-  // Headings inside fenced code blocks are example text, not structure.
-  let fenced = false;
-  const isHeading = lines.map((l) => {
-    if (/^\s*(?:```|~~~)/.test(l)) fenced = !fenced;
-    return !fenced && /^#{1,2}\s+/.test(l);
-  });
+  const fenced = fencedLines(lines);
+  const isHeading = lines.map((l, i) => !fenced[i] && /^#{1,2}\s+/.test(l));
   const want = heading.toLowerCase();
   const start = lines.findIndex(
     (l, i) =>
@@ -52,10 +67,15 @@ export function section(markdown, heading) {
     .trim();
 }
 
-/** Checklist or bullet items with text in a section body; empty checkboxes don't count. */
+/**
+ * Checklist or bullet items with text in a section body. Empty checkboxes
+ * and bullets inside fenced examples don't count.
+ */
 export function items(body) {
-  return body
-    .split('\n')
+  const lines = body.split('\n');
+  const fenced = fencedLines(lines);
+  return lines
+    .filter((_, i) => !fenced[i])
     .map((l) =>
       l
         .match(/^\s*[-*]\s+(.*)$/)?.[1]

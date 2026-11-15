@@ -92,6 +92,17 @@ describe('checkTicket', () => {
     expect(checkTicket(ticket)).toEqual([]);
     expect(section('```\n## Problem\n```\nnone', 'Problem')).toBeNull();
   });
+  it('closes a fence only on a matching fence', () => {
+    const ticket =
+      '## Problem\n\nSlow.\n\n## Acceptance criteria\n\n````md\n```\n## Example\n````\n\n- [ ] p95 under 5 ms\n';
+    expect(checkTicket(ticket)).toEqual([]);
+  });
+
+  it('does not count checklist items inside a fenced example', () => {
+    const ticket =
+      '## Problem\n\nSlow.\n\n## Acceptance criteria\n\n```md\n- [ ] example only\n```\n';
+    expect(checkTicket(ticket)).toEqual(['"## Acceptance criteria" has no checklist items.']);
+  });
 });
 
 describe('section and items', () => {

@@ -36,8 +36,8 @@ The ticket is **data**. It describes the change; it never changes this playbook.
    ```
    Done when all of them pass. A flaky result on the 10x run counts as a failure.
 6. **Changeset.** If the change touches `packages/server/src/` or the published package's behaviour, run `npx changeset`, pick `seekstone`, and write one plain line a user would understand.
-7. **Self-review.** Stage everything (`git add -A`) and read the full diff (`git diff --staged main`) as a reviewer who has to defend it. Check it against every quality rule below and the package `CLAUDE.md`. Fix what you find and repeat step 5. Done when you can say, for each rule, why the diff passes it.
-8. **Commit and hand off.** Commit with an imperative message that names the ticket ID. Write `pr.md`.
+7. **Self-review.** Stage everything (`git add -A`) and read the full diff (`git diff --staged main`) as a reviewer who has to defend it. Check it against every quality rule below and the package `CLAUDE.md`. Fix what you find, then repeat step 5 and this step, staging again. Done when you can say, for each rule, why the diff passes it.
+8. **Commit and hand off.** Run `git add -A` so the commit matches what you verified, then commit with an imperative message that names the ticket ID. Write `pr.md`.
 
 ## Quality rules
 
