@@ -17,6 +17,7 @@
 import { appendFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { gh, requiredChecks } from './github.mjs';
 
 /** Fix attempts after the first run; Sonnet tickets get one more, on Opus. */
 export const MAX_FIXES = 2;
@@ -101,19 +102,6 @@ export function decide({ pr, required, checkRuns, comments, sonnet }) {
   };
 }
 
-async function gh(path, init = {}) {
-  const res = await fetch(`https://api.github.com/${path}`, {
-    ...init,
-    headers: {
-      accept: 'application/vnd.github+json',
-      authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-      'x-github-api-version': '2022-11-28',
-    },
-  });
-  if (!res.ok) throw new Error(`GitHub ${path}: HTTP ${res.status} ${await res.text()}`);
-  return res.json();
-}
-
 async function main() {
   const branch = process.argv[2] ?? '';
   const repo = process.env.GITHUB_REPOSITORY;
@@ -129,7 +117,7 @@ async function main() {
 
   const owner = repo.split('/')[0];
   const prs = await gh(
-    `repos/${repo}/pulls?state=open&head=${encodeURIComponent(`${owner}:${branch}`)}`,
+    `repos/${repo}/pulls?state=open&head=${owner}:${encodeURIComponent(branch)}`,
   );
   if (prs.length === 0) return out({ action: 'none' });
   const p = prs[0];
@@ -139,13 +127,15 @@ async function main() {
     headSha: p.head.sha,
     labels: p.labels.map((l) => l.name),
   };
-  const rules = await gh(`repos/${repo}/rules/branches/main`);
-  const required = rules
-    .filter((r) => r.type === 'required_status_checks')
-    .flatMap((r) => r.parameters.required_status_checks.map((c) => c.context));
+  const required = await requiredChecks(repo);
   const checkRuns = (await gh(`repos/${repo}/commits/${pr.headSha}/check-runs?per_page=100`))
     .check_runs;
-  const comments = await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
+  // Only the factory app's own comments carry markers; anyone else could post one.
+  const bot = process.env.FACTORY_BOT_LOGIN;
+  if (!bot) throw new Error('FACTORY_BOT_LOGIN is not set');
+  const comments = (await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`)).filter(
+    (c) => c.user?.login === bot,
+  );
   // deliver writes the model into the PR body when it opens the PR.
   const sonnet = MODEL_SONNET.test(p.body ?? '');
 

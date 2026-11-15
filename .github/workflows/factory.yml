@@ -47,10 +47,12 @@ on:
 
 permissions: {}
 
-# One run at a time, so two tickets can't both pass the open-PR cap before
-# either opens its PR. Runs queue instead.
+# New-ticket runs go one at a time, so two tickets can't both pass the
+# open-PR cap before either opens its PR. A concurrency group holds only one
+# pending run, so fix runs get a group per PR: a fix run waiting behind a new
+# ticket would otherwise be dropped when the next run queues.
 concurrency:
-  group: factory
+  group: ${{ inputs.pr != '' && format('factory-fix-{0}', inputs.pr) || 'factory' }}
   cancel-in-progress: false
 
 env:
@@ -119,6 +121,52 @@ jobs:
           name: factory-ticket
           path: ${{ runner.temp }}/factory/
           retention-days: 7
+
+  # A fix run that doesn't get past prepare (off switch, ticket status, an
+  # API error) would leave the PR red with its marker posted and nothing
+  # acting on it. Block it with the reason.
+  fix-not-started:
+    needs: prepare
+    if: always() && inputs.pr != '' && needs.prepare.outputs.run != 'true'
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Mint factory app token
+        id: app-token
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
+          private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
+
+      - name: Block the ticket
+        env:
+          TICKET: ${{ inputs.ticket }}
+          FIX_PR: ${{ inputs.pr }}
+          PREPARE_RESULT: ${{ needs.prepare.result }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          printf 'The factory fix run did not start (prepare: %s). See %s\n' "$PREPARE_RESULT" "$RUN_URL" > "$RUNNER_TEMP/blocked.md"
+          gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked || true
+          node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/blocked.md"
 
   work:
     needs: prepare

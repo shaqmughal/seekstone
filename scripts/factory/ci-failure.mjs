@@ -13,6 +13,7 @@ import { appendFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { requiredState } from './followup.mjs';
+import { gh, requiredChecks } from './github.mjs';
 
 export const LOG_LINES = 150;
 const MODEL_MARKER = /\n*<!-- factory-model \w+ -->\s*$/;
@@ -48,18 +49,6 @@ export function prMarkdown(title, body) {
   return `${title}\n${(body ?? '').replace(MODEL_MARKER, '').trimEnd()}\n`;
 }
 
-async function gh(path, { raw = false } = {}) {
-  const res = await fetch(`https://api.github.com/${path}`, {
-    headers: {
-      accept: 'application/vnd.github+json',
-      authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-      'x-github-api-version': '2022-11-28',
-    },
-  });
-  if (!res.ok) throw new Error(`GitHub ${path}: HTTP ${res.status}`);
-  return raw ? res.text() : res.json();
-}
-
 async function main() {
   const [prNumber, outDir] = process.argv.slice(2);
   if (!/^\d+$/.test(prNumber ?? '') || !outDir) {
@@ -68,10 +57,7 @@ async function main() {
   }
   const repo = process.env.GITHUB_REPOSITORY;
   const pr = await gh(`repos/${repo}/pulls/${prNumber}`);
-  const rules = await gh(`repos/${repo}/rules/branches/main`);
-  const required = rules
-    .filter((r) => r.type === 'required_status_checks')
-    .flatMap((r) => r.parameters.required_status_checks.map((c) => c.context));
+  const required = await requiredChecks(repo);
   const runs = (await gh(`repos/${repo}/commits/${pr.head.sha}/check-runs?per_page=100`))
     .check_runs;
   const { failed } = requiredState(required, runs);
