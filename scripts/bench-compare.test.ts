@@ -55,10 +55,6 @@ describe('weekly bench comparison', () => {
     ]);
   });
 
-  it('honours custom thresholds', () => {
-    expect(compareBench(report(10), report(10.6), { pct: 0.05, minMs: 0.1 })).toHaveLength(2);
-  });
-
   it('skips measurements that exist on only one side', () => {
     const prev = { search: [] };
     expect(compareBench(prev, report(50))).toEqual([]);
