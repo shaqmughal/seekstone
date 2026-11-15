@@ -22,7 +22,6 @@ export default defineConfig({
         'src/bench/adapters/rest.ts',
         'src/bench/adapters/mcpvault.ts',
         'src/bench/adapters/mcp-obsidian.ts',
-        'src/bench/adapters/mcp-subprocess.ts',
         'src/bench/adapters/obsidian-mcp.ts',
         'src/bench/adapters/obsidian-mcp-pro.ts',
         'src/bench/adapters/obsidian-mcp-rs.ts',
