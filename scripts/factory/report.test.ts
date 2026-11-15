@@ -54,6 +54,15 @@ describe('classifyRun', () => {
     expect(classifyRun(crashed).outcome).toBe('failed');
   });
 
+  it('counts a fix run whose blocking step failed as failed', () => {
+    const r = run('Factory SHA-9 fix', 'failure', [
+      job('prepare', 'success'),
+      job('fix-not-started', 'failure'),
+      job('work', 'skipped'),
+    ]);
+    expect(classifyRun(r).outcome).toBe('failed');
+  });
+
   it('counts a fix run that blocked its ticket as delivered, not skipped', () => {
     expect(classifyRun(fixNotStarted).outcome).toBe('delivered');
   });

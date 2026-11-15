@@ -29,6 +29,7 @@ export function classifyRun(run) {
   else if (
     // Skipped means the gate said no: prepare finished and work never ran.
     // A prepare that crashed also skips work, but that is a failure.
+    run.conclusion === 'success' &&
     job('prepare')?.conclusion === 'success' &&
     job('work')?.conclusion === 'skipped' &&
     job('fix-not-started')?.conclusion !== 'success'
