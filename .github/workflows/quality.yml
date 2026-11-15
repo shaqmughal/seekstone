@@ -1,0 +1,153 @@
+name: Quality rules
+
+# PR quality rules (SHA-520). Logic lives in scripts/quality-rules.mjs (tested);
+# this workflow wires it up.
+#   quality rules      all PRs: no weakened tests (unless a maintainer adds
+#                      `tests-weakened:approved`); `factory` PRs: scope lock
+#                      and 400-line size limit.
+#   flaky check        all PRs that add or change tests: those files run 10x
+#                      on each OS.
+#   failing test first `factory` + `bug` PRs: the new or changed tests must
+#                      fail against the base commit's source.
+# Re-runs on label changes so adding an approval label takes effect.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+
+permissions: read-all
+
+concurrency:
+  group: quality-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  rules:
+    name: quality rules
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write # add the tests-weakened label
+      pull-requests: write
+    outputs:
+      test-files: ${{ steps.check.outputs.test-files }}
+      has-tests: ${{ steps.check.outputs.has-tests }}
+      source-files: ${{ steps.check.outputs.source-files }}
+      added-source-files: ${{ steps.check.outputs.added-source-files }}
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Check the PR against the quality rules
+        id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_LABELS: ${{ toJSON(github.event.pull_request.labels.*.name) }}
+        run: node scripts/check-quality-rules.mjs
+
+  flaky:
+    name: flaky check (${{ matrix.os }})
+    needs: rules
+    # Always runs (never skipped at job level): a skipped matrix job reports
+    # under its unexpanded name, which would leave the required checks pending.
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - name: No test files changed
+        if: needs.rules.outputs.has-tests != 'true'
+        run: echo "No test files added or changed; nothing to check."
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        if: needs.rules.outputs.has-tests == 'true'
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        if: needs.rules.outputs.has-tests == 'true'
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install and build
+        if: needs.rules.outputs.has-tests == 'true'
+        run: |
+          npm ci
+          npm run build -w seekstone
+
+      - name: Run the changed test files 10 times
+        if: needs.rules.outputs.has-tests == 'true'
+        env:
+          TEST_FILES: ${{ needs.rules.outputs.test-files }}
+        shell: bash
+        run: node scripts/run-test-files.mjs --times 10 "$TEST_FILES"
+
+  failing-first:
+    name: failing test first
+    needs: rules
+    if: >-
+      contains(github.event.pull_request.labels.*.name, 'factory') &&
+      contains(github.event.pull_request.labels.*.name, 'bug')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - name: A bug fix needs a test
+        if: needs.rules.outputs.has-tests != 'true'
+        run: |
+          echo "::error::factory bug-fix PRs must add or change a test that fails without the fix."
+          exit 1
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Put the source back to the base commit, keeping the new tests
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          SOURCE_FILES: ${{ needs.rules.outputs.source-files }}
+          ADDED_SOURCE: ${{ needs.rules.outputs.added-source-files }}
+        shell: bash
+        run: |
+          echo "$SOURCE_FILES" | jq -r '.[]' | while IFS= read -r f; do
+            git checkout "$BASE_SHA" -- "$f"
+          done
+          echo "$ADDED_SOURCE" | jq -r '.[]' | while IFS= read -r f; do
+            rm -f -- "$f"
+          done
+          git status --short
+
+      - name: The tests must fail without the fix
+        env:
+          TEST_FILES: ${{ needs.rules.outputs.test-files }}
+        shell: bash
+        run: node scripts/run-test-files.mjs --expect-fail "$TEST_FILES"

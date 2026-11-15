@@ -1,6 +1,16 @@
 # PR comments off (SHA-238) — checks stay, noise goes.
 comment: false
 
+# New code in a PR must be at least 80% covered (SHA-520). codecov/patch fails
+# visibly below that, but it isn't a required check: Codecov doesn't report on
+# every Dependabot PR, so requiring it would block them. The merge review is
+# the gate.
+coverage:
+  status:
+    patch:
+      default:
+        target: 80%
+
 # Keep Codecov's patch metric consistent with the repo's own coverage gates:
 # these paths are deliberately excluded from the vitest coverage thresholds
 # (see packages/*/vitest.config.ts for the reasoning per file — bootstrap
