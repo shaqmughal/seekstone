@@ -22,7 +22,7 @@ Re-running a release for an already-published version is a no-op, so the workflo
 
 The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** → **`npm run conformance`** → **write-safety baseline** (`node scripts/check-safety-baseline.mjs`, which re-runs the harness safety suite against the committed golden report — a write-behavior regression blocks the publish) before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. `conformance` drives the built server with the MCP SDK reference client — handshake, exact tool surface, and a search + append round-trip — so a protocol regression can't ship (see `docs/CLIENT-TESTING.md`). A failure at any gate blocks the publish.
 
-CI (the `CI` workflow) additionally enforces, on the Linux leg: **three coverage gates** (server, harness, and core — thresholds in each package's `vitest.config.ts`), the same write-safety baseline, protocol conformance, `server.json` version sync (`sync-server-json.mjs --check`), the `docs/REGISTRIES.md` tool-list guard (`check-registries-tools.mjs`), the `benchmarks.json` staleness guard (`build-benchmarks-json.mjs --check` — the file is regenerated from the committed harness baselines and is the single source of truth for every published benchmark number), the docs-sync guard (`check-docs-sync.mjs`, which also checks every headline figure against `benchmarks.json`), and a **changeset check** that fails any PR touching `packages/server/src/` or `package.json` without a changeset, fails any changeset naming a package other than `seekstone` (`check-changesets.mjs`), and dry-runs `changeset version` so a changeset that would break the post-merge release fails the PR instead. A separate `CodSpeed` workflow runs the server's hot-path benchmarks under CPU simulation and reports regressions against `main` (SHA-518).
+CI (the `CI` workflow) additionally enforces, on the Linux leg: **three coverage gates** (server, harness, and core — thresholds in each package's `vitest.config.ts`), the same write-safety baseline, protocol conformance, `server.json` version sync (`sync-server-json.mjs --check`), the `docs/REGISTRIES.md` tool-list guard (`check-registries-tools.mjs`), the `schema-tax --check` guard (the tool list the built server serves must match the committed baseline), the `benchmarks.json` staleness guard (`build-benchmarks-json.mjs --check` — the file is regenerated from the committed harness baselines and is the single source of truth for every published benchmark number), the docs-sync guard (`check-docs-sync.mjs`, which also checks every headline figure against `benchmarks.json`), the pinned-action inputs check (`check-action-inputs.mjs`), and a **changeset check** that fails any PR touching `packages/server/src/` or `package.json` without a changeset, fails any changeset naming a package other than `seekstone` (`check-changesets.mjs`), and dry-runs `changeset version` so a changeset that would break the post-merge release fails the PR instead. A separate `CodSpeed` workflow runs the server's hot-path benchmarks under CPU simulation and compares them with `main` (SHA-518); its `CodSpeed Performance Analysis` check is required, so a speed regression blocks the merge. The `Quality rules` workflow adds the test-strength, flaky-test and factory checks. [`QUALITY-GATES.md`](QUALITY-GATES.md) lists every required check and what it guards.
 
 **Manual gate for tool-schema changes:** `scripts/claude-code-e2e.sh` runs a real headless Claude Code session against the packed tarball and asserts a model-driven `search` retrieves seeded vault content. Run it before releases that change tool names or input schemas (needs an authenticated `claude` CLI; spends a few tokens).
 
@@ -50,7 +50,7 @@ Once the variable and the private key exist, releases are hands-off. If the App 
 
 ## Authentication — OIDC trusted publishing (no token)
 
-The workflow publishes via **OIDC trusted publishing**: no npm token is stored, and provenance is automatic. It needs `id-token: write` (set) and npm ≥ 11.5.1 (the workflow runs `npm install -g npm@11.16.0`).
+The workflow publishes via **OIDC trusted publishing**: no npm token is stored, and provenance is automatic. It needs `id-token: write` (set) and npm ≥ 11.5.1 (the release job runs on Node 24, whose bundled npm qualifies, and an `Assert npm supports OIDC trusted publishing` step fails the job early if a runner ever resolves an older npm).
 
 **One-time setup on npmjs.com** (required before the first OIDC publish):
 
@@ -77,24 +77,6 @@ Any failed `Release` run opens a GitHub issue labelled **`release-failure`** ("R
 
 To recover once the cause is fixed: if the failure was before the npm publish, push the fix to `main` and the workflow retries. If npm already has the version but a later step failed, run `gh workflow run release.yml` — a `workflow_dispatch` run re-runs the npm wait, the MCP Registry publish, and the seekstone.dev rebuild (the npm publish itself is a no-op for an existing version). It's safe to repeat: if the registry already lists the version, that step logs a warning and the run carries on to the rebuild (`scripts/publish-mcp-registry.mjs`). Any other registry error still fails the run. Use a fresh dispatch, not "Re-run failed jobs": on a re-run `changeset publish` finds the version already on npm, reports nothing published, and every `published == 'true'` step is skipped. For the same reason the MCPB build, attestation, and GitHub Release upload only ever run on the publishing push; if one of those failed, build and attach the bundles by hand (`npm run build:mcpb`, then `gh release upload "seekstone@<version>" seekstone.mcpb seekstone-semantic.mcpb --clobber`) — the provenance attestation cannot be reproduced outside CI.
 
-## Post-publish: Glama (manual)
+## Post-publish: Glama
 
-After every npm publish you need to create a new release on the Glama listing manually:
-
-1. Open <https://glama.ai/mcp/servers/shaqmughal/seekstone/admin/dockerfile>
-2. Click **"Create Release"** (or the equivalent button in the admin UI).
-3. Verify the new version appears on <https://glama.ai/mcp/servers/shaqmughal/seekstone>.
-
-**Why this isn't automated yet:** Glama has no public REST API or documented webhook for programmatic release creation (investigated in SHA-85, June 2026). Glama tracks the repository itself (our committed `glama.json` holds only the maintainer list), so the build follows the latest commit — only the release creation step is missing. If Glama adds an API or webhook in the future, the step would slot into `release.yml` after the MCPB upload:
-
-```yaml
-- name: Trigger Glama release
-  if: steps.changesets.outputs.published == 'true'
-  run: |
-    VERSION=$(node -p "require('./packages/server/package.json').version")
-    curl -fsSL -X POST "https://glama.ai/api/..." \
-      -H "Authorization: Bearer ${{ secrets.GLAMA_API_TOKEN }}" \
-      -d "{\"version\": \"${VERSION}\"}"
-```
-
-Until then, the manual step above is required to keep the Glama listing current.
+Nothing to do. Glama tracks the repository (the committed `glama.json` holds only the maintainer list) and creates a release on its own when a new version ships. Check <https://glama.ai/mcp/servers/shaqmughal/seekstone> if the listing looks behind.

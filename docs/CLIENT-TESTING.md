@@ -16,7 +16,7 @@ If protocol conformance passes, any spec-compliant stdio client can talk to Seek
 
 ## Manual GUI checklist
 
-For each client, three steps against a scratch vault (never a personal one):
+For each client, these steps against a scratch vault (never a personal one):
 
 1. **Install** exactly as the README documents it for that client — no undocumented workarounds. If a workaround is needed, that's a docs bug; fix the docs.
 2. **Tools appear** — the client's MCP/server UI lists seekstone with 25 tools.

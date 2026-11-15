@@ -20,9 +20,9 @@ discovery alias, was published through 0.7.x and is now deprecated on npm.)
 
 ```mermaid
 flowchart TD
-    core["@seekstone/core<br/>(private, never published)<br/>walk · frontmatter · extract<br/>outline · percentiles · pmap · embed"]
+    core["@seekstone/core<br/>(private, never published)<br/>walk · frontmatter · extract<br/>outline · tasks · percentiles · pmap · embed"]
     server["seekstone<br/>(packages/server) — THE PRODUCT<br/>filesystem-direct MCP server"]
-    harness["@seekstone/harness<br/>(dev-only, runs via tsx, not published)<br/>profiler · bench · safety · retrieval · fixtures"]
+    harness["@seekstone/harness<br/>(dev-only, runs via tsx, not published)<br/>profiler · bench · safety · retrieval<br/>schema-tax · read-scope · fixtures"]
 
     server -->|"devDep, bundled in via tsup noExternal"| core
     harness -->|"dependency"| core
@@ -38,7 +38,7 @@ flowchart TD
   harness (its only deps are `fast-glob` and `yaml`; the `embed` module — a
   zero-dependency Model2Vec embedder — adds none). Exposed as subpath exports
   (`@seekstone/core/frontmatter`, `/extract`, `/outline`, `/walk`,
-  `/percentiles`, `/pmap`, `/embed`). It is **private and never published**, so
+  `/tasks`, `/percentiles`, `/pmap`, `/embed`). It is **private and never published**, so
   the server's build inlines it (see below).
 - **`seekstone`** (`packages/server`) — the product. The only runtime npm
   dependencies are `@modelcontextprotocol/sdk`, `chokidar`, `fast-glob`,
@@ -295,7 +295,7 @@ start.
 
 ```mermaid
 flowchart TD
-    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · schema-tax · scale-render<br/>gen-vault · fetch-corpus · verify-corpus-mirror<br/>publish-corpus · fetch-models · retrieval"]
+    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · schema-tax · read-scope<br/>scale-render · gen-vault · fetch-corpus · verify-corpus-mirror<br/>publish-corpus · fetch-models · retrieval"]
 
     backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS/undo/task)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
@@ -391,7 +391,11 @@ flowchart TD
 
 ---
 
-## 5. The thesis: filesystem-direct vs REST-proxy
+## 5. Quality and CI
+
+Nothing reaches `main` without passing the required checks: tests on three OSes, the changeset check, CodeQL, the CodSpeed speed gate on the hot-path benchmarks in `packages/server/src/bench/` (`*.bench.ts`, run with `npm run bench -w seekstone`), and the quality rules (no weakened tests, flaky check, and the factory's scope lock, size limit and failing-test-first). The Linux test leg also runs conformance, the write-safety baseline, schema-tax, docs-sync and coverage gates. The factory workflow (`factory.yml`, `scripts/factory/`) turns a Linear ticket into a PR under the same checks, with the Linear key and the push token kept out of the job where the agent runs. [`QUALITY-GATES.md`](QUALITY-GATES.md) covers each check and how to operate the factory.
+
+## 6. The thesis: filesystem-direct vs REST-proxy
 
 The whole project exists to demonstrate one claim: **filesystem-direct beats the
 REST-proxy approach, and the win is mostly payload size ("context tax"), not raw

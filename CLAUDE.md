@@ -18,6 +18,8 @@ The claim the project is judged on: **filesystem-direct beats REST-proxy, and th
 | Package graph, server layers, request flow | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). Keep it in sync when you add a layer, tool or adapter. |
 | Setup, CI gates, PR checks, changesets | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 | Write safety guarantees | [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) |
+| Required checks, quality rules, speed gates, the factory | [`docs/QUALITY-GATES.md`](docs/QUALITY-GATES.md) |
+| Shared Claude Code permissions and the Biome edit hook | [`.claude/settings.json`](.claude/settings.json) |
 
 ## Commands
 
