@@ -22,6 +22,9 @@ name: Factory
 # and FACTORY_APP_SLUG name the factory GitHub App (contents and pull requests
 # read/write, installed on this repo only).
 
+# The ticket in the run name lets the Factory log report read it back.
+run-name: Factory ${{ inputs.ticket }}${{ inputs.pr != '' && ' fix' || '' }}
+
 on:
   workflow_dispatch:
     inputs:
@@ -95,6 +98,8 @@ jobs:
           TICKET: ${{ inputs.ticket }}
           FIX_PR: ${{ inputs.pr }}
           MODEL_OVERRIDE: ${{ inputs.model }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           FACTORY_ENABLED: ${{ vars.FACTORY_ENABLED }}
           GH_TOKEN: ${{ github.token }}
@@ -160,6 +165,8 @@ jobs:
           TICKET: ${{ inputs.ticket }}
           FIX_PR: ${{ inputs.pr }}
           PREPARE_RESULT: ${{ needs.prepare.result }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
@@ -343,6 +350,8 @@ jobs:
           TICKET: ${{ inputs.ticket }}
           FIX_PR: ${{ inputs.pr }}
           FACTORY_DIR: ${{ runner.temp }}/factory
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
@@ -394,6 +403,8 @@ jobs:
           TICKET: ${{ inputs.ticket }}
           BRANCH: ${{ needs.prepare.outputs.branch }}
           FIX_PR: ${{ inputs.pr }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           GH_TOKEN: ${{ steps.app-token.outputs.token || github.token }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

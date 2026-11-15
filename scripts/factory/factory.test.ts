@@ -8,6 +8,7 @@ import {
   ensureBlocked,
   gate,
   linear,
+  linearAuth,
   MAX_OPEN_PRS,
   pickModel,
   prepare,
@@ -257,5 +258,37 @@ describe('ensureBlocked', () => {
     const stays = fakeApi(issue({ state: { name: 'Blocked' } }));
     expect(await ensureBlocked('SHA-9', stays)).toBe(false);
     expect(stays.moveTo).not.toHaveBeenCalled();
+  });
+});
+
+describe('linearAuth', () => {
+  it('mints an app token with client credentials', async () => {
+    const fetchImpl = vi.fn(
+      async () => new Response(JSON.stringify({ access_token: 'tok' }), { status: 200 }),
+    );
+    const auth = await linearAuth(
+      { LINEAR_CLIENT_ID: 'id', LINEAR_CLIENT_SECRET: 'sec', LINEAR_API_KEY: 'k' },
+      fetchImpl,
+    );
+    expect(auth).toBe('Bearer tok');
+    const [url, init] = fetchImpl.mock.calls[0] as unknown as [string, RequestInit];
+    expect(url).toBe('https://api.linear.app/oauth/token');
+    const form = new URLSearchParams(init.body as string);
+    expect(form.get('grant_type')).toBe('client_credentials');
+    expect(form.get('client_id')).toBe('id');
+  });
+
+  it('falls back to the personal key, and fails without either', async () => {
+    expect(await linearAuth({ LINEAR_API_KEY: 'lin_x' }, vi.fn())).toBe('lin_x');
+    await expect(linearAuth({}, vi.fn())).rejects.toThrow(/LINEAR_CLIENT_ID/);
+  });
+
+  it('reports a refused token request', async () => {
+    const fetchImpl = vi.fn(
+      async () => new Response(JSON.stringify({ error: 'invalid_client' }), { status: 401 }),
+    );
+    await expect(
+      linearAuth({ LINEAR_CLIENT_ID: 'id', LINEAR_CLIENT_SECRET: 'bad' }, fetchImpl),
+    ).rejects.toThrow(/401 invalid_client/);
   });
 });
