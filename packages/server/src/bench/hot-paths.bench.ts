@@ -5,14 +5,16 @@
 // runners. Locally, `npm run bench -w seekstone` falls back to plain Vitest
 // timings. The vault is the committed 1k-note synthetic fixture (index build
 // uses a fixed 100-note slice of it, see SLICE). Writes go to a scratch copy,
-// never the fixture.
+// never the fixture. Disk-bound costs (walking and reading files) are left to
+// the weekly wall-clock run (SHA-519): simulation can't measure syscalls
+// consistently, and gating on them made the check flap (SHA-532).
 
-import { copyFile, cp, mkdir, mkdtemp, readdir, rm } from 'node:fs/promises';
+import { cp, mkdtemp, readdir, readFile, rm, stat } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { dirname, join, resolve } from 'node:path';
+import { join, resolve } from 'node:path';
 import { afterAll, beforeAll, describe, test, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
-import { buildIndex } from '../index/build.js';
+import { buildIndex, indexNotes, type NoteFile } from '../index/build.js';
 import { buildResolveMaps, resolveLink } from '../index/resolve.js';
 import { Journal } from '../journal.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
@@ -34,10 +36,11 @@ vi.setConfig({ testTimeout: SLOW, hookTimeout: SLOW });
 // Index build runs on a fixed slice of the fixture: the full 1k-note build
 // took ~11 minutes under simulation. The first SLICE notes by sorted path are
 // the same every run, so per-note indexing cost is still compared like for like.
+// The slice is read into memory once in setup; the bench times only indexNotes.
 const SLICE = 100;
 
 let vaultRoot: string;
-let sliceRoot: string;
+let slice: NoteFile[];
 let ctx: ServerContext;
 
 beforeAll(async () => {
@@ -47,27 +50,33 @@ beforeAll(async () => {
   ctx = { ...built, vaultRoot, policy: PERMISSIVE_POLICY };
   ctx.journal = await Journal.open(vaultRoot, { maxBytes: 50e6, maxEntries: 1000 });
 
-  sliceRoot = await mkdtemp(join(tmpdir(), 'seekstone-bench-slice-'));
-  const notes = ((await readdir(FIXTURE, { recursive: true })) as string[])
+  const rels = ((await readdir(FIXTURE, { recursive: true })) as string[])
     .map((p) => p.replaceAll('\\', '/'))
     .filter((p) => p.endsWith('.md') && !p.split('/').some((s) => s.startsWith('.')))
     .sort()
     .slice(0, SLICE);
-  for (const rel of notes) {
-    await mkdir(dirname(join(sliceRoot, rel)), { recursive: true });
-    await copyFile(join(FIXTURE, rel), join(sliceRoot, rel));
-  }
+  slice = await Promise.all(
+    rels.map(async (relPath) => {
+      const abs = join(FIXTURE, relPath);
+      const raw = await readFile(abs, 'utf8');
+      return {
+        relPath,
+        raw,
+        sizeBytes: Buffer.byteLength(raw),
+        mtimeMs: (await stat(abs)).mtimeMs,
+      };
+    }),
+  );
 });
 
 afterAll(async () => {
   await rm(vaultRoot, { recursive: true, force: true });
-  await rm(sliceRoot, { recursive: true, force: true });
 });
 
 describe('index', () => {
   test('build', async ({ bench }) => {
-    await bench(`buildIndex (${SLICE} notes)`, async () => {
-      await buildIndex(sliceRoot);
+    await bench(`indexNotes (${SLICE} notes, in memory)`, () => {
+      indexNotes(slice);
     }).run();
   });
 });

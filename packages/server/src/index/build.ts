@@ -26,6 +26,44 @@ export interface BuildResult {
 export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promise<BuildResult> {
   const t0 = Date.now();
 
+  const entries = await walkVault(vaultRoot, scope);
+  const files: NoteFile[] = [];
+  await Promise.all(
+    entries
+      .filter((e) => e.kind === 'note')
+      .map(async (entry) => {
+        try {
+          const raw = await readFile(entry.absPath, 'utf8');
+          files.push({
+            relPath: entry.relPath,
+            raw,
+            sizeBytes: entry.sizeBytes,
+            mtimeMs: entry.mtimeMs,
+          });
+        } catch {
+          // Unreadable note — skip silently; index what we can.
+        }
+      }),
+  );
+
+  return { ...indexNotes(files), buildMs: Date.now() - t0 };
+}
+
+/** A note's bytes plus the walk metadata the index stores. */
+export interface NoteFile {
+  relPath: string;
+  raw: string;
+  sizeBytes: number;
+  mtimeMs: number;
+}
+
+/**
+ * The in-memory half of `buildIndex`: parse every note and build the search
+ * index and backlinks. Notes are indexed in path order, so the same vault
+ * always builds the same index, whatever order the file reads finished in
+ * (SHA-532). Pure CPU work, which is what the CodSpeed bench measures.
+ */
+export function indexNotes(files: NoteFile[]): Omit<BuildResult, 'buildMs'> {
   const index = new MiniSearch<IndexedNote>({
     idField: 'id',
     fields: ['title', 'body', 'tags', 'fmKeys'],
@@ -37,51 +75,45 @@ export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promis
     },
   });
 
-  const entries = await walkVault(vaultRoot, scope);
-  const noteEntries = entries.filter((e) => e.kind === 'note');
-
   const docs: IndexedNote[] = [];
   const notes = new Map<string, IndexedNote>();
-
-  await Promise.all(
-    noteEntries.map(async (entry) => {
-      try {
-        const raw = await readFile(entry.absPath, 'utf8');
-        const fm = parseFrontmatter(raw);
-        const inlineTags = extractInlineTags(fm.body);
-        const fmTags = frontmatterTags(fm.data);
-        const allTags = [...new Set([...inlineTags, ...fmTags])];
-
-        const title =
-          typeof fm.data?.title === 'string' && fm.data.title
-            ? fm.data.title
-            : basename(entry.relPath, extname(entry.relPath));
-
-        const doc: IndexedNote = {
-          id: entry.relPath,
-          title,
-          body: fm.body,
-          tags: allTags.join(' '),
-          fmKeys: fm.keys.join(' '),
-          fm: fm.data,
-          raw,
-          tasks: extractTasks(raw),
-          sizeBytes: entry.sizeBytes,
-          mtimeMs: entry.mtimeMs,
-        };
-        docs.push(doc);
-        notes.set(entry.relPath, doc);
-      } catch {
-        // Unreadable note — skip silently; index what we can.
-      }
-    }),
+  const sorted = [...files].sort((a, b) =>
+    a.relPath < b.relPath ? -1 : a.relPath > b.relPath ? 1 : 0,
   );
+  for (const file of sorted) {
+    try {
+      const fm = parseFrontmatter(file.raw);
+      const inlineTags = extractInlineTags(fm.body);
+      const fmTags = frontmatterTags(fm.data);
+      const allTags = [...new Set([...inlineTags, ...fmTags])];
+
+      const title =
+        typeof fm.data?.title === 'string' && fm.data.title
+          ? fm.data.title
+          : basename(file.relPath, extname(file.relPath));
+
+      const doc: IndexedNote = {
+        id: file.relPath,
+        title,
+        body: fm.body,
+        tags: allTags.join(' '),
+        fmKeys: fm.keys.join(' '),
+        fm: fm.data,
+        raw: file.raw,
+        tasks: extractTasks(file.raw),
+        sizeBytes: file.sizeBytes,
+        mtimeMs: file.mtimeMs,
+      };
+      docs.push(doc);
+      notes.set(file.relPath, doc);
+    } catch {
+      // Unparseable note — skip silently; index what we can.
+    }
+  }
 
   index.addAll(docs);
 
-  const backlinks = buildBacklinks(notes);
-
-  return { index, notes, backlinks, buildMs: Date.now() - t0 };
+  return { index, notes, backlinks: buildBacklinks(notes) };
 }
 
 function buildBacklinks(notes: Map<string, IndexedNote>): Map<string, BacklinkRef[]> {

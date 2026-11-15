@@ -2,7 +2,7 @@ import { chmod, mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
-import { buildIndex } from './build.js';
+import { buildIndex, indexNotes, type NoteFile } from './build.js';
 
 let vaultRoot: string;
 
@@ -201,5 +201,38 @@ describe('buildIndex', () => {
     } finally {
       await rm(aliasVault, { recursive: true, force: true });
     }
+  });
+});
+
+describe('indexNotes (SHA-532)', () => {
+  const file = (relPath: string, raw: string): NoteFile => ({
+    relPath,
+    raw,
+    sizeBytes: raw.length,
+    mtimeMs: 0,
+  });
+  const files = [
+    file('b.md', '# Beta\nShared word apple. Links [[a]].\n'),
+    file('a.md', '---\ntags: [fruit]\n---\n# Alpha\nShared word apple.\n'),
+    file('c/d.md', '# Delta\napple apple #fruit\n- [ ] task\n'),
+  ];
+
+  it('builds the same index whatever order the files arrive in', () => {
+    const forward = indexNotes(files);
+    const reversed = indexNotes([...files].reverse());
+    expect([...forward.notes.keys()]).toEqual(['a.md', 'b.md', 'c/d.md']);
+    expect([...reversed.notes.keys()]).toEqual([...forward.notes.keys()]);
+    const hits = (r: ReturnType<typeof indexNotes>) =>
+      r.index.search('apple').map((h) => [h.id, h.score]);
+    expect(hits(reversed)).toEqual(hits(forward));
+    expect([...reversed.backlinks.entries()]).toEqual([...forward.backlinks.entries()]);
+  });
+
+  it('indexes titles, tags, tasks and backlinks like buildIndex', () => {
+    const { notes, backlinks } = indexNotes(files);
+    expect(notes.get('a.md')?.title).toBe('a');
+    expect(notes.get('c/d.md')?.tags).toBe('fruit');
+    expect(notes.get('c/d.md')?.tasks).toHaveLength(1);
+    expect(backlinks.get('a.md')?.map((b) => b.path)).toEqual(['b.md']);
   });
 });
