@@ -14,6 +14,9 @@ import {
   prepare,
   prepareFix,
   prLabels,
+  quotaExhausted,
+  requeue,
+  selectTickets,
   ticketMarkdown,
 } from './factory.mjs';
 
@@ -290,5 +293,108 @@ describe('linearAuth', () => {
     await expect(
       linearAuth({ LINEAR_CLIENT_ID: 'id', LINEAR_CLIENT_SECRET: 'bad' }, fetchImpl),
     ).rejects.toThrow(/401 invalid_client/);
+  });
+});
+
+describe('selectTickets', () => {
+  const t = (identifier: string, priority: number, createdAt: string, blockers = []) => ({
+    identifier,
+    priority,
+    createdAt,
+    inverseRelations: { nodes: blockers },
+  });
+  const open = { type: 'blocks', issue: { identifier: 'SHA-1', state: { type: 'started' } } };
+  const issues = [
+    t('SHA-10', 0, '2026-01-01'),
+    t('SHA-11', 3, '2026-02-01'),
+    t('SHA-12', 1, '2026-03-01'),
+    t('SHA-13', 3, '2026-01-15'),
+    t('SHA-14', 2, '2026-01-01', [open]),
+  ];
+
+  it('orders by priority, then age, and skips blocked tickets', () => {
+    expect(selectTickets(issues, { limit: 5, openPrs: 0 })).toEqual([
+      'SHA-12',
+      'SHA-13',
+      'SHA-11',
+      'SHA-10',
+    ]);
+  });
+
+  it('respects the nightly limit and the open-PR cap', () => {
+    expect(selectTickets(issues, { limit: 2, openPrs: 0 })).toEqual(['SHA-12', 'SHA-13']);
+    expect(selectTickets(issues, { limit: 5, openPrs: 4 })).toEqual(['SHA-12']);
+    expect(selectTickets(issues, { limit: 5, openPrs: 5 })).toEqual([]);
+  });
+});
+
+describe('quotaExhausted', () => {
+  const ev = (o: unknown) => JSON.stringify(o);
+  const rate = (status: string, isUsingOverage = false) =>
+    ev({ type: 'rate_limit_event', rate_limit_info: { status, isUsingOverage } });
+
+  it('is false for a normal run', () => {
+    const log = [rate('allowed'), ev({ type: 'result', is_error: false, result: 'done' })].join(
+      '\n',
+    );
+    expect(quotaExhausted(log)).toBe(false);
+  });
+
+  it('keeps going on a warning that the limit is near', () => {
+    expect(quotaExhausted(rate('allowed_warning'))).toBe(false);
+  });
+
+  it('is true when a limit was hit or paid overage started', () => {
+    expect(quotaExhausted(rate('rejected'))).toBe(true);
+    expect(quotaExhausted(rate('allowed', true))).toBe(true);
+    expect(
+      quotaExhausted(ev({ type: 'result', is_error: true, result: 'Claude usage limit reached.' })),
+    ).toBe(true);
+  });
+
+  it('ignores other errors and junk lines', () => {
+    expect(
+      quotaExhausted(
+        ['not json', ev({ type: 'result', is_error: true, result: 'tests failed' })].join('\n'),
+      ),
+    ).toBe(false);
+  });
+});
+
+describe('requeue', () => {
+  it('comments and moves the ticket back to Todo', async () => {
+    const api = fakeApi();
+    await requeue('SHA-9', 'Allowance ran out.', api);
+    expect(api.comment.mock.calls[0][1]).toContain('Allowance ran out.');
+    expect(api.moveTo).toHaveBeenCalledWith(expect.anything(), 'Todo');
+  });
+});
+
+describe('todoFactoryIssues', () => {
+  it('follows every page', async () => {
+    const page = (ids: string[], next: string | null) =>
+      new Response(
+        JSON.stringify({
+          data: {
+            issues: {
+              nodes: ids.map((identifier) => ({ identifier })),
+              pageInfo: { hasNextPage: next !== null, endCursor: next },
+            },
+          },
+        }),
+        { status: 200 },
+      );
+    const pages = [page(['SHA-1', 'SHA-2'], 'c1'), page(['SHA-3'], null)];
+    const fetchImpl = vi.fn(async () => pages.shift() as Response);
+    const got = await linear('k', fetchImpl).todoFactoryIssues();
+    expect(got.map((i: { identifier: string }) => i.identifier)).toEqual([
+      'SHA-1',
+      'SHA-2',
+      'SHA-3',
+    ]);
+    const second = JSON.parse(
+      (fetchImpl.mock.calls[1] as unknown as [string, RequestInit])[1].body as string,
+    );
+    expect(second.variables).toEqual({ after: 'c1' });
   });
 });

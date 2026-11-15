@@ -1,0 +1,99 @@
+name: Factory nightly
+
+# Runs the factory on the night's ready tickets (SHA-526): Todo, labeled
+# `factory`, no open blocker, by priority then age, at most
+# FACTORY_NIGHTLY_LIMIT (default 5) and never past the five-open-PR cap.
+#
+# Tickets run one after another, each as its own `Factory SHA-123` run of
+# factory.yml, so the Factory log reads them like manual runs. One at a time
+# keeps Max usage gentle, and waiting for each run means only one is ever
+# queued (a concurrency group drops a second waiting run). The night stops
+# early if a run reports that the Max allowance ran out.
+#
+# FACTORY_ENABLED ("true" to run) is the off switch, as for manual runs.
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 07:00 UTC: 2 AM US Eastern (3 AM during daylight saving)
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: factory-nightly
+  cancel-in-progress: false
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 330
+    permissions:
+      contents: read
+      pull-requests: read
+      checks: read # annotations of each run
+      actions: write # start and watch factory.yml
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Pick tonight's tickets
+        id: select
+        env:
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          FACTORY_ENABLED: ${{ vars.FACTORY_ENABLED }}
+          FACTORY_NIGHTLY_LIMIT: ${{ vars.FACTORY_NIGHTLY_LIMIT }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          OPEN_FACTORY_PRS=$(gh pr list --repo "$GITHUB_REPOSITORY" --label factory --state open --json number --jq length)
+          export OPEN_FACTORY_PRS
+          node scripts/factory/factory.mjs select
+
+      - name: Run each ticket in turn
+        env:
+          TICKETS: ${{ steps.select.outputs.tickets }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for ticket in $(echo "$TICKETS" | jq -r '.[]'); do
+            started=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+            gh workflow run factory.yml --repo "$GITHUB_REPOSITORY" --ref main -f ticket="$ticket"
+            # Find the run by its name ("Factory SHA-123") and start time.
+            id=""
+            for _ in $(seq 1 30); do
+              id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow factory.yml --event workflow_dispatch \
+                --limit 20 --json databaseId,displayTitle,createdAt \
+                --jq "[.[] | select(.displayTitle == \"Factory $ticket\" and .createdAt >= \"$started\")][0].databaseId // empty")
+              [ -n "$id" ] && break
+              sleep 10
+            done
+            if [ -z "$id" ]; then
+              echo "::error::could not find the factory run for $ticket"
+              exit 1
+            fi
+            echo "$ticket: run $id"
+            # Wait until GitHub says the run finished. A watch that stops on an
+            # API error must not let the next ticket start early.
+            until [ "$(gh run view "$id" --repo "$GITHUB_REPOSITORY" --json status --jq .status 2>/dev/null)" = "completed" ]; do
+              sleep 60
+            done
+            # deliver leaves a notice when the allowance ran out; stop for the night.
+            deliver=$(gh run view "$id" --repo "$GITHUB_REPOSITORY" --json jobs --jq '.jobs[] | select(.name == "deliver") | .databaseId')
+            if [ -n "$deliver" ] && gh api "repos/$GITHUB_REPOSITORY/check-runs/$deliver/annotations" \
+                --jq '.[].message' | grep -q 'allowance ran out'; then
+              echo "::warning::the Max allowance ran out on $ticket; stopping for tonight"
+              break
+            fi
+          done

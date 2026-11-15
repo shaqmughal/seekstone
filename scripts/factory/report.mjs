@@ -26,6 +26,7 @@ export function classifyRun(run) {
   const job = (name) => run.jobs.find((j) => j.name === name);
   let outcome;
   if (run.status !== 'completed') outcome = 'running';
+  else if (run.quota) outcome = 'quota';
   else if (
     // Skipped means the gate said no: prepare finished and work never ran.
     // A prepare that crashed also skips work, but that is a failure.
@@ -54,7 +55,7 @@ export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
   const done = runs.map(classifyRun);
   const count = (o) => done.filter((r) => r.outcome === o).length;
   out.push(
-    `Runs: ${done.length} (${count('delivered')} delivered, ${count('skipped')} skipped, ${count('failed')} failed${count('running') ? `, ${count('running')} running` : ''}).`,
+    `Runs: ${done.length} (${count('delivered')} delivered, ${count('skipped')} skipped, ${count('failed')} failed${count('quota') ? `, ${count('quota')} out of allowance` : ''}${count('running') ? `, ${count('running')} running` : ''}).`,
   );
   const section = (title, items) => {
     if (items.length === 0) return;
@@ -71,6 +72,16 @@ export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
     done
       .filter((r) => r.outcome === 'skipped')
       .map((r) => `${r.ticket}: ${r.reason || 'see run'} ([run](${r.url}))`),
+  );
+  section(
+    'Out of Max allowance',
+    done
+      .filter((r) => r.outcome === 'quota')
+      .map((r) =>
+        r.fix
+          ? `${r.ticket} (fix): Blocked, re-run it once the allowance resets ([run](${r.url}))`
+          : `${r.ticket}: back in Todo, retried on a later night ([run](${r.url}))`,
+      ),
   );
   section(
     'Failed runs',
@@ -98,7 +109,7 @@ export function weeklyMetrics({ prs, runs, blockedTickets, reverts, markers }) {
   const started = new Set(
     runs
       .map(classifyRun)
-      .filter((r) => !r.fix && r.outcome !== 'skipped')
+      .filter((r) => !r.fix && r.outcome !== 'skipped' && r.outcome !== 'quota')
       .map((r) => r.ticket),
   );
   const blockedNow = new Set([
@@ -167,6 +178,11 @@ async function factoryRuns(repo, since) {
       const notes = await gh(`repos/${repo}/check-runs/${prepare.id}/annotations`);
       const skip = notes.find((a) => /not running/.test(a.message));
       if (skip) run.skipReason = skip.message.replace(/^.*?not running [^:]+:\s*/, '');
+    }
+    const deliver = run.jobs.find((j) => j.name === 'deliver');
+    if (deliver?.conclusion === 'success') {
+      const notes = await gh(`repos/${repo}/check-runs/${deliver.id}/annotations`);
+      run.quota = notes.some((a) => /allowance ran out/.test(a.message));
     }
   }
   return workflow_runs;

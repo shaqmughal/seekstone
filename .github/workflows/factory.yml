@@ -261,6 +261,14 @@ jobs:
             --output-format stream-json --verbose > "$TRANSCRIPT" || status=$?
           # The agent's closing summary, for the run log.
           jq -r 'select(.type == "result") | .result // empty' "$TRANSCRIPT" || true
+          # Out of Max allowance (or switched to paid overage): drop any
+          # partial result and hand back quota.md, so deliver can requeue.
+          if node scripts/factory/factory.mjs quota "$TRANSCRIPT"; then
+            echo "::warning::the Max allowance ran out during this run"
+            rm -f "$FACTORY_DIR/pr.md" "$FACTORY_DIR/blocked.md"
+            echo "The Max allowance ran out during the run." > "$FACTORY_DIR/quota.md"
+            exit 0
+          fi
           exit "$status"
 
       # The full transcript (every tool call and its output), so a run can be
@@ -278,6 +286,7 @@ jobs:
           FACTORY_DIR: ${{ runner.temp }}/factory
           BASE: ${{ needs.prepare.outputs.base }}
         run: |
+          if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
           if [ -f "$FACTORY_DIR/pr.md" ] && [ -f "$FACTORY_DIR/blocked.md" ]; then
             echo "::error::the agent left both pr.md and blocked.md"; exit 1
           fi
@@ -344,8 +353,33 @@ jobs:
           client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
           private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
 
+      # A new ticket goes back to Todo for a later night. A fix run can't
+      # wait for another CI event (none will come), so it blocks instead.
+      - name: Out of allowance
+        id: quota
+        env:
+          TICKET: ${{ inputs.ticket }}
+          FIX_PR: ${{ inputs.pr }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          if [ ! -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
+          echo "::notice::allowance ran out on $TICKET"
+          if [ -n "$FIX_PR" ]; then
+            echo "Fix it by hand or re-run the factory once the allowance resets." >> "$FACTORY_DIR/quota.md"
+            gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked
+            node scripts/factory/factory.mjs blocked "$TICKET" "$FACTORY_DIR/quota.md"
+          else
+            node scripts/factory/factory.mjs requeue "$TICKET" "$FACTORY_DIR/quota.md"
+          fi
+          echo "done=true" >> "$GITHUB_OUTPUT"
+
       - name: Pass the agent's questions to Linear
         id: questions
+        if: steps.quota.outputs.done != 'true'
         env:
           TICKET: ${{ inputs.ticket }}
           FIX_PR: ${{ inputs.pr }}
@@ -365,7 +399,7 @@ jobs:
           fi
 
       - name: Push the branch and open or update the PR
-        if: steps.questions.outputs.done != 'true'
+        if: steps.quota.outputs.done != 'true' && steps.questions.outputs.done != 'true'
         env:
           BRANCH: ${{ needs.prepare.outputs.branch }}
           PR_LABELS: ${{ needs.prepare.outputs.labels }}

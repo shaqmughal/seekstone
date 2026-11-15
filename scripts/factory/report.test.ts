@@ -46,6 +46,20 @@ describe('classifyRun', () => {
     expect(classifyRun({ ...delivered, status: 'in_progress' }).outcome).toBe('running');
   });
 
+  it('reads a run that ran out of allowance', () => {
+    expect(classifyRun({ ...delivered, quota: true }).outcome).toBe('quota');
+    const md = renderDaily({
+      since: '2026-11-15T12:00:00.000Z',
+      runs: [{ ...delivered, quota: true }],
+      opened: [],
+      merged: [],
+      waiting: [],
+      blocked: [],
+    });
+    expect(md).toContain('1 out of allowance');
+    expect(md).toContain('Out of Max allowance');
+  });
+
   it('counts a crashed prepare as failed, not skipped', () => {
     const crashed = run('Factory SHA-8', 'failure', [
       job('prepare', 'failure'),
