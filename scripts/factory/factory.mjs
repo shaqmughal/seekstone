@@ -141,6 +141,17 @@ export function linear(apiKey, fetchImpl = fetch) {
       if (!data.issue) throw new Error(`Linear: no issue ${id}`);
       return data.issue;
     },
+    async todoFactoryIssues() {
+      const data = await gql(
+        `query { issues(first: 100, filter: {
+          labels: { name: { eqIgnoreCase: "factory" } }, state: { name: { eq: "Todo" } }
+        }) { nodes {
+          identifier priority createdAt
+          inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
+        } } }`,
+      );
+      return data.issues.nodes;
+    },
     async moveTo(issue, stateName) {
       const state = issue.team.states.nodes.find((s) => s.name === stateName);
       if (!state) throw new Error(`Linear: team has no "${stateName}" status`);
@@ -227,6 +238,55 @@ export async function ensureBlocked(id, api) {
   return true;
 }
 
+/**
+ * Tickets for a nightly run: Todo, labeled `factory`, no open blocker, by
+ * priority (Urgent first, no priority last) then age. At most `limit`, and
+ * never more than the open-PR cap leaves room for.
+ */
+export function selectTickets(issues, { limit, openPrs }) {
+  const rank = (p) => (p === 0 ? 5 : p);
+  const room = Math.max(0, Math.min(limit, MAX_OPEN_PRS - openPrs));
+  return issues
+    .filter((i) => openBlockers(i).length === 0)
+    .sort((a, b) => rank(a.priority) - rank(b.priority) || a.createdAt.localeCompare(b.createdAt))
+    .slice(0, room)
+    .map((i) => i.identifier);
+}
+
+/**
+ * Whether a Claude Code stream-json transcript shows the Max allowance ran
+ * out: a rate-limit event that wasn't allowed, a switch to paid overage
+ * (the factory spends nothing extra), or an error result about usage limits.
+ */
+export function quotaExhausted(transcript) {
+  for (const line of transcript.split('\n')) {
+    if (!line.trim()) continue;
+    let e;
+    try {
+      e = JSON.parse(line);
+    } catch {
+      continue;
+    }
+    const info = e.type === 'rate_limit_event' ? e.rate_limit_info : null;
+    if (info && (info.status !== 'allowed' || info.isUsingOverage === true)) return true;
+    if (
+      e.type === 'result' &&
+      e.is_error &&
+      /usage limit|limit reached|rate limit|out of extra usage/i.test(String(e.result ?? ''))
+    ) {
+      return true;
+    }
+  }
+  return false;
+}
+
+/** Put a ticket back in Todo with a note, for a retry on a later night. */
+export async function requeue(id, text, api) {
+  const issue = await api.issue(id);
+  await api.comment(issue, `The factory will try again later.\n\n${text.trim()}`);
+  await api.moveTo(issue, 'Todo');
+}
+
 export async function blocked(id, text, api) {
   const issue = await api.issue(id);
   await api.comment(issue, `The factory stopped and needs an answer.\n\n${text.trim()}`);
@@ -235,19 +295,43 @@ export async function blocked(id, text, api) {
 
 async function main() {
   const [cmd, id, path] = process.argv.slice(2);
-  const needsPath = ['prepare', 'prepare-fix', 'blocked'].includes(cmd);
+  if (cmd === 'quota') {
+    // Exit 0 when the allowance ran out, 1 when it didn't.
+    process.exit(quotaExhausted(readFileSync(id, 'utf8')) ? 0 : 1);
+  }
+  if (cmd === 'select') {
+    if (process.env.FACTORY_ENABLED !== 'true') {
+      console.log('::notice::FACTORY_ENABLED is not "true"; no tickets selected');
+      output({ tickets: '[]' });
+      return;
+    }
+    const api = linear(await linearAuth(process.env));
+    const tickets = selectTickets(await api.todoFactoryIssues(), {
+      limit: Number(process.env.FACTORY_NIGHTLY_LIMIT || 5),
+      openPrs: Number(process.env.OPEN_FACTORY_PRS ?? 0),
+    });
+    console.log(`selected: ${tickets.join(', ') || '(none)'}`);
+    output({ tickets: JSON.stringify(tickets) });
+    return;
+  }
+  const needsPath = ['prepare', 'prepare-fix', 'blocked', 'requeue'].includes(cmd);
   if (
     !TICKET_ID.test(id ?? '') ||
     (needsPath && !path) ||
     !(needsPath || cmd === 'ensure-blocked')
   ) {
     console.error(
-      'usage: factory.mjs prepare|prepare-fix <ticket-id> <out-dir> | blocked <ticket-id> <file> | ensure-blocked <ticket-id>',
+      'usage: factory.mjs select | prepare|prepare-fix <ticket-id> <out-dir> | blocked|requeue <ticket-id> <file> | ensure-blocked <ticket-id> | quota <transcript>',
     );
     process.exit(2);
   }
   const api = linear(await linearAuth(process.env));
 
+  if (cmd === 'requeue') {
+    await requeue(id, readFileSync(path, 'utf8'), api);
+    console.log(`${id} moved back to Todo`);
+    return;
+  }
   if (cmd === 'blocked') {
     await blocked(id, readFileSync(path, 'utf8'), api);
     console.log(`${id} moved to Blocked`);
