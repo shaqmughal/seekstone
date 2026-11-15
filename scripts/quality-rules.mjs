@@ -40,11 +40,18 @@ export const isTestSupport = (path) => TEST_SUPPORT.test(path);
  */
 export function sourceToRevert(files) {
   const source = files.filter((f) => !isTestFile(f.filename) && !isTestSupport(f.filename));
+  // A rename puts the code at a new path. Restoring only the old path would
+  // leave the fixed file in place, so the new path is removed like an added
+  // file and the old one comes back from the base commit.
+  const renamed = source.filter((f) => f.status === 'renamed' && f.previous_filename);
   return {
     changed: source
       .filter((f) => f.status !== 'added')
       .map((f) => f.previous_filename ?? f.filename),
-    added: source.filter((f) => f.status === 'added').map((f) => f.filename),
+    added: [
+      ...source.filter((f) => f.status === 'added').map((f) => f.filename),
+      ...renamed.map((f) => f.filename),
+    ],
   };
 }
 

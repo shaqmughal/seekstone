@@ -215,6 +215,11 @@ describe('isTestSupport', () => {
 });
 
 describe('sourceToRevert', () => {
+  it('restores a renamed file at its old path and removes the new one', () => {
+    const files = [{ filename: 'src/b.ts', status: 'renamed', previous_filename: 'src/old-b.ts' }];
+    expect(sourceToRevert(files)).toEqual({ changed: ['src/old-b.ts'], added: ['src/b.ts'] });
+  });
+
   it('keeps tests and test support at the PR version', () => {
     const files = [
       { filename: 'src/a.ts', status: 'modified' },
@@ -226,7 +231,7 @@ describe('sourceToRevert', () => {
     ];
     expect(sourceToRevert(files)).toEqual({
       changed: ['src/a.ts', 'src/old-b.ts'],
-      added: ['src/new.ts'],
+      added: ['src/new.ts', 'src/b.ts'],
     });
   });
 });
