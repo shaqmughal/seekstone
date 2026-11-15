@@ -28,6 +28,12 @@ export interface McpInitializeResult {
 }
 
 /**
+ * How long after the child exits to keep reading replies it wrote just before
+ * exiting, when stdout stays open because a helper process still holds it.
+ */
+const EXIT_DRAIN_MS = 250;
+
+/**
  * Shared MCP JSON-RPC stdio subprocess handler.
  * Spawns a process, performs the initialize handshake, and provides
  * callTool() for all three competitor adapters to share.
@@ -73,14 +79,23 @@ export class McpSubprocess {
     // Without these, a child that dies leaves every request waiting out its
     // timeout, and a spawn failure (ENOENT) crashes the harness. `close` fires
     // after stdout has drained, so replies sent just before exit still land.
+    // But `close` never fires while a helper process (an npx/uvx wrapper's
+    // child, say) still holds stdout, so `exit` also fails the requests after
+    // a short drain period.
     proc.on('error', (err) =>
       sub.fail(new Error(`${serverName} failed to start \`${cmd.join(' ')}\`: ${err.message}`)),
     );
-    proc.on('close', (code, signal) =>
-      sub.fail(
-        new Error(`${serverName} exited with ${signal ? `signal ${signal}` : `code ${code}`}`),
-      ),
-    );
+    const exitError = (code: number | null, signal: NodeJS.Signals | null) =>
+      new Error(`${serverName} exited with ${signal ? `signal ${signal}` : `code ${code}`}`);
+    let drain: ReturnType<typeof setTimeout> | undefined;
+    proc.on('exit', (code, signal) => {
+      drain = setTimeout(() => sub.fail(exitError(code, signal)), EXIT_DRAIN_MS);
+      drain.unref();
+    });
+    proc.on('close', (code, signal) => {
+      clearTimeout(drain);
+      sub.fail(exitError(code, signal));
+    });
     // Writes to a dead child fail with EPIPE; the close handler reports the exit.
     proc.stdin?.on('error', () => {});
 
@@ -158,7 +173,10 @@ export class McpSubprocess {
     return tool?.content?.[0]?.text ?? '';
   }
 
-  /** Call a tool and return its text whether or not it is an error result. */
+  /**
+   * Call a tool and return its text whether or not it is an `isError` result.
+   * A JSON-RPC error reply (e.g. unknown tool) still rejects, as in `callTool`.
+   */
   async callToolRaw(
     name: string,
     args: Record<string, unknown>,
@@ -166,9 +184,10 @@ export class McpSubprocess {
   ): Promise<{ text: string; isError: boolean }> {
     const resp = await this.rpc('tools/call', { name, arguments: args }, timeout);
     const tool = resp.result as McpToolResult | undefined;
-    const text = (tool?.content ?? []).map((c) => c.text ?? '').join('\n');
-    // A JSON-RPC-level error (e.g. unknown tool) has no result; report its message.
-    if (!tool) return { text: JSON.stringify(resp.error ?? {}), isError: true };
+    // rpc() rejects on an `error` reply, so no result here means the reply
+    // carried neither `result` nor `error`.
+    if (!tool) return { text: '{}', isError: true };
+    const text = (tool.content ?? []).map((c) => c.text ?? '').join('\n');
     return { text, isError: tool.isError === true };
   }
 

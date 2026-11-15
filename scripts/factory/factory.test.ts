@@ -5,11 +5,13 @@ import { afterEach, describe, expect, it, vi } from 'vitest';
 import {
   blocked,
   branchName,
+  ensureBlocked,
   gate,
   linear,
   MAX_OPEN_PRS,
   pickModel,
   prepare,
+  prepareFix,
   prLabels,
   ticketMarkdown,
 } from './factory.mjs';
@@ -204,5 +206,56 @@ describe('linear client', () => {
       (fetchImpl.mock.calls[0] as unknown as [string, RequestInit])[1].body as string,
     );
     expect(body.variables).toEqual({ id: 'uuid-1', s: 's-blocked' });
+  });
+});
+
+describe('prepareFix', () => {
+  let dir: string | undefined;
+  afterEach(() => {
+    if (dir) rmSync(dir, { recursive: true, force: true });
+    dir = undefined;
+  });
+  const env = { FACTORY_ENABLED: 'true' };
+
+  it('accepts an In Progress or In Review ticket and keeps its model unless overridden', async () => {
+    dir = mkdtempSync(join(tmpdir(), 'factory-'));
+    const api = fakeApi(issue({ state: { name: 'In Progress' } }));
+    expect(await prepareFix('SHA-9', dir, env, api)).toEqual({
+      run: true,
+      model: 'opus',
+      labels: 'factory,bug',
+    });
+    expect(readFileSync(join(dir, 'ticket.md'), 'utf8')).toContain('SHA-9');
+    const chore = fakeApi(
+      issue({
+        state: { name: 'In Review' },
+        labels: { nodes: [{ name: 'factory' }, { name: 'Chore' }] },
+      }),
+    );
+    expect((await prepareFix('SHA-9', dir, { ...env, MODEL_OVERRIDE: 'opus' }, chore)).model).toBe(
+      'opus',
+    );
+    expect(api.moveTo).not.toHaveBeenCalled();
+  });
+
+  it('refuses when switched off, unlabeled, or in another status', async () => {
+    const ok = issue({ state: { name: 'In Progress' } });
+    expect((await prepareFix('SHA-9', '/x', {}, fakeApi(ok))).run).toBe(false);
+    expect(
+      (await prepareFix('SHA-9', '/x', env, fakeApi(issue({ state: { name: 'Done' } })))).run,
+    ).toBe(false);
+    const noLabel = issue({ state: { name: 'In Progress' }, labels: { nodes: [] } });
+    expect((await prepareFix('SHA-9', '/x', env, fakeApi(noLabel))).run).toBe(false);
+  });
+});
+
+describe('ensureBlocked', () => {
+  it('moves the ticket back only when it left Blocked', async () => {
+    const moved = fakeApi(issue({ state: { name: 'In Review' } }));
+    expect(await ensureBlocked('SHA-9', moved)).toBe(true);
+    expect(moved.moveTo).toHaveBeenCalledWith(expect.anything(), 'Blocked');
+    const stays = fakeApi(issue({ state: { name: 'Blocked' } }));
+    expect(await ensureBlocked('SHA-9', stays)).toBe(false);
+    expect(stays.moveTo).not.toHaveBeenCalled();
   });
 });

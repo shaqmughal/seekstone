@@ -1,0 +1,148 @@
+name: Factory follow-up
+
+# Moves a factory PR along after CI (SHA-536). Each time a workflow that
+# reports a required check finishes on a `factory/` branch (or the CodSpeed
+# app completes its check), scripts/factory/followup.mjs decides:
+#
+#   ready  every required check passed: mark the draft ready for review
+#          (Linear moves the ticket to In Review, CodeRabbit reviews it)
+#   fix    a required check failed: start factory.yml in fix mode
+#   block  out of fix attempts: label, comment, move the ticket to Blocked
+#   none   nothing to do; a PR labeled factory-blocked keeps its ticket in
+#          Blocked even if PR activity moved it
+
+on:
+  workflow_run:
+    workflows: [CI, CodeQL, CodSpeed, Quality rules]
+    types: [completed]
+  check_run:
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Factory branch to check (for example factory/SHA-196-unit-test)
+        required: true
+        type: string
+
+permissions: {}
+
+jobs:
+  followup:
+    # Only this repo's own factory branches.
+    if: >-
+      (github.event_name == 'workflow_dispatch' && startsWith(inputs.branch, 'factory/')) ||
+      (github.event_name == 'workflow_run' &&
+        startsWith(github.event.workflow_run.head_branch, 'factory/') &&
+        github.event.workflow_run.head_repository.full_name == github.repository) ||
+      (github.event_name == 'check_run' &&
+        startsWith(github.event.check_run.check_suite.head_branch, 'factory/') &&
+        github.event.check_run.app.slug != 'github-actions')
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 5
+    concurrency:
+      group: factory-followup-${{ inputs.branch || github.event.workflow_run.head_branch || github.event.check_run.check_suite.head_branch }}
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      pull-requests: write # mark ready, label
+      issues: write # PR comments
+      checks: read
+      actions: write # start factory.yml
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      # PR writes go through the factory app: the default token can't mark a
+      # PR ready (that needs contents: write), and markers must come from one
+      # known author so nobody else can post one.
+      - name: Mint factory app token
+        id: app-token
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
+          private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
+
+      - name: Decide
+        id: decide
+        env:
+          FACTORY_BOT_LOGIN: ${{ vars.FACTORY_APP_SLUG }}[bot]
+          BRANCH: ${{ inputs.branch || github.event.workflow_run.head_branch || github.event.check_run.check_suite.head_branch }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/factory/followup.mjs "$BRANCH"
+
+      - name: Mark the PR ready for review
+        if: steps.decide.outputs.action == 'ready'
+        env:
+          PR: ${{ steps.decide.outputs.pr }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: gh pr ready "$PR" --repo "$GITHUB_REPOSITORY"
+
+      - name: Start a fix run
+        if: steps.decide.outputs.action == 'fix'
+        env:
+          PR: ${{ steps.decide.outputs.pr }}
+          TICKET: ${{ steps.decide.outputs.ticket }}
+          SHA: ${{ steps.decide.outputs.sha }}
+          ATTEMPT: ${{ steps.decide.outputs.attempt }}
+          MODEL: ${{ steps.decide.outputs.model }}
+          FAILED: ${{ steps.decide.outputs.failed }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          DISPATCH_TOKEN: ${{ github.token }}
+        run: |
+          # The marker records the attempt for this commit before the run
+          # starts, so a second CI completion on the same commit doesn't start
+          # another one.
+          failed=$(echo "$FAILED" | jq -r 'join(", ")')
+          printf 'Required checks failed (%s). Starting factory fix attempt %s.\n\n<!-- factory-fix sha=%s attempt=%s -->\n' \
+            "$failed" "$ATTEMPT" "$SHA" "$ATTEMPT" > "$RUNNER_TEMP/marker.md"
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/marker.md"
+          GH_TOKEN="$DISPATCH_TOKEN" gh workflow run factory.yml --repo "$GITHUB_REPOSITORY" --ref main \
+            -f ticket="$TICKET" -f pr="$PR" -f attempt="$ATTEMPT" -f model="$MODEL"
+
+      - name: Block the ticket
+        if: steps.decide.outputs.action == 'block'
+        env:
+          PR: ${{ steps.decide.outputs.pr }}
+          TICKET: ${{ steps.decide.outputs.ticket }}
+          REASON: ${{ steps.decide.outputs.reason }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          echo "$REASON" | jq -r . > "$RUNNER_TEMP/blocked.md"
+          gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/blocked.md"
+          node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/blocked.md"
+
+      - name: Keep a blocked ticket in Blocked
+        if: steps.decide.outputs.action == 'none' && steps.decide.outputs.reason == '"blocked"'
+        env:
+          TICKET: ${{ steps.decide.outputs.ticket }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+        run: node scripts/factory/factory.mjs ensure-blocked "$TICKET"
+
+      # The marker is already posted, so a failed dispatch would leave a red
+      # draft that later events skip. Block it instead.
+      - name: Block the ticket if the fix run could not be started
+        if: failure() && steps.decide.outputs.action == 'fix'
+        env:
+          PR: ${{ steps.decide.outputs.pr }}
+          TICKET: ${{ steps.decide.outputs.ticket }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          printf 'The factory could not start a fix run. See %s\n' "$RUN_URL" > "$RUNNER_TEMP/blocked.md"
+          gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked || true
+          node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/blocked.md"
