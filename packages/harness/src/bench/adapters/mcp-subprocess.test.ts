@@ -74,4 +74,33 @@ describe('McpSubprocess', () => {
     // A second close() would wait forever for an exit that already happened.
     open.splice(open.indexOf(sub), 1);
   });
+
+  it('connect() rejects promptly when the child exits before initialize', async () => {
+    const started = Date.now();
+    await expect(
+      McpSubprocess.connect('early', [process.execPath, '-e', 'process.exit(3)'], {
+        initTimeout: 30_000,
+      }),
+    ).rejects.toThrow(/early exited with code 3/);
+    expect(Date.now() - started).toBeLessThan(2_000);
+  });
+
+  it('rejects every pending request when the child exits after initialize', async () => {
+    const sub = await connect();
+    const started = Date.now();
+    const silent = sub.callTool('silent', {});
+    const exit = sub.callTool('exit', {});
+    await expect(exit).rejects.toThrow(/stub exited with code 7/);
+    await expect(silent).rejects.toThrow(/stub exited with code 7/);
+    expect(Date.now() - started).toBeLessThan(2_000);
+    // Requests sent after the exit fail at once instead of timing out.
+    await expect(sub.callTool('echo', {})).rejects.toThrow(/stub exited with code 7/);
+  });
+
+  it('connect() rejects with the server and command when the binary is missing', async () => {
+    const bin = 'seekstone-no-such-binary';
+    await expect(
+      McpSubprocess.connect('missing', [bin, '--flag'], { initTimeout: 30_000 }),
+    ).rejects.toThrow(/missing failed to start `seekstone-no-such-binary --flag`.*ENOENT/);
+  });
 });
