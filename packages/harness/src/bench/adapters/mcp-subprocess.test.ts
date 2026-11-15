@@ -1,3 +1,5 @@
+import { existsSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { afterEach, describe, expect, it } from 'vitest';
@@ -52,6 +54,7 @@ describe('McpSubprocess', () => {
   it('a JSON-RPC error rejects with the server name and code', async () => {
     const sub = await connect();
     await expect(sub.callToolRaw('nope', {})).rejects.toThrow('stub -32601: unknown tool');
+    await expect(sub.callTool('nope', {})).rejects.toThrow('stub -32601: unknown tool');
   });
 
   it('listAll() follows nextCursor across pages', async () => {
@@ -95,6 +98,30 @@ describe('McpSubprocess', () => {
     expect(Date.now() - started).toBeLessThan(2_000);
     // Requests sent after the exit fail at once instead of timing out.
     await expect(sub.callTool('echo', {})).rejects.toThrow(/stub exited with code 7/);
+  });
+
+  it('rejects pending requests when the child exits but a helper keeps stdout open', async () => {
+    const dir = mkdtempSync(join(tmpdir(), 'mcp-orphan-'));
+    const pidFile = join(dir, 'pid');
+    const sub = await connect();
+    const started = Date.now();
+    try {
+      const silent = expect(sub.callTool('silent', {})).rejects.toThrow(/stub exited with code 5/);
+      const orphan = expect(sub.callTool('orphan', { pidFile })).rejects.toThrow(
+        /stub exited with code 5/,
+      );
+      await Promise.all([silent, orphan]);
+      expect(Date.now() - started).toBeLessThan(2_000);
+    } finally {
+      if (existsSync(pidFile)) {
+        try {
+          process.kill(Number(readFileSync(pidFile, 'utf8')));
+        } catch {
+          // The helper is already gone.
+        }
+      }
+      rmSync(dir, { recursive: true, force: true });
+    }
   });
 
   it('connect() rejects with the server and command when the binary is missing', async () => {
