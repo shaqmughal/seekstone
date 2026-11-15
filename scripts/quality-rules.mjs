@@ -22,6 +22,32 @@ const DISABLE =
 
 export const isTestFile = (path) => TEST_FILE.test(path);
 
+/**
+ * Files that exist to support tests rather than ship: stub servers, mocks,
+ * fakes, fixtures and test utilities. Failing-test-first keeps these at the
+ * PR version when it reverts the source, so a new test's helpers stay
+ * available and the test fails only if the fix is missing.
+ */
+const TEST_SUPPORT =
+  /(?:^|\/)(?:__fixtures__|__mocks__|testdata|test-utils?)\/|(?:^|\/)(?:stub|mock|fake)s?[-.][^/]*$|[-_.](?:stub|mock|fake|fixture)s?\.[cm]?[jt]sx?$|(?:^|\/)test-?utils?\.[cm]?[jt]sx?$/i;
+export const isTestSupport = (path) => TEST_SUPPORT.test(path);
+
+/**
+ * The PR's source files for failing-test-first: changed ones to restore from
+ * the base commit, and added ones to delete. Tests and test support are left
+ * as the PR has them.
+ * @returns {{ changed: string[], added: string[] }}
+ */
+export function sourceToRevert(files) {
+  const source = files.filter((f) => !isTestFile(f.filename) && !isTestSupport(f.filename));
+  return {
+    changed: source
+      .filter((f) => f.status !== 'added')
+      .map((f) => f.previous_filename ?? f.filename),
+    added: source.filter((f) => f.status === 'added').map((f) => f.filename),
+  };
+}
+
 /** Added and removed code lines of a unified diff, without the +/- marker. */
 function diffLines(patch = '') {
   const added = [];

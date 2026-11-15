@@ -136,7 +136,15 @@ jobs:
           MODEL: ${{ needs.prepare.outputs.model }}
           BRANCH: ${{ needs.prepare.outputs.branch }}
           TICKET: ${{ inputs.ticket }}
+          TRANSCRIPT: ${{ runner.temp }}/transcript/transcript.jsonl
         run: |
+          # Trust this checkout so the committed .claude/settings.json applies
+          # (its Biome hook formats each edited file). The runner is fresh, so
+          # there is no ~/.claude.json to merge with.
+          node -e 'const f=require("os").homedir()+"/.claude.json";
+            require("fs").writeFileSync(f, JSON.stringify({projects:{[process.cwd()]:{hasTrustDialogAccepted:true}}}))'
+          mkdir -p "$(dirname "$TRANSCRIPT")"
+          status=0
           prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           The ticket is in ${FACTORY_DIR}/ticket.md. Use the branch name ${BRANCH}."
           claude -p "$prompt" \
@@ -147,7 +155,21 @@ jobs:
               "Bash(npx vitest *)" "Bash(npx tsc *)" "Bash(npx biome *)" "Bash(npx changeset*)" \
               "Bash(node scripts/*)" "Bash(git *)" "Bash(ls *)" "Bash(cat *)" "Bash(rm ${FACTORY_DIR}/*)" \
             --disallowedTools "WebFetch" "WebSearch" "Bash(git push*)" "Bash(curl *)" "Bash(wget *)" \
-            --settings '{"attribution":{"commit":"","pr":""},"includeCoAuthoredBy":false}'
+            --settings '{"attribution":{"commit":"","pr":""},"includeCoAuthoredBy":false}' \
+            --output-format stream-json --verbose > "$TRANSCRIPT" || status=$?
+          # The agent's closing summary, for the run log.
+          jq -r 'select(.type == "result") | .result // empty' "$TRANSCRIPT" || true
+          exit "$status"
+
+      # The full transcript (every tool call and its output), so a run can be
+      # audited after the fact.
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: factory-transcript
+          path: ${{ runner.temp }}/transcript/
+          retention-days: 14
+          if-no-files-found: ignore
 
       - name: Package the result
         env:

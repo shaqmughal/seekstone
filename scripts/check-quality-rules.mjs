@@ -7,7 +7,7 @@
 // names), GITHUB_OUTPUT (set by Actions).
 
 import { appendFileSync } from 'node:fs';
-import { evaluate, isTestFile } from './quality-rules.mjs';
+import { evaluate, sourceToRevert } from './quality-rules.mjs';
 
 const { GITHUB_TOKEN, GITHUB_REPOSITORY, PR_NUMBER, GITHUB_OUTPUT } = process.env;
 const labels = JSON.parse(process.env.PR_LABELS || '[]');
@@ -44,12 +44,7 @@ if (result.weakened.length > 0 && !labels.includes('tests-weakened')) {
   if (!res.ok) console.log(`::notice::could not add the tests-weakened label (HTTP ${res.status})`);
 }
 
-const sourceFiles = files
-  .filter((f) => !isTestFile(f.filename) && f.status !== 'added')
-  .map((f) => f.previous_filename ?? f.filename);
-const addedSource = files
-  .filter((f) => !isTestFile(f.filename) && f.status === 'added')
-  .map((f) => f.filename);
+const { changed: sourceFiles, added: addedSource } = sourceToRevert(files);
 
 if (GITHUB_OUTPUT) {
   appendFileSync(
