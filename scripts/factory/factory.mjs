@@ -84,6 +84,34 @@ export function openBlockers(issue) {
     .map((r) => r.issue.identifier);
 }
 
+/**
+ * The Authorization header for Linear. With LINEAR_CLIENT_ID and
+ * LINEAR_CLIENT_SECRET (the Factory OAuth app, client credentials enabled) it
+ * mints a token that acts as the app, so its comments notify people; with
+ * only LINEAR_API_KEY it falls back to that personal key.
+ */
+export async function linearAuth(env, fetchImpl = fetch) {
+  if (env.LINEAR_CLIENT_ID && env.LINEAR_CLIENT_SECRET) {
+    const res = await fetchImpl('https://api.linear.app/oauth/token', {
+      method: 'POST',
+      headers: { 'content-type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        grant_type: 'client_credentials',
+        scope: 'read,write',
+        client_id: env.LINEAR_CLIENT_ID,
+        client_secret: env.LINEAR_CLIENT_SECRET,
+      }),
+    });
+    const body = await res.json().catch(() => ({}));
+    if (!res.ok || !body.access_token) {
+      throw new Error(`Linear token: HTTP ${res.status} ${body.error ?? ''}`.trim());
+    }
+    return `Bearer ${body.access_token}`;
+  }
+  if (env.LINEAR_API_KEY) return env.LINEAR_API_KEY;
+  throw new Error('set LINEAR_CLIENT_ID and LINEAR_CLIENT_SECRET (or LINEAR_API_KEY)');
+}
+
 export function linear(apiKey, fetchImpl = fetch) {
   async function gql(query, variables) {
     const res = await fetchImpl(LINEAR_URL, {
@@ -98,6 +126,7 @@ export function linear(apiKey, fetchImpl = fetch) {
     return body.data;
   }
   return {
+    query: gql,
     async issue(id) {
       const data = await gql(
         `query($id: String!) { issue(id: $id) {
@@ -217,9 +246,7 @@ async function main() {
     );
     process.exit(2);
   }
-  const key = process.env.LINEAR_API_KEY;
-  if (!key) throw new Error('LINEAR_API_KEY is not set');
-  const api = linear(key);
+  const api = linear(await linearAuth(process.env));
 
   if (cmd === 'blocked') {
     await blocked(id, readFileSync(path, 'utf8'), api);

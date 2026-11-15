@@ -117,6 +117,8 @@ jobs:
           PR: ${{ steps.decide.outputs.pr }}
           TICKET: ${{ steps.decide.outputs.ticket }}
           REASON: ${{ steps.decide.outputs.reason }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
@@ -129,6 +131,8 @@ jobs:
         if: steps.decide.outputs.action == 'none' && steps.decide.outputs.reason == '"blocked"'
         env:
           TICKET: ${{ steps.decide.outputs.ticket }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
         run: node scripts/factory/factory.mjs ensure-blocked "$TICKET"
 
@@ -139,6 +143,8 @@ jobs:
         env:
           PR: ${{ steps.decide.outputs.pr }}
           TICKET: ${{ steps.decide.outputs.ticket }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

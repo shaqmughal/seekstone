@@ -1,0 +1,64 @@
+name: Factory report
+
+# Posts the Factory log comment on SHA-527 (SHA-525): what the factory did
+# in the last 24 hours and what is waiting on Shaq, plus the five weekly
+# metrics on Mondays. Built from GitHub and Linear data by
+# scripts/factory/report.mjs; no model calls. Posted as the Factory Linear
+# app, so the comment notifies.
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # 12:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      weekly:
+        description: Include the weekly metrics
+        type: boolean
+        default: false
+
+permissions: {}
+
+concurrency:
+  group: factory-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pull-requests: read
+      issues: read
+      checks: read
+      actions: read
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Post the Factory log
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          FACTORY_BOT_LOGIN: ${{ vars.FACTORY_APP_SLUG }}[bot]
+          WEEKLY: ${{ inputs.weekly }}
+        run: |
+          if [ "$WEEKLY" = "true" ]; then
+            node scripts/factory/report.mjs --weekly
+          else
+            node scripts/factory/report.mjs
+          fi

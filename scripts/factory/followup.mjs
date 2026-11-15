@@ -22,7 +22,7 @@ import { gh, requiredChecks } from './github.mjs';
 /** Fix attempts after the first run; Sonnet tickets get one more, on Opus. */
 export const MAX_FIXES = 2;
 export const BLOCKED_LABEL = 'factory-blocked';
-const MARKER = /<!-- factory-fix sha=([0-9a-f]{7,40}) attempt=(\d+) -->/;
+export const MARKER_RE = /<!-- factory-fix sha=([0-9a-f]{7,40}) attempt=(\d+) -->/;
 
 export const MODEL_SONNET = /<!-- factory-model sonnet -->/;
 const PASS = new Set(['success', 'skipped', 'neutral']);
@@ -58,7 +58,7 @@ export function fixHistory(comments, sha, bot) {
   let forSha = false;
   for (const c of comments) {
     if (c.user?.login !== bot) continue;
-    const m = c.body?.match(MARKER);
+    const m = c.body?.match(MARKER_RE);
     if (!m) continue;
     attempts = Math.max(attempts, Number(m[2]));
     if (sha.startsWith(m[1]) || m[1].startsWith(sha)) forSha = true;
