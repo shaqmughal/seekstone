@@ -261,8 +261,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          if gh pr view "$BRANCH" --repo "$GITHUB_REPOSITORY" --json url --jq .url 2>/dev/null; then
-            echo "The PR was opened; leaving the ticket alone."
+          pr=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --state open --json url --jq '.[0].url // empty')
+          if [ -n "$pr" ]; then
+            echo "The PR was opened ($pr); leaving the ticket alone."
             exit 0
           fi
           printf 'The factory run failed before it delivered a result. See %s\n' "$RUN_URL" > "$RUNNER_TEMP/failed.md"

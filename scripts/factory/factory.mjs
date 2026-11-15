@@ -105,7 +105,7 @@ export function linear(apiKey, fetchImpl = fetch) {
           state { name }
           labels { nodes { name } }
           team { states { nodes { id name } } }
-          inverseRelations { nodes { type issue { identifier state { type } } } }
+          inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
         } }`,
         { id },
       );
