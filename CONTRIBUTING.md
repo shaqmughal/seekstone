@@ -6,7 +6,7 @@ By participating you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Getting set up
 
-Requires [Node.js](https://nodejs.org) ≥ 22.
+Requires [Node.js](https://nodejs.org) ≥ 22.22.
 
 ```bash
 git clone https://github.com/shaqmughal/seekstone.git
@@ -38,7 +38,7 @@ npx vitest run packages/server/src/tools/search.test.ts
 npx vitest run -t 'parses a typical frontmatter'
 ```
 
-Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks all pass** — CI runs them on macOS, Linux, and Windows and will block a merge otherwise. The Linux leg additionally blocks on: protocol conformance (`npm run conformance`), the write-safety baseline (`node scripts/check-safety-baseline.mjs`), per-package coverage gates (server, harness, and core thresholds), `server.json` and docs-sync guards, and a **changeset check** — a PR touching `packages/server/src/` or `package.json` without a changeset fails CI (`npx changeset` to add one).
+Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks all pass** — CI runs them on macOS, Linux, and Windows and will block a merge otherwise. The Linux leg additionally blocks on: protocol conformance (`npm run conformance`), the write-safety baseline (`node scripts/check-safety-baseline.mjs`), per-package coverage gates (server, harness, and core thresholds), `server.json` and docs-sync guards, the schema-tax baseline, pinned-action inputs, and a **changeset check** — a PR touching `packages/server/src/` or `package.json` without a changeset fails CI (`npx changeset` to add one). [`docs/QUALITY-GATES.md`](docs/QUALITY-GATES.md) lists every required check and what it guards.
 
 ## Conventions
 
@@ -47,8 +47,9 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
 - **Line endings are LF** (enforced via `.gitattributes`).
 - **Imports use `.js` extensions** even for TypeScript sources — that's what NodeNext + tsx + tsc agree on.
 - **Never mutate the live vault outside an explicit tool.** Write paths must preserve byte-faithful frontmatter; see the write-safety harness.
-- **Tests only get stronger.** The `quality rules` check fails a PR that deletes a test file, removes `it`/`test` cases, or adds `.skip`/`.only`/`.todo`. If that's intended (say, a test for a removed feature), a maintainer adds the `tests-weakened:approved` label. Any test file a PR adds or changes also runs 10 times on Linux, macOS and Windows (`flaky check`), so a flaky test is caught before it lands. Run the same loop locally with `node scripts/run-test-files.mjs --times 10 '["path/to/x.test.ts"]'`. PRs labeled `factory` also get a scope lock (no CI, agent-instruction or lint-config changes), a 400-line size limit, and for bug fixes, a check that the new test fails without the fix.
-- **Speed regressions fail the PR.** The CodSpeed check runs the hot-path benchmarks in `packages/server/src/bench/` (index build, search, read, links, a journaled write) by counting CPU instructions, so results don't drift with runner load, and compares them with `main`. Run them locally with `npm run bench -w seekstone`; local numbers are plain timings. A new hot path should get a bench case in the same PR. Simulation leaves out disk I/O and system calls, so a weekly wall-clock run on real hardware (`scripts/weekly-bench.mjs`, the harness benchmark on the committed 10k-note vault) compares each week's main with the last and files an issue when a regression survives a re-run.
+- **Tests only get stronger.** The `quality rules` check fails a PR that deletes a test file, removes `it`/`test` cases, or adds `.skip`/`.only`/`.todo`. If that's intended (say, a test for a removed feature), a maintainer adds the `tests-weakened:approved` label. Any test file a PR adds or changes also runs 10 times on Linux, macOS and Windows (`flaky check`), so a flaky test is caught before it lands. Run the same loop locally with `node scripts/run-test-files.mjs --times 10 '["path/to/x.test.ts"]'`. PRs labeled `factory` (the factory workflow adds the label when it opens the PR) also get a scope lock (no CI, agent-instruction or lint-config changes), a 400-line size limit, and, when the PR is also labeled `bug`, a check that the new test fails without the fix.
+- **Speed regressions fail the PR.** The CodSpeed check runs the hot-path benchmarks in `packages/server/src/bench/` (index build, search, read, links, a journaled write) by counting CPU instructions, so results don't drift with runner load, and compares them with `main`. Run them locally with `npm run bench -w seekstone`; local numbers are plain timings. A new hot path should get a bench case in the same PR. Simulation leaves out disk I/O and system calls, so a weekly wall-clock run on real hardware (`scripts/weekly-bench.mjs`, the harness benchmark on the committed 10k-note vault) compares each week's main with the last and files a Linear issue in Triage when a regression survives a re-run. It runs by hand for now; setup is in [`docs/QUALITY-GATES.md`](docs/QUALITY-GATES.md#speed).
+- **Claude Code settings are shared.** `.claude/settings.json` allows the repo's routine commands (tests, lint, build, bench, read-only git) without a prompt, blocks reading `.env` files, and runs `scripts/biome-hook.mjs` after every edit so Biome problems show up while the agent can still fix them.
 - **No telemetry, and no network calls on the serving path.** This is a core promise — keep it. The sole sanctioned network code is the `fetch-model` CLI subcommand (pinned-hash model download, exits before serving); `no-network.test.ts` is the guard, and it must keep passing with semantic search enabled.
 
 ## Adding a tool, prompt, or resource
@@ -78,7 +79,7 @@ Use the [issue templates](https://github.com/shaqmughal/seekstone/issues/new/cho
 
 ## Writing a PRD
 
-Larger features start with a short product requirements doc. Copy [`docs/PRD_TEMPLATE.md`](docs/PRD_TEMPLATE.md) into the Linear issue (or `docs/prd/<slug>.md`) and fill it in. The template is execution-ready — a complete PRD should let someone (or Claude Code) build, test, and verify the feature without further design decisions.
+Larger features start with a short product requirements doc. Copy [`docs/PRD_TEMPLATE.md`](docs/PRD_TEMPLATE.md) into the Linear issue and fill it in. In Claude Code, the `/prd` skill (`.claude/skills/prd/SKILL.md`) drafts one from a Linear issue or an idea. The template is execution-ready — a complete PRD should let someone (or Claude Code) build, test, and verify the feature without further design decisions.
 
 ## License
 

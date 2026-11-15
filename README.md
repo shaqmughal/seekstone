@@ -266,7 +266,7 @@ Seekstone is a standard MCP stdio server — any MCP client can run it. Use the 
 
 After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 25 tools below are then available to Claude.
 
-Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
+Requires [Node.js](https://nodejs.org) ≥ 22.22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
 If Seekstone saves you context, consider [⭐ starring the repo](https://github.com/shaqmughal/seekstone) — it helps others find it.
 
@@ -418,7 +418,7 @@ No. Seekstone bypasses it entirely — that's the source of the up-to-47,000× p
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke one of its write tools (the ten in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`, `undo_write`). Every one of them journals the pre-image of each file it touches first, so `undo_write` can put it back byte-for-byte — see the write-journal note above — and with `SEEKSTONE_AUDIT_FILE` set, every write call leaves a hash-verifiable audit record (refused attempts included). The running server makes no network requests (semantic search's model is fetched once, out-of-band, by the explicit `fetch-model` subcommand). The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`), and `SEEKSTONE_READ_PATHS` hides folders from the agent entirely (say, `!Journal/**`). Write scoping is enforced at the dispatch layer, not per-tool, and read scoping at the index and at the one path helper every file read goes through, so no tool can forget either check.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the eleven in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`, `update_task`, `undo_write`). Every one of them journals the pre-image of each file it touches first, so `undo_write` can put it back byte-for-byte — see the write-journal note above — and with `SEEKSTONE_AUDIT_FILE` set, every write call leaves a hash-verifiable audit record (refused attempts included). The running server makes no network requests (semantic search's model is fetched once, out-of-band, by the explicit `fetch-model` subcommand). The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`), and `SEEKSTONE_READ_PATHS` hides folders from the agent entirely (say, `!Journal/**`). Write scoping is enforced at the dispatch layer, not per-tool, and read scoping at the index and at the one path helper every file read goes through, so no tool can forget either check.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
@@ -458,7 +458,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 | Package | Purpose |
 |---|---|
 | `packages/server` | The published `seekstone` MCP server (25 tools, stdio, MiniSearch index, chokidar watcher). |
-| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, outline, percentiles, pmap, and the Model2Vec embedder. Bundled into the server build. |
+| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, outline, task parser, percentiles, pmap, and the Model2Vec embedder. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
 The server has a real build (tsup → `dist/`) and is published to npm. The harness is run from source via `tsx`. Releases are automated — see [docs/RELEASING.md](docs/RELEASING.md).
