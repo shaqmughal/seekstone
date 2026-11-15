@@ -64,7 +64,8 @@ export function section(markdown, heading) {
   return lines
     .slice(start + 1, end === -1 ? undefined : end)
     .join('\n')
-    .trim();
+    .replace(/^\s*\n/, '') // drop leading blank lines, keep the first line's indent
+    .trimEnd();
 }
 
 /**

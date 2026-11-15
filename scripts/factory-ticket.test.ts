@@ -103,6 +103,11 @@ describe('checkTicket', () => {
       '## Problem\n\nSlow.\n\n## Acceptance criteria\n\n```md\n- [ ] example only\n```\n';
     expect(checkTicket(ticket)).toEqual(['"## Acceptance criteria" has no checklist items.']);
   });
+  it("keeps the indentation of a section's first line", () => {
+    const ticket =
+      '## Problem\n\nSlow.\n\n## Acceptance criteria\n    ```\n    example\n    ```\n- [ ] p95 under 5 ms\n';
+    expect(checkTicket(ticket)).toEqual([]);
+  });
 });
 
 describe('section and items', () => {
