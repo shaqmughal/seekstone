@@ -26,6 +26,14 @@ Seekstone is designed to be conservative with your data. The published server:
 
 `delete_note` moves the note to the vault's `.trash/` folder by default (Obsidian-compatible — restore by moving it back). Pass `permanent: true` for an unrecoverable delete. The full, tested write-safety guarantees are documented in [docs/WRITE-SAFETY.md](docs/WRITE-SAFETY.md).
 
+## How releases are built
+
+- **npm publishes use OIDC trusted publishing.** No npm token exists. The release job runs in a protected `release` environment that only `main` can use, and every npm version carries provenance.
+- **The `.mcpb` bundles have a SLSA build-provenance attestation.** Check one with `gh attestation verify seekstone.mcpb --repo shaqmughal/seekstone`.
+- **CI is locked down.** Every action is pinned to a commit SHA, every job starts with Harden-Runner (it currently logs outbound network calls without blocking them), and CodeQL and OpenSSF Scorecard run on `main`. Dependabot keeps dependencies and actions current.
+
+[`docs/QUALITY-GATES.md`](docs/QUALITY-GATES.md) has the full list of checks.
+
 ## Logs and privacy
 
 Logging is metadata-only by default (tool name, vault-relative paths, timings). Note contents and raw query text are only included at the `debug` log level, which you opt into via `SEEKSTONE_LOG_LEVEL=debug`. Logs are written to stderr, and to a file only if you set `SEEKSTONE_LOG_FILE`. Nothing is ever sent off-device.

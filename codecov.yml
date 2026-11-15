@@ -27,7 +27,6 @@ ignore:
   - packages/harness/src/bench/adapters/rest.ts
   - packages/harness/src/bench/adapters/mcpvault.ts
   - packages/harness/src/bench/adapters/mcp-obsidian.ts
-  - packages/harness/src/bench/adapters/mcp-subprocess.ts
   - packages/harness/src/bench/adapters/obsidian-mcp.ts
   - packages/harness/src/bench/adapters/obsidian-mcp-pro.ts
   - packages/harness/src/bench/adapters/obsidian-mcp-rs.ts

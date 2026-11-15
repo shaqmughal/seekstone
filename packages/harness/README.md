@@ -1,10 +1,12 @@
 # @seekstone/harness
 
 Dev-only measurement harness for the seekstone Obsidian MCP server: a **profiler**, a
-**benchmark runner**, a **write-safety suite**, and a **retrieval-quality eval**. The
-first three share one `Backend` contract so filesystem-direct, REST, and other adapters
-are measured identically; the retrieval eval deliberately bypasses `Backend` and calls
-the server's search internals directly — it measures ranking quality, not payload bytes.
+**benchmark runner**, a **write-safety suite**, a **retrieval-quality eval**, and a
+**schema-tax** measurement, plus a **read-scope** leak check. The first three share one
+`Backend` contract so filesystem-direct, REST, and other adapters are measured
+identically. The retrieval eval bypasses `Backend` and calls the server's search
+internals directly, because it measures ranking quality, not payload bytes. Schema-tax
+and read-scope boot the built server over MCP stdio.
 Run from source via `tsx`; never published to npm.
 
 > The product story this harness exists to substantiate: **filesystem-direct beats
@@ -264,12 +266,29 @@ present and lists anything still missing under "Not yet captured."
 | `safety`  | Write-safety suite (operates on a vault **copy**): five byte-faithful round-trip ops plus five behavioral ops — recoverable-delete, create-no-clobber, cas-conflict, undo-roundtrip, task-toggle | `safety-<backend>.{json,md}` |
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
 | `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |
-| `fetch-corpus` | Downloads the PG EB1911 corpus into `fixtures/corpus/raw/` (gitignored) | corpus text |
+| `fetch-corpus` | Downloads the PG EB1911 corpus into `fixtures/corpus/raw/` (gitignored), falling back to the mirror release for re-issued volumes | corpus text |
+| `verify-corpus-mirror` | Checks the mirror release against `fixtures/corpus/manifest.json` by the digests GitHub reports, with no downloads (CI: `corpus-mirror.yml`) | exit code |
+| `publish-corpus` | Re-pin only: publishes `fixtures/corpus/raw/` as a new immutable mirror release (needs `gh`) | GitHub release |
 | `fetch-models` | Downloads the pinned Model2Vec embedding models into `fixtures/models/` (gitignored), checksum-verified against [`fixtures/models/manifest.json`](./fixtures/models/manifest.json) | model files |
 | `retrieval` | Retrieval-quality eval against `queries/golden.json`: lexical vs semantic (per model) vs hybrid, hit@5 + MRR@10 per subset, warm latency, and the pre-registered SHA-257 ship gate. `--experiments` adds the fusion candidates, the SHA-313 chunk-pooling grid, and the SHA-314 MaxSim-rerank grid (reported, never gated — verdicts in `fixtures/baseline-reports/POOLING-SHA-313.md` and `fixtures/baseline-reports/MAXSIM-SHA-314.md`); `--shipped` reruns every query through the server's real `search` tool and the real per-vault embedding cache — the one harness path that writes outside the repo (`SEEKSTONE_CACHE_DIR`, default `~/.cache/seekstone`) | `retrieval-eval.{json,md}` |
 | `scale-render` | Renders the multi-scale (1k/5k/10k) comparison report from per-size benchmark JSONs | `benchmark-scaling.md` |
 
 `bench` and `scenarios` accept `--runs <n>` (default 20) — the run count behind the cold/warm split quoted in the reports. `retrieval` takes `--runs` too (default 20), but with different semantics: run 1 per query is cold and discarded, and only the pooled warm distribution is reported. Each subprocess adapter's launch command can be overridden with `SEEKSTONE_<NAME>_CMD` (e.g. `SEEKSTONE_MCPVAULT_CMD`), matching the `SEEKSTONE_<NAME>_*` env convention.
+
+### Environment variables
+
+| Variable | Used by | Default |
+| --- | --- | --- |
+| `SEEKSTONE_VAULT` | every command that reads a vault | none |
+| `SEEKSTONE_REST_API_KEY` | the `rest` backend (Local REST API plugin settings) | none |
+| `SEEKSTONE_REST_URL` | the `rest` backend | `https://127.0.0.1:27124` |
+| `SEEKSTONE_MCP_INIT_TIMEOUT` | subprocess adapters: how long to wait for the server's `initialize` reply, in ms | `30000` |
+| `SEEKSTONE_<NAME>_CMD` | launch command for one subprocess adapter, split on spaces: `MCP_OBSIDIAN`, `MCPVAULT`, `OBSIDIAN_MCP`, `OBSIDIAN_MCP_SERVER`, `OBSIDIAN_MCP_RS`, `OBSIDIAN_MCP_PRO`, `OBSIDIAN_TC` | the adapter's pinned `npx`/`uvx` command |
+| `SEEKSTONE_OBSIDIAN_TC_FACADE` | `obsidian-tc` adapter: `1` routes ops through its facade tools | off |
+| `SEEKSTONE_COMPETITORS` | `retrieval --competitors`: comma-separated subset of competitors to run | all |
+| `SEEKSTONE_OLLAMA_URL` | `retrieval --competitors`: the Ollama server both competitors embed through | `http://127.0.0.1:11434` |
+| `SEEKSTONE_COMPETITOR_INDEX_TIMEOUT_MS` | `retrieval --competitors`: index budget per competitor | `3600000` (1 h) |
+| `SEEKSTONE_CACHE_DIR` | `retrieval --shipped`: where the server's embedding cache lives | `~/.cache/seekstone` |
 
 ### Tokens per task (`scenarios`)
 
