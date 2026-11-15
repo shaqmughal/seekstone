@@ -1,0 +1,270 @@
+name: Factory
+
+# Turns one Linear ticket into a PR (SHA-524). Started by hand for now.
+#
+#   prepare  holds the Linear key: checks the ticket, writes ticket.md, picks
+#            the model and branch, moves the ticket to In Progress.
+#   work     runs Claude Code with the playbook (.claude/skills/factory) on a
+#            checkout of main. No Linear key, no write token: its only output
+#            is an artifact with pr.md or blocked.md and a git bundle.
+#   deliver  holds the Linear key and the factory app token: pushes the
+#            branch and opens the PR, or comments and moves the ticket to
+#            Blocked.
+#
+# The off switch is the FACTORY_ENABLED repo variable ("true" to run).
+#
+# Setup: the `factory` environment (main only) holds CLAUDE_CODE_OAUTH_TOKEN,
+# LINEAR_API_KEY and FACTORY_APP_PRIVATE_KEY. Repo variables FACTORY_APP_CLIENT_ID
+# and FACTORY_APP_SLUG name the factory GitHub App (contents and pull requests
+# read/write, installed on this repo only).
+
+on:
+  workflow_dispatch:
+    inputs:
+      ticket:
+        description: Linear ticket ID (for example SHA-196)
+        required: true
+        type: string
+
+permissions: {}
+
+# One run at a time, so two tickets can't both pass the open-PR cap before
+# either opens its PR. Runs queue instead.
+concurrency:
+  group: factory
+  cancel-in-progress: false
+
+env:
+  CLAUDE_CODE_VERSION: 2.1.316
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: read
+    outputs:
+      run: ${{ steps.prepare.outputs.run }}
+      model: ${{ steps.prepare.outputs.model }}
+      branch: ${{ steps.prepare.outputs.branch }}
+      labels: ${{ steps.prepare.outputs.labels }}
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Check the ticket and write ticket.md
+        id: prepare
+        env:
+          TICKET: ${{ inputs.ticket }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          FACTORY_ENABLED: ${{ vars.FACTORY_ENABLED }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          OPEN_FACTORY_PRS=$(gh pr list --repo "$GITHUB_REPOSITORY" --label factory --state open --json number --jq length)
+          export OPEN_FACTORY_PRS
+          node scripts/factory/factory.mjs prepare "$TICKET" "$RUNNER_TEMP/factory"
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: steps.prepare.outputs.run == 'true'
+        with:
+          name: factory-ticket
+          path: ${{ runner.temp }}/factory/ticket.md
+          retention-days: 7
+
+  work:
+    needs: prepare
+    if: needs.prepare.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      # Instructions (CLAUDE.md files, the playbook, settings) come from main.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install and build
+        run: |
+          npm ci
+          npm run build -w seekstone
+          npm install --global "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}"
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: factory-ticket
+          path: ${{ runner.temp }}/factory
+
+      - name: Set the commit identity
+        env:
+          GH_TOKEN: ${{ github.token }}
+          APP_SLUG: ${{ vars.FACTORY_APP_SLUG }}
+        run: |
+          id=$(gh api "users/${APP_SLUG}%5Bbot%5D" --jq .id)
+          git config user.name "${APP_SLUG}[bot]"
+          git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
+
+      - name: Run the playbook
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          MODEL: ${{ needs.prepare.outputs.model }}
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+          TICKET: ${{ inputs.ticket }}
+        run: |
+          prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
+          The ticket is in ${FACTORY_DIR}/ticket.md. Use the branch name ${BRANCH}."
+          claude -p "$prompt" \
+            --model "$MODEL" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read" "Edit" "Write" "Glob" "Grep" "TodoWrite" \
+              "Bash(npm test)" "Bash(npm test *)" "Bash(npm run *)" "Bash(npm ci)" \
+              "Bash(npx vitest *)" "Bash(npx tsc *)" "Bash(npx biome *)" "Bash(npx changeset*)" \
+              "Bash(node scripts/*)" "Bash(git *)" "Bash(ls *)" "Bash(cat *)" "Bash(rm ${FACTORY_DIR}/*)" \
+            --disallowedTools "WebFetch" "WebSearch" "Bash(git push*)" "Bash(curl *)" "Bash(wget *)" \
+            --settings '{"attribution":{"commit":"","pr":""},"includeCoAuthoredBy":false}'
+
+      - name: Package the result
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+        run: |
+          if [ -f "$FACTORY_DIR/pr.md" ] && [ -f "$FACTORY_DIR/blocked.md" ]; then
+            echo "::error::the agent left both pr.md and blocked.md"; exit 1
+          fi
+          if [ -f "$FACTORY_DIR/pr.md" ]; then
+            ahead=$(git rev-list --count main..HEAD)
+            if [ "$ahead" -eq 0 ]; then echo "::error::pr.md but no commits on the branch"; exit 1; fi
+            git bundle create "$FACTORY_DIR/work.bundle" main..HEAD
+            echo "$ahead commit(s) on $(git branch --show-current)"
+          elif [ ! -f "$FACTORY_DIR/blocked.md" ]; then
+            echo "::error::the agent left neither pr.md nor blocked.md"; exit 1
+          fi
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory/
+          retention-days: 7
+
+  deliver:
+    needs: [prepare, work]
+    if: always() && needs.prepare.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pull-requests: read # check whether the PR was opened, on failure
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: The work job failed
+        if: needs.work.result != 'success'
+        env:
+          WORK_RESULT: ${{ needs.work.result }}
+        run: |
+          echo "::error::the work job ended with '$WORK_RESULT'"
+          exit 1
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory
+
+      - name: Pass the agent's questions to Linear
+        id: questions
+        env:
+          TICKET: ${{ inputs.ticket }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+        run: |
+          if [ -f "$FACTORY_DIR/blocked.md" ]; then
+            node scripts/factory/factory.mjs blocked "$TICKET" "$FACTORY_DIR/blocked.md"
+            echo "done=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # PRs opened with the default token don't trigger CI, so the factory
+      # pushes and opens PRs as its own GitHub App (contents and pull
+      # requests only; it can't change workflows).
+      - name: Mint factory app token
+        id: app-token
+        if: steps.questions.outputs.done != 'true'
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
+          private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
+
+      - name: Push the branch and open the PR
+        if: steps.questions.outputs.done != 'true'
+        env:
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+          PR_LABELS: ${{ needs.prepare.outputs.labels }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$BRANCH"
+          # The token is passed to this one push, not stored in git config.
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$BRANCH"
+          title=$(head -n 1 "$FACTORY_DIR/pr.md")
+          tail -n +2 "$FACTORY_DIR/pr.md" > "$FACTORY_DIR/body.md"
+          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$BRANCH" --title "$title" \
+            --body-file "$FACTORY_DIR/body.md" --label "$PR_LABELS" --reviewer "$GITHUB_REPOSITORY_OWNER"
+
+      # Any failure above would leave the ticket stuck in In Progress, where
+      # the Todo gate stops a retry. Block it with the run link, unless the PR
+      # did get opened.
+      - name: Block the ticket on failure
+        if: failure()
+        env:
+          TICKET: ${{ inputs.ticket }}
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          pr=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --state open --json url --jq '.[0].url // empty')
+          if [ -n "$pr" ]; then
+            echo "The PR was opened ($pr); leaving the ticket alone."
+            exit 0
+          fi
+          printf 'The factory run failed before it delivered a result. See %s\n' "$RUN_URL" > "$RUNNER_TEMP/failed.md"
+          node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/failed.md"
