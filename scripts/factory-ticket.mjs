@@ -27,9 +27,16 @@ export const PLACEHOLDERS = [
  */
 export function section(markdown, heading) {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
+  // Headings inside fenced code blocks are example text, not structure.
+  let fenced = false;
+  const isHeading = lines.map((l) => {
+    if (/^\s*(?:```|~~~)/.test(l)) fenced = !fenced;
+    return !fenced && /^#{1,2}\s+/.test(l);
+  });
   const want = heading.toLowerCase();
   const start = lines.findIndex(
-    (l) =>
+    (l, i) =>
+      isHeading[i] &&
       /^##\s+/.test(l) &&
       l
         .replace(/^##\s+(?:\d+[a-z]?[.)]\s*)?/, '')
@@ -38,17 +45,24 @@ export function section(markdown, heading) {
         .startsWith(want),
   );
   if (start === -1) return null;
-  const rest = lines.slice(start + 1);
-  const end = rest.findIndex((l) => /^#{1,2}\s+/.test(l));
-  return (end === -1 ? rest : rest.slice(0, end)).join('\n').trim();
+  const end = isHeading.findIndex((h, i) => h && i > start);
+  return lines
+    .slice(start + 1, end === -1 ? undefined : end)
+    .join('\n')
+    .trim();
 }
 
-/** Checklist or bullet items in a section body. */
+/** Checklist or bullet items with text in a section body; empty checkboxes don't count. */
 export function items(body) {
   return body
     .split('\n')
-    .map((l) => l.match(/^\s*[-*]\s+(?:\[[ xX]\]\s+)?(.*\S)\s*$/)?.[1])
-    .filter((t) => t !== undefined);
+    .map((l) =>
+      l
+        .match(/^\s*[-*]\s+(.*)$/)?.[1]
+        .replace(/^\[[ xX]\]/, '')
+        .trim(),
+    )
+    .filter((t) => t !== undefined && t !== '');
 }
 
 /** Problems that make a ticket not ready for the factory; empty when it is ready. */

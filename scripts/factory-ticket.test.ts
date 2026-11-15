@@ -81,6 +81,17 @@ describe('checkTicket', () => {
   it('handles CRLF line endings', () => {
     expect(checkTicket(READY.replace(/\n/g, '\r\n'))).toEqual([]);
   });
+  it('rejects criteria that are empty checkboxes', () => {
+    const ticket = '## Problem\n\nSlow.\n\n## Acceptance criteria\n\n- [ ]\n- [x] \n';
+    expect(checkTicket(ticket)).toEqual(['"## Acceptance criteria" has no checklist items.']);
+  });
+
+  it('ignores headings inside fenced code blocks', () => {
+    const ticket =
+      '## Problem\n\nSlow.\n\n## Acceptance criteria\n\n```md\n## Example\n```\n\n- [ ] p95 under 5 ms\n';
+    expect(checkTicket(ticket)).toEqual([]);
+    expect(section('```\n## Problem\n```\nnone', 'Problem')).toBeNull();
+  });
 });
 
 describe('section and items', () => {
