@@ -17,12 +17,13 @@ on:
 
 permissions: read-all
 
-# Runs for the same kind of event cancel each other (a new push cancels the
-# old push's run), but different kinds don't. A PR opened with labels fires
-# `opened` and `labeled` together; if one cancelled the other, the cancelled
-# run could be the newest and the required checks would read as failed.
+# A new push cancels the previous push's run. Every other event (opened,
+# labeled, unlabeled, reopened) gets a group of its own and runs to the end:
+# a PR opened with two labels fires three events at once, and a cancelled
+# run shows up as a red check, or as the failing required check when it
+# happens to be the newest.
 concurrency:
-  group: quality-${{ github.event.pull_request.number }}-${{ github.event.action }}
+  group: quality-${{ github.event.pull_request.number }}-${{ github.event.action == 'synchronize' && 'push' || github.run_id }}
   cancel-in-progress: true
 
 jobs:
@@ -38,6 +39,7 @@ jobs:
       has-tests: ${{ steps.check.outputs.has-tests }}
       source-files: ${{ steps.check.outputs.source-files }}
       added-source-files: ${{ steps.check.outputs.added-source-files }}
+      renamed-source-files: ${{ steps.check.outputs.renamed-source-files }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
@@ -144,6 +146,7 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           SOURCE_FILES: ${{ needs.rules.outputs.source-files }}
           ADDED_SOURCE: ${{ needs.rules.outputs.added-source-files }}
+          RENAMED_SOURCE: ${{ needs.rules.outputs.renamed-source-files }}
         shell: bash
         run: |
           echo "$SOURCE_FILES" | jq -r '.[]' | while IFS= read -r f; do
@@ -151,6 +154,9 @@ jobs:
           done
           echo "$ADDED_SOURCE" | jq -r '.[]' | while IFS= read -r f; do
             rm -f -- "$f"
+          done
+          echo "${RENAMED_SOURCE:-[]}" | jq -r '.[] | [.from, .to] | @tsv' | while IFS=$'\t' read -r from to; do
+            git show "$BASE_SHA:$from" > "$to"
           done
           git status --short
 

@@ -4,7 +4,9 @@ import {
   changedLines,
   changedTestFiles,
   evaluate,
+  isTestSupport,
   scopeViolations,
+  sourceToRevert,
   weakenedTests,
 } from './quality-rules.mjs';
 
@@ -177,5 +179,64 @@ describe('byRoot', () => {
       ['.', ['scripts/b.test.ts']],
       ['packages/harness', ['src/d.test.ts']],
     ]);
+  });
+});
+
+describe('isTestSupport', () => {
+  it('matches stubs, mocks, fakes, fixtures and test utilities', () => {
+    for (const p of [
+      'packages/harness/src/bench/adapters/stub-mcp-server.mjs',
+      'src/mock-fs.ts',
+      'src/fake-clock.js',
+      'src/server.stub.ts',
+      'src/__fixtures__/note.md',
+      'src/__mocks__/fs.ts',
+      'src/testdata/x.json',
+      'src/test-utils/render.ts',
+      'packages/core/src/embed/testutil.ts',
+    ]) {
+      expect(isTestSupport(p), p).toBe(true);
+    }
+  });
+
+  it('leaves ordinary source alone', () => {
+    for (const p of [
+      'packages/harness/src/bench/adapters/mcp-subprocess.ts',
+      'src/stubborn.ts',
+      'src/mockingbird/index.ts',
+      'src/tools/fixture_loader_service.ts',
+      'packages/harness/src/fixtures/generate.ts',
+      'src/stub_resolver.ts',
+      'scripts/quality-rules.mjs',
+    ]) {
+      expect(isTestSupport(p), p).toBe(false);
+    }
+  });
+});
+
+describe('sourceToRevert', () => {
+  it("puts a renamed file's base content at its new path", () => {
+    const files = [{ filename: 'src/b.ts', status: 'renamed', previous_filename: 'src/old-b.ts' }];
+    expect(sourceToRevert(files)).toEqual({
+      changed: [],
+      added: [],
+      renamed: [{ from: 'src/old-b.ts', to: 'src/b.ts' }],
+    });
+  });
+
+  it('keeps tests and test support at the PR version', () => {
+    const files = [
+      { filename: 'src/a.ts', status: 'modified' },
+      { filename: 'src/new.ts', status: 'added' },
+      { filename: 'src/b.ts', status: 'renamed', previous_filename: 'src/old-b.ts' },
+      { filename: 'src/a.test.ts', status: 'modified' },
+      { filename: 'src/stub-server.mjs', status: 'modified' },
+      { filename: 'src/stub-new.mjs', status: 'added' },
+    ];
+    expect(sourceToRevert(files)).toEqual({
+      changed: ['src/a.ts'],
+      added: ['src/new.ts'],
+      renamed: [{ from: 'src/old-b.ts', to: 'src/b.ts' }],
+    });
   });
 });
