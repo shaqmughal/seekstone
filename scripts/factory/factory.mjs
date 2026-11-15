@@ -72,7 +72,16 @@ export function gate(issue, { enabled, openPrs }) {
   if (issue.state.name !== 'Todo') {
     return `${issue.identifier} is in ${issue.state.name}; only Todo tickets run.`;
   }
+  const open = openBlockers(issue);
+  if (open.length > 0) return `${issue.identifier} is blocked by ${open.join(', ')}.`;
   return null;
+}
+
+/** Identifiers of tickets that block this one and aren't finished (done or canceled). */
+export function openBlockers(issue) {
+  return (issue.inverseRelations?.nodes ?? [])
+    .filter((r) => r.type === 'blocks' && !['completed', 'canceled'].includes(r.issue.state.type))
+    .map((r) => r.issue.identifier);
 }
 
 export function linear(apiKey, fetchImpl = fetch) {
@@ -96,6 +105,7 @@ export function linear(apiKey, fetchImpl = fetch) {
           state { name }
           labels { nodes { name } }
           team { states { nodes { id name } } }
+          inverseRelations { nodes { type issue { identifier state { type } } } }
         } }`,
         { id },
       );

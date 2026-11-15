@@ -96,6 +96,21 @@ describe('gate', () => {
     expect(gate(issue({ labels: { nodes: [{ name: 'Bug' }] } }), ok)).toMatch(/no `factory`/);
     expect(gate(issue({ state: { name: 'Backlog' } }), ok)).toMatch(/only Todo/);
   });
+
+  it('waits for unfinished blockers and ignores finished ones and other relations', () => {
+    const rel = (type: string, identifier: string, state: string) => ({
+      type,
+      issue: { identifier, state: { type: state } },
+    });
+    const blockedBy = (...nodes: ReturnType<typeof rel>[]) =>
+      issue({ inverseRelations: { nodes } });
+    expect(gate(blockedBy(rel('blocks', 'SHA-1', 'started')), ok)).toBe(
+      'SHA-9 is blocked by SHA-1.',
+    );
+    expect(gate(blockedBy(rel('blocks', 'SHA-1', 'completed')), ok)).toBeNull();
+    expect(gate(blockedBy(rel('blocks', 'SHA-1', 'canceled')), ok)).toBeNull();
+    expect(gate(blockedBy(rel('related', 'SHA-2', 'started')), ok)).toBeNull();
+  });
 });
 
 describe('ticketMarkdown', () => {
