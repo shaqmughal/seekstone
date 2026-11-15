@@ -6,4 +6,4 @@ The instructions for AI coding agents in this repo live in [`CLAUDE.md`](CLAUDE.
 - [`packages/core/CLAUDE.md`](packages/core/CLAUDE.md): shared primitives
 - [`packages/harness/CLAUDE.md`](packages/harness/CLAUDE.md): benchmarks, fixtures, harness commands
 
-Contributing with AI tools is welcome. The same rules and CI checks apply to every PR (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
+Contributing with AI tools is welcome. The same rules and CI checks apply to every PR; `CLAUDE.md` links the contributing guide.
