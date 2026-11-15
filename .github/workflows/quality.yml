@@ -59,8 +59,10 @@ jobs:
   flaky:
     name: flaky check (${{ matrix.os }})
     needs: rules
-    # Always runs (never skipped at job level): a skipped matrix job reports
-    # under its unexpanded name, which would leave the required checks pending.
+    # Must never be skipped at job level: a skipped matrix job reports under
+    # its unexpanded name, which leaves the required checks pending. So it runs
+    # even when `quality rules` fails, and its steps skip themselves instead.
+    if: ${{ !cancelled() }}
     strategy:
       fail-fast: false
       matrix:
@@ -103,7 +105,9 @@ jobs:
   failing-first:
     name: failing test first
     needs: rules
+    # Runs even when `quality rules` fails, so its own verdict is always reported.
     if: >-
+      !cancelled() &&
       contains(github.event.pull_request.labels.*.name, 'factory') &&
       contains(github.event.pull_request.labels.*.name, 'bug')
     runs-on: ubuntu-latest

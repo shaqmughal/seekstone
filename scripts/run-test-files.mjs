@@ -11,7 +11,13 @@
 // (e.g. scripts/) runs from the repo root.
 
 import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 import { byRoot } from './quality-rules.mjs';
+
+// Run Vitest's own entry with this Node, never through a shell: the file
+// names come from the PR, and a shell would let a crafted name inject a
+// command (on Windows, `npx` would need shell: true).
+const VITEST = fileURLToPath(new URL('../node_modules/vitest/vitest.mjs', import.meta.url));
 
 const args = process.argv.slice(2);
 const times = args.includes('--times') ? Number(args[args.indexOf('--times') + 1]) : 1;
@@ -20,9 +26,8 @@ const files = JSON.parse(args.at(-1) ?? '[]');
 
 function runOnce() {
   for (const [root, rels] of byRoot(files)) {
-    const r = spawnSync('npx', ['vitest', 'run', '--root', root, ...rels], {
+    const r = spawnSync(process.execPath, [VITEST, 'run', '--root', root, ...rels], {
       stdio: 'inherit',
-      shell: process.platform === 'win32',
     });
     if (r.status !== 0) return false;
   }

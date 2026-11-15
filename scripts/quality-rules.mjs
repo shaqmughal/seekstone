@@ -12,8 +12,13 @@ export const SIZE_LIMIT = 400;
 const TEST_FILE = /\.test\.(?:[cm]?[jt]s)$/;
 /** A test or suite declaration at the start of a diff line's code. */
 const TEST_DECL = /^\s*(?:it|test)(?:\.(?:each|concurrent|sequential)\b[^(]*)?\s*\(/;
-/** Ways to switch a test off or narrow a run, added in a diff line. */
-const DISABLE = /\b(?:it|test|describe|suite)\.(?:skip|only|todo)\b|\bx(?:it|describe|test)\s*\(/;
+/**
+ * Ways to switch a test off or narrow a run, at the start of an added code
+ * line. Anchored like TEST_DECL, so the same text inside a string literal
+ * (e.g. this module's own test fixtures) doesn't count.
+ */
+const DISABLE =
+  /^\s*(?:(?:it|test|describe|suite)\.(?:skip|skipIf|only|todo)\b|x(?:it|describe|test)\s*\()/;
 
 export const isTestFile = (path) => TEST_FILE.test(path);
 
@@ -148,6 +153,9 @@ export function evaluate(files, labels) {
 export function byRoot(paths) {
   const groups = new Map();
   for (const p of paths) {
+    // Paths come from the PR. One that starts with "-" would be read as a
+    // Vitest option, so refuse it rather than pass it on.
+    if (p.startsWith('-') || p.includes('/-')) throw new Error(`refusing test path: ${p}`);
     const m = p.match(/^(packages\/[^/]+)\/(.+)$/);
     const root = m ? m[1] : '.';
     const rel = m ? m[2] : p;

@@ -45,6 +45,17 @@ describe('weakened tests', () => {
     expect(weakenedTests([mod('src/a.test.ts', `@@\n${line}\n`)])).toHaveLength(1);
   });
 
+  it('ignores skip/only text inside a string (e.g. test fixtures)', () => {
+    const patch = `@@\n+    "+  it.skip('x', () => {});",\n+  const s = 'test.only(';\n`;
+    expect(weakenedTests([mod('src/a.test.ts', patch)])).toEqual([]);
+  });
+
+  it('flags it.skipIf', () => {
+    expect(
+      weakenedTests([mod('src/a.test.ts', "@@\n+  it.skipIf(isWin)('x', () => {});\n")]),
+    ).toHaveLength(1);
+  });
+
   it('counts it.each and test.concurrent as declarations', () => {
     const patch =
       "@@\n-  it.each([1, 2])('n=%s', (n) => {});\n-  test.concurrent('c', () => {});\n";
@@ -149,6 +160,11 @@ describe('evaluate', () => {
 });
 
 describe('byRoot', () => {
+  it('refuses paths that would be read as Vitest options', () => {
+    expect(() => byRoot(['--reporter=x.test.ts'])).toThrow(/refusing/);
+    expect(() => byRoot(['packages/server/-x.test.ts'])).toThrow(/refusing/);
+  });
+
   it('groups test paths by package so Vitest uses each package config', () => {
     const g = byRoot([
       'packages/server/src/a.test.ts',
