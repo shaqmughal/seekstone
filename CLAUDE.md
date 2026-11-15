@@ -1,29 +1,53 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for AI coding agents (and people) working in this repo. `AGENTS.md` points here, so every tool gets the same rules.
 
 ## What this repo is
 
-**seekstone** is an Obsidian MCP server, published to npm as [`seekstone`](https://www.npmjs.com/package/seekstone). The MCP server (`packages/server`) is the product: filesystem-direct vault access with low context-tax, shipped as a built single-file bundle. Alongside it lives the **measurement harness** (`packages/harness`) — a profiler + benchmark + write-safety suite that produced the payload numbers the server is designed around. The harness shares `packages/core` primitives with the server and is dev-only (run from source, not published).
+**seekstone** is an Obsidian MCP server, published to npm as [`seekstone`](https://www.npmjs.com/package/seekstone). The server (`packages/server`) is the product: filesystem-direct vault access with a low context tax, shipped as a single-file bundle. The **measurement harness** (`packages/harness`) is a profiler, benchmark and write-safety suite that produced the numbers the server is designed around. Both share `packages/core`. The harness is dev-only and not published.
 
-The product story behind the harness (kept in version control because it's how the project will be evaluated): **filesystem-direct beats REST-proxy, and the win is mostly payload size ("context tax"), not raw CPU**. The harness exists to produce reproducible numbers that demonstrate that.
+The claim the project is judged on: **filesystem-direct beats REST-proxy, and the win is mostly payload size ("context tax"), not raw CPU.** Speed matters as much. Don't trade a benchmark regression for a feature.
+
+## Where the rules live
+
+| Working on | Read |
+|---|---|
+| Server tools, writes, dispatch, the admission bar for new tools | [`packages/server/CLAUDE.md`](packages/server/CLAUDE.md) |
+| Shared primitives (walk, frontmatter, extract, embed) | [`packages/core/CLAUDE.md`](packages/core/CLAUDE.md) |
+| Harness commands, the benchmark vault, env vars | [`packages/harness/CLAUDE.md`](packages/harness/CLAUDE.md) |
+| Package graph, server layers, request flow | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). Keep it in sync when you add a layer, tool or adapter. |
+| Setup, CI gates, PR checks, changesets | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Write safety guarantees | [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) |
 
 ## Commands
 
-Harness commands (profile, bench, scenarios, safety, retrieval, fixture generation) live in `packages/harness/CLAUDE.md`.
+```bash
+npm test                                         # all workspaces (vitest)
+npm run lint                                     # biome check
+npm run format                                   # biome write; stage every file it changes
+npm run build -w seekstone                       # bundle the server to dist/ (tsup)
+npx tsc -p packages/server/tsconfig.json --noEmit
+npx vitest run packages/server/src/tools/search.test.ts
+npm run bench -w seekstone                       # hot-path benchmarks
+```
 
-The **server** has a real build — `npm run build -w seekstone` bundles it (and `packages/core`) to `dist/index.js` via tsup for publishing. The **harness** has no build step; it runs via `tsx`. `tsc` is used for typecheck only. Tests are co-located as `*.test.ts` next to source.
-
-The **server** reads its own env vars — see the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), every write tool supports optional `prevHash` compare-and-swap (moves and deletes included since 0.14.0; every mutating result returns a `contentHash`), moves rewrite inbound links, every write is policy-gated + atomic, and every write tool journals pre-images via `journalWrite` (single-file) or `ctx.journal.begin()` (multi-file: compute all rewrites first, journal them under one `seq`, then write) BEFORE the first vault byte changes so `undo_write` can restore the whole operation; `.seekstone/` is excluded from the walker like `.trash/`; `SEEKSTONE_READ_PATHS` hides files at the index and in `resolveVaultPath` (every tool that reads a file by path must go through it; `path-guard.test.ts` enforces this, and write tools call `assertWritable` before resolving); and dispatch audits every write-tool call when `SEEKSTONE_AUDIT_FILE` is set — a new write tool must return an `audit` detail object from its dispatch case (paths/counts only, never content) or its calls are not recorded (see `docs/ARCHITECTURE.md` §2).
-
-**Adding a tool, prompt, or resource has an admission bar** (SHA-341; see CONTRIBUTING.md, "Adding a tool, prompt, or resource"). The PR must include a scenarios task showing the addition answers something in fewer tokens than composing existing tools, plus the schema-tax delta: rebuild, run `npm run harness -- schema-tax --out packages/harness/fixtures/baseline-reports` and `npm run build:benchmarks`, commit both outputs, and fix any README figure `npm run check:docs` flags. CI's `schema-tax --check` fails whenever the served tool, prompt, or resource lists (any name, description, or schema) differ from the committed baseline, so even a one-word description edit needs the regenerate step.
-
-## Architecture
-
-For the full picture — package graph, the server's five layers, the end-to-end request flow, and the harness — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) (Mermaid diagrams). Keep it in sync when you add a layer, tool, or adapter. Harness internals (Backend interface, profiler, benchmark runner, write-safety, retrieval eval, adding a backend) live in `packages/harness/CLAUDE.md`, loaded when working under that package.
+Only the server has a build. The harness runs from source through `tsx`; `tsc` is typecheck only.
 
 ## Conventions
 
-- **Module imports use `.js` extensions** even when importing TS sources — that's what NodeNext + tsx + tsc emit all agree on. `*.ts` extensions in imports require `allowImportingTsExtensions` and are avoided.
-- **Never mutate the live vault.** Anything touching writes routes through the safety harness or an adapter pointed at a scratch copy. The CLI's `safety` command enforces this explicitly.
+- **Relative imports use `.js` extensions**, even for TypeScript sources. NodeNext, tsx and tsc all agree on that; `.ts` extensions are avoided.
+- **Tests ship with the change**, co-located as `*.test.ts`. Don't delete, skip or loosen tests to get green; CI flags it.
+- **Never mutate a real vault.** Writes go through the safety harness or an adapter pointed at a scratch copy. Tests use temp copies or the committed fixtures.
+- **No telemetry and no network calls on the serving path.** `no-network.test.ts` guards it.
+- **Changesets** name only `seekstone`; the other packages are private.
 
+## Writing
+
+Docs, PR descriptions, commit messages, changesets and code comments are read by people. Write them plainly:
+
+- Say what changed and why, in short sentences. Lead with the point.
+- Use ordinary words. Skip "leverage", "robust", "seamless", "comprehensive", "delve", "crucial" and the like.
+- No sales tone or inflated claims. Give the number instead of an adjective.
+- Don't stage a reveal ("Here's the thing:"), don't build "not X, but Y" contrasts, and don't end on a one-line summary that repeats the paragraph.
+- Avoid lists of three by reflex, piles of bold labels, and dashes used as punctuation everywhere.
+- Commit messages are imperative ("add tag index tool"); conventional prefixes are welcome.

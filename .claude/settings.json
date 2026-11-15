@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(npm test)",
+      "Bash(npm test *)",
+      "Bash(npm run lint)",
+      "Bash(npm run format)",
+      "Bash(npm run build -w seekstone)",
+      "Bash(npm run bench -w seekstone)",
+      "Bash(npm run check:docs)",
+      "Bash(npm run -w @seekstone/core test)",
+      "Bash(npm run -w @seekstone/harness test)",
+      "Bash(npx vitest run *)",
+      "Bash(npx tsc -p * --noEmit)",
+      "Bash(npx biome check *)",
+      "Bash(git status *)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git show *)",
+      "Bash(git branch *)"
+    ],
+    "deny": ["Read(**/.env)", "Read(**/.env.*)"]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|MultiEdit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/biome-hook.mjs\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
