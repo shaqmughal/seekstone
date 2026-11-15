@@ -166,6 +166,38 @@ export async function prepare(id, outDir, env, api) {
   };
 }
 
+/**
+ * Fix mode: the ticket already has a PR, so it is In Progress or In Review,
+ * not Todo. Still honours the off switch and the `factory` label.
+ */
+export async function prepareFix(id, outDir, env, api) {
+  const issue = await api.issue(id);
+  if (env.FACTORY_ENABLED !== 'true')
+    return { run: false, reason: 'FACTORY_ENABLED is not "true".' };
+  const labels = issue.labels.nodes.map((l) => l.name);
+  if (!labels.some((l) => l.toLowerCase() === 'factory')) {
+    return { run: false, reason: `${issue.identifier} has no \`factory\` label.` };
+  }
+  if (!['In Progress', 'In Review'].includes(issue.state.name)) {
+    return { run: false, reason: `${issue.identifier} is in ${issue.state.name}.` };
+  }
+  mkdirSync(outDir, { recursive: true });
+  writeFileSync(join(outDir, 'ticket.md'), ticketMarkdown(issue));
+  return {
+    run: true,
+    model: env.MODEL_OVERRIDE || pickModel(labels),
+    labels: prLabels(labels),
+  };
+}
+
+/** Move the ticket back to Blocked if something moved it (the PR is labeled factory-blocked). */
+export async function ensureBlocked(id, api) {
+  const issue = await api.issue(id);
+  if (issue.state.name === 'Blocked') return false;
+  await api.moveTo(issue, 'Blocked');
+  return true;
+}
+
 export async function blocked(id, text, api) {
   const issue = await api.issue(id);
   await api.comment(issue, `The factory stopped and needs an answer.\n\n${text.trim()}`);
@@ -174,8 +206,15 @@ export async function blocked(id, text, api) {
 
 async function main() {
   const [cmd, id, path] = process.argv.slice(2);
-  if (!TICKET_ID.test(id ?? '') || !path || !['prepare', 'blocked'].includes(cmd)) {
-    console.error('usage: factory.mjs prepare <ticket-id> <out-dir> | blocked <ticket-id> <file>');
+  const needsPath = ['prepare', 'prepare-fix', 'blocked'].includes(cmd);
+  if (
+    !TICKET_ID.test(id ?? '') ||
+    (needsPath && !path) ||
+    !(needsPath || cmd === 'ensure-blocked')
+  ) {
+    console.error(
+      'usage: factory.mjs prepare|prepare-fix <ticket-id> <out-dir> | blocked <ticket-id> <file> | ensure-blocked <ticket-id>',
+    );
     process.exit(2);
   }
   const key = process.env.LINEAR_API_KEY;
@@ -187,13 +226,23 @@ async function main() {
     console.log(`${id} moved to Blocked`);
     return;
   }
-  const r = await prepare(id, path, process.env, api);
+  if (cmd === 'ensure-blocked') {
+    const moved = await ensureBlocked(id, api);
+    console.log(moved ? `${id} moved back to Blocked` : `${id} is already Blocked`);
+    return;
+  }
+  const r = await (cmd === 'prepare-fix' ? prepareFix : prepare)(id, path, process.env, api);
   if (!r.run) {
     console.log(`::notice::not running ${id}: ${r.reason}`);
     output({ run: 'false' });
     return;
   }
-  output({ run: 'true', model: r.model, branch: r.branch, labels: r.labels });
+  output({
+    run: 'true',
+    model: r.model,
+    labels: r.labels,
+    ...(r.branch ? { branch: r.branch } : {}),
+  });
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
