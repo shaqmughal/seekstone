@@ -48,11 +48,16 @@ export function requiredState(required, checkRuns) {
   return { pending, failed };
 }
 
-/** Fix attempts already started, from the marker comments, and whether one targets `sha`. */
-export function fixHistory(comments, sha) {
+/**
+ * Fix attempts already started, from the marker comments, and whether one
+ * targets `sha`. Only comments by `bot` (the factory app) count; anyone who
+ * can comment on the PR could otherwise post a marker.
+ */
+export function fixHistory(comments, sha, bot) {
   let attempts = 0;
   let forSha = false;
   for (const c of comments) {
+    if (c.user?.login !== bot) continue;
     const m = c.body?.match(MARKER);
     if (!m) continue;
     attempts = Math.max(attempts, Number(m[2]));
@@ -74,7 +79,7 @@ export function ticketFromBranch(branch) {
  * What to do next. `sonnet` is whether the ticket's first runs used Sonnet,
  * which earns one final Opus attempt.
  */
-export function decide({ pr, required, checkRuns, comments, sonnet }) {
+export function decide({ pr, required, checkRuns, comments, sonnet, bot }) {
   if (pr.labels.includes(BLOCKED_LABEL)) return { action: 'none', reason: 'blocked' };
   if (!pr.draft) return { action: 'none', reason: 'already ready for review' };
   const { pending, failed } = requiredState(required, checkRuns);
@@ -83,7 +88,7 @@ export function decide({ pr, required, checkRuns, comments, sonnet }) {
       ? { action: 'ready' }
       : { action: 'wait', reason: `waiting on ${pending.join(', ')}` };
   }
-  const { attempts, forSha } = fixHistory(comments, pr.headSha);
+  const { attempts, forSha } = fixHistory(comments, pr.headSha, bot);
   if (forSha) return { action: 'none', reason: 'a fix for this commit is already running' };
   const max = MAX_FIXES + (sonnet ? 1 : 0);
   if (attempts >= max) {
@@ -130,16 +135,13 @@ async function main() {
   const required = await requiredChecks(repo);
   const checkRuns = (await gh(`repos/${repo}/commits/${pr.headSha}/check-runs?per_page=100`))
     .check_runs;
-  // Only the factory app's own comments carry markers; anyone else could post one.
   const bot = process.env.FACTORY_BOT_LOGIN;
   if (!bot) throw new Error('FACTORY_BOT_LOGIN is not set');
-  const comments = (await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`)).filter(
-    (c) => c.user?.login === bot,
-  );
+  const comments = await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
   // deliver writes the model into the PR body when it opens the PR.
   const sonnet = MODEL_SONNET.test(p.body ?? '');
 
-  const d = decide({ pr, required, checkRuns, comments, sonnet });
+  const d = decide({ pr, required, checkRuns, comments, sonnet, bot });
   console.log(`PR #${pr.number} (${pr.headSha.slice(0, 7)}): ${d.action} ${d.reason ?? ''}`);
   out({
     action: d.action,

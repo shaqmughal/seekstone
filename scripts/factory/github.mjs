@@ -15,6 +15,8 @@ export function apiUrl(path) {
 }
 
 export async function gh(path, { raw = false, token = process.env.GITHUB_TOKEN } = {}) {
+  // apiUrl() pins the origin to api.github.com and the path to repo endpoints.
+  // nosemgrep: rules_lgpl_javascript_ssrf_rule-node-ssrf
   const res = await fetch(apiUrl(path), {
     headers: {
       accept: 'application/vnd.github+json',

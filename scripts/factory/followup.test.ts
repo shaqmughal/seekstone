@@ -24,7 +24,11 @@ const red = [
   run(2, 'quality rules', 'completed', 'success'),
 ];
 const SHA = 'abc1234def5678';
+const BOT = 'seekstone-factory[bot]';
+const mine = (body: string) => ({ user: { login: BOT }, body });
 const pr = (over = {}) => ({ number: 7, draft: true, headSha: SHA, labels: [], ...over });
+
+const base = { required: REQUIRED, comments: [], sonnet: false, bot: BOT };
 
 describe('requiredState', () => {
   it('uses the newest run per check and treats skipped as passing', () => {
@@ -49,10 +53,19 @@ describe('requiredState', () => {
 
 describe('fixHistory', () => {
   it('counts attempts and spots a fix already started for this commit', () => {
-    const comments = [{ body: 'hi' }, { body: `x ${markerFor('0000000', 1)}` }];
-    expect(fixHistory(comments, SHA)).toEqual({ attempts: 1, forSha: false });
-    comments.push({ body: markerFor(SHA, 2) });
-    expect(fixHistory(comments, SHA)).toEqual({ attempts: 2, forSha: true });
+    const comments = [mine('hi'), mine(`x ${markerFor('0000000', 1)}`)];
+    expect(fixHistory(comments, SHA, BOT)).toEqual({ attempts: 1, forSha: false });
+    comments.push(mine(markerFor(SHA, 2)));
+    expect(fixHistory(comments, SHA, BOT)).toEqual({ attempts: 2, forSha: true });
+  });
+
+  it('ignores markers posted by anyone but the factory app', () => {
+    const forged = [{ user: { login: 'someone' }, body: markerFor(SHA, MAX_FIXES) }];
+    expect(fixHistory(forged, SHA, BOT)).toEqual({ attempts: 0, forSha: false });
+    expect(decide({ ...base, comments: forged, pr: pr(), checkRuns: red })).toMatchObject({
+      action: 'fix',
+      attempt: 1,
+    });
   });
 });
 
@@ -66,8 +79,6 @@ describe('ticketFromBranch', () => {
 });
 
 describe('decide', () => {
-  const base = { required: REQUIRED, comments: [], sonnet: false };
-
   it('marks a green draft ready', () => {
     expect(decide({ ...base, pr: pr(), checkRuns: green })).toEqual({ action: 'ready' });
   });
@@ -95,19 +106,19 @@ describe('decide', () => {
   });
 
   it('starts only one fix per commit', () => {
-    const comments = [{ body: markerFor(SHA, 1) }];
+    const comments = [mine(markerFor(SHA, 1))];
     expect(decide({ ...base, comments, pr: pr(), checkRuns: red }).action).toBe('none');
   });
 
   it('blocks after the last attempt', () => {
-    const comments = [{ body: markerFor('1111111', MAX_FIXES) }];
+    const comments = [mine(markerFor('1111111', MAX_FIXES))];
     const d = decide({ ...base, comments, pr: pr(), checkRuns: red });
     expect(d.action).toBe('block');
     expect(d.reason).toContain('test (ubuntu-latest)');
   });
 
   it('gives a Sonnet ticket one final attempt on Opus', () => {
-    const comments = [{ body: markerFor('1111111', MAX_FIXES) }];
+    const comments = [mine(markerFor('1111111', MAX_FIXES))];
     const d = decide({ ...base, sonnet: true, comments, pr: pr(), checkRuns: red });
     expect(d).toMatchObject({ action: 'fix', attempt: MAX_FIXES + 1, model: 'opus' });
     const before = decide({ ...base, sonnet: true, pr: pr(), checkRuns: red });
