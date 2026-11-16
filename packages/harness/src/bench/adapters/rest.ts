@@ -1,4 +1,4 @@
-import { Agent, fetch } from 'undici';
+import { Agent, type Dispatcher, fetch } from 'undici';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 /**
@@ -29,6 +29,8 @@ export interface RestAdapterOptions {
    * cert by default). Set false if you front it with a real cert.
    */
   allowInsecureTls?: boolean;
+  /** Replace the built-in agent, e.g. with an undici MockAgent in tests. */
+  dispatcher?: Dispatcher;
 }
 
 export class RestAdapter implements Backend {
@@ -36,17 +38,19 @@ export class RestAdapter implements Backend {
   readonly description = 'Obsidian Local REST API plugin (HTTP round-trip)';
 
   private readonly base: string;
-  private readonly agent: Agent;
+  private readonly agent: Dispatcher;
   private readonly apiKey: string;
 
   constructor(opts: RestAdapterOptions) {
     this.base = opts.baseUrl.replace(/\/$/, '');
     this.apiKey = opts.apiKey;
-    this.agent = new Agent({
-      connect: { rejectUnauthorized: opts.allowInsecureTls === false },
-      keepAliveTimeout: 30_000,
-      keepAliveMaxTimeout: 60_000,
-    });
+    this.agent =
+      opts.dispatcher ??
+      new Agent({
+        connect: { rejectUnauthorized: opts.allowInsecureTls === false },
+        keepAliveTimeout: 30_000,
+        keepAliveMaxTimeout: 60_000,
+      });
   }
 
   async close(): Promise<void> {
