@@ -106,6 +106,87 @@ describe('scope lock', () => {
     expect(scopeViolations(files, [])).toHaveLength(1);
     expect(scopeViolations(files, ['dependencies'])).toEqual([]);
   });
+
+  describe('package.json dependency lists', () => {
+    const block = (field: string, change: string) =>
+      [
+        '@@ -10,6 +10,7 @@',
+        '   },',
+        `   "${field}": {`,
+        '     "a": "^1.0.0",',
+        change,
+        '     "c": "^3.0.0"',
+        '   },',
+      ].join('\n');
+    const fields = ['dependencies', 'devDependencies', 'peerDependencies', 'optionalDependencies'];
+    const edits = {
+      adds: '+    "b": "^2.0.0",',
+      removes: '-    "b": "^2.0.0",',
+      changes: '-    "b": "^2.0.0",\n+    "b": "^2.1.0",',
+    };
+
+    for (const field of fields) {
+      it.each(Object.entries(edits))(`flags a PR that %s an entry in ${field}`, (_, change) => {
+        for (const path of ['package.json', 'packages/server/package.json']) {
+          expect(scopeViolations([mod(path, block(field, change))], ['factory'])).toEqual([
+            `${path}: dependency change without the \`dependencies\` label`,
+          ]);
+        }
+      });
+    }
+
+    it('flags an entry added to a block whose opening line is outside the hunk', () => {
+      const patch = '@@ -40,5 +40,6 @@\n     "a": "^1.0.0",\n+    "b": "workspace:*",\n   },\n';
+      expect(scopeViolations([mod('package.json', patch)], [])).toHaveLength(1);
+    });
+
+    it('flags a whole dependency block added on one line', () => {
+      const patch = '@@ -1,3 +1,3 @@\n-{"name":"x"}\n+{"name":"x","dependencies":{"b":"1"}}\n';
+      expect(scopeViolations([mod('package.json', patch)], [])).toHaveLength(1);
+    });
+
+    it('flags a package.json whose diff GitHub left out', () => {
+      const files = [{ filename: 'package.json', status: 'modified', additions: 1, deletions: 1 }];
+      expect(scopeViolations(files, [])).toHaveLength(1);
+    });
+
+    it('allows changes to scripts, version and description', () => {
+      const patch = [
+        '--- a/package.json',
+        '+++ b/package.json',
+        '@@ -1,8 +1,8 @@',
+        ' {',
+        '   "name": "seekstone",',
+        '-  "version": "1.0.0",',
+        '+  "version": "1.1.0",',
+        '-  "description": "old",',
+        '+  "description": "new",',
+        '   "type": "module",',
+        '@@ -20,6 +20,7 @@',
+        '   "scripts": {',
+        '     "build": "tsup",',
+        '+    "bench": "node bench.mjs",',
+        '-    "test": "vitest run"',
+        '+    "test": "vitest run --coverage"',
+        '   },',
+        '   "dependencies": {',
+        '     "a": "^1.0.0"',
+        '@@ -50,4 +51,4 @@',
+        '     "lint": "biome check .",',
+        '-    "format": "biome format"',
+        '+    "format": "biome format --write"',
+        '   },',
+      ].join('\n');
+      expect(scopeViolations([mod('package.json', patch)], ['factory'])).toEqual([]);
+    });
+
+    it('allows a dependency-list change with the dependencies label', () => {
+      const files = fields.map((field, i) =>
+        mod(`packages/p${i}/package.json`, block(field, edits.changes)),
+      );
+      expect(scopeViolations(files, ['factory', 'dependencies'])).toEqual([]);
+    });
+  });
 });
 
 describe('size limit', () => {
