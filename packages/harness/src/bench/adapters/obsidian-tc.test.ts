@@ -1,13 +1,115 @@
 import { mkdir, mkdtemp, realpath, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it } from 'vitest';
 import {
   ObsidianTcAdapter,
   parseTcListEntries,
   parseTcNoteContent,
   parseTcSearchHits,
 } from './obsidian-tc.js';
+import { type Canned, STUB_CMD, type StubSession, useStub } from './stub-canned.js';
+
+const TC_SEARCH = JSON.stringify({ items: [{ path: 'A.md', score: 0.5, snippet: 'zz' }] });
+const TC_READ = JSON.stringify({ content: '# A\n', body: '# A\n', content_hash: 'h' });
+const TC_LIST = JSON.stringify({ notes: [{ path: 'A.md' }, { path: 'sub/B.md' }] });
+
+describe('ObsidianTcAdapter against the stub server', () => {
+  let session: StubSession;
+  let adapter: ObsidianTcAdapter | undefined;
+  let vault: string;
+
+  beforeEach(async () => {
+    vault = await realpath(await mkdtemp(join(tmpdir(), 'seekstone-tc-stub-')));
+  });
+
+  afterEach(async () => {
+    await adapter?.close();
+    adapter = undefined;
+    session.dispose();
+    await rm(vault, { recursive: true, force: true });
+  });
+
+  async function build(canned: Canned, facade = false): Promise<ObsidianTcAdapter> {
+    session = useStub(canned);
+    adapter = await ObsidianTcAdapter.build({ vaultRoot: vault, cmd: STUB_CMD, facade });
+    return adapter;
+  }
+
+  it('sends search_text and maps the hits', async () => {
+    const a = await build({ search_text: { text: TC_SEARCH } });
+    const res = await a.search('zz');
+    expect(a.name).toBe('obsidian-tc');
+    expect(session.calls()).toEqual([
+      {
+        name: 'search_text',
+        arguments: {
+          vault: 'main',
+          query: 'zz',
+          case_sensitive: false,
+          whole_word: false,
+          verbosity: 'full',
+        },
+      },
+    ]);
+    expect(res.result).toEqual([{ path: 'A.md', score: 0.5, snippet: 'zz' }]);
+    expect(res.payloadBytes).toBe(Buffer.byteLength(TC_SEARCH));
+  });
+
+  it('sends read_note and returns .content with the envelope as payload', async () => {
+    const a = await build({ read_note: { text: TC_READ } });
+    const res = await a.read('A.md');
+    expect(session.calls()).toEqual([
+      { name: 'read_note', arguments: { vault: 'main', path: 'A.md' } },
+    ]);
+    expect(res.result).toBe('# A\n');
+    expect(res.payloadBytes).toBe(Buffer.byteLength(TC_READ));
+  });
+
+  it('sends list_notes, with a folder only when a path is given', async () => {
+    const a = await build({ list_notes: { text: TC_LIST } });
+    const all = await a.list();
+    await a.list('sub');
+    expect(session.calls().map((c) => c.arguments)).toEqual([
+      { vault: 'main', recursive: true },
+      { vault: 'main', recursive: true, folder: 'sub' },
+    ]);
+    expect(all.result).toEqual([
+      { path: 'A.md', isDirectory: false },
+      { path: 'sub/B.md', isDirectory: false },
+    ]);
+  });
+
+  it('sends write_note as an upsert', async () => {
+    const a = await build({ write_note: { text: 'ok' } });
+    const res = await a.write('A.md', 'héllo');
+    expect(session.calls()).toEqual([
+      {
+        name: 'write_note',
+        arguments: { vault: 'main', path: 'A.md', content: 'héllo', mode: 'upsert' },
+      },
+    ]);
+    expect(res.payloadBytes).toBe(Buffer.byteLength('héllo'));
+  });
+
+  it('routes calls through call_capability in facade mode', async () => {
+    const a = await build({ call_capability: { text: TC_READ } }, true);
+    const res = await a.read('A.md');
+    expect(a.name).toBe('obsidian-tc-facade');
+    expect(session.calls()).toEqual([
+      {
+        name: 'call_capability',
+        arguments: { name: 'read_note', args: { vault: 'main', path: 'A.md' } },
+      },
+    ]);
+    expect(res.result).toBe('# A\n');
+  });
+
+  it('surfaces a tool error', async () => {
+    const a = await build({ read_note: { text: 'not found', isError: true } });
+    await expect(a.read('missing.md')).rejects.toThrow('obsidian-tc read_note: not found');
+  });
+});
 
 describe('parseTcSearchHits', () => {
   it('parses a typical search_text response', () => {

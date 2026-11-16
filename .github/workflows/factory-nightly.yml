@@ -48,6 +48,37 @@ jobs:
         with:
           node-version: '22'
 
+      # Deleting branches needs contents write, which only the factory app has.
+      - name: Mint factory app token
+        id: app-token
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
+          private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
+
+      # factory-saved/ branches hold work from runs that opened no PR. Once
+      # the ticket is Done, that work has shipped or been superseded. Branches
+      # of open, canceled or unknown tickets stay.
+      - name: Delete saved branches of Done tickets
+        continue-on-error: true
+        env:
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          gh api --paginate "repos/$GITHUB_REPOSITORY/git/matching-refs/heads/factory-saved/" \
+            --jq '.[].ref' > "$RUNNER_TEMP/saved-refs.txt"
+          node scripts/factory/factory.mjs stale-saved "$RUNNER_TEMP/saved-refs.txt" > "$RUNNER_TEMP/stale.txt"
+          while read -r branch; do
+            [ -n "$branch" ] || continue
+            if gh api -X DELETE "repos/$GITHUB_REPOSITORY/git/refs/heads/$branch" --silent; then
+              echo "deleted $branch"
+            else
+              echo "::warning::could not delete $branch"
+            fi
+          done < "$RUNNER_TEMP/stale.txt"
+
       - name: Pick tonight's tickets
         id: select
         env:

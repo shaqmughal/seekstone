@@ -16,7 +16,9 @@ import {
   prLabels,
   quotaExhausted,
   requeue,
+  savedBranchFor,
   selectTickets,
+  staleSavedBranches,
   ticketMarkdown,
 } from './factory.mjs';
 
@@ -396,5 +398,56 @@ describe('todoFactoryIssues', () => {
       (fetchImpl.mock.calls[1] as unknown as [string, RequestInit])[1].body as string,
     );
     expect(second.variables).toEqual({ after: 'c1' });
+  });
+});
+
+describe('savedBranchFor', () => {
+  const refs = [
+    'refs/heads/factory-saved/SHA-54-900',
+    'refs/heads/factory-saved/SHA-543-100',
+    'refs/heads/factory-saved/SHA-543-250',
+    'refs/heads/factory-saved/SHA-543-99',
+    'refs/heads/factory/SHA-543-unit-test',
+    'refs/heads/factory-saved/SHA-543-oops',
+  ];
+
+  it('picks the newest saved branch for the ticket, by run id', () => {
+    expect(savedBranchFor(refs, 'SHA-543')).toBe('factory-saved/SHA-543-250');
+  });
+
+  it("doesn't match a ticket whose ID is a prefix of another's", () => {
+    expect(savedBranchFor(refs, 'SHA-54')).toBe('factory-saved/SHA-54-900');
+    expect(savedBranchFor(refs, 'SHA-5')).toBeNull();
+  });
+
+  it('accepts bare branch names and returns null when nothing is saved', () => {
+    expect(savedBranchFor(['factory-saved/SHA-7-1'], 'SHA-7')).toBe('factory-saved/SHA-7-1');
+    expect(savedBranchFor([], 'SHA-7')).toBeNull();
+  });
+});
+
+describe('staleSavedBranches', () => {
+  const refs = [
+    'refs/heads/factory-saved/SHA-1-10',
+    'refs/heads/factory-saved/SHA-1-11',
+    'refs/heads/factory-saved/SHA-2-12',
+    'refs/heads/factory-saved/SHA-3-13',
+    'refs/heads/factory-saved/SHA-4-14',
+    'refs/heads/factory-saved/not-a-ticket',
+  ];
+  const states = { 'SHA-1': 'completed', 'SHA-2': 'canceled', 'SHA-3': 'started' };
+
+  it('returns only branches whose ticket is Done', () => {
+    expect(staleSavedBranches(refs, states)).toEqual([
+      'factory-saved/SHA-1-10',
+      'factory-saved/SHA-1-11',
+    ]);
+  });
+
+  it('keeps branches of canceled, open and unknown tickets', () => {
+    const kept = staleSavedBranches(refs, states);
+    for (const b of ['SHA-2-12', 'SHA-3-13', 'SHA-4-14']) {
+      expect(kept).not.toContain(`factory-saved/${b}`);
+    }
   });
 });
