@@ -223,7 +223,10 @@ jobs:
           git config user.name "${APP_SLUG}[bot]"
           git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
 
+      # Under the job's 60 minutes, so the packaging steps below still run
+      # and save the work when the agent runs long.
       - name: Run the playbook
+        timeout-minutes: 50
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           FACTORY_DIR: ${{ runner.temp }}/factory
@@ -281,11 +284,32 @@ jobs:
           retention-days: 14
           if-no-files-found: ignore
 
+      # Runs whatever happened above. The agent's work is always bundled, so
+      # deliver can save it to a branch when no PR comes out of the run: a
+      # block, the allowance running out, a timeout or a crash.
       - name: Package the result
+        if: always()
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
           BASE: ${{ needs.prepare.outputs.base }}
         run: |
+          mkdir -p "$FACTORY_DIR"
+          delivering=false
+          if [ -f "$FACTORY_DIR/pr.md" ] && [ ! -f "$FACTORY_DIR/blocked.md" ] && [ ! -f "$FACTORY_DIR/quota.md" ]; then
+            delivering=true
+          fi
+          # Changes the agent didn't commit go into one last commit, unless
+          # this run is opening a PR (that PR holds only what the agent committed).
+          if [ "$delivering" = false ] && [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
+              echo "::warning::could not commit the uncommitted changes"
+          fi
+          ahead=$(git rev-list --count "$BASE..HEAD" 2>/dev/null || echo 0)
+          if [ "$ahead" -gt 0 ]; then
+            git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
+            echo "$ahead new commit(s) on $(git branch --show-current)"
+          fi
           if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
           # blocked.md wins over pr.md. A fix run starts with pr.md already
           # written, and the agent's sandbox can't delete files, so an agent
@@ -300,13 +324,12 @@ jobs:
           if [ ! -f "$FACTORY_DIR/pr.md" ]; then
             echo "::error::the agent left neither pr.md nor blocked.md"; exit 1
           fi
-          ahead=$(git rev-list --count "$BASE..HEAD")
           if [ "$ahead" -eq 0 ]; then echo "::error::pr.md but no new commits"; exit 1; fi
-          git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
-          echo "$ahead new commit(s) on $(git branch --show-current)"
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
         with:
+          if-no-files-found: ignore
           name: factory-outcome
           path: ${{ runner.temp }}/factory/
           retention-days: 7
@@ -336,15 +359,9 @@ jobs:
         with:
           node-version: '22'
 
-      - name: The work job failed
-        if: needs.work.result != 'success'
-        env:
-          WORK_RESULT: ${{ needs.work.result }}
-        run: |
-          echo "::error::the work job ended with '$WORK_RESULT'"
-          exit 1
-
+      # Fetched even when the work job failed, so its work can be saved.
       - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        continue-on-error: true
         with:
           name: factory-outcome
           path: ${{ runner.temp }}/factory
@@ -358,6 +375,36 @@ jobs:
         with:
           client-id: ${{ vars.FACTORY_APP_CLIENT_ID }}
           private-key: ${{ secrets.FACTORY_APP_PRIVATE_KEY }}
+
+      # When the run won't open or update a PR, push its commits to their own
+      # branch so nothing is lost, and note the branch in saved.md for the
+      # ticket comment. No workflow runs on pushes to these branches.
+      - name: Save the work to a branch
+        env:
+          WORK_RESULT: ${{ needs.work.result }}
+          TICKET: ${{ inputs.ticket }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          if [ ! -f "$FACTORY_DIR/work.bundle" ]; then exit 0; fi
+          if [ "$WORK_RESULT" = success ] && [ -f "$FACTORY_DIR/pr.md" ] &&
+             [ ! -f "$FACTORY_DIR/blocked.md" ] && [ ! -f "$FACTORY_DIR/quota.md" ]; then
+            exit 0 # the PR step below pushes it
+          fi
+          saved="factory-saved/${TICKET}-${GITHUB_RUN_ID}"
+          git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$saved"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$saved"
+          printf '\nThe work from this run is saved on the branch [`%s`](%s/%s/tree/%s).\n' \
+            "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" > "$FACTORY_DIR/saved.md"
+          echo "::notice::saved the run's work to $saved"
+
+      - name: The work job failed
+        if: needs.work.result != 'success'
+        env:
+          WORK_RESULT: ${{ needs.work.result }}
+        run: |
+          echo "::error::the work job ended with '$WORK_RESULT'"
+          exit 1
 
       # A new ticket goes back to Todo for a later night. A fix run can't
       # wait for another CI event (none will come), so it blocks instead.
@@ -374,6 +421,7 @@ jobs:
         run: |
           if [ ! -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
           echo "::notice::allowance ran out on $TICKET"
+          if [ -f "$FACTORY_DIR/saved.md" ]; then cat "$FACTORY_DIR/saved.md" >> "$FACTORY_DIR/quota.md"; fi
           if [ -n "$FIX_PR" ]; then
             echo "Fix it by hand or re-run the factory once the allowance resets." >> "$FACTORY_DIR/quota.md"
             gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked
@@ -396,6 +444,7 @@ jobs:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           if [ -f "$FACTORY_DIR/blocked.md" ]; then
+            if [ -f "$FACTORY_DIR/saved.md" ]; then cat "$FACTORY_DIR/saved.md" >> "$FACTORY_DIR/blocked.md"; fi
             node scripts/factory/factory.mjs blocked "$TICKET" "$FACTORY_DIR/blocked.md"
             if [ -n "$FIX_PR" ]; then
               gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked
@@ -443,6 +492,7 @@ jobs:
           TICKET: ${{ inputs.ticket }}
           BRANCH: ${{ needs.prepare.outputs.branch }}
           FIX_PR: ${{ inputs.pr }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
           LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
           LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
@@ -456,7 +506,18 @@ jobs:
               exit 0
             fi
           fi
+          # The PR step failed after the save step skipped this run's work:
+          # save it now.
+          if [ -f "$FACTORY_DIR/work.bundle" ] && [ ! -f "$FACTORY_DIR/saved.md" ]; then
+            saved="factory-saved/${TICKET}-${GITHUB_RUN_ID}"
+            if git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$saved" &&
+               git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$saved"; then
+              printf '\nThe work from this run is saved on the branch [`%s`](%s/%s/tree/%s).\n' \
+                "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" > "$FACTORY_DIR/saved.md"
+            fi
+          fi
           printf 'The factory run failed before it delivered a result. See %s\n' "$RUN_URL" > "$RUNNER_TEMP/failed.md"
+          if [ -f "$FACTORY_DIR/saved.md" ]; then cat "$FACTORY_DIR/saved.md" >> "$RUNNER_TEMP/failed.md"; fi
           node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/failed.md"
           if [ -n "$FIX_PR" ]; then
             gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked || true

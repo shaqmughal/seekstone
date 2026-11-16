@@ -15,7 +15,7 @@ The repo rules in `CLAUDE.md` and the package `CLAUDE.md` you're working in appl
 `FACTORY_DIR` (an env var) names a directory outside the repo.
 
 - In: `$FACTORY_DIR/ticket.md` holds the ticket ID, title, labels and description. On a CI-fix run, `$FACTORY_DIR/ci-failure.md` holds the failing checks and their logs.
-- Out: one of the two files below. If both exist when you finish, `blocked.md` wins and `pr.md` is ignored, so you never need to delete `pr.md`.
+- Out: one of the two files below. If both exist when you finish, `blocked.md` wins and `pr.md` is ignored, so you never need to delete `pr.md`. Before you write `blocked.md`, commit what you have on the branch. The workflow saves a blocked run's commits to a `factory-saved/` branch and links it on the ticket, so the next run or a maintainer can pick it up.
   - `$FACTORY_DIR/pr.md`: first line is the PR title, the rest is the PR body (format below). Your work is committed on the branch.
   - `$FACTORY_DIR/blocked.md`: why you stopped, as numbered questions the maintainer can answer in the ticket.
 
