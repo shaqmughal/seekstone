@@ -1,13 +1,115 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { afterAll, afterEach, beforeAll, describe, expect, it } from 'vitest';
 import {
   ObsidianMcpRsAdapter,
   parseRsReadPage,
   parseRsSearchHits,
   parseRsVaultList,
 } from './obsidian-mcp-rs.js';
+import { type Canned, STUB_CMD, type StubSession, useStub } from './stub-canned.js';
+
+describe('ObsidianMcpRsAdapter against the stub server', () => {
+  let session: StubSession;
+  let adapter: ObsidianMcpRsAdapter | undefined;
+  const vaultRoot = '/data/my-vault';
+  const VAULTS = { 'list-available-vaults': { text: `- named → ${vaultRoot}` } };
+  const SEARCH = JSON.stringify({
+    results: [{ path: 'B.md', score: 0.5, snippets: [{ line: 1, text: 'zz' }] }],
+  });
+
+  afterEach(async () => {
+    await adapter?.close();
+    adapter = undefined;
+    session.dispose();
+  });
+
+  async function build(canned: Canned): Promise<ObsidianMcpRsAdapter> {
+    session = useStub({ ...VAULTS, ...canned });
+    adapter = await ObsidianMcpRsAdapter.build({ vaultRoot, cmd: STUB_CMD });
+    return adapter;
+  }
+
+  it('discovers the registered vault name from list-available-vaults', async () => {
+    const a = await build({ 'search-vault': { text: SEARCH } });
+    const res = await a.search('zz');
+    expect(session.calls()).toEqual([
+      { name: 'list-available-vaults', arguments: {} },
+      { name: 'search-vault', arguments: { vault: 'named', query: 'zz' } },
+    ]);
+    expect(res.result).toEqual([{ path: 'B.md', score: 0.5, snippet: 'zz' }]);
+    expect(res.payloadBytes).toBe(Buffer.byteLength(SEARCH));
+  });
+
+  it('falls back to the path basename when the vault is not listed', async () => {
+    const a = await build({
+      'list-available-vaults': { text: 'no vaults' },
+      'search-vault': { text: SEARCH },
+    });
+    await a.search('zz');
+    expect(session.calls()[1]?.arguments).toEqual({ vault: 'my-vault', query: 'zz' });
+  });
+
+  it('sends read-note with filename and folder split from the path', async () => {
+    const a = await build({ 'read-note': { text: 'note text' } });
+    const res = await a.read('dir/sub/n.md');
+    expect(session.calls()[1]).toEqual({
+      name: 'read-note',
+      arguments: { vault: 'named', filename: 'n.md', folder: 'dir/sub' },
+    });
+    expect(res.result).toBe('note text');
+    await a.read('top.md');
+    expect(session.calls()[2]?.arguments).toEqual({ vault: 'named', filename: 'top.md' });
+  });
+
+  it('follows the pagination banner until the note is complete', async () => {
+    const p1 = 'l1\nl2\n[showed lines 1-2 of 3. Call read-note again with offset=3]';
+    const a = await build({ 'read-note': { text: [p1, 'l3'] } });
+    const res = await a.read('n.md');
+    const reads = session.calls().filter((c) => c.name === 'read-note');
+    expect(reads.map((c) => c.arguments.offset)).toEqual([undefined, 3]);
+    expect(res.result).toBe('l1\nl2l3');
+    expect(res.payloadBytes).toBe(Buffer.byteLength(`${p1}l3`));
+  });
+
+  it('maps list-available-vaults to directory entries', async () => {
+    const a = await build({});
+    const res = await a.list();
+    expect(res.result).toEqual([{ path: vaultRoot, isDirectory: true }]);
+  });
+
+  it('sends edit-note, delete-note and create-note', async () => {
+    const a = await build({
+      'edit-note': { text: 'ok' },
+      'delete-note': { text: 'ok' },
+      'create-note': { text: 'ok' },
+    });
+    const w = await a.write('d/n.md', 'héllo');
+    await a.deleteNote('d/n.md');
+    await a.createNote('top.md', 'x');
+    expect(w.payloadBytes).toBe(Buffer.byteLength('héllo'));
+    expect(session.calls().slice(1)).toEqual([
+      {
+        name: 'edit-note',
+        arguments: {
+          vault: 'named',
+          filename: 'n.md',
+          operation: 'replace',
+          content: 'héllo',
+          folder: 'd',
+        },
+      },
+      { name: 'delete-note', arguments: { vault: 'named', filename: 'n.md', folder: 'd' } },
+      { name: 'create-note', arguments: { vault: 'named', filename: 'top.md', content: 'x' } },
+    ]);
+  });
+
+  it('surfaces a tool error', async () => {
+    const a = await build({ 'search-vault': { text: 'bad query', isError: true } });
+    await expect(a.search('x')).rejects.toThrow('obsidian-mcp-rs search-vault: bad query');
+  });
+});
 
 describe('parseRsSearchHits', () => {
   it('parses a typical search-vault response', () => {
