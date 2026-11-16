@@ -287,10 +287,16 @@ jobs:
           BASE: ${{ needs.prepare.outputs.base }}
         run: |
           if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
-          if [ -f "$FACTORY_DIR/pr.md" ] && [ -f "$FACTORY_DIR/blocked.md" ]; then
-            echo "::error::the agent left both pr.md and blocked.md"; exit 1
+          # blocked.md wins over pr.md. A fix run starts with pr.md already
+          # written, and the agent's sandbox can't delete files, so an agent
+          # that stops after writing pr.md leaves both behind.
+          if [ -f "$FACTORY_DIR/blocked.md" ]; then
+            if [ -f "$FACTORY_DIR/pr.md" ]; then
+              echo "::notice::blocked.md and pr.md both present; using blocked.md"
+              rm -f "$FACTORY_DIR/pr.md"
+            fi
+            exit 0
           fi
-          if [ -f "$FACTORY_DIR/blocked.md" ]; then exit 0; fi
           if [ ! -f "$FACTORY_DIR/pr.md" ]; then
             echo "::error::the agent left neither pr.md nor blocked.md"; exit 1
           fi
