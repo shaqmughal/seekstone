@@ -77,6 +77,7 @@ jobs:
       branch: ${{ steps.prepare.outputs.branch || steps.fix.outputs.branch }}
       base: ${{ steps.fix.outputs.base || 'main' }}
       labels: ${{ steps.prepare.outputs.labels }}
+      resume: ${{ steps.saved.outputs.resume }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
@@ -111,6 +112,19 @@ jobs:
             export OPEN_FACTORY_PRS
             node scripts/factory/factory.mjs prepare "$TICKET" "$RUNNER_TEMP/factory"
           fi
+
+      # A new run picks up where an earlier run of this ticket stopped, if
+      # deliver saved that run's work to a factory-saved/ branch.
+      - name: Find saved work from an earlier run
+        id: saved
+        if: inputs.pr == '' && steps.prepare.outputs.run == 'true'
+        env:
+          TICKET: ${{ inputs.ticket }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/git/matching-refs/heads/factory-saved/$TICKET-" \
+            --jq '.[].ref' > "$RUNNER_TEMP/saved-refs.txt"
+          node scripts/factory/factory.mjs saved-branch "$TICKET" "$RUNNER_TEMP/saved-refs.txt"
 
       - name: Fix run - write pr.md and ci-failure.md
         id: fix
@@ -223,6 +237,33 @@ jobs:
           git config user.name "${APP_SLUG}[bot]"
           git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
 
+      # Start the branch from the saved work and bring it up to date with
+      # main. resume.md tells the agent what it's starting from.
+      - name: Start from saved work
+        if: needs.prepare.outputs.resume != ''
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          RESUME: ${{ needs.prepare.outputs.resume }}
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+        run: |
+          git switch -c "$BRANCH" "origin/$RESUME"
+          if git merge --no-edit main; then
+            merged="main is merged in, so the branch is up to date."
+          else
+            git merge --abort
+            merged="Merging main into it conflicted, so the branch is still on an older main. Merge main yourself and resolve the conflicts first."
+          fi
+          cat > "$FACTORY_DIR/resume.md" <<EOF
+          An earlier factory run of this ticket stopped without a PR. Its work was saved on
+          \`$RESUME\`, and \`$BRANCH\` is checked out starting from it. $merged
+
+          The ticket may have changed since that run (for example, split into smaller tickets).
+          Review the earlier commits (\`git log main..HEAD\`, \`git diff main\`) against the ticket
+          as it reads now. Keep what fits, and change or remove what doesn't. Stay on this branch;
+          don't create it again.
+          EOF
+          echo "::notice::resuming from $RESUME"
+
       # Under the job's 60 minutes, so the packaging steps below still run
       # and save the work when the agent runs long.
       - name: Run the playbook
@@ -250,6 +291,10 @@ jobs:
           else
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           The ticket is in ${FACTORY_DIR}/ticket.md. Use the branch name ${BRANCH}."
+            if [ -f "$FACTORY_DIR/resume.md" ]; then
+              prompt="${prompt}
+          This run continues earlier saved work: read ${FACTORY_DIR}/resume.md before you start."
+            fi
           fi
           status=0
           claude -p "$prompt" \

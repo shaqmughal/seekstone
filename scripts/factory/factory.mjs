@@ -8,6 +8,10 @@
 //       the readiness check goes straight to Blocked without running the agent.
 //   node scripts/factory/factory.mjs blocked <ticket-id> <file>
 //       Comments <file> on the ticket and moves it to Blocked.
+//   node scripts/factory/factory.mjs saved-branch <ticket-id> <refs-file>
+//       Writes resume=<the ticket's newest factory-saved/ branch, or empty>.
+//   node scripts/factory/factory.mjs stale-saved <refs-file>
+//       Prints the factory-saved/ branches whose ticket is Done.
 //
 // Env: LINEAR_API_KEY, FACTORY_ENABLED ("true" to run), OPEN_FACTORY_PRS
 // (count of open PRs labeled `factory`), GITHUB_OUTPUT (set by Actions).
@@ -131,7 +135,7 @@ export function linear(apiKey, fetchImpl = fetch) {
       const data = await gql(
         `query($id: String!) { issue(id: $id) {
           id identifier title description url
-          state { name }
+          state { name type }
           labels { nodes { name } }
           team { states { nodes { id name } } }
           inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
@@ -294,6 +298,34 @@ export function quotaExhausted(transcript) {
 }
 
 /** Put a ticket back in Todo with a note, for a retry on a later night. */
+/** `factory-saved/<ticket>-<run id>`: where deliver saves a run that opened no PR. */
+const SAVED = /^(?:refs\/heads\/)?(factory-saved\/([A-Z][A-Z0-9]*-\d+)-(\d+))$/;
+
+function parseSaved(refs) {
+  return refs.flatMap((r) => {
+    const m = SAVED.exec(r.trim());
+    return m ? [{ branch: m[1], ticket: m[2], run: Number(m[3]) }] : [];
+  });
+}
+
+/** The ticket's newest saved branch (highest run id), or null. */
+export function savedBranchFor(refs, ticket) {
+  const mine = parseSaved(refs).filter((s) => s.ticket === ticket);
+  if (mine.length === 0) return null;
+  return mine.reduce((a, b) => (b.run > a.run ? b : a)).branch;
+}
+
+/**
+ * Saved branches that can go: their ticket is Done (state type `completed`).
+ * Canceled, open and unknown tickets keep theirs, so no work is dropped
+ * without someone deciding the ticket is finished.
+ */
+export function staleSavedBranches(refs, stateTypes) {
+  return parseSaved(refs)
+    .filter((s) => stateTypes[s.ticket] === 'completed')
+    .map((s) => s.branch);
+}
+
 export async function requeue(id, text, api) {
   const issue = await api.issue(id);
   await api.comment(issue, `The factory will try again later.\n\n${text.trim()}`);
@@ -311,6 +343,30 @@ async function main() {
   if (cmd === 'quota') {
     // Exit 0 when the allowance ran out, 1 when it didn't.
     process.exit(quotaExhausted(readFileSync(id, 'utf8')) ? 0 : 1);
+  }
+  if (cmd === 'saved-branch') {
+    // saved-branch <ticket-id> <refs-file>: the branch to resume from, if any.
+    const refs = readFileSync(path, 'utf8').split('\n');
+    const branch = savedBranchFor(refs, id) ?? '';
+    console.log(branch ? `resuming ${id} from ${branch}` : `no saved work for ${id}`);
+    output({ resume: branch });
+    return;
+  }
+  if (cmd === 'stale-saved') {
+    // stale-saved <refs-file>: prints saved branches whose ticket is Done.
+    const refs = readFileSync(id, 'utf8').split('\n');
+    const tickets = [...new Set(refs.map((r) => SAVED.exec(r.trim())?.[2]).filter(Boolean))];
+    const api = linear(await linearAuth(process.env));
+    const stateTypes = {};
+    for (const t of tickets) {
+      try {
+        stateTypes[t] = (await api.issue(t)).state.type;
+      } catch (e) {
+        console.error(`::warning::keeping saved branches of ${t}: ${e.message}`);
+      }
+    }
+    for (const b of staleSavedBranches(refs, stateTypes)) console.log(b);
+    return;
   }
   if (cmd === 'select') {
     if (process.env.FACTORY_ENABLED !== 'true') {
@@ -334,7 +390,7 @@ async function main() {
     !(needsPath || cmd === 'ensure-blocked')
   ) {
     console.error(
-      'usage: factory.mjs select | prepare|prepare-fix <ticket-id> <out-dir> | blocked|requeue <ticket-id> <file> | ensure-blocked <ticket-id> | quota <transcript>',
+      'usage: factory.mjs select | prepare|prepare-fix <ticket-id> <out-dir> | blocked|requeue <ticket-id> <file> | ensure-blocked <ticket-id> | quota <transcript> | saved-branch <ticket-id> <refs-file> | stale-saved <refs-file>',
     );
     process.exit(2);
   }

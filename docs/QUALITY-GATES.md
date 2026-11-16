@@ -108,6 +108,12 @@ The model comes from the ticket's Linear labels: `factory:opus` always gets Opus
 | `work` | Claude Code token only | Runs the playbook. No Linear key, no write token, no web access, no `git push`. Its only output is an artifact with `pr.md` or `blocked.md` and a git bundle. The transcript is kept as an artifact for 14 days. |
 | `deliver` | Linear key, factory app token | Pushes the branch and opens the PR as the factory GitHub App, or comments the agent's questions on the ticket and moves it to Blocked. |
 
+### Saved work
+
+A run never throws its work away. When a run opens or updates no PR (the agent blocked, the allowance ran out, the agent timed out or the run failed), deliver pushes its commits to `factory-saved/<ticket>-<run id>`, including anything the agent left uncommitted. The comment on the Linear ticket links the branch. If the agent leaves both `pr.md` and `blocked.md`, `blocked.md` wins.
+
+The next new run of that ticket starts from its newest saved branch, with `main` merged in, and the agent reviews that work against the ticket as it reads then. Fix runs don't resume; their saved branch is for a maintainer to pick up. The nightly run deletes saved branches once their ticket is Done. Branches of open or canceled tickets stay until someone deletes them.
+
 ### Setup
 
 - A `factory` environment, limited to `main`, with secrets `CLAUDE_CODE_OAUTH_TOKEN`, `LINEAR_API_KEY` and `FACTORY_APP_PRIVATE_KEY`.
