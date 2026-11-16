@@ -14,6 +14,8 @@ export type Canned = Record<string, { text: string | string[]; isError?: boolean
 export interface StubSession {
   /** The tools/call requests the stub has received, in order. */
   calls(): Array<{ name: string; arguments: Record<string, unknown> }>;
+  /** The argv and the OBSIDIAN_ and MCP_ env vars the stub saw at startup. */
+  startup(): { argv: string[]; env: Record<string, string> };
   /** Restore the environment and delete the call log. */
   dispose(): void;
 }
@@ -27,7 +29,12 @@ export function useStub(canned: Canned): StubSession {
   const log = join(dir, 'calls.jsonl');
   process.env.STUB_CANNED = JSON.stringify(canned);
   process.env.STUB_CALL_LOG = log;
+  const startLog = join(dir, 'start.json');
+  process.env.STUB_START_LOG = startLog;
   return {
+    startup() {
+      return JSON.parse(readFileSync(startLog, 'utf8'));
+    },
     calls() {
       let text = '';
       try {
@@ -40,6 +47,7 @@ export function useStub(canned: Canned): StubSession {
     dispose() {
       delete process.env.STUB_CANNED;
       delete process.env.STUB_CALL_LOG;
+      delete process.env.STUB_START_LOG;
       rmSync(dir, { recursive: true, force: true });
     },
   };

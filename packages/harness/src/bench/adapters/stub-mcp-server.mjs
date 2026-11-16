@@ -12,9 +12,22 @@
 //                  `text` may be an array to answer successive calls in turn.
 //   STUB_CALL_LOG  file path; every tools/call appends {name, arguments} as one
 //                  JSON line, so a test can assert what the adapter sent.
+//   STUB_START_LOG file path; at startup the stub writes {argv, env} (the env
+//                  vars whose names start with OBSIDIAN_ or MCP_) as one JSON
+//                  line, so a test can assert what the adapter passed the child.
 import { spawn } from 'node:child_process';
 import { appendFileSync, writeFileSync } from 'node:fs';
 import { createInterface } from 'node:readline';
+
+if (process.env.STUB_START_LOG) {
+  const env = Object.fromEntries(
+    Object.entries(process.env).filter(([k]) => /^(OBSIDIAN_|MCP_)/.test(k)),
+  );
+  writeFileSync(
+    process.env.STUB_START_LOG,
+    `${JSON.stringify({ argv: process.argv.slice(2), env })}\n`,
+  );
+}
 
 const PAGES = {
   '': { tools: [{ name: 'a' }, { name: 'b' }], nextCursor: 'p2' },
