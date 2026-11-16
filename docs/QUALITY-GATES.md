@@ -100,13 +100,39 @@ Write tickets from the Linear "Factory Ticket" template. `node scripts/factory-t
 
 The model comes from the ticket's Linear labels: `factory:opus` always gets Opus; `docs` or `chore` without `bug`, `feature` or `improvement` gets Sonnet; everything else gets Opus. The branch is `factory/<ID>-<slug>` from the ticket title. The PR is labelled `factory`, plus `bug` when the ticket has it, which turns on failing test first.
 
+### Draft PRs
+
+`factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch. Once every required check has passed on the head commit, it marks the PR ready for review. Until then it waits. Skipped and neutral results count as passing. Ready for review is also what moves the ticket to In Review and starts the CodeRabbit review.
+
+### The CI-fix loop
+
+A required check that fails on a draft factory PR starts a fix run. The follow-up workflow posts a marker comment as the factory app (so nobody else can forge one) and starts `factory.yml` in fix mode with the PR, the attempt number and the model. The agent gets the failing logs, fixes the same branch and updates the PR description. Only one fix runs per head commit.
+
+- **Attempts.** Two fix attempts per PR. A ticket that started on Sonnet gets a third, and that last one runs on Opus.
+- **Out of attempts.** If required checks still fail, the follow-up workflow comments on the PR, adds the `factory-blocked` label and moves the ticket to Blocked. It does the same if it cannot start the fix run.
+- **By hand.** `gh workflow run factory-followup.yml -f branch=factory/SHA-123-slug` makes the same decision a CI event would. `factory.yml` also takes `pr`, `attempt` and `model` inputs, but those are meant for the follow-up workflow.
+
+### The `factory-blocked` label
+
+The factory applies `factory-blocked` to a PR when it gives up on it: attempts ran out, the fix run could not start or failed before delivering, or the Max allowance ran out during a fix run. Nobody needs to add it by hand. While the label is on, the follow-up workflow does nothing for the PR: no more fix attempts and no marking ready. It also moves the ticket back to Blocked if PR activity moved it elsewhere. Nothing removes the label for you, so remove it by hand once the PR is fixed or you want the factory to try again.
+
+### Nightly run
+
+`factory-nightly.yml` runs at 07:00 UTC every day (2 AM US Eastern, 3 AM during daylight saving) and can be started by hand. If `FACTORY_ENABLED` is not `"true"` it picks nothing. Otherwise it takes tickets that are in Todo, labelled `factory` and have no open blocker, ordered by Linear priority (Urgent first, no priority last) and then by age, oldest first. It takes at most `FACTORY_NIGHTLY_LIMIT` tickets (default 5), and never more than the cap of 5 open `factory` PRs leaves room for.
+
+Tickets run one after another, each as its own `factory.yml` run, and the job waits for each to finish before starting the next. When a run reports that the Max allowance ran out, the night stops. That ticket goes back to Todo with a comment, so a later night picks it up. A fix run that hits the limit blocks its PR instead.
+
+### Factory log and metrics
+
+`factory-report.yml` posts the Factory log comment on SHA-527 every day at 12:00 UTC: what the factory did in the last 24 hours and what is waiting on a person. On Mondays, or when started by hand with `weekly=true`, it adds five weekly metrics: PRs merged, block rate, human review rounds per merged PR, PRs rejected or reverted, and fix attempts started by a CodSpeed failure. It reads GitHub and Linear only and makes no model calls.
+
 ### What each job can reach
 
 | Job | Holds | Does |
 | --- | --- | --- |
 | `prepare` | Linear key | Runs the gate, writes `ticket.md`, moves the ticket. |
 | `work` | Claude Code token only | Runs the playbook. No Linear key, no write token, no web access, no `git push`. Its only output is an artifact with `pr.md` or `blocked.md` and a git bundle. The transcript is kept as an artifact for 14 days. |
-| `deliver` | Linear key, factory app token | Pushes the branch and opens the PR as the factory GitHub App, or comments the agent's questions on the ticket and moves it to Blocked. |
+| `deliver` | Linear key, factory app token | Pushes the branch and opens a draft PR as the factory GitHub App (on a fix run, pushes to the PR branch), or comments the agent's questions on the ticket and moves it to Blocked. |
 
 ### Setup
 
