@@ -20,13 +20,10 @@ export default defineConfig({
       exclude: [
         'src/cli.ts',
         'src/bench/adapters/rest.ts',
-        'src/bench/adapters/mcpvault.ts',
         'src/bench/adapters/mcp-obsidian.ts',
         'src/bench/adapters/obsidian-mcp.ts',
         'src/bench/adapters/obsidian-mcp-pro.ts',
-        'src/bench/adapters/obsidian-mcp-rs.ts',
         'src/bench/adapters/obsidian-mcp-server.ts',
-        'src/bench/adapters/obsidian-tc.ts',
         'src/retrieval/competitors.ts',
         'src/fixtures/corpus.ts',
         'src/fixtures/generate.ts',
