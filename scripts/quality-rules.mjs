@@ -98,18 +98,81 @@ const LOCKED = [
   /^\.coderabbit\.ya?ml$/,
 ];
 
+const DEP_FIELDS = new Set([
+  'dependencies',
+  'devDependencies',
+  'peerDependencies',
+  'optionalDependencies',
+]);
+/** A dependency field's key anywhere on a line, e.g. a block opener or minified JSON. */
+const DEP_FIELD_KEY =
+  /"(?:dependencies|devDependencies|peerDependencies|optionalDependencies)"\s*:/;
+/** `"key": {` or a bare `{`; group 1 is the key. */
+const OPENER = /^\s*(?:"([^"]*)"\s*:\s*)?\{\s*$/;
+const CLOSER = /^\s*\}/;
+/** `"name": "<version range>"`, used when a hunk starts inside a block it doesn't name. */
+const VERSION_ENTRY =
+  /^\s*"[^"]+"\s*:\s*"(?:[\^~<>=*]|v?\d|workspace:|npm:|file:|link:|git[+:]|github:|https?:)/;
+
 /**
- * Scope lock for factory PRs. A lockfile change means dependencies changed,
- * which is allowed only with the `dependencies` label.
+ * Whether a package.json diff adds, removes or changes a dependency entry.
+ * Tracks, for the old side (context and `-` lines) and the new side (context
+ * and `+` lines), which object each indent level opened. A changed line's
+ * parent is the open object with the deepest indent above it. If the hunk
+ * starts inside a block whose opening line it doesn't show, the parent is
+ * unknown and a version-range value counts as a dependency.
+ */
+function changesDependencies(patch) {
+  let sides = { old: new Map(), new: new Map() };
+  for (const line of patch.split('\n')) {
+    if (line.startsWith('@@')) {
+      sides = { old: new Map(), new: new Map() };
+      continue;
+    }
+    if (line.startsWith('+++') || line.startsWith('---')) continue;
+    const text = line.slice(1);
+    const indent = text.length - text.trimStart().length;
+    const marker = line[0];
+    const touched =
+      marker === '+' ? [sides.new] : marker === '-' ? [sides.old] : [sides.old, sides.new];
+    if (marker === '+' || marker === '-') {
+      if (DEP_FIELD_KEY.test(text)) return true;
+      let parentIndent = -1;
+      let parent;
+      for (const [i, key] of touched[0]) {
+        if (i < indent && i > parentIndent) [parentIndent, parent] = [i, key];
+      }
+      if (parentIndent < 0 ? VERSION_ENTRY.test(text) : DEP_FIELDS.has(parent)) return true;
+    }
+    const opener = text.match(OPENER);
+    if (!opener && !CLOSER.test(text)) continue;
+    for (const side of touched) {
+      for (const i of side.keys()) if (i >= indent) side.delete(i);
+      if (opener) side.set(indent, opener[1] ?? null);
+    }
+  }
+  return false;
+}
+
+/**
+ * Scope lock for factory PRs. A lockfile change, or a change to a dependency
+ * list in any package.json, is allowed only with the `dependencies` label. A
+ * package.json without a diff (GitHub omits very large ones) counts as a
+ * dependency change, since the check can't rule one out.
  * @returns {string[]} one reason per violation
  */
 export function scopeViolations(files, labels) {
   const reasons = [];
+  const depsAllowed = labels.includes('dependencies');
   for (const f of files) {
     if (LOCKED.some((re) => re.test(f.filename))) {
       reasons.push(`${f.filename}: factory PRs may not change this path`);
     }
-    if (f.filename.endsWith('package-lock.json') && !labels.includes('dependencies')) {
+    const lockfile = f.filename.endsWith('package-lock.json');
+    const manifest =
+      /(^|\/)package\.json$/.test(f.filename) &&
+      (f.patch === undefined || changesDependencies(f.patch));
+    if ((lockfile || manifest) && !depsAllowed) {
       reasons.push(`${f.filename}: dependency change without the \`dependencies\` label`);
     }
   }
