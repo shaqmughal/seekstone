@@ -6,6 +6,7 @@ import {
   fetchCommandFor,
   resolveModelId,
   resolveSemanticConfig,
+  resolveWeights,
 } from './config.js';
 
 describe('resolveSemanticConfig', () => {
@@ -42,6 +43,22 @@ describe('resolveSemanticConfig', () => {
     ).toThrow(/unknown model "gpt-9".*potion-base-8M.*potion-retrieval-32M/);
     // Not consulted at all while the feature is off.
     expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC_MODEL: 'gpt-9' }, '/h')).toBeUndefined();
+  });
+
+  it('defaults SEEKSTONE_SEMANTIC_WEIGHTS to int8 and accepts f32 (SHA-548)', () => {
+    expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: '1' }, '/h')?.weights).toBe('int8');
+    expect(
+      resolveSemanticConfig({ SEEKSTONE_SEMANTIC: '1', SEEKSTONE_SEMANTIC_WEIGHTS: 'f32' }, '/h')
+        ?.weights,
+    ).toBe('f32');
+    expect(resolveWeights(' int8 ')).toBe('int8');
+    expect(resolveWeights('')).toBe('int8');
+  });
+
+  it('rejects an unknown SEEKSTONE_SEMANTIC_WEIGHTS naming int8 and f32', () => {
+    expect(() =>
+      resolveSemanticConfig({ SEEKSTONE_SEMANTIC: '1', SEEKSTONE_SEMANTIC_WEIGHTS: 'bogus' }, '/h'),
+    ).toThrow(/SEEKSTONE_SEMANTIC_WEIGHTS: unknown value "bogus".*int8, f32/);
   });
 
   it('names the exact fetch command for each model', () => {
