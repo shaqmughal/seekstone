@@ -19,8 +19,6 @@ export default defineConfig({
       // the deterministic fixture primitives (prng, tags) — is gated.
       exclude: [
         'src/cli.ts',
-        'src/bench/adapters/obsidian-mcp.ts',
-        'src/bench/adapters/obsidian-mcp-pro.ts',
         'src/retrieval/competitors.ts',
         'src/fixtures/corpus.ts',
         'src/fixtures/generate.ts',
