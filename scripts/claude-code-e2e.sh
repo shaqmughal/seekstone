@@ -27,6 +27,11 @@ echo "• building + packing seekstone…"
 (cd "$repo_root" && npm run build -w seekstone >/dev/null)
 tgz_name="$(cd "$repo_root" && npm pack -w seekstone --ignore-scripts --pack-destination "$workdir" 2>/dev/null | tail -1)"
 echo "• installing $tgz_name into a scratch project…"
+# This install is unpinned on purpose. It resolves seekstone's `^` dependency
+# ranges fresh from npm, the way a user's install does, so the test catches a
+# breaking dependency release. A lockfile would hide exactly that. OpenSSF
+# Scorecard's Pinned-Dependencies check flags this line, and we accept the
+# 9/10 (SHA-530): the script runs by hand, never in CI, and isn't published.
 (cd "$workdir" && npm init -y >/dev/null 2>&1 && npm install --no-audit --no-fund "$workdir/$tgz_name" >/dev/null 2>&1)
 server_entry="$workdir/node_modules/seekstone/dist/index.js"
 [ -f "$server_entry" ] || { echo "✗ installed entry not found: $server_entry"; exit 1; }
