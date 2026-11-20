@@ -1,4 +1,5 @@
-import { afterEach, describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vitest';
+import { McpSubprocess } from './mcp-subprocess.js';
 import { ObsidianMcpAdapter } from './obsidian-mcp.js';
 import { type Canned, STUB_CMD, type StubSession, useStub } from './stub-canned.js';
 
@@ -19,6 +20,7 @@ describe('ObsidianMcpAdapter against the stub server', () => {
     await adapter?.close();
     adapter = undefined;
     session.dispose();
+    vi.restoreAllMocks();
     delete process.env.SEEKSTONE_OBSIDIAN_MCP_CMD;
   });
 
@@ -133,9 +135,15 @@ describe('ObsidianMcpAdapter against the stub server', () => {
 
   it('takes the command from SEEKSTONE_OBSIDIAN_MCP_CMD when no cmd is given', async () => {
     session = useStub({});
-    process.env.SEEKSTONE_OBSIDIAN_MCP_CMD = STUB_CMD.join(' ');
-    adapter = await ObsidianMcpAdapter.build({ vaultRoot: '/tmp/v' });
-    expect(session.startup().argv).toEqual(['/tmp/v']);
+    // A space-free fake command, so the test does not depend on where node is installed.
+    const spy = vi.spyOn(McpSubprocess, 'connect').mockRejectedValue(new Error('stop here'));
+    process.env.SEEKSTONE_OBSIDIAN_MCP_CMD = 'fake-server --flag';
+    await expect(ObsidianMcpAdapter.build({ vaultRoot: '/tmp/v' })).rejects.toThrow('stop here');
+    expect(spy).toHaveBeenCalledWith(
+      'obsidian-mcp',
+      ['fake-server', '--flag', '/tmp/v'],
+      expect.anything(),
+    );
   });
 
   it('throws when the server returns a tool error', async () => {
