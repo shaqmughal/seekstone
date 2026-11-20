@@ -1,10 +1,38 @@
-import { mkdtemp, rm } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { basename, join } from 'node:path';
 import type { Embedder, TokenEmbedder, TokenEmbedding } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { IndexedNote } from '../index/types.js';
+import { cachePathsFor } from './cache.js';
 import { Semantic, type SemanticCtx } from './state.js';
+
+/** A real (tiny) Model2Vec dir for the actual loader: 5 tokens, dim 2. */
+async function writeTinyModel(dir: string): Promise<void> {
+  await mkdir(dir, { recursive: true });
+  const vocab = { '[PAD]': 0, '[UNK]': 1, wind: 2, milk: 3, mill: 4 };
+  const tokenizer = {
+    normalizer: { type: 'BertNormalizer', clean_text: true, lowercase: true },
+    pre_tokenizer: { type: 'BertPreTokenizer' },
+    added_tokens: [
+      { id: 0, content: '[PAD]', special: true },
+      { id: 1, content: '[UNK]', special: true },
+    ],
+    model: { type: 'WordPiece', unk_token: '[UNK]', continuing_subword_prefix: '##', vocab },
+  };
+  const data = new Float32Array([0, 0, 0.1, 0.1, 1, 0.2, 0.1, 1, 0.9, 0.3]);
+  const header = new TextEncoder().encode(
+    JSON.stringify({ embeddings: { dtype: 'F32', shape: [5, 2], data_offsets: [0, 40] } }),
+  );
+  const file = new Uint8Array(8 + header.length + data.byteLength);
+  new DataView(file.buffer).setBigUint64(0, BigInt(header.length), true);
+  file.set(header, 8);
+  file.set(new Uint8Array(data.buffer), 8 + header.length);
+  await writeFile(join(dir, 'config.json'), JSON.stringify({ hidden_dim: 2 }));
+  await writeFile(join(dir, 'tokenizer.json'), JSON.stringify(tokenizer));
+  await writeFile(join(dir, 'model.safetensors'), file);
+}
 
 /** Keyword stub: axis 0 = wind, axis 1 = dairy, axis 2 = other. */
 const stubEmbedder: Embedder = {
@@ -247,6 +275,22 @@ describe('Semantic', () => {
         cacheDir,
       }),
     ).rejects.toThrow(/fetch-model --model potion-retrieval-32M/);
+  });
+
+  it('writes int8 and f32 vectors to different cache files for the same vault and model (SHA-548)', async () => {
+    const modelDir = join(cacheDir, 'models', 'tiny');
+    await writeTinyModel(modelDir);
+    const ctx = makeCtx('/vault/weights');
+    const files: string[] = [];
+    for (const weights of ['int8', 'f32'] as const) {
+      const s = await Semantic.start(ctx, { modelId: 'tiny', modelDir, cacheDir, weights });
+      await s.ready();
+      s.stop();
+      files.push(cachePathsFor(cacheDir, ctx.vaultRoot, s.embedder.id).manifest);
+    }
+    expect(files[0]).not.toBe(files[1]);
+    expect(files.map((f) => basename(f))).toEqual(['tiny.json', 'tiny+f32.json']);
+    for (const f of files) expect(existsSync(f)).toBe(true);
   });
 
   it('survives a failing cache save with a warning, and a failing build with an error log', async () => {
