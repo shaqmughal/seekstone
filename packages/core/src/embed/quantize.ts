@@ -30,7 +30,7 @@ export function quantizeRows(table: Float32Array, rows: number, dim: number): Qu
     if (s === 0) continue; // subnormal row: the scale underflows, keep it zero
     for (let j = 0; j < dim; j++) {
       const v = Math.round((table[base + j] as number) / s);
-      q[base + j] = v > 127 ? 127 : v < -127 ? -127 : v;
+      q[base + j] = Math.max(-127, Math.min(127, v));
     }
   }
   return { q, scale };

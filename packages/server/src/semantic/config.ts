@@ -38,7 +38,7 @@ export interface SemanticConfig {
 
 /**
  * Validate `SEEKSTONE_SEMANTIC_WEIGHTS`: `int8` (default) or `f32`. Throws a
- * config error naming both, like `resolveModel` does for a bad model id.
+ * config error naming both, like `resolveModelId` does for a bad model id.
  */
 export function resolveWeights(raw: string | undefined): Model2VecWeights {
   const value = raw?.trim();
