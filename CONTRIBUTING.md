@@ -26,7 +26,7 @@ This is an npm-workspaces monorepo:
 
 ```bash
 npm test                       # run all tests (vitest, all workspaces)
-npm run lint                   # biome check (lint + format verification)
+npm run lint                   # biome check (lint + format verification); warnings fail it, and so fail CI
 npm run format                 # biome auto-format
 npm run build -w seekstone     # build the publishable server (tsup → dist/)
 
