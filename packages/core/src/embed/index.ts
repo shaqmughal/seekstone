@@ -7,7 +7,13 @@ export {
   maxsimScoreAll,
   maxsimScoreTokens,
 } from './maxsim.js';
-export { loadModel2Vec } from './model2vec.js';
+export {
+  DEFAULT_MODEL2VEC_WEIGHTS,
+  type LoadModel2VecOptions,
+  loadModel2Vec,
+  MODEL2VEC_WEIGHTS,
+  type Model2VecWeights,
+} from './model2vec.js';
 export {
   assertValidPooling,
   type ChunkPooling,

@@ -44,6 +44,15 @@ export function makeTestSafetensors(
   return out;
 }
 
+/** Deterministic LCG in [0, 1), so synthetic tables are the same every run. */
+export function lcg(seed: number): () => number {
+  let s = seed >>> 0;
+  return () => {
+    s = (Math.imul(s, 1664525) + 1013904223) >>> 0;
+    return s / 2 ** 32;
+  };
+}
+
 /**
  * 10-token WordPiece vocab shaped like the real potion tokenizer.json
  * (BertNormalizer + BertPreTokenizer + WordPiece, specials in added_tokens).
