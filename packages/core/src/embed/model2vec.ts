@@ -13,9 +13,15 @@
  * token filter, but returning each kept token's matrix row individually,
  * L2-normalized per row — no second copy of the matrix, rows are gathered
  * from the same in-memory table `embed()` pools from.
+ *
+ * By default the table is held as int8 with one float32 scale per row
+ * (SHA-548, `quantize.ts`), about a quarter of the float32 size. Pass
+ * `weights: 'f32'` to keep the float32 table as before; the embedder id then
+ * gets a `+f32` suffix so the two formats never share a cache file.
  */
 import { readFile } from 'node:fs/promises';
 import { basename, join } from 'node:path';
+import { quantizeRows } from './quantize.js';
 import { readSafetensors } from './safetensors.js';
 import { loadWordPieceTokenizer } from './tokenizer.js';
 import type { TokenEmbedder, TokenEmbedding } from './types.js';
@@ -27,8 +33,22 @@ interface Model2VecConfig {
 
 const TENSOR_NAME = 'embeddings';
 
-export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
-  const [configRaw, tokenizerRaw, weights] = await Promise.all([
+/** How the embedding table is held in memory. */
+export type Model2VecWeights = 'int8' | 'f32';
+export const MODEL2VEC_WEIGHTS: readonly Model2VecWeights[] = ['int8', 'f32'];
+export const DEFAULT_MODEL2VEC_WEIGHTS: Model2VecWeights = 'int8';
+
+export interface LoadModel2VecOptions {
+  /** 'int8' (default) or 'f32'. */
+  weights?: Model2VecWeights;
+}
+
+export async function loadModel2Vec(
+  modelDir: string,
+  opts: LoadModel2VecOptions = {},
+): Promise<TokenEmbedder> {
+  const format = opts.weights ?? DEFAULT_MODEL2VEC_WEIGHTS;
+  const [configRaw, tokenizerRaw, bytes] = await Promise.all([
     readFile(join(modelDir, 'config.json'), 'utf8'),
     readFile(join(modelDir, 'tokenizer.json'), 'utf8'),
     readFile(join(modelDir, 'model.safetensors')),
@@ -36,7 +56,7 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
   const config = JSON.parse(configRaw) as Model2VecConfig;
   const tokenizer = loadWordPieceTokenizer(JSON.parse(tokenizerRaw));
 
-  const tensors = readSafetensors(weights);
+  const tensors = readSafetensors(bytes);
   const tensor =
     tensors.get(TENSOR_NAME) ?? (tensors.size === 1 ? [...tensors.values()][0] : undefined);
   if (!tensor) {
@@ -59,7 +79,9 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
     );
   }
 
-  const table = tensor.data;
+  // The closures below capture only `src` and `scale`, so on the int8 path the
+  // float32 file buffer is unreferenced after this and can be collected.
+  const { src, scale } = residentTable(tensor.data, rows, dim, format);
 
   /** Token ids `embed()` would pool: specials skipped, [UNK] kept. */
   function pooledIds(text: string): number[] {
@@ -72,15 +94,24 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
   }
 
   return {
-    id: basename(modelDir),
+    id:
+      format === DEFAULT_MODEL2VEC_WEIGHTS ? basename(modelDir) : `${basename(modelDir)}+${format}`,
     dim,
     embed(text: string): Float32Array {
       const out = new Float32Array(dim);
       const ids = pooledIds(text);
       for (const id of ids) {
         const base = id * dim;
-        for (let j = 0; j < dim; j++) {
-          out[j] = (out[j] as number) + (table[base + j] as number);
+        if (scale) {
+          const s = scale[id] as number;
+          if (s === 0) continue;
+          for (let j = 0; j < dim; j++) {
+            out[j] = (out[j] as number) + s * (src[base + j] as number);
+          }
+        } else {
+          for (let j = 0; j < dim; j++) {
+            out[j] = (out[j] as number) + (src[base + j] as number);
+          }
         }
       }
       const pooled = ids.length;
@@ -116,12 +147,15 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
     },
   };
 
-  /** Copy row `id` of the table into `out` at `offset`, L2-normalized (zero rows stay zero). */
+  /**
+   * Copy row `id` of the table into `out` at `offset`, L2-normalized (zero rows
+   * stay zero). An int8 row's scale cancels under normalization, so it's skipped.
+   */
   function writeNormalizedRow(id: number, out: Float32Array, offset: number): void {
     const base = id * dim;
     let sumSquares = 0;
     for (let j = 0; j < dim; j++) {
-      const x = table[base + j] as number;
+      const x = src[base + j] as number;
       out[offset + j] = x;
       sumSquares += x * x;
     }
@@ -132,4 +166,16 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
       }
     }
   }
+}
+
+/** The table the gather paths read: int8 rows plus per-row scales, or the float32 rows as read. */
+function residentTable(
+  data: Float32Array,
+  rows: number,
+  dim: number,
+  format: Model2VecWeights,
+): { src: Int8Array | Float32Array; scale?: Float32Array } {
+  if (format === 'f32') return { src: data };
+  const { q, scale } = quantizeRows(data, rows, dim);
+  return { src: q, scale };
 }

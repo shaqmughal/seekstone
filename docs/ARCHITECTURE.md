@@ -93,7 +93,7 @@ flowchart TD
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
-    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>rerank.ts MaxSim rerank<br/>config.ts (SEEKSTONE_SEMANTIC_MODEL · SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
+    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>rerank.ts MaxSim rerank<br/>config.ts (SEEKSTONE_SEMANTIC_MODEL · SEEKSTONE_SEMANTIC_WEIGHTS · SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
@@ -181,7 +181,12 @@ flowchart TD
    `semantic/bundled-model.ts` reassembles them into the same location at
    boot when `SEEKSTONE_BUNDLED_MODEL_DIR` is set — disk-only, verified
    against the same pinned hashes) plus a
-   per-note chunk-vector store. Built in the background at boot (queries
+   per-note chunk-vector store. The loader quantizes the float32 embedding
+   table to int8 with one scale per row (`core/src/embed/quantize.ts`), so the
+   resident table is about a quarter of the file size;
+   `SEEKSTONE_SEMANTIC_WEIGHTS=f32` keeps the float32 table, and the embedder
+   id gains a `+f32` suffix so the two formats never share a cache file.
+   Built in the background at boot (queries
    meanwhile get a structured `semantic_building` progress error); persisted
    to a per-vault `(path, contentHash)`-keyed cache of vectors + chunk spans
    under `SEEKSTONE_CACHE_DIR` (default `~/.cache/seekstone`) so restarts

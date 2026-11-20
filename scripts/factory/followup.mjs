@@ -42,7 +42,7 @@ export function requiredState(required, checkRuns) {
   const failed = [];
   for (const name of required) {
     const r = latest.get(name);
-    if (!r || r.status !== 'completed') pending.push(name);
+    if (r?.status !== 'completed') pending.push(name);
     else if (!PASS.has(r.conclusion)) failed.push(name);
   }
   return { pending, failed };
