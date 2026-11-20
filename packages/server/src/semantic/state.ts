@@ -2,6 +2,7 @@ import {
   chunkNote,
   type Embedder,
   isTokenEmbedder,
+  type LoadModel2VecOptions,
   loadModel2Vec,
   type TokenEmbedder,
 } from '@seekstone/core/embed';
@@ -32,7 +33,7 @@ export interface SemanticDeps {
   /** Yield to the event loop after this many freshly-embedded notes. */
   yieldEvery?: number;
   /** Test seam; defaults to loadModel2Vec. */
-  loadModel?: (modelDir: string) => Promise<Embedder>;
+  loadModel?: (modelDir: string, opts?: LoadModel2VecOptions) => Promise<Embedder>;
 }
 
 /**
@@ -98,7 +99,7 @@ export class Semantic {
   ): Promise<Semantic> {
     let embedder: Embedder;
     try {
-      embedder = await (deps.loadModel ?? loadModel2Vec)(cfg.modelDir);
+      embedder = await (deps.loadModel ?? loadModel2Vec)(cfg.modelDir, { weights: cfg.weights });
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err);
       throw new Error(
