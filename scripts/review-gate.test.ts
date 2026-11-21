@@ -117,6 +117,8 @@ describe('onlyBaseMerges', () => {
     git(['checkout', '-q', 'main']);
     write('b.txt', 'b changed on main\n');
     commit('main moves on');
+    write('d.txt', 'd\n');
+    commit('main moves again');
   });
 
   afterAll(() => rmSync(dir, { recursive: true, force: true }));
@@ -135,6 +137,7 @@ describe('onlyBaseMerges', () => {
     git(['merge', '-q', '--no-edit', 'main~1']);
     git(['merge', '-q', '--no-edit', 'main']);
     const head = git(['rev-parse', 'HEAD']);
+    expect(git(['rev-list', '--merges', '--count', `${approved}..${head}`])).toBe('2');
     expect(onlyBaseMerges({ approved, head, baseRef: 'main', git }).ok).toBe(true);
   });
 
@@ -156,7 +159,7 @@ describe('onlyBaseMerges', () => {
   });
 
   it('rejects a merge of a branch that is not main', () => {
-    git(['checkout', '-q', '-B', 'side', 'main~1']);
+    git(['checkout', '-q', '-B', 'side', 'main~2']);
     write('c.txt', 'c\n');
     const side = commit('side');
     branchFrom('other');
@@ -287,6 +290,20 @@ describe('run', () => {
     await expect(
       run({ repo: 'o/r', number: 7, headSha: HEAD, baseRef: '--output=x' }),
     ).rejects.toThrow(/bad BASE_REF/);
+  });
+
+  it('accepts any base branch name git allows', async () => {
+    routes({
+      '/repos/o/r/pulls/7/reviews': [review('APPROVED')],
+      '/repos/o/r/pulls/7': pull(),
+    });
+    const v = await run({
+      repo: 'o/r',
+      number: 7,
+      headSha: HEAD,
+      baseRef: 'origin/release/1.0+hotfix',
+    });
+    expect(v.pass).toBe(true);
   });
 
   it('names who added the override label', async () => {

@@ -183,7 +183,8 @@ export async function run({
   if (!repo || !Number.isInteger(number) || number <= 0 || !/^[0-9a-f]{40}$/.test(headSha ?? '')) {
     throw new Error('GITHUB_REPOSITORY, PR_NUMBER and HEAD_SHA are required');
   }
-  if (!/^[\w][\w./-]*$/.test(baseRef)) throw new Error(`bad BASE_REF: ${baseRef}`);
+  // Any name git allows, but never one git could read as an option.
+  if (!/^[^\s-][^\s]*$/.test(baseRef)) throw new Error(`bad BASE_REF: ${baseRef}`);
   const pr = await gh(`repos/${repo}/pulls/${number}`);
   const review = latestReview(await ghAll(`repos/${repo}/pulls/${number}/reviews?per_page=100`));
 
