@@ -11,7 +11,7 @@ Every rule here protects someone's notes. Tests enforce most of them, but read t
 - **Check the policy first.** Call `assertWritable` (`policy.ts`) before resolving the path.
 - **Journal before the first byte changes.** One file: `journalWrite`. Several files: work out every rewrite first, journal them all under one `ctx.journal.begin()` `seq`, then write. A write that lands before its journal entry can't be undone by `undo_write`.
 - **Write atomically.** Use `atomicWrite` (`atomic-write.ts`), never a bare `writeFile` on a vault path.
-- **Compare-and-swap.** Every write tool takes an optional `prevHash` (moves and deletes included) and returns a `contentHash`.
+- **Compare-and-swap.** Every write tool takes an optional `prevHash` (moves and deletes included) and returns a `contentHash`, with two exceptions: `undo_write` checks each file against its journal entry instead, and `get_periodic_note`'s create of a missing note has nothing to compare. `create_note` accepts `prevHash` only with `overwrite: true`.
 - **Deletes are recoverable** (moved to `.trash/`), and **moves rewrite inbound links**.
 - **Audit.** A write tool's dispatch case in `dispatch.ts` returns an `audit` detail object with paths and counts only, never note content. Without it, calls aren't recorded when `SEEKSTONE_AUDIT_FILE` is set. See `docs/ARCHITECTURE.md` §2.
 - `.seekstone/` and `.trash/` are excluded from the walker.
