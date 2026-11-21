@@ -155,7 +155,12 @@ no re-reads: `move_note` returns the hash of the (unchanged) bytes at the new
 path, `delete_note` the hash of the deleted content (byte-identical to the
 `.trash/` copy when recoverable), and `replace_in_note` returns the unchanged
 hash on dry runs and zero-match calls. This is conflict **detection**, not
-locking.
+locking: the hash is checked against the bytes the tool reads just before it
+writes, and the note is not locked in between, so an outside edit that lands
+in that window is overwritten. For `move_note`, `prevHash` guards the source
+note only. With `overwrite: true`, an existing destination is replaced without
+a hash check; the journal keeps its old content, so `undo_write` can bring it
+back.
 
 - Enforced by: [`content-hash.ts`](../packages/server/src/content-hash.ts),
   checked immediately after the disk read in each of those ten tools.
@@ -204,7 +209,9 @@ still refused. A refusal is audited as
 `policy_denied` with `policy: "reserved_path"`. The check reads the path as
 written and does not follow symlinks, like `containVaultPath`: a
 symlink the user creates inside the vault that points into `.seekstone/` is
-not caught. No tool can create a symlink. (Tracked as SHA-575.)
+not caught. The `SEEKSTONE_WRITE_PATHS` and `SEEKSTONE_READ_PATHS` globs are
+matched the same way, so a symlink inside an allowed folder can route a write
+to a folder the globs exclude. No tool can create a symlink. (Tracked as SHA-575.)
 
 `SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
 excludes, so `!Journal/**` means everything except `Journal/`). Hidden files
@@ -259,9 +266,13 @@ refused with a structured `undo_conflict` (expected/actual hashes and byte
 counts) unless `force: true` — and even then the clobbered state is journaled
 first. Only that check is all-or-nothing. The restore itself writes the files
 one at a time, so a failure partway through (a full disk, say) can leave some
-files restored and others not. Nothing is lost when that happens: the undo's
-own journal entry, which holds every file's state from before the undo, is
-committed before the first file is written. The undo is itself journaled, so `undo_write({ seq })` on an undo entry
+files restored and others not. The undo's own journal entry, which holds
+every file's state from before the undo, is committed before the first file is
+written, so that state can still be put back. It does not hold the original
+write's pre-images. Committing it can evict the original entry under the
+retention caps, and if that happened, the files not yet restored can't be
+taken back to their pre-write state through the journal. The undo is itself
+journaled, so `undo_write({ seq })` on an undo entry
 redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
 
