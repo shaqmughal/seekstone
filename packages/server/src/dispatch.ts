@@ -540,6 +540,8 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     }
     case 'list_writes': {
       const input = ListWritesInput.parse(args);
+      // Show writes other server processes made on this vault too.
+      await ctx.journal?.refresh();
       const result = listWrites(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
