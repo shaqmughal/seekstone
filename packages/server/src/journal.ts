@@ -1,4 +1,5 @@
-import { randomBytes, timingSafeEqual } from 'node:crypto';
+import { timingSafeEqual } from 'node:crypto';
+import { closeSync, openSync, rmSync, statSync, writeSync } from 'node:fs';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
 import { join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
@@ -206,10 +207,10 @@ export class Journal {
     return this.enqueue(() => this.load());
   }
 
-  /** One stat when nothing changed. Only whole lines are read. */
+  /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(): Promise<boolean> {
     try {
-      const st = await stat(this.manifestPath);
+      const st = statSync(this.manifestPath);
       if (st.ino === this.manifestIno && st.size === this.manifestOffset + this.tailBytes) {
         return false;
       }
@@ -435,17 +436,19 @@ export class Journal {
     return entry;
   }
 
+  /** Sync fs calls: cheaper inline than as thread-pool round trips (as in `AuditLog.record`). */
   private async withLock<T>(fn: () => Promise<T>): Promise<T> {
-    const id = randomBytes(6).toString('hex');
-    const token = JSON.stringify({ pid: process.pid, ts: Date.now(), id });
-    const deadline = Date.now() + 2 * LOCK_STALE_MS;
+    const ts = Date.now();
+    // Commits in one process are serialized, so pid + ts tells holders apart.
+    const token = `{"pid":${process.pid},"ts":${ts}}`;
+    const deadline = ts + 2 * LOCK_STALE_MS;
     for (;;) {
       try {
-        const fh = await open(this.lockPath, 'wx');
+        const fd = openSync(this.lockPath, 'wx');
         try {
-          await fh.writeFile(token, 'utf8');
+          writeSync(fd, token);
         } finally {
-          await fh.close();
+          closeSync(fd);
         }
         break;
       } catch (err) {
@@ -455,7 +458,7 @@ export class Journal {
       }
       if (await lockIsStale(this.lockPath)) {
         this.log?.warn('journal: taking over a stale lock');
-        await rm(this.lockPath, { force: true });
+        rmSync(this.lockPath, { force: true });
       } else if (Date.now() > deadline) {
         throw new Error('journal: timed out waiting for the history lock');
       } else {
@@ -470,7 +473,7 @@ export class Journal {
       const ours =
         Date.now() - acquired < LOCK_STALE_MS ||
         (await readFile(this.lockPath, 'utf8').catch(() => '')) === token;
-      if (ours) await rm(this.lockPath, { force: true });
+      if (ours) rmSync(this.lockPath, { force: true });
     }
   }
 
@@ -516,7 +519,7 @@ export class Journal {
         this.manifestPath,
         this.entries.map((e) => `${JSON.stringify(e)}\n`).join(''),
       );
-      const st = await stat(this.manifestPath);
+      const st = statSync(this.manifestPath);
       this.manifestIno = st.ino;
       this.manifestOffset = st.size;
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
