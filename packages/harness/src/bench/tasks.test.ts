@@ -61,6 +61,21 @@ describe('loadTaskSet', () => {
     await expect(loadTaskSet(path)).rejects.toThrow(/mutually exclusive/);
   });
 
+  it('accepts a statsQuery task alone and rejects it mixed with another query', async () => {
+    const ok = await writeTaskFile({ tasks: [{ id: 's', question: 'How big?', statsQuery: {} }] });
+    expect((await loadTaskSet(ok)).tasks[0]?.statsQuery).toEqual({});
+    for (const extra of [{ searchQuery: 'x' }, { readTopK: 1 }, { taskQuery: {} }]) {
+      const mixed = await writeTaskFile({
+        tasks: [{ id: 's', question: 'How big?', statsQuery: {}, ...extra }],
+      });
+      await expect(loadTaskSet(mixed)).rejects.toThrow(/statsQuery is mutually exclusive/);
+    }
+    for (const statsQuery of [{ folder: 'Daily/' }, [], null, 'all', true]) {
+      const bad = await writeTaskFile({ tasks: [{ id: 's', question: 'How big?', statsQuery }] });
+      await expect(loadTaskSet(bad)).rejects.toThrow(/statsQuery takes no options/);
+    }
+  });
+
   it('throws when readTopK is out of range (adapters cap search hits at 10)', async () => {
     const path = await writeTaskFile({ tasks: [{ ...validTask, readTopK: 11 }] });
     await expect(loadTaskSet(path)).rejects.toThrow(/between 1 and 10/);
@@ -75,7 +90,7 @@ describe('loadTaskSet', () => {
     expect(ts.tasks.length).toBeGreaterThanOrEqual(3);
     for (const t of ts.tasks) {
       expect(t.question.length).toBeGreaterThan(0);
-      if (t.taskQuery) {
+      if (t.taskQuery || t.statsQuery) {
         expect(t.searchQuery).toBeUndefined();
       } else {
         expect(t.searchQuery?.length).toBeGreaterThan(0);

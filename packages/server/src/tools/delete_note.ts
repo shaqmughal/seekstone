@@ -3,7 +3,7 @@ import { basename, extname, join } from 'node:path';
 import { z } from 'zod';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
-import { removeNoteBacklinks } from '../index/backlinks.js';
+import { removeDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -81,12 +81,7 @@ export async function deleteNote(
     await rename(absPath, join(ctx.vaultRoot, trashedTo));
   }
 
-  // Clear the note's own outgoing refs while its entry is still readable.
-  removeNoteBacklinks(ctx, input.path);
-  if (ctx.notes.has(input.path)) {
-    ctx.index.discard(input.path);
-    ctx.notes.delete(input.path);
-  }
+  removeDoc(ctx, input.path);
 
   const result: DeleteNoteResult = {
     path: input.path,
