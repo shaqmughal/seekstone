@@ -18,6 +18,7 @@ import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
 import { undoWrite as undoWriteTool } from '../../../../server/src/tools/undo_write.js';
 import { updateTask as updateTaskTool } from '../../../../server/src/tools/update_task.js';
+import { vaultStats as vaultStatsTool } from '../../../../server/src/tools/vault_stats.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 export interface SeekstoneAdapterOptions {
@@ -124,6 +125,17 @@ export class SeekstoneAdapter implements Backend {
       limit: filter?.limit ?? 100,
     });
     // Minified like the dispatch case — the payload IS the thesis here.
+    const payload = JSON.stringify(result);
+    return {
+      result,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
+    };
+  }
+
+  async vaultStats(): Promise<BackendResponse<unknown>> {
+    const result = vaultStatsTool(this.ctx);
+    // Minified like the dispatch case.
     const payload = JSON.stringify(result);
     return {
       result,

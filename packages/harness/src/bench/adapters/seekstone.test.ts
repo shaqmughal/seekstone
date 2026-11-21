@@ -106,6 +106,13 @@ describe('SeekstoneAdapter', () => {
     expect(payloadBytes).toBeGreaterThan(0);
   });
 
+  it('vaultStats() returns minified counts with a measured payload', async () => {
+    const { result, payloadBytes, payloadText } = await adapter.vaultStats();
+    expect(result).toMatchObject({ notes: expect.any(Number) });
+    expect(payloadText).toBe(JSON.stringify(result));
+    expect(payloadBytes).toBe(Buffer.byteLength(payloadText ?? ''));
+  });
+
   it('contextPack() assembles a pack within the byte budget', async () => {
     const { result, payloadBytes, payloadText } = await adapter.contextPack('alpha content', 1024);
     const pack = result as { excerpts: unknown[]; totalMatches: number; confidence: string };
