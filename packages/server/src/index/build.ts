@@ -33,7 +33,11 @@ export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promis
   const t0 = Date.now();
 
   const entries = await walkVault(vaultRoot, scope);
-  const attachmentPaths = entries.filter((e) => e.kind !== 'note').map((e) => e.relPath);
+  // Attachments in dot-folders stay out, as in Obsidian: the watcher ignores
+  // dot-paths, so it could never keep them current.
+  const attachmentPaths = entries
+    .filter((e) => e.kind !== 'note' && !e.relPath.split('/').some((seg) => seg.startsWith('.')))
+    .map((e) => e.relPath);
   const files: NoteFile[] = [];
   await Promise.all(
     entries
