@@ -1,10 +1,10 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
-import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { refreshCachedNote } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -134,13 +134,7 @@ export async function replaceInNote(
     throw new Error('Write-safety violation: frontmatter region changed unexpectedly');
   }
 
-  const cached = ctx.notes.get(input.path);
-  if (cached) {
-    cached.body = newBody;
-    cached.raw = newContent;
-    cached.tasks = extractTasks(newContent);
-    cached.sizeBytes = Buffer.byteLength(newContent, 'utf8');
-  }
+  refreshCachedNote(ctx, input.path, newContent);
 
   return {
     path: input.path,

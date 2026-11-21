@@ -5,7 +5,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
-import { buildDoc, upsertDoc } from '../index/doc.js';
+import { replaceDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -101,7 +101,7 @@ export async function createNote(
   await atomicWrite(absPath, raw);
 
   // Sync in-memory index so the new note is immediately searchable.
-  upsertDoc(ctx, buildDoc(input.path, raw));
+  replaceDoc(ctx, input.path, raw);
 
   return {
     path: input.path,

@@ -1,6 +1,7 @@
 import { mkdir, mkdtemp, open, readdir, readFile, rename, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { basename, dirname, join, relative } from 'node:path';
+import { classify, walkVault } from '@seekstone/core/walk';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { atomicWrite, renameWithRetry } from './atomic-write.js';
 
@@ -73,7 +74,7 @@ describe('atomicWrite', () => {
     await writeFile(p, 'old', 'utf8');
     const { events, openFn, renameFn } = traced();
     await atomicWrite(p, 'durable', { openFn, renameFn });
-    expect(events).toEqual(['open w', 'writeFile', 'sync', 'close', 'rename']);
+    expect(events).toEqual(['open wx', 'writeFile', 'sync', 'close', 'rename']);
     expect(await readFile(p, 'utf8')).toBe('durable');
   });
 
@@ -92,6 +93,142 @@ describe('atomicWrite', () => {
     await expect(atomicWrite(p, 'new', { openFn })).rejects.toThrow('EIO');
     expect(await readFile(p, 'utf8')).toBe('old');
     expect(await readdir(sub)).toEqual(['note.md']);
+  });
+});
+
+describe('atomicWrite temp files (SHA-567)', () => {
+  const fsError = (code: string) => Object.assign(new Error(code), { code });
+
+  /** Real `open` that records every temp path atomicWrite asks for. */
+  function recordingOpen() {
+    const paths: string[] = [];
+    const openFn = async (path: string, flags: string) => {
+      paths.push(path);
+      return open(path, flags);
+    };
+    return { paths, openFn };
+  }
+
+  it('a failed open never removes a file this call did not create', async () => {
+    const sub = await mkdtemp(join(dir, 'open-fail-'));
+    const p = join(sub, 'note.md');
+    await writeFile(p, 'old', 'utf8');
+    // Someone else's file sits at the temp path when our open fails.
+    let tmp = '';
+    const openFn = async (path: string) => {
+      tmp = path;
+      await writeFile(path, 'not ours', 'utf8');
+      throw fsError('EACCES');
+    };
+    await expect(atomicWrite(p, 'new', { openFn })).rejects.toThrow('EACCES');
+    expect(await readFile(tmp, 'utf8')).toBe('not ours');
+    expect(await readFile(p, 'utf8')).toBe('old');
+  });
+
+  it("a writer whose open fails leaves a concurrent writer's temp file alone", async () => {
+    const sub = await mkdtemp(join(dir, 'overlap-'));
+    const p = join(sub, 'note.md');
+    await writeFile(p, 'old', 'utf8');
+
+    // Writer A opens its temp file, then pauses before writing until B is done.
+    let release!: () => void;
+    const gate = new Promise<void>((r) => {
+      release = r;
+    });
+    let opened!: () => void;
+    const aOpened = new Promise<void>((r) => {
+      opened = r;
+    });
+    const openA = async (path: string, flags: string) => {
+      const fh = await open(path, flags);
+      opened();
+      await gate;
+      return fh;
+    };
+    const a = atomicWrite(p, 'from A', { openFn: openA });
+    await aOpened;
+
+    // Writer B fails to open (disk full, permissions, a lock).
+    const openB = async () => {
+      throw fsError('ENOSPC');
+    };
+    await expect(atomicWrite(p, 'from B', { openFn: openB })).rejects.toThrow('ENOSPC');
+
+    release();
+    await a;
+    expect(await readFile(p, 'utf8')).toBe('from A');
+    expect(await readdir(sub)).toEqual(['note.md']);
+  });
+
+  it('concurrent writes to one note all succeed and leave no temp files', async () => {
+    const sub = await mkdtemp(join(dir, 'concurrent-'));
+    const p = join(sub, 'note.md');
+    await writeFile(p, 'old', 'utf8');
+    const contents = Array.from({ length: 16 }, (_, i) => `version ${i}\n`);
+    await Promise.all(contents.map((c) => atomicWrite(p, c)));
+    expect(contents).toContain(await readFile(p, 'utf8'));
+    expect(await readdir(sub)).toEqual(['note.md']);
+  });
+
+  it("uses a different temp file for every call, in the note's own directory", async () => {
+    const p = join(dir, 'unique.md');
+    const { paths, openFn } = recordingOpen();
+    await atomicWrite(p, 'one', { openFn });
+    await atomicWrite(p, 'two', { openFn });
+    expect(paths).toHaveLength(2);
+    expect(paths[0]).not.toBe(paths[1]);
+    for (const tmp of paths) expect(dirname(tmp)).toBe(dirname(p));
+  });
+
+  it('opens the temp file exclusively, so it never writes into an existing file', async () => {
+    const { paths, openFn } = recordingOpen();
+    const flags: string[] = [];
+    await atomicWrite(join(dir, 'exclusive.md'), 'x', {
+      openFn: (path, flag) => {
+        flags.push(flag);
+        return openFn(path, flag);
+      },
+    });
+    expect(paths).toHaveLength(1);
+    expect(flags).toEqual(['wx']);
+  });
+
+  it('names a leftover temp file so the index, the watcher and Obsidian skip it', async () => {
+    // A crash between open and rename leaves the temp file behind. Simulate it.
+    const vault = await mkdtemp(join(dir, 'crash-'));
+    await mkdir(join(vault, 'Projects'));
+    const p = join(vault, 'Projects', 'plan.md');
+    let tmp = '';
+    // Copy the temp file aside, then fail the rename so atomicWrite cleans up.
+    const renameFn = async (from: string) => {
+      tmp = from;
+      await writeFile(`${from}.kept`, await readFile(from));
+      throw fsError('EIO');
+    };
+    await expect(atomicWrite(p, '# Plan\n', { renameFn })).rejects.toThrow('EIO');
+    await rename(`${tmp}.kept`, tmp);
+
+    const name = basename(tmp);
+    // Obsidian and the watcher skip every dot-prefixed name.
+    expect(name.startsWith('.')).toBe(true);
+    expect(name.endsWith('.seekstone-tmp')).toBe(true);
+    // The index walk sees it but never treats it as a note.
+    const rel = relative(vault, tmp).split('\\').join('/');
+    expect(classify(rel)).not.toBe('note');
+    const notes = (await walkVault(vault)).filter((e) => e.kind === 'note');
+    expect(notes).toEqual([]);
+  });
+
+  it('keeps the temp file name within the 255-byte limit for a long note name', async () => {
+    const sub = await mkdtemp(join(dir, 'long-'));
+    // 250 bytes: fits as a note name, but not with a suffix appended.
+    const p = join(sub, `${'é'.repeat(100)}${'a'.repeat(47)}.md`);
+    expect(Buffer.byteLength(basename(p))).toBe(250);
+    const { paths, openFn } = recordingOpen();
+    await atomicWrite(p, 'long', { openFn });
+    expect(await readFile(p, 'utf8')).toBe('long');
+    expect(Buffer.byteLength(basename(paths[0] ?? ''))).toBeLessThanOrEqual(255);
+    expect(await readdir(sub)).toEqual([basename(p)]);
   });
 });
 

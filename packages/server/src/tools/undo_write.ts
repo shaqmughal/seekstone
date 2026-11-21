@@ -5,7 +5,7 @@ import { atomicWrite } from '../atomic-write.js';
 import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
-import { buildDoc, upsertDoc } from '../index/doc.js';
+import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
 import { assertWritable, isReadable, reservedFolder } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -149,11 +149,7 @@ export async function undoWrite(
     const pre = preimages.get(f.path) ?? null;
     if (pre === null) {
       await rm(abs, { force: true });
-      removeNoteBacklinks(ctx, f.path);
-      if (ctx.notes.has(f.path)) {
-        ctx.index.discard(f.path);
-        ctx.notes.delete(f.path);
-      }
+      removeDoc(ctx, f.path);
       restored.push({ path: f.path, restoredHash: null });
     } else {
       await mkdir(dirname(abs), { recursive: true });

@@ -59,7 +59,7 @@ Read:
 - `list_notes` — list notes filtered by folder prefix or tag
 - `list_tags` — list all tags sorted by usage count or alphabetically
 - `list_tasks` — list Markdown checkbox tasks as compact rows (path, line, state, text, nearest heading), vault-wide or filtered by note, folder, tag, state, or modified time; custom markers are single-char states
-- `vault_stats` — vault size and shape in one call under 1 KB: note, folder, tag and resolved-link counts, total/median/largest note size, and notes modified in the last 1, 7 and 30 days
+- `vault_stats` — vault size and shape in one call (230 bytes on the 10k-note benchmark vault): note, folder, tag and resolved-link counts, total/median/largest note size, and notes modified in the last 1, 7 and 30 days
 - `outline_note` — a note's heading and block structure without its full content
 - `get_backlinks` — all notes linking to a given note
 - `get_links` — all outgoing wikilinks and markdown links from a note

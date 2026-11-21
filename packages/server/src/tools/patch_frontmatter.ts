@@ -1,11 +1,11 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
-import { extractTasks } from '@seekstone/core/tasks';
 import { parseDocument } from 'yaml';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { refreshCachedNote } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -107,14 +107,7 @@ export async function patchFrontmatter(
   await journalWrite(ctx, 'patch_frontmatter', input.path, original, newContent);
   await atomicWrite(absPath, newContent);
 
-  // Update in-memory cache.
-  const cached = ctx.notes.get(input.path);
-  if (cached) {
-    const updated = parseFrontmatter(newContent);
-    cached.raw = newContent;
-    cached.fmKeys = updated.keys.join(' ');
-    cached.tasks = extractTasks(newContent);
-  }
+  refreshCachedNote(ctx, input.path, newContent);
 
   return {
     path: input.path,

@@ -5,6 +5,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { refreshCachedNote } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -141,13 +142,7 @@ export async function updateTask(
     throw new Error('Write-safety violation: frontmatter region changed unexpectedly');
   }
 
-  const cached = ctx.notes.get(input.path);
-  if (cached) {
-    cached.body = newContent.slice(fm.bodyStart);
-    cached.raw = newContent;
-    cached.tasks = extractTasks(newContent);
-    cached.sizeBytes = Buffer.byteLength(newContent, 'utf8');
-  }
+  refreshCachedNote(ctx, input.path, newContent, { keepsLinks: true });
 
   return {
     path: input.path,
