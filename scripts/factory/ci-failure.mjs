@@ -14,7 +14,7 @@ import { appendFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { requiredState } from './followup.mjs';
-import { gh, requiredChecks } from './github.mjs';
+import { gh, ghAll, requiredChecks } from './github.mjs';
 
 export const LOG_LINES = 150;
 /** The most of a CodSpeed comment ci-failure.md quotes when it can't be parsed. */
@@ -66,11 +66,14 @@ export function parseCodspeed(body) {
 export function codspeedSection(body, prHead) {
   const parsed = parseCodspeed(body);
   if (!parsed) {
-    const raw = body
-      .replace(/<!--[\s\S]*?-->/g, '')
-      .replace(/<[^>]+>/g, '')
-      .replace(/\n{3,}/g, '\n\n')
-      .trim();
+    // Repeat until nothing changes, so removing one tag can't leave another.
+    let raw = body;
+    let prev;
+    do {
+      prev = raw;
+      raw = raw.replace(/<!--[\s\S]*?-->/g, '').replace(/<[^>]+>/g, '');
+    } while (raw !== prev);
+    raw = raw.replace(/\n{3,}/g, '\n\n').trim();
     return [
       "CodSpeed's PR comment had no benchmark table this script could read. Here it is as posted:",
       '',
@@ -120,7 +123,7 @@ export function prMarkdown(title, body) {
 /** The CodSpeed section for a PR, from the newest comment by the CodSpeed app. */
 async function codspeedComment(repo, prNumber, head) {
   try {
-    const comments = await gh(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
+    const comments = await ghAll(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
     const c = comments
       .filter((x) => x.user?.login === 'codspeed[bot]' && x.body?.includes(CODSPEED_MARK))
       .at(-1);

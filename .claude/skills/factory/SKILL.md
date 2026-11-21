@@ -86,7 +86,7 @@ When `ci-failure.md` exists, the branch is already pushed and a check failed. Re
 Measure before you push:
 
 1. Find the regressed benchmark in `packages/server/src/bench/` and the code it calls. The change to explain is in `git diff main`.
-2. Compare base and branch on this machine with `npm run bench -w seekstone -- -t "<benchmark name>"`. To get the base, check out main's copy of the changed source files (`git checkout main -- <files>`), run, then restore the branch's (`git checkout HEAD -- <files>`). Interleave the runs (base, branch, branch, base) and use both orders, because whichever runs first is skewed by 2 to 4%.
+2. Compare base and branch on this machine with `npm run bench -w seekstone -- -t "<benchmark name>"`. Commit your candidate fix first, because the next command overwrites uncommitted changes. To get the base, check out main's copy of the changed source files (`git checkout main -- <files>`), run, then restore your commit's (`git checkout HEAD -- <files>`). If the candidate doesn't hold up, amend or add to that commit. Interleave the runs (base, branch, branch, base) and use both orders, because whichever runs first is skewed by 2 to 4%.
 3. Measure CPU time too, since that is what CodSpeed counts. A throwaway `*.test.ts` that calls the benchmarked function a few thousand times and prints the `process.cpuUsage()` delta (user time) works; run it with `npx vitest run <file>` on base and branch the same way, and delete it before you commit.
 4. Push only when the branch's CPU time is back to base, within the spread you saw between two base runs. Name the commit `perf(...): ... (CodSpeed)` so a later run can tell a perf fix was already tried.
 
