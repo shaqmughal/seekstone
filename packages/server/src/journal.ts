@@ -429,8 +429,14 @@ export class Journal {
     try {
       raw = await readFile(join(this.blobDir, hash), 'utf8');
     } catch (err) {
-      // Evicted by another process since we last looked: stop listing it as undoable.
-      if ((err as NodeJS.ErrnoException).code === 'ENOENT' && this.blobSizes.has(hash)) {
+      // Evicted by another process since we last looked: stop listing it as
+      // undoable. Check the disk first: a commit in this process may have
+      // restored the blob after the read failed.
+      if (
+        (err as NodeJS.ErrnoException).code === 'ENOENT' &&
+        this.blobSizes.has(hash) &&
+        !statSync(join(this.blobDir, hash), { throwIfNoEntry: false })
+      ) {
         this.totalBytes -= this.blobSizes.get(hash) ?? 0;
         this.blobSizes.delete(hash);
       }

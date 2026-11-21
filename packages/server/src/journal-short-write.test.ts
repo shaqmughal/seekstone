@@ -24,6 +24,21 @@ type Mode =
   | { kind: 'beforeLockToken'; run: () => void; fail?: boolean }
   | { kind: 'renameClash'; garbage?: boolean };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
+/** When set, the next blob read fails with ENOENT although the blob is on disk. */
+const staleRead = vi.hoisted(() => ({ next: false }));
+
+vi.mock('node:fs/promises', async (importOriginal) => {
+  const fsp = await importOriginal<typeof import('node:fs/promises')>();
+  const readFile = ((...args: Parameters<typeof fsp.readFile>) => {
+    if (staleRead.next && String(args[0]).includes('blobs')) {
+      staleRead.next = false;
+      // The read lost a race: another commit restored the blob after it looked.
+      return Promise.reject(Object.assign(new Error('ENOENT: no such file'), { code: 'ENOENT' }));
+    }
+    return fsp.readFile(...args);
+  }) as typeof fsp.readFile;
+  return { ...fsp, readFile, default: { ...fsp, readFile } };
+});
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
@@ -231,5 +246,19 @@ describe('Journal with short writes', () => {
     mode.current = { kind: 'renameClash', garbage: true };
     await expect(write(j, 'a', 'shared pre-image', 'v2')).rejects.toThrow(/EPERM/);
     expect(j.list().total).toBe(0);
+  });
+
+  // SHA-566 review: a pre-image read can fail with ENOENT after a concurrent
+  // commit has already restored the blob. The cache must not forget a blob
+  // that is on disk.
+  it('keeps a blob in the cache when a failed read races its restore', async () => {
+    const j = await Journal.open(vault, BIG);
+    await write(j, 'a', 'restored pre-image', 'v2');
+    const bytes = j.storedBytes;
+    staleRead.next = true;
+    await expect(j.preimage(contentHash('restored pre-image'))).rejects.toThrow(/ENOENT/);
+    expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
+    expect(j.storedBytes).toBe(bytes);
+    expect(await j.preimage(contentHash('restored pre-image'))).toBe('restored pre-image');
   });
 });

@@ -204,7 +204,10 @@ disables the journal. `.seekstone/` is excluded from indexing and search like
 holds `.seekstone/history/manifest.lock`, and a waiting process removes that
 lock only when its owner's pid on the same host has exited (or, where that
 can't be checked, when the lock file is over 30 seconds old). A live owner
-keeps the lock however long it pauses. This complements git and Obsidian's File Recovery — it is the
+keeps the lock however long it pauses. Two limits follow: if a crashed lock
+holder's pid is reused by another process, writes fail after 60 seconds with an
+error that names the lock file to delete; and a lock held from another host is
+reclaimed after 30 seconds, even if its owner is only paused. This complements git and Obsidian's File Recovery — it is the
 recovery path the agent itself can drive.
 
 - Enforced by: [`journal.ts`](../packages/server/src/journal.ts) (blob store,
