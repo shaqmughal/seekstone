@@ -56,6 +56,7 @@ export class SeekstoneAdapter implements Backend {
       vaultRoot: opts.vaultRoot,
       index,
       notes,
+      generation: 0,
       backlinks,
       attachments,
       policy: PERMISSIVE_POLICY,

@@ -20,6 +20,14 @@ export interface ServerContext {
   index: MiniSearch<IndexedNote>;
   notes: Map<string, IndexedNote>;
   /**
+   * Goes up by one each time the note index changes: a note added, removed or
+   * rewritten, or a backlink ref added or removed. 0 after the boot build.
+   * Whole-vault tools (list_tags, vault_stats, get_links' resolve maps) cache
+   * by it; see index/generation.ts. Only the index/doc.ts and
+   * index/backlinks.ts helpers change the index, and each one bumps.
+   */
+  generation: number;
+  /**
    * Reverse-link index: target vault-relative path → backlink refs pointing to it.
    * Sorted by source path; maintained incrementally by the watcher.
    */

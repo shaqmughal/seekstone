@@ -2,7 +2,8 @@ import type { LinkType } from '@seekstone/core/extract';
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
-import { buildResolveMaps, resolveAttachment, resolveLink } from '../index/resolve.js';
+import { cachedResolveMaps } from '../index/generation.js';
+import { resolveAttachment, resolveLink } from '../index/resolve.js';
 import { containVaultPath } from '../vault-path.js';
 
 export const GetLinksInput = z.object({
@@ -36,8 +37,9 @@ export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResu
   // De-duplicate: one entry per (target string) — keep first occurrence by line
   const seen = new Set<string>();
   const links: GetLinksEntry[] = [];
-  // Built once per call: resolveLink without maps rebuilds them per link.
-  const maps = buildResolveMaps(ctx.notes);
+  // Shared until the index changes: resolveLink without maps rebuilds them
+  // per link, and building them once is a pass over every note.
+  const maps = cachedResolveMaps(ctx);
   for (const link of rawLinks) {
     if (seen.has(link.target)) continue;
     seen.add(link.target);

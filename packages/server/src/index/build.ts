@@ -21,6 +21,8 @@ export interface BuildResult {
   notes: Map<string, IndexedNote>;
   backlinks: Map<string, BacklinkRef[]>;
   attachments: AttachmentIndex;
+  /** Index generation (see ServerContext.generation): 0 for a fresh build. */
+  generation: number;
   buildMs: number;
 }
 
@@ -60,6 +62,7 @@ export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promis
   return {
     ...indexNotes(files),
     attachments: buildAttachmentIndex(attachmentPaths),
+    generation: 0,
     buildMs: Date.now() - t0,
   };
 }
@@ -78,7 +81,9 @@ export interface NoteFile {
  * always builds the same index, whatever order the file reads finished in
  * (SHA-532). Pure CPU work, which is what the CodSpeed bench measures.
  */
-export function indexNotes(files: NoteFile[]): Omit<BuildResult, 'attachments' | 'buildMs'> {
+export function indexNotes(
+  files: NoteFile[],
+): Omit<BuildResult, 'attachments' | 'generation' | 'buildMs'> {
   const index = new MiniSearch<IndexedNote>({
     idField: 'id',
     fields: ['title', 'body', 'tags', 'fmKeys'],

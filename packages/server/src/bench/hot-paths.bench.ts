@@ -21,6 +21,7 @@ import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from '../tools/append_note.js';
 import { getBacklinks } from '../tools/get_backlinks.js';
 import { getLinks } from '../tools/get_links.js';
+import { listTags } from '../tools/list_tags.js';
 import { readNote } from '../tools/read_note.js';
 import { search } from '../tools/search.js';
 import { vaultStats } from '../tools/vault_stats.js';
@@ -126,9 +127,20 @@ describe('links', () => {
   });
 });
 
+// get_links, vault_stats and list_tags cache by index generation (SHA-461).
+// The original rows bump the generation first, so they still time a call
+// right after an index change; the "repeat" rows time a cache hit.
+
 describe('outlinks', () => {
   test('get_links', async ({ bench }) => {
     await bench('get_links (30-link note)', () => {
+      ctx.generation++;
+      getLinks(ctx, { path: LINKY });
+    }).run();
+  });
+
+  test('get_links repeat', async ({ bench }) => {
+    await bench('get_links repeat (30-link note)', () => {
       getLinks(ctx, { path: LINKY });
     }).run();
   });
@@ -137,7 +149,29 @@ describe('outlinks', () => {
 describe('stats', () => {
   test('vault_stats', async ({ bench }) => {
     await bench('vault_stats (1k notes)', () => {
+      ctx.generation++;
       vaultStats(ctx);
+    }).run();
+  });
+
+  test('vault_stats repeat', async ({ bench }) => {
+    await bench('vault_stats repeat (1k notes)', () => {
+      vaultStats(ctx);
+    }).run();
+  });
+});
+
+describe('tags', () => {
+  test('list_tags', async ({ bench }) => {
+    await bench('list_tags (1k notes)', () => {
+      ctx.generation++;
+      listTags(ctx, { sort: 'count' });
+    }).run();
+  });
+
+  test('list_tags repeat', async ({ bench }) => {
+    await bench('list_tags repeat (1k notes)', () => {
+      listTags(ctx, { sort: 'count' });
     }).run();
   });
 });

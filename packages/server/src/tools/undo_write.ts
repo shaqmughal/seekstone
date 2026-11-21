@@ -79,15 +79,7 @@ export async function undoWrite(
     entry = journal.get(input.seq);
     if (entry && visible && !entry.files.every((f) => visible(f.path))) entry = undefined;
     if (!entry) throw new Error(`Journal entry ${input.seq} not found.`);
-    if (!journal.isUndoable(entry)) {
-      throw new Error(
-        JSON.stringify({
-          error: 'entry_evicted',
-          seq: entry.seq,
-          hint: 'Its pre-image was evicted by the retention cap (SEEKSTONE_HISTORY_MAX_SIZE); it can no longer be undone.',
-        }),
-      );
-    }
+    if (!journal.isUndoable(entry)) throw evicted(entry.seq);
   }
 
   // Policy applies to every path the undo will write, before anything moves.
@@ -133,7 +125,13 @@ export async function undoWrite(
   // Load every pre-image before touching disk so a missing blob aborts cleanly.
   const preimages = new Map<string, string | null>();
   for (const f of entry.files) {
-    preimages.set(f.path, f.preHash === null ? null : await journal.preimage(f.preHash));
+    try {
+      preimages.set(f.path, f.preHash === null ? null : await journal.preimage(f.preHash));
+    } catch (err) {
+      // Another server process on this vault evicted it since we last looked.
+      if ((err as NodeJS.ErrnoException).code === 'ENOENT') throw evicted(entry.seq);
+      throw err;
+    }
   }
 
   // Journal the undo (current state → pre-image) — undoing it redoes the write.
@@ -173,6 +171,16 @@ export async function undoWrite(
   };
   if (conflicts.length > 0) result.overrode = conflicts;
   return result;
+}
+
+function evicted(seq: number): Error {
+  return new Error(
+    JSON.stringify({
+      error: 'entry_evicted',
+      seq,
+      hint: 'Its pre-image was evicted by the retention cap (SEEKSTONE_HISTORY_MAX_SIZE); it can no longer be undone.',
+    }),
+  );
 }
 
 /**

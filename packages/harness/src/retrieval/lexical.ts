@@ -20,6 +20,7 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
     vaultRoot,
     index,
     notes,
+    generation: 0,
     backlinks,
     attachments,
     policy: PERMISSIVE_POLICY,

@@ -20,6 +20,7 @@ function buildCtx(vaultRoot: string): ServerContext {
     vaultRoot,
     index,
     notes: new Map(),
+    generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,

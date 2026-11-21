@@ -183,6 +183,18 @@ describe('getLinks: attachment embeds (SHA-553)', () => {
     for (const call of vi.mocked(resolveLink).mock.calls) expect(call[2]).toBe(maps);
   });
 
+  it('reuses the resolve maps on repeat calls until the index changes (SHA-461)', async () => {
+    const built = await buildIndex(vault);
+    const actx: ServerContext = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY };
+    vi.mocked(buildResolveMaps).mockClear();
+    const first = getLinks(actx, { path: 'n.md' });
+    expect(getLinks(actx, { path: 'n.md' })).toEqual(first);
+    expect(buildResolveMaps).toHaveBeenCalledTimes(1);
+    actx.generation++;
+    getLinks(actx, { path: 'n.md' });
+    expect(buildResolveMaps).toHaveBeenCalledTimes(2);
+  });
+
   it('skips building the resolve maps for a note with no links', async () => {
     const built = await buildIndex(vault);
     const actx: ServerContext = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY };
