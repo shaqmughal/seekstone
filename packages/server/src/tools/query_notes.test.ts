@@ -1,6 +1,7 @@
 import MiniSearch from 'minisearch';
 import { describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { QueryNotesInput, queryNotes } from './query_notes.js';
@@ -40,6 +41,7 @@ function buildCtx(
     index,
     notes: notesMap,
     backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
   };
 }

@@ -41,12 +41,13 @@ export class SeekstoneAdapter implements Backend {
   }
 
   static async build(opts: SeekstoneAdapterOptions): Promise<SeekstoneAdapter> {
-    const { index, notes, backlinks } = await buildIndex(opts.vaultRoot);
+    const { index, notes, backlinks, attachments } = await buildIndex(opts.vaultRoot);
     const ctx: ServerContext = {
       vaultRoot: opts.vaultRoot,
       index,
       notes,
       backlinks,
+      attachments,
       policy: PERMISSIVE_POLICY,
     };
     return new SeekstoneAdapter(ctx);
