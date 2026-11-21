@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.26.0
+
+### Minor Changes
+
+- 7bc1c26: Add `vault_stats`, a read tool that reports the vault's size and shape in one call of under 1 KB: note, folder, tag and resolved-link counts, total, median and largest note size, and how many notes changed in the last 1, 7 and 30 days.
+
+### Patch Changes
+
+- 6bcb169: Note writes are synced to disk before they replace the old file, so a power loss right after a write can't leave an empty or partial note.
+- 8bd5439: Write history stays correct when more than one client uses the same vault: seq numbers no longer collide, `list_writes` and `undo_write` see the other client's writes, and eviction keeps its rows.
+
 ## 0.25.0
 
 ### Minor Changes
