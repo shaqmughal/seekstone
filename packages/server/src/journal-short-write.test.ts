@@ -3,7 +3,8 @@ import { mkdtemp, readdir, readFile, rm } from 'node:fs/promises';
 import { hostname, tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { HISTORY_DIR, Journal, journalWrite } from './journal.js';
+import { contentHash } from './content-hash.js';
+import { HISTORY_DIR, Journal, type JournalEntry, journalWrite } from './journal.js';
 
 // SHA-566: writeSync may write fewer bytes than asked. These tests make it do
 // so (or fail) and check the journal never reports a commit it didn't finish.
@@ -12,7 +13,8 @@ type Mode =
   | { kind: 'normal' }
   | { kind: 'chunks'; size: number }
   | { kind: 'tornLine' }
-  | { kind: 'beforeLockToken'; run: () => void };
+  | { kind: 'beforeLockToken'; run: () => void }
+  | { kind: 'renameClash' };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -46,7 +48,17 @@ vi.mock('node:fs', async (importOriginal) => {
     if (off > 0) throw Object.assign(new Error('EIO: i/o error, write'), { code: 'EIO' });
     return fs.writeSync(fd, buf, off, Math.min(len, 7));
   };
-  return { ...fs, writeSync, default: { ...fs, writeSync } };
+  // renameClash: another process places the same blob first, and the rename
+  // onto it fails the way Windows fails it.
+  const renameSync = (from: string, to: string): void => {
+    if (mode.current.kind === 'renameClash' && from.endsWith('.seekstone-tmp')) {
+      mode.current = { kind: 'normal' };
+      fs.copyFileSync(from, to);
+      throw Object.assign(new Error('EPERM: operation not permitted, rename'), { code: 'EPERM' });
+    }
+    fs.renameSync(from, to);
+  };
+  return { ...fs, writeSync, renameSync, default: { ...fs, writeSync, renameSync } };
 });
 
 let vault: string;
@@ -133,5 +145,16 @@ describe('Journal with short writes', () => {
     } finally {
       vi.restoreAllMocks();
     }
+  });
+
+  it('accepts a blob another process renamed into place first', async () => {
+    const j = await Journal.open(vault, BIG);
+    mode.current = { kind: 'renameClash' };
+    await write(j, 'a', 'shared pre-image', 'v2');
+    expect(mode.current.kind).toBe('normal'); // the clash happened
+    expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
+    expect(await j.preimage(contentHash('shared pre-image'))).toBe('shared pre-image');
+    const blobs = await readdir(join(vault, HISTORY_DIR, 'blobs'));
+    expect(blobs.every((n) => /^[0-9a-f]{64}$/.test(n))).toBe(true);
   });
 });

@@ -6,11 +6,12 @@ import {
   openSync,
   readdirSync,
   readSync,
+  renameSync,
   statSync,
   unlinkSync,
   writeSync,
 } from 'node:fs';
-import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
+import { mkdir, open, readdir, readFile, rm, stat } from 'node:fs/promises';
 import { hostname } from 'node:os';
 import { basename, dirname, join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
@@ -131,21 +132,22 @@ let tmpCount = 0;
  * Write `content` to `dest` durably: temp file, fsync, rename over. Each call
  * gets its own temp file, created exclusively, because another server
  * process may be storing the same blob at the same moment. On failure we
- * remove only the temp file this call created.
+ * remove only the temp file this call created. Sync calls, like
+ * `appendDurable`: each async call costs a thread-pool round trip.
  */
-async function writeDurable(dest: string, content: string): Promise<void> {
+function writeDurable(dest: string, content: string): void {
   const tmp = join(dirname(dest), `.${basename(dest)}.${TMP_TAG}${++tmpCount}.seekstone-tmp`);
-  const fh = await open(tmp, 'wx');
+  const fd = openSync(tmp, 'wx');
   try {
     try {
-      await fh.writeFile(content, 'utf8');
-      await fh.sync();
+      writeAll(fd, content);
+      fsyncSync(fd);
     } finally {
-      await fh.close();
+      closeSync(fd);
     }
-    await rename(tmp, dest);
+    renameSync(tmp, dest);
   } catch (err) {
-    await rm(tmp, { force: true });
+    unlinkLock(tmp);
     throw err;
   }
 }
@@ -332,7 +334,7 @@ export class Journal {
     return {
       add: async (path, pre, post) => {
         if (committed) throw new Error('journal: add after commit');
-        const preHash = pre === null ? null : await this.storeBlob(pre);
+        const preHash = pre === null ? null : this.storeBlob(pre);
         if (preHash !== null && pre !== null) preimages.set(preHash, pre);
         files.push({ path, preHash, postHash: post === null ? null : contentHash(post) });
       },
@@ -454,10 +456,18 @@ export class Journal {
     return next;
   }
 
-  private async storeBlob(content: string): Promise<string> {
+  private storeBlob(content: string): string {
     const hash = contentHash(content);
     if (this.blobSizes.has(hash)) return hash;
-    await writeDurable(join(this.blobDir, hash), content);
+    const path = join(this.blobDir, hash);
+    try {
+      writeDurable(path, content);
+    } catch (err) {
+      // Another process stored the same blob at the same moment (Windows
+      // refuses a rename onto a file another rename is placing). Blobs are
+      // content-addressed and renamed into place whole, so theirs will do.
+      if (!statSync(path, { throwIfNoEntry: false })) throw err;
+    }
     // A concurrent add of the same pre-image may have counted it meanwhile.
     if (this.blobSizes.has(hash)) return hash;
     const size = Buffer.byteLength(content, 'utf8');
@@ -489,7 +499,7 @@ export class Journal {
       }
       this.totalBytes -= this.blobSizes.get(hash) ?? 0;
       this.blobSizes.delete(hash);
-      await this.storeBlob(content);
+      this.storeBlob(content);
     }
     const entry: JournalEntry = { seq: this.nextSeq, ts: new Date().toISOString(), tool, files };
     if (undoOf !== undefined) entry.undoOf = undoOf;
@@ -547,7 +557,7 @@ export class Journal {
         // Paused between the create and the token write long enough for a
         // waiter to reclaim the empty file? Then check the path is still ours.
         if (Date.now() - before < LOCK_STALE_MS / 2) break;
-        if (inspectLock(this.lockPath)?.body === token) break;
+        if (holdsToken(this.lockPath, token)) break;
         continue;
       }
       const seen = inspectLock(this.lockPath);
@@ -571,7 +581,7 @@ export class Journal {
     } finally {
       // Only a lock held from another host can be reclaimed while its owner
       // lives, and only once LOCK_STALE_MS old; check the token past that.
-      if (Date.now() - acquired < LOCK_STALE_MS || inspectLock(this.lockPath)?.body === token) {
+      if (Date.now() - acquired < LOCK_STALE_MS || holdsToken(this.lockPath, token)) {
         unlinkLock(this.lockPath);
       }
     }
@@ -615,10 +625,7 @@ export class Journal {
       await dropBlobs(this.entries[i] as JournalEntry);
     }
     if (rewrite) {
-      await writeDurable(
-        this.manifestPath,
-        this.entries.map((e) => `${JSON.stringify(e)}\n`).join(''),
-      );
+      writeDurable(this.manifestPath, this.entries.map((e) => `${JSON.stringify(e)}\n`).join(''));
       const st = statSync(this.manifestPath);
       this.manifestIno = st.ino;
       this.manifestOffset = st.size;
@@ -655,6 +662,12 @@ function tryCreate(path: string, body: string): boolean {
   }
   closeSync(fd);
   return true;
+}
+
+/** True if the file at `path` holds exactly `token`. */
+function holdsToken(path: string, token: string): boolean {
+  const body = inspectLock(path)?.body;
+  return body !== undefined && Buffer.from(body, 'utf8').equals(Buffer.from(token, 'utf8'));
 }
 
 /** @internal Exported for tests. */
