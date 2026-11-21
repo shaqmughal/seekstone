@@ -114,6 +114,15 @@ describe('the index matches a cold rebuild right after each write', () => {
     await expectInSync();
   });
 
+  it('patch_frontmatter removing an alias the note links to', async () => {
+    await writeFile(join(root, 'Self.md'), '---\naliases: [Shortcut]\n---\nSee [[Shortcut]].\n');
+    await writeFile(join(root, 'Zed.md'), '---\naliases: [Shortcut]\n---\nother\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    expect(getBacklinks(ctx, { path: 'Zed.md' }).total).toBe(0);
+    await patchFrontmatter(ctx, { path: 'Self.md', patch: { aliases: null } });
+    await expectInSync();
+  });
+
   it('create_note overwriting a note that had links', async () => {
     await createNote(ctx, { path: 'Home.md', content: 'replaced, no links', overwrite: true });
     await expectInSync();

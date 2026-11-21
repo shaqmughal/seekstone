@@ -1,5 +1,5 @@
 import { basename, extname } from 'node:path';
-import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
+import { extractInlineTags, frontmatterAliases, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
@@ -98,10 +98,18 @@ export function refreshCachedNote(
 ): void {
   const cached = ctx.notes.get(path);
   if (cached === undefined) return;
-  const relink = opts.keepsLinks !== true && dropsLinks(cached.raw, raw);
+  const next = buildDoc(path, raw);
+  // A changed alias can change where this note's own links resolve.
+  const relink =
+    opts.keepsLinks !== true &&
+    (dropsLinks(cached.raw, raw) || aliasKey(cached.fm) !== aliasKey(next.fm));
   if (relink) removeNoteBacklinks(ctx, path);
-  Object.assign(cached, buildDoc(path, raw));
+  Object.assign(cached, next);
   if (relink) addNoteBacklinks(ctx, path, raw);
+}
+
+function aliasKey(fm: IndexedNote['fm']): string {
+  return frontmatterAliases(fm).join('\0');
 }
 
 /**

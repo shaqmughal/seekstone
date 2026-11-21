@@ -6,6 +6,7 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { buildResolveMaps } from '../index/resolve.js';
 import { assertWritable, isWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
@@ -154,6 +155,10 @@ export async function moveNote(
   upsertDoc(ctx, buildDoc(input.to, raw));
   addNoteBacklinks(ctx, input.to, raw);
 
+  // One resolution snapshot for both loops below: they change note content
+  // but never which paths exist or their aliases.
+  const maps = rewrites.length + linkers.length > 0 ? buildResolveMaps(ctx.notes) : undefined;
+
   let notesRewritten = 0;
   let linksRewritten = 0;
 
@@ -163,15 +168,15 @@ export async function moveNote(
     // Re-register this note's backlinks against post-move resolution even
     // when nothing was rewritten (basename links now resolve to the new
     // path); remove reads the old raw, so call it before updating the entry.
-    removeNoteBacklinks(ctx, path);
+    removeNoteBacklinks(ctx, path, maps);
     if (count > 0) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
       upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;
       linksRewritten += count;
-      addNoteBacklinks(ctx, path, content);
+      addNoteBacklinks(ctx, path, content, maps);
     } else {
-      addNoteBacklinks(ctx, path, doc.raw);
+      addNoteBacklinks(ctx, path, doc.raw, maps);
     }
   }
 
@@ -182,8 +187,8 @@ export async function moveNote(
   for (const ref of linkers) {
     const doc = ctx.notes.get(ref.path);
     if (doc === undefined || rewritten.has(ref.path)) continue;
-    removeNoteBacklinks(ctx, ref.path);
-    addNoteBacklinks(ctx, ref.path, doc.raw);
+    removeNoteBacklinks(ctx, ref.path, maps);
+    addNoteBacklinks(ctx, ref.path, doc.raw, maps);
   }
 
   // Nothing resolves to the old path anymore — drop the stale key.

@@ -1,6 +1,6 @@
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
-import { buildResolveMaps, resolveLink } from './resolve.js';
+import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
 
 /**
  * Incremental backlink-index maintenance, shared by the watcher and the
@@ -8,12 +8,16 @@ import { buildResolveMaps, resolveLink } from './resolve.js';
  * (it reads the old raw); add AFTER the entry is current.
  */
 
-export function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
+export function removeNoteBacklinks(
+  ctx: ServerContext,
+  relPath: string,
+  resolveMaps?: ResolveMaps,
+): void {
   const oldDoc = ctx.notes.get(relPath);
   if (oldDoc === undefined) return;
   const links = extractLinksWithLines(oldDoc.raw);
   if (links.length === 0) return;
-  const maps = buildResolveMaps(ctx.notes);
+  const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
     if (resolved === undefined) continue;
@@ -24,11 +28,16 @@ export function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
   }
 }
 
-export function addNoteBacklinks(ctx: ServerContext, relPath: string, raw: string): void {
+export function addNoteBacklinks(
+  ctx: ServerContext,
+  relPath: string,
+  raw: string,
+  resolveMaps?: ResolveMaps,
+): void {
   const seen = new Set<string>();
   const links = extractLinksWithLines(raw);
   if (links.length === 0) return;
-  const maps = buildResolveMaps(ctx.notes);
+  const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
     if (resolved === undefined) continue;
