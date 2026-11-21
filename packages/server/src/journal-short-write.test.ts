@@ -1,10 +1,18 @@
+import { spawnSync } from 'node:child_process';
 import { unlinkSync, writeFileSync } from 'node:fs';
 import { mkdtemp, readdir, readFile, rm } from 'node:fs/promises';
 import { hostname, tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { contentHash } from './content-hash.js';
-import { HISTORY_DIR, Journal, type JournalEntry, journalWrite } from './journal.js';
+import {
+  HISTORY_DIR,
+  inspectLock,
+  Journal,
+  type JournalEntry,
+  journalWrite,
+  type LockSnapshot,
+} from './journal.js';
 
 // SHA-566: writeSync may write fewer bytes than asked. These tests make it do
 // so (or fail) and check the journal never reports a commit it didn't finish.
@@ -13,8 +21,8 @@ type Mode =
   | { kind: 'normal' }
   | { kind: 'chunks'; size: number }
   | { kind: 'tornLine' }
-  | { kind: 'beforeLockToken'; run: () => void }
-  | { kind: 'renameClash' };
+  | { kind: 'beforeLockToken'; run: () => void; fail?: boolean }
+  | { kind: 'renameClash'; garbage?: boolean };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -28,6 +36,7 @@ vi.mock('node:fs', async (importOriginal) => {
       if (Buffer.isBuffer(data) && data.includes('"host"')) {
         mode.current = { kind: 'normal' };
         m.run();
+        if (m.fail) throw Object.assign(new Error('EIO: i/o error, write'), { code: 'EIO' });
       }
       return real();
     }
@@ -51,9 +60,11 @@ vi.mock('node:fs', async (importOriginal) => {
   // renameClash: another process places the same blob first, and the rename
   // onto it fails the way Windows fails it.
   const renameSync = (from: string, to: string): void => {
-    if (mode.current.kind === 'renameClash' && from.endsWith('.seekstone-tmp')) {
+    const m = mode.current;
+    if (m.kind === 'renameClash' && from.endsWith('.seekstone-tmp')) {
       mode.current = { kind: 'normal' };
-      fs.copyFileSync(from, to);
+      if (m.garbage) fs.writeFileSync(to, 'not the pre-image');
+      else fs.copyFileSync(from, to);
       throw Object.assign(new Error('EPERM: operation not permitted, rename'), { code: 'EPERM' });
     }
     fs.renameSync(from, to);
@@ -114,32 +125,89 @@ describe('Journal with short writes', () => {
     ]);
   });
 
-  // SHA-566 review: a creator paused between creating the lock and writing
-  // its token can have the empty lock reclaimed by a waiter. When it resumes
-  // it must not enter the critical section on a lock it no longer holds.
-  it('a creator paused before writing its token does not use a lock reclaimed meanwhile', async () => {
-    const j = await Journal.open(vault, BIG);
-    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
-    const other = JSON.stringify({ pid: process.pid, host: hostname(), id: 'waiter' });
+  // SHA-566 review: a process paused between creating a lock or claim file
+  // and writing its token can have the empty file reclaimed by a waiter. When
+  // it resumes it must neither use nor delete the file now at that path.
+  const other = JSON.stringify({ pid: process.pid, host: hostname(), id: 'waiter' });
+
+  /**
+   * Start a commit that pauses (31 s of fake time) just before writing its
+   * first token, while a waiter replaces the file at `path`. Resolves once
+   * that happened, with the commit's promise.
+   */
+  async function pauseAtToken(j: Journal, path: () => string, fail = false) {
     const realNow = Date.now;
+    let paused!: () => void;
+    const reached = new Promise<void>((r) => {
+      paused = r;
+    });
     mode.current = {
       kind: 'beforeLockToken',
+      fail,
       run: () => {
-        // 31 s pass; a waiter reclaims the empty lock and takes its own.
         vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000);
-        unlinkSync(lock);
-        writeFileSync(lock, other);
+        unlinkSync(path());
+        writeFileSync(path(), other);
+        paused();
       },
     };
     let done = false;
-    const pending = write(j, 'a', 'v1', 'v2').then(() => {
-      done = true;
-    });
+    const pending = write(j, 'a', 'v1', 'v2').then(
+      () => {
+        done = true;
+      },
+      (err: unknown) => {
+        done = true;
+        throw err;
+      },
+    );
+    pending.catch(() => {}); // the test awaits it; don't report it unhandled meanwhile
+    await reached;
+    await new Promise((r) => setTimeout(r, 50)); // let it act on what it finds
+    return { pending, isDone: () => done };
+  }
+
+  it('a creator paused before writing its token does not use a lock reclaimed meanwhile', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
     try {
-      await new Promise((r) => setTimeout(r, 150));
-      expect(done).toBe(false);
+      const { pending, isDone } = await pauseAtToken(j, () => lock);
+      expect(isDone()).toBe(false);
       expect(await readFile(lock, 'utf8')).toBe(other);
       await rm(lock);
+      await pending;
+      expect(j.list().total).toBe(1);
+    } finally {
+      vi.restoreAllMocks();
+    }
+  });
+
+  it('a creator whose token write fails after a long pause leaves the new lock alone', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    try {
+      const { pending } = await pauseAtToken(j, () => lock, true);
+      await expect(pending).rejects.toThrow(/EIO/);
+      expect(await readFile(lock, 'utf8')).toBe(other);
+    } finally {
+      vi.restoreAllMocks();
+    }
+  });
+
+  it('a waiter paused before writing its claim does not use a claim reclaimed meanwhile', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    const deadPid = spawnSync(process.execPath, ['-e', '']).pid;
+    const dead = JSON.stringify({ pid: deadPid, host: hostname(), id: 'dead' });
+    writeFileSync(lock, dead);
+    const claim = `${lock}.${(inspectLock(lock) as LockSnapshot).key}.claim`;
+    try {
+      const { pending, isDone } = await pauseAtToken(j, () => claim);
+      // The live waiter now holds the claim: the dead lock and its claim stay.
+      expect(isDone()).toBe(false);
+      expect(await readFile(claim, 'utf8')).toBe(other);
+      expect(await readFile(lock, 'utf8')).toBe(dead);
+      await rm(claim);
       await pending;
       expect(j.list().total).toBe(1);
     } finally {
@@ -156,5 +224,12 @@ describe('Journal with short writes', () => {
     expect(await j.preimage(contentHash('shared pre-image'))).toBe('shared pre-image');
     const blobs = await readdir(join(vault, HISTORY_DIR, 'blobs'));
     expect(blobs.every((n) => /^[0-9a-f]{64}$/.test(n))).toBe(true);
+  });
+
+  it('fails the write when the blob found after a failed rename has other bytes', async () => {
+    const j = await Journal.open(vault, BIG);
+    mode.current = { kind: 'renameClash', garbage: true };
+    await expect(write(j, 'a', 'shared pre-image', 'v2')).rejects.toThrow(/EPERM/);
+    expect(j.list().total).toBe(0);
   });
 });

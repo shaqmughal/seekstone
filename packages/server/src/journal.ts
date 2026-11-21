@@ -5,6 +5,7 @@ import {
   fsyncSync,
   openSync,
   readdirSync,
+  readFileSync,
   readSync,
   renameSync,
   statSync,
@@ -465,8 +466,8 @@ export class Journal {
     } catch (err) {
       // Another process stored the same blob at the same moment (Windows
       // refuses a rename onto a file another rename is placing). Blobs are
-      // content-addressed and renamed into place whole, so theirs will do.
-      if (!statSync(path, { throwIfNoEntry: false })) throw err;
+      // content-addressed, so theirs will do if its bytes hash right.
+      if (!blobMatches(path, hash)) throw err;
     }
     // A concurrent add of the same pre-image may have counted it meanwhile.
     if (this.blobSizes.has(hash)) return hash;
@@ -531,8 +532,9 @@ export class Journal {
    * Age decides only where liveness can't be checked: a lock with no token
    * (its owner died between create and write) or one held from another host
    * is reclaimed when its file is older than LOCK_STALE_MS. A process that
-   * was itself paused for over half that between creating the lock and
-   * writing its token reads the lock back before using it.
+   * was itself paused for over half that between creating a lock or claim
+   * file and writing its token reads the file back before using it, and
+   * never deletes it.
    *
    * Removing a dead lock by path is racy on its own: two waiters can judge
    * the same dead lock, and the slower one would delete the lock the faster
@@ -552,14 +554,7 @@ export class Journal {
     const token = `${TOKEN_HEAD}${++tokenCount}","ts":${ts}}`;
     const deadline = ts + LOCK_WAIT_MS;
     for (;;) {
-      const before = Date.now();
-      if (tryCreate(this.lockPath, token)) {
-        // Paused between the create and the token write long enough for a
-        // waiter to reclaim the empty file? Then check the path is still ours.
-        if (Date.now() - before < LOCK_STALE_MS / 2) break;
-        if (holdsToken(this.lockPath, token)) break;
-        continue;
-      }
+      if (tryCreate(this.lockPath, token)) break;
       const seen = inspectLock(this.lockPath);
       if (seen && ownerGone(seen)) {
         this.log?.warn('journal: reclaiming the history lock of a process that is gone', {
@@ -644,6 +639,7 @@ function unlinkLock(lockPath: string): void {
 
 /** Create `path` exclusively with `body`. False if it already exists. */
 function tryCreate(path: string, body: string): boolean {
+  const before = Date.now();
   let fd: number;
   try {
     fd = openSync(path, 'wx');
@@ -653,15 +649,31 @@ function tryCreate(path: string, body: string): boolean {
     if (code === 'EEXIST' || (code === 'EPERM' && process.platform === 'win32')) return false;
     throw err;
   }
+  // An empty file can be reclaimed once LOCK_STALE_MS old. If we were paused
+  // for over half that between the create and the write, the path may now
+  // name someone else's file: read it back instead of assuming.
+  let written = false;
   try {
     writeAll(fd, body);
-  } catch (err) {
+    written = true;
+  } finally {
     closeSync(fd);
-    unlinkLock(path); // ours, and too young for anyone else to touch
-    throw err;
+    const quick = Date.now() - before < LOCK_STALE_MS / 2;
+    // Clean up a failed create only while no one could have reclaimed it.
+    if (!written && quick) unlinkLock(path);
+    if (written && !quick) written = holdsToken(path, body);
   }
-  closeSync(fd);
-  return true;
+  return written;
+}
+
+/** True if the blob at `path` exists and its bytes hash to `hash`. */
+function blobMatches(path: string, hash: string): boolean {
+  try {
+    const actual = Buffer.from(contentHash(readFileSync(path, 'utf8')), 'hex');
+    return actual.equals(Buffer.from(hash, 'hex'));
+  } catch {
+    return false;
+  }
 }
 
 /** True if the file at `path` holds exactly `token`. */
