@@ -71,7 +71,11 @@ export function codspeedSection(body, prHead) {
     let prev;
     do {
       prev = raw;
-      raw = raw.replace(/<!--[\s\S]*?-->/g, '').replace(/<[^>]+>/g, '');
+      raw = raw.replace(/<!--[\s\S]*?-->/g, '');
+    } while (raw !== prev);
+    do {
+      prev = raw;
+      raw = raw.replace(/<[^>]+>/g, '');
     } while (raw !== prev);
     raw = raw.replace(/\n{3,}/g, '\n\n').trim();
     return [
