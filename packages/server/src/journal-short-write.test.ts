@@ -22,8 +22,11 @@ type Mode =
   | { kind: 'chunks'; size: number }
   | { kind: 'tornLine' }
   | { kind: 'beforeLockToken'; run: () => void; fail?: boolean }
-  | { kind: 'renameClash'; garbage?: boolean };
+  | { kind: 'renameClash'; garbage?: boolean }
+  | { kind: 'tokensFail' };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
+/** When set, runs right after the next closeSync (the creator's pause point). */
+const afterClose = vi.hoisted(() => ({ run: undefined as (() => void) | undefined }));
 /** When set, the next blob read fails with ENOENT although the blob is on disk. */
 const staleRead = vi.hoisted(() => ({ next: false }));
 
@@ -46,6 +49,15 @@ vi.mock('node:fs', async (importOriginal) => {
     const m = mode.current;
     const real = () => (fs.writeSync as (...a: unknown[]) => number)(fd, data, ...rest);
     if (m.kind === 'normal') return real();
+    if (m.kind === 'tokensFail') {
+      // A full disk: every lock and claim token write fails.
+      if (Buffer.isBuffer(data) && data.includes('"host"')) {
+        throw Object.assign(new Error('ENOSPC: no space left on device, write'), {
+          code: 'ENOSPC',
+        });
+      }
+      return real();
+    }
     if (m.kind === 'beforeLockToken') {
       // Lock and claim tokens carry a host; manifest lines and blobs don't.
       if (Buffer.isBuffer(data) && data.includes('"host"')) {
@@ -84,7 +96,19 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     fs.renameSync(from, to);
   };
-  return { ...fs, writeSync, renameSync, default: { ...fs, writeSync, renameSync } };
+  const closeSync = (fd: number): void => {
+    fs.closeSync(fd);
+    const run = afterClose.run;
+    afterClose.run = undefined;
+    run?.();
+  };
+  return {
+    ...fs,
+    writeSync,
+    renameSync,
+    closeSync,
+    default: { ...fs, writeSync, renameSync, closeSync },
+  };
 });
 
 let vault: string;
@@ -260,5 +284,47 @@ describe('Journal with short writes', () => {
     expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
     expect(j.storedBytes).toBe(bytes);
     expect(await j.preimage(contentHash('restored pre-image'))).toBe('restored pre-image');
+  });
+
+  // SHA-566 review: the token write fails, then the creator pauses before its
+  // cleanup. A waiter reclaims the tokenless lock by age and takes a new one.
+  // The creator's cleanup must not delete that new lock.
+  it('cleanup after a failed token write never deletes a lock that replaced it', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    mode.current = {
+      kind: 'beforeLockToken',
+      fail: true,
+      run: () => {
+        afterClose.run = () => {
+          unlinkSync(lock);
+          writeFileSync(lock, other);
+        };
+      },
+    };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(/EIO/);
+    expect(await readFile(lock, 'utf8')).toBe(other);
+    expect(j.list().total).toBe(0);
+  });
+
+  it('a lock left by a failed token write on a full disk is reclaimed by age', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    mode.current = { kind: 'tokensFail' };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(/ENOSPC/);
+    mode.current = { kind: 'normal' };
+    expect(await readFile(lock, 'utf8')).toBe('');
+    // The cleanup's claim token couldn't be written either, so the empty lock
+    // (and an empty claim) stay until LOCK_STALE_MS old; then the next commit
+    // reclaims both.
+    const realNow = Date.now;
+    vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000);
+    try {
+      await write(j, 'b', 'v1', 'v2');
+      expect(j.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['1b']);
+      expect((await readdir(join(vault, HISTORY_DIR))).sort()).toEqual(['blobs', 'manifest.jsonl']);
+    } finally {
+      vi.restoreAllMocks();
+    }
   });
 });

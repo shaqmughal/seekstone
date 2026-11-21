@@ -644,7 +644,7 @@ function unlinkLock(lockPath: string): void {
 }
 
 /** Create `path` exclusively with `body`. False if it already exists. */
-function tryCreate(path: string, body: string): boolean {
+function tryCreate(path: string, body: string, cleanUp = true): boolean {
   const before = Date.now();
   let fd: number;
   try {
@@ -658,18 +658,30 @@ function tryCreate(path: string, body: string): boolean {
   // An empty file can be reclaimed once LOCK_STALE_MS old. If we were paused
   // for over half that between the create and the write, the path may now
   // name someone else's file: read it back instead of assuming.
-  let written = false;
   try {
     writeAll(fd, body);
-    written = true;
-  } finally {
+  } catch (err) {
+    // Remove the half-made file, but never by path alone: we may pause at any
+    // point here, and a waiter can reclaim it and create a new lock meanwhile.
+    // Snapshot it while our fd still pins its inode, then remove it through
+    // the claim protocol, which unlinks only that exact file.
+    let mine: LockSnapshot | undefined;
+    if (cleanUp) {
+      const snap = inspectLock(path);
+      if (snap && snap.ino === fstatSync(fd, { bigint: true }).ino) mine = snap;
+    }
     closeSync(fd);
-    const quick = Date.now() - before < LOCK_STALE_MS / 2;
-    // Clean up a failed create only while no one could have reclaimed it.
-    if (!written && quick) unlinkLock(path);
-    if (written && !quick) written = holdsToken(path, body);
+    if (mine) {
+      try {
+        removeIfUnchanged(path, mine, body, 0, false);
+      } catch {
+        /* still a tokenless file: reclaimed by age after LOCK_STALE_MS */
+      }
+    }
+    throw err;
   }
-  return written;
+  closeSync(fd);
+  return Date.now() - before < LOCK_STALE_MS / 2 || holdsToken(path, body);
 }
 
 /** True if the blob at `path` exists and its bytes hash to `hash`. */
@@ -692,6 +704,7 @@ function holdsToken(path: string, token: string): boolean {
 export interface LockSnapshot {
   body: string;
   mtimeMs: number;
+  ino: bigint;
   /** Names this exact file: inode, mtime and body. */
   key: string;
 }
@@ -709,7 +722,7 @@ export function inspectLock(path: string): LockSnapshot | undefined {
     const buf = Buffer.alloc(Math.min(Number(st.size), 4096));
     const body = buf.toString('utf8', 0, readSync(fd, buf, 0, buf.length, 0));
     const key = contentHash(`${st.dev}:${st.ino}:${st.mtimeNs}:${body}`).slice(0, 32);
-    return { body, mtimeMs: Number(st.mtimeMs), key };
+    return { body, mtimeMs: Number(st.mtimeMs), ino: st.ino, key };
   } catch {
     return undefined;
   } finally {
@@ -745,13 +758,16 @@ export function removeIfUnchanged(
   seen: LockSnapshot,
   token: string,
   depth = 0,
+  cleanUp = true,
 ): boolean {
   const claim = `${path.replace(/(\.[0-9a-f]{32}\.claim)+$/, '')}.${seen.key}.claim`;
-  if (!tryCreate(claim, token)) {
+  // `cleanUp: false` when this call is itself cleaning up a failed create, so
+  // a full disk can't recurse: a failed claim is then left for age recovery.
+  if (!tryCreate(claim, token, cleanUp)) {
     // Another waiter is on it, or died there; clear its claim if so.
     const held = inspectLock(claim);
     return depth < 4 && held !== undefined && ownerGone(held)
-      ? removeIfUnchanged(claim, held, token, depth + 1)
+      ? removeIfUnchanged(claim, held, token, depth + 1, cleanUp)
       : false;
   }
   try {
