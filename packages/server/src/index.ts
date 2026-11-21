@@ -95,7 +95,15 @@ const { index, notes, backlinks, attachments, buildMs } = await buildIndex(
 );
 log.info('index ready', { notes: notes.size, buildMs });
 
-const ctx: ServerContext = { vaultRoot, index, notes, backlinks, attachments, policy };
+const ctx: ServerContext = {
+  vaultRoot,
+  index,
+  notes,
+  generation: 0,
+  backlinks,
+  attachments,
+  policy,
+};
 
 // Write journal: pre-images under <vault>/.seekstone/history so every write
 // is reversible via undo_write. Read-only mode never writes, so it never

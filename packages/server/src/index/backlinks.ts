@@ -1,11 +1,13 @@
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
+import { bumpGeneration } from './generation.js';
 import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
 
 /**
  * Incremental backlink-index maintenance, shared by the watcher and the
  * link-aware move path. Remove BEFORE mutating the note's entry in ctx.notes
- * (it reads the old raw); add AFTER the entry is current.
+ * (it reads the old raw); add AFTER the entry is current. Both bump the
+ * index generation, since vault_stats counts backlink refs.
  */
 
 export function removeNoteBacklinks(
@@ -17,6 +19,7 @@ export function removeNoteBacklinks(
   if (oldDoc === undefined) return;
   const links = extractLinksWithLines(oldDoc.raw);
   if (links.length === 0) return;
+  bumpGeneration(ctx);
   const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
@@ -37,6 +40,7 @@ export function addNoteBacklinks(
   const seen = new Set<string>();
   const links = extractLinksWithLines(raw);
   if (links.length === 0) return;
+  bumpGeneration(ctx);
   const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
@@ -53,6 +57,12 @@ export function addNoteBacklinks(
     arr.push(ref);
     arr.sort((a, b) => a.path.localeCompare(b.path));
   }
+}
+
+/** Drop every ref that points at `path` (nothing resolves to it anymore). */
+export function clearInboundBacklinks(ctx: ServerContext, path: string): void {
+  if (!ctx.backlinks.delete(path)) return;
+  bumpGeneration(ctx);
 }
 
 /**

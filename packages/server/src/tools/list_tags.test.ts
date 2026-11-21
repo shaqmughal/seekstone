@@ -43,6 +43,7 @@ function buildCtx(
     vaultRoot,
     index,
     notes: notesMap,
+    generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
@@ -147,5 +148,48 @@ describe('listTags', () => {
     const { tags } = listTags(ctx, parse({}));
     const countThree = tags.filter((t) => t.count === 3).map((t) => t.tag);
     expect(countThree).toEqual([...countThree].sort((a, b) => a.localeCompare(b)));
+  });
+
+  describe('cache by index generation (SHA-461)', () => {
+    it('serves a repeat call from cache until the generation moves', () => {
+      const ctx = buildCtx('/vault', SAMPLE_NOTES);
+      const first = listTags(ctx, parse({}));
+      // A change made without a bump is invisible: the counts come from cache.
+      const inbox = ctx.notes.get('inbox.md');
+      if (inbox) inbox.tags = 'fresh';
+      expect(listTags(ctx, parse({}))).toEqual(first);
+      ctx.generation++;
+      expect(listTags(ctx, parse({ pattern: 'fresh' })).tags).toEqual([{ tag: 'fresh', count: 1 }]);
+    });
+
+    it('applies pattern, minCount and sort to the cached counts', () => {
+      const ctx = buildCtx('/vault', SAMPLE_NOTES);
+      expect(listTags(ctx, parse({})).tags.map((t) => t.tag)).toEqual([
+        'daily',
+        'work',
+        'area/work',
+      ]);
+      expect(listTags(ctx, parse({ sort: 'name' })).tags.map((t) => t.tag)).toEqual([
+        'area/work',
+        'daily',
+        'work',
+      ]);
+      expect(listTags(ctx, parse({ pattern: 'work', minCount: 3 })).tags).toEqual([
+        { tag: 'work', count: 3 },
+      ]);
+      expect(listTags(ctx, parse({ pattern: 'work', sort: 'name' })).tags).toEqual([
+        { tag: 'area/work', count: 2, parent: 'area' },
+        { tag: 'work', count: 3 },
+      ]);
+    });
+
+    it("doesn't let a caller change the cache through a result", () => {
+      const ctx = buildCtx('/vault', SAMPLE_NOTES);
+      const first = listTags(ctx, parse({}));
+      const entry = first.tags[0];
+      if (entry) entry.count = 999;
+      first.tags.reverse();
+      expect(listTags(ctx, parse({})).tags[0]).toEqual({ tag: 'daily', count: 3 });
+    });
   });
 });

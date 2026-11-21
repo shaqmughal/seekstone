@@ -48,7 +48,15 @@ describe('search modes', () => {
       '# Heraldry\n\nAn essay on medieval shields and coats of arms.\n',
     );
     const { index, notes, backlinks, attachments } = await buildIndex(vault);
-    ctx = { vaultRoot: vault, index, notes, backlinks, attachments, policy: PERMISSIVE_POLICY };
+    ctx = {
+      vaultRoot: vault,
+      index,
+      notes,
+      generation: 0,
+      backlinks,
+      attachments,
+      policy: PERMISSIVE_POLICY,
+    };
     semantic = await Semantic.start(
       ctx,
       { modelId: 'stub-model', modelDir: '/stubbed', cacheDir },
@@ -192,7 +200,15 @@ describe('semantic search with MaxSim rerank', () => {
     await writeFile(join(vault, 'Notes', 'Calcite.md'), '# Calcite\n\nA mineral of rock.\n');
     await writeFile(join(vault, 'Notes', 'Galena.md'), '# Galena\n\nA mineral of lead.\n');
     const { index, notes, backlinks, attachments } = await buildIndex(vault);
-    ctx = { vaultRoot: vault, index, notes, backlinks, attachments, policy: PERMISSIVE_POLICY };
+    ctx = {
+      vaultRoot: vault,
+      index,
+      notes,
+      generation: 0,
+      backlinks,
+      attachments,
+      policy: PERMISSIVE_POLICY,
+    };
     semantic = await Semantic.start(
       ctx,
       { modelId: 'token-stub', modelDir: '/stubbed', cacheDir },
