@@ -7,7 +7,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
-import { assertWritable, isReadable } from '../policy.js';
+import { assertWritable, isReadable, reservedFolder } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
@@ -83,7 +83,10 @@ export async function undoWrite(
   }
 
   // Policy applies to every path the undo will write, before anything moves.
-  for (const f of entry.files) assertWritable(ctx.policy, f.path);
+  // These paths come from the journal, not the caller, so `.trash/` is allowed:
+  // undoing a restore puts Seekstone's own earlier state back, the same as
+  // delete_note's move into `.trash/`. `.seekstone/` stays refused.
+  for (const f of entry.files) assertWritable(ctx.policy, f.path, ctx.vaultRoot, '.trash');
 
   // Current state vs. what the journal says the write left behind.
   const current = new Map<string, string | null>();
@@ -149,7 +152,9 @@ export async function undoWrite(
     } else {
       await mkdir(dirname(abs), { recursive: true });
       await atomicWrite(abs, pre);
-      if (f.path.endsWith('.md')) {
+      // A note put back into .trash/ stays out of the index, as the walker
+      // and watcher leave it out.
+      if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
         removeNoteBacklinks(ctx, f.path);
         upsertDoc(ctx, buildDoc(f.path, pre));
         addNoteBacklinks(ctx, f.path, pre);

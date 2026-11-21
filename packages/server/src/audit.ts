@@ -58,7 +58,7 @@ export interface AuditRecord {
   seq?: number;
   files?: AuditFile[];
   /** Which policy refused a `policy_denied` call. */
-  policy?: 'read_only' | 'read_paths' | 'write_paths';
+  policy?: 'read_only' | 'read_paths' | 'write_paths' | 'reserved_path';
   /**
    * Error CODE for non-ok outcomes (`hash_conflict`, `heading_not_found`,
    * `not_found`, `exists`, `invalid_input`, …) — never the message: tool
@@ -139,6 +139,10 @@ export class AuditLog {
  * deliberately NOT recorded because tool messages can quote note content
  * (available headings, regex patterns, frontmatter keys).
  */
+/** The fixed tail of `assertWritable`'s reserved-folder refusal (policy.ts). */
+const RESERVED_PATH_MESSAGE =
+  /" is inside \.(?:seekstone|trash)\/, which Seekstone reserves for write history and deleted notes\.$/;
+
 export function classifyError(message: string): {
   outcome: AuditOutcome;
   policy?: AuditRecord['policy'];
@@ -160,6 +164,11 @@ export function classifyError(message: string): {
   }
   if (message.startsWith('Server is read-only')) {
     return { outcome: 'policy_denied', policy: 'read_only', error: 'read_only' };
+  }
+  // Match the reserved-path message by its fixed ending, before the scope
+  // checks: the quoted path can contain any text, `SEEKSTONE_READ_PATHS` included.
+  if (message.startsWith('Write not permitted') && RESERVED_PATH_MESSAGE.test(message)) {
+    return { outcome: 'policy_denied', policy: 'reserved_path', error: 'reserved_path' };
   }
   if (message.startsWith('Write not permitted') && message.includes('SEEKSTONE_READ_PATHS')) {
     return { outcome: 'policy_denied', policy: 'read_paths', error: 'read_paths' };
