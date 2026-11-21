@@ -2,7 +2,7 @@
 // Factory log report (SHA-525). Posts one comment on the Factory log issue:
 // what the factory did since the last report and what is waiting on Shaq,
 // plus the five weekly metrics on Mondays (or with --weekly). Built from
-// GitHub and Linear data only; no model calls.
+// GitHub and Linear data only; no model calls. Runs from the factory-report workflow.
 //
 //   node scripts/factory/report.mjs [--weekly] [--dry-run]
 //
