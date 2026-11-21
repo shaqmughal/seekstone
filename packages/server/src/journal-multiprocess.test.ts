@@ -158,6 +158,21 @@ describe('Journal shared by two processes', () => {
     expect(await readFile(join(vault, 'Note.md'), 'utf8')).toBe(after);
   });
 
+  // SHA-566: blob writes went through one fixed temp path per blob, so two
+  // processes storing the same pre-image could rename or truncate each other's
+  // temp file.
+  it('two instances storing the same pre-image at once both succeed', async () => {
+    const a = await Journal.open(vault, BIG);
+    const b = await Journal.open(vault, BIG);
+    for (let i = 0; i < 20; i++) {
+      const pre = `shared ${i} ${'x'.repeat(50_000)}`;
+      await Promise.all([a.begin('a').add('a.md', pre, 'y'), b.begin('b').add('b.md', pre, 'y')]);
+      expect(await a.preimage(contentHash(pre))).toBe(pre);
+    }
+    // Only finished blobs are left: no temp files.
+    expect((await readdir(hist('blobs'))).every((n) => /^[0-9a-f]{64}$/.test(n))).toBe(true);
+  });
+
   it('a real second process committing alongside ends with 2N unique entries', async () => {
     const N = 40;
     const journalUrl = new URL('./journal.ts', import.meta.url).href;

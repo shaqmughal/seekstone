@@ -12,7 +12,7 @@ import {
 } from 'node:fs';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
 import { hostname } from 'node:os';
-import { join } from 'node:path';
+import { basename, dirname, join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
 import type { Logger } from './log.js';
@@ -124,17 +124,30 @@ export function resolveJournalConfig(
   };
 }
 
-/** Write `content` to `dest` durably: temp file, fsync, rename over. */
+const TMP_TAG = `${process.pid}${randomBytes(4).toString('hex')}`;
+let tmpCount = 0;
+
+/**
+ * Write `content` to `dest` durably: temp file, fsync, rename over. Each call
+ * gets its own temp file, created exclusively, because another server
+ * process may be storing the same blob at the same moment. On failure we
+ * remove only the temp file this call created.
+ */
 async function writeDurable(dest: string, content: string): Promise<void> {
-  const tmp = `${dest}.seekstone-tmp`;
-  const fh = await open(tmp, 'w');
+  const tmp = join(dirname(dest), `.${basename(dest)}.${TMP_TAG}${++tmpCount}.seekstone-tmp`);
+  const fh = await open(tmp, 'wx');
   try {
-    await fh.writeFile(content, 'utf8');
-    await fh.sync();
-  } finally {
-    await fh.close();
+    try {
+      await fh.writeFile(content, 'utf8');
+      await fh.sync();
+    } finally {
+      await fh.close();
+    }
+    await rename(tmp, dest);
+  } catch (err) {
+    await rm(tmp, { force: true });
+    throw err;
   }
-  await rename(tmp, dest);
 }
 
 /** `writeSync` may write fewer bytes than asked; loop until all of `data` is out. */
