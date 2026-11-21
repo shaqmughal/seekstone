@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
+  fetchReview,
   formatFindings,
   isCodeRabbit,
   MAX_REPLY,
@@ -106,11 +107,18 @@ describe('reviewStatus', () => {
   const review = (state: string, oid = HEAD, author = CR) => ({ author, state, commit: { oid } });
   const base = { threads: [], comments: [], checkRuns: [], headSha: HEAD };
 
-  it('counts a review of the head or a finished CodeRabbit check as reviewed', () => {
+  it('counts a review of the head or a CodeRabbit check that reviewed it', () => {
     expect(reviewStatus({ ...base, reviews: [review('COMMENTED', 'old')] }).reviewed).toBe(false);
     expect(reviewStatus({ ...base, reviews: [review('COMMENTED')] }).reviewed).toBe(true);
-    const checkRuns = [{ app: { slug: 'coderabbitai' }, status: 'completed' }];
-    expect(reviewStatus({ ...base, reviews: [], checkRuns }).reviewed).toBe(true);
+    const check = (conclusion: string, title = 'Finished') => [
+      { app: { slug: 'coderabbitai' }, status: 'completed', conclusion, output: { title } },
+    ];
+    expect(reviewStatus({ ...base, reviews: [], checkRuns: check('success') }).reviewed).toBe(true);
+    const nothingNew = check('skipped', 'No files to review');
+    expect(reviewStatus({ ...base, reviews: [], checkRuns: nothingNew }).reviewed).toBe(true);
+    for (const runs of [check('skipped', 'Review skipped'), check('cancelled'), []]) {
+      expect(reviewStatus({ ...base, reviews: [], checkRuns: runs }).reviewed).toBe(false);
+    }
     const other = [review('COMMENTED', HEAD, { login: 'shaq' })];
     expect(reviewStatus({ ...base, reviews: other }).reviewed).toBe(false);
   });
@@ -119,6 +127,8 @@ describe('reviewStatus', () => {
     const reviews = [review('CHANGES_REQUESTED', 'old'), review('COMMENTED')];
     const s = reviewStatus({ ...base, reviews, threads: [thread()], comments: [summaryComment] });
     expect(s).toEqual({ reviewed: true, changesRequested: true, open: 2 });
+    const outside = reviewStatus({ ...base, reviews: [{ ...review('COMMENTED'), body: REVIEW }] });
+    expect(outside.open).toBe(1);
     reviews.push(review('APPROVED'));
     expect(reviewStatus({ ...base, reviews }).changesRequested).toBe(false);
   });
@@ -168,8 +178,41 @@ describe('validReplies', () => {
     const out = validReplies(replies, new Set([11, 12, 13]));
     expect(out.map((r) => r.id)).toEqual([11, 13]);
     expect(out[0].body).toBe('Not valid: the path is capped at 255 bytes.');
-    expect(out[1].body).toHaveLength(MAX_REPLY + ' [cut]'.length);
+    expect(out[1].body).toHaveLength(MAX_REPLY);
+    expect(out[1].body.endsWith('y [cut]')).toBe(true);
+    const exact = validReplies([{ comment_id: 11, body: 'z'.repeat(MAX_REPLY) }], new Set([11]));
+    expect(exact[0].body).toBe('z'.repeat(MAX_REPLY));
     expect(validReplies({ comment_id: 11 }, new Set([11]))).toEqual([]);
+  });
+});
+
+describe('fetchReview', () => {
+  it('follows review thread pages to the end', async () => {
+    const page = (threads: unknown[], next: string | null) => ({
+      repository: {
+        pullRequest: {
+          reviews: { nodes: [{ state: 'COMMENTED' }] },
+          reviewThreads: {
+            pageInfo: { hasNextPage: next !== null, endCursor: next },
+            nodes: threads,
+          },
+        },
+      },
+    });
+    const pages = [page([thread({ isResolved: true })], 'c1'), page([thread()], null)];
+    const calls: unknown[] = [];
+    const query = async (_q: string, vars: unknown) => {
+      calls.push(vars);
+      return pages.shift();
+    };
+    const { reviews, threads } = await fetchReview('o/r', '7', query);
+    expect(threads).toHaveLength(2);
+    expect(openThreads(threads).map((t) => t.id)).toEqual([11]);
+    expect(reviews).toHaveLength(1);
+    expect(calls).toEqual([
+      { owner: 'o', name: 'r', number: 7, after: null },
+      { owner: 'o', name: 'r', number: 7, after: 'c1' },
+    ]);
   });
 });
 

@@ -16,7 +16,7 @@ import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } fr
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { prMarkdown } from './ci-failure.mjs';
-import { gh, graphql } from './github.mjs';
+import { gh, ghAll, graphql } from './github.mjs';
 
 /** The longest reply the factory posts on a thread. */
 export const MAX_REPLY = 2000;
@@ -31,17 +31,30 @@ export const isCodeRabbit = (login) => login === 'coderabbitai' || login === 'co
  * diff, the committable suggestion, the agent prompt), images or tags.
  */
 export function stripNoise(body) {
-  let s = (body ?? '').replace(/<!--[\s\S]*?-->/g, '');
+  // Repeat until nothing changes: folded sections nest, and removing one
+  // piece must not leave another behind.
+  let s = noComments(body ?? '');
   let prev;
   do {
     prev = s;
     s = s.replace(/<details>(?:(?!<details>)[\s\S])*?<\/details>/g, '');
   } while (s !== prev);
-  return s
-    .replace(/<picture>[\s\S]*?<\/picture>\s*/g, '')
-    .replace(/<\/?[a-z][^>]*>/gi, '')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+  do {
+    prev = s;
+    s = s.replace(/<picture>[\s\S]*?<\/picture>\s*/g, '').replace(/<\/?[a-z][^>]*>/gi, '');
+  } while (s !== prev);
+  return s.replace(/\n{3,}/g, '\n\n').trim();
+}
+
+/** `s` without HTML comments, removed until none are left. */
+function noComments(s) {
+  let out = s;
+  let prev;
+  do {
+    prev = out;
+    out = out.replace(/<!--[\s\S]*?-->/g, '');
+  } while (out !== prev);
+  return out;
 }
 
 const severityOf = (body) => body?.slice(0, 1000).match(SEVERITY)?.[1] ?? 'Unknown';
@@ -73,7 +86,7 @@ export function summaryFindings(comments) {
   if (!summary) return [];
   const findings = [];
   let resolved = false;
-  for (const line of summary.body.replace(/<!--[\s\S]*?-->/g, '').split(/\r?\n/)) {
+  for (const line of noComments(summary.body).split(/\r?\n/)) {
     const heading = line.match(/^\s*(?:#+\s*|\*\*)([^*]+?)\**\s*$/);
     if (heading) resolved = /resolved/i.test(heading[1]);
     const m = line.match(/^\s*[-*] \*\*([A-Z][a-z]+) · ([^*]+?):\*\*\s*(.+)$/);
@@ -89,7 +102,7 @@ export function outsideDiff(reviews) {
     /^`([^`\n]+?:\d+(?:-\d+)?)`\n([^\n]*)\n+([\s\S]*?)(?=\n<details>|\n<\/dd>|$(?![\s\S]))/gm;
   for (const r of reviews) {
     if (!isCodeRabbit(r.author?.login) || !r.body?.includes('Outside diff range')) continue;
-    const body = r.body.replace(/^> ?/gm, '').replace(/<!--[\s\S]*?-->/g, '');
+    const body = noComments(r.body.replace(/^> ?/gm, ''));
     for (const m of body.matchAll(re)) {
       found.set(`${m[1]} ${m[3].slice(0, 80)}`, {
         where: m[1],
@@ -102,20 +115,36 @@ export function outsideDiff(reviews) {
 }
 
 /**
+ * Whether CodeRabbit's check on the head says it reviewed it. It finishes
+ * `success` after a review, even one with no comments, and `skipped` with
+ * "No files to review" when the commit changed nothing it reviews. Any
+ * other skip (a draft, a paused review) or a cancel doesn't count.
+ */
+export function checkReviewed(checkRuns) {
+  return checkRuns.some(
+    (r) =>
+      r.app?.slug === 'coderabbitai' &&
+      r.status === 'completed' &&
+      (r.conclusion === 'success' ||
+        (r.conclusion === 'skipped' && /no files to review/i.test(r.output?.title ?? ''))),
+  );
+}
+
+/**
  * Where CodeRabbit stands on `headSha`. `reviewed` once it has reviewed the
- * head or its check on the head finished. `changesRequested` from its latest
- * approving or blocking review.
+ * head (checkReviewed). `changesRequested` from its latest approving or
+ * blocking review. `open` counts threads, summary findings and comments
+ * outside the diff.
  */
 export function reviewStatus({ reviews, threads, comments, checkRuns, headSha }) {
   const mine = reviews.filter((r) => isCodeRabbit(r.author?.login));
-  const reviewed =
-    mine.some((r) => r.commit?.oid === headSha) ||
-    checkRuns.some((r) => r.app?.slug === 'coderabbitai' && r.status === 'completed');
+  const reviewed = mine.some((r) => r.commit?.oid === headSha) || checkReviewed(checkRuns);
   const verdict = mine.filter((r) => ['APPROVED', 'CHANGES_REQUESTED'].includes(r.state)).at(-1);
   return {
     reviewed,
     changesRequested: verdict?.state === 'CHANGES_REQUESTED',
-    open: openThreads(threads).length + summaryFindings(comments).length,
+    open:
+      openThreads(threads).length + summaryFindings(comments).length + outsideDiff(reviews).length,
   };
 }
 
@@ -176,25 +205,40 @@ export function validReplies(replies, openIds) {
   for (const r of replies) {
     const body = typeof r?.body === 'string' ? r.body.trim() : '';
     if (!openIds.has(r?.comment_id) || !body || out.has(r.comment_id)) continue;
-    out.set(r.comment_id, body.length > MAX_REPLY ? `${body.slice(0, MAX_REPLY)} [cut]` : body);
+    const cut = ' [cut]';
+    out.set(
+      r.comment_id,
+      body.length > MAX_REPLY ? `${body.slice(0, MAX_REPLY - cut.length)}${cut}` : body,
+    );
   }
   return [...out].map(([id, body]) => ({ id, body }));
 }
 
-const QUERY = `query($owner: String!, $name: String!, $number: Int!) {
+const QUERY = `query($owner: String!, $name: String!, $number: Int!, $after: String) {
   repository(owner: $owner, name: $name) { pullRequest(number: $number) {
     reviews(last: 50) { nodes { author { login } state body commit { oid } } }
-    reviewThreads(first: 100) { nodes { isResolved isOutdated path line originalLine
-      comments(first: 1) { nodes { databaseId body author { login } } } } }
+    reviewThreads(first: 100, after: $after) {
+      pageInfo { hasNextPage endCursor }
+      nodes { isResolved isOutdated path line originalLine
+        comments(first: 1) { nodes { databaseId body author { login } } } } }
   } }
 }`;
 
-/** The PR's reviews and review threads. */
-export async function fetchReview(repo, number) {
+/** The PR's latest 50 reviews and all its review threads (up to 20 pages). */
+export async function fetchReview(repo, number, query = graphql) {
   const [owner, name] = repo.split('/');
-  const d = await graphql(QUERY, { owner, name, number: Number(number) });
-  const p = d.repository.pullRequest;
-  return { reviews: p.reviews.nodes, threads: p.reviewThreads.nodes };
+  const threads = [];
+  let reviews = [];
+  let after = null;
+  for (let page = 0; page < 20; page++) {
+    const d = await query(QUERY, { owner, name, number: Number(number), after });
+    const p = d.repository.pullRequest;
+    reviews = p.reviews.nodes;
+    threads.push(...p.reviewThreads.nodes);
+    if (!p.reviewThreads.pageInfo?.hasNextPage) break;
+    after = p.reviewThreads.pageInfo.endCursor;
+  }
+  return { reviews, threads };
 }
 
 async function main() {
@@ -225,7 +269,7 @@ async function main() {
   }
 
   const pr = await gh(`repos/${repo}/pulls/${prNumber}`);
-  const comments = await gh(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
+  const comments = await ghAll(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
   const status = reviewStatus({ reviews, threads, comments, checkRuns: [], headSha: '' });
   const md = formatFindings({
     threads: openThreads(threads),

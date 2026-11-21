@@ -27,7 +27,7 @@
 import { appendFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { gh, requiredChecks, requiredState } from './github.mjs';
+import { gh, ghAll, requiredChecks, requiredState } from './github.mjs';
 import { fetchReview, reviewStatus } from './review.mjs';
 
 export { requiredState };
@@ -162,7 +162,7 @@ async function main() {
     .check_runs;
   const bot = process.env.FACTORY_BOT_LOGIN;
   if (!bot) throw new Error('FACTORY_BOT_LOGIN is not set');
-  const comments = await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
+  const comments = await ghAll(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
   // deliver writes the model into the PR body when it opens the PR.
   const sonnet = MODEL_SONNET.test(p.body ?? '');
   const review = reviewStatus({
