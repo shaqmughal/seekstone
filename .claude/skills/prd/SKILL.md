@@ -1,6 +1,6 @@
 ---
 name: prd
-description: Write or upgrade a Seekstone PRD from a Linear issue (e.g. SHA-290) or a feature idea, using docs/PRD_TEMPLATE.md and the repo's admission bar, write-safety and docs-sync gates. Use before implementing any new tool, prompt, resource, or user-facing behavior.
+description: Write or upgrade a Seekstone PRD from a Linear issue (e.g. SHA-290) or a feature idea, using docs/PRD_TEMPLATE.md and the repo's admission bar, write-safety and docs-sync gates. Use before implementing any new tool, prompt, resource, or user-facing behavior, and before giving any ticket the `factory` label.
 argument-hint: "<SHA-XX | feature idea>"
 ---
 
@@ -89,6 +89,40 @@ separately so they can be answered in one pass. Revise until it's approved.
   the end.
 - Prefix the title with `PRD: ` if it doesn't have it yet.
 - Leave the issue's workflow state alone unless the user asks to change it.
+
+## 6. Before the ticket gets the `factory` label
+
+Run this for every ticket that goes to the factory, PRD or not, before moving
+it to Todo. The factory stops with `blocked.md` when a ticket contradicts
+itself or the repo, and that costs a night. On 2026-11-21, SHA-553 and SHA-560
+both stopped for reasons these checks catch.
+
+- **Does it break documented behaviour?** For every behaviour the ticket adds,
+  removes or forbids, search `docs/`, `SECURITY.md`, both READMEs, the tool
+  descriptions in `tool-list.ts` and the result messages in `dispatch.ts`. If a
+  documented flow stops working, the ticket must say what replaces it.
+  (SHA-560 refused all writes under `.trash/`, which also removed the
+  documented way to restore a deleted note.)
+- **Can the speed target be met by the design the ticket requires?** Measure
+  the parts the design can't avoid on current `main` before writing an
+  absolute number. Prefer a target relative to `main` with the bench command
+  that proves it. (SHA-553 required building the resolve maps once per call,
+  which takes about 7.6 ms on the 10k fixture, and also asked for a p95 under
+  2 ms.)
+- **Will it fit in 400 lines?** List the files it touches, including every
+  test fixture that builds a type the ticket changes. A new required field on
+  `ServerContext` touches every test that constructs one. Over about 300
+  lines, split the ticket now.
+- **Does it need a locked path?** The factory can't edit `.github/`,
+  `CLAUDE.md` files, `AGENTS.md`, `.claude/`, lint config or dependencies. Do
+  those edits by hand first, or split them into a ticket without the label.
+- **Does it depend on open work?** Add a Linear blocks relation and keep the
+  dependent ticket out of Todo until the first one merges. Tickets that edit
+  the same files need the relation too, or their PRs conflict.
+- **Is every acceptance criterion checkable by a test or a command?**
+
+Fix the ticket for each check that fails. If a check needs a decision from
+Shaq, ask before labelling.
 
 ## Don'ts
 
