@@ -97,11 +97,11 @@ flowchart TD
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (25) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (26) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (25)"]
-        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags · list_tasks<br/>outline_note · get_backlinks · get_links · resolve_note<br/>get_periodic_note · list_writes"]
+    subgraph tools["Tools layer — tools/ (26)"]
+        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · read_notes · list_notes · list_tags · list_tasks<br/>vault_stats · outline_note · get_backlinks · get_links · resolve_note<br/>get_periodic_note · list_writes"]
         writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · update_task · undo_write"]
     end
 
@@ -274,7 +274,7 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
-— all 25 tools normally, only the 14 read tools in read-only mode. On error,
+— all 26 tools normally, only the 15 read tools in read-only mode. On error,
 `dispatch()` catches and returns `{ isError: true, content: [...] }` rather
 than throwing — the session stays alive. Typed failures arrive as JSON in the
 error text: `hash_conflict` (stale `prevHash`), `undo_conflict` (file changed
@@ -451,7 +451,7 @@ are the receipts.
 
 ---
 
-## The 25 tools
+## The 26 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
@@ -463,6 +463,7 @@ are the receipts.
 | `list_notes` | read | Enumerate notes, optionally by folder |
 | `list_tags` | read | All tags with usage counts |
 | `list_tasks` | read | Checkbox tasks as compact rows (path, line, state, text, heading) from the warm index; filter by note/folder/tag/mtime/state |
+| `vault_stats` | read | Vault size and shape (note/folder/tag/link counts, byte sizes, 1/7/30-day change counts) from one pass over the warm index |
 | `outline_note` | read | Heading tree + block anchors, no body |
 | `get_backlinks` | read | Reverse-link lookup for a note |
 | `get_links` | read | Outgoing wikilinks/embeds of a note |

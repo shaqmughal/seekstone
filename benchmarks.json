@@ -19,8 +19,8 @@
     "source": "packages/server/package.json#version"
   },
   "tools": {
-    "total": 25,
-    "read": 14,
+    "total": 26,
+    "read": 15,
     "write": 11,
     "source": "packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS"
   },
@@ -28,9 +28,9 @@
     "tokenizer": "tiktoken cl100k_base",
     "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). prompts/list, resources/list and resources/templates/list are measured the same way when the server advertises them. Tokens: tiktoken cl100k_base.",
     "readWrite": {
-      "toolCount": 25,
-      "bytes": 26125,
-      "tokens": 5742,
+      "toolCount": 26,
+      "bytes": 26464,
+      "tokens": 5821,
       "instructionsBytes": 0,
       "prompts": {
         "count": 0,
@@ -66,9 +66,9 @@
       ]
     },
     "readOnly": {
-      "toolCount": 14,
-      "bytes": 14751,
-      "tokens": 3261,
+      "toolCount": 15,
+      "bytes": 15090,
+      "tokens": 3340,
       "instructionsBytes": 0,
       "prompts": {
         "count": 0,

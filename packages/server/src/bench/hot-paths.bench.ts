@@ -22,6 +22,7 @@ import { appendNote } from '../tools/append_note.js';
 import { getBacklinks } from '../tools/get_backlinks.js';
 import { readNote } from '../tools/read_note.js';
 import { search } from '../tools/search.js';
+import { vaultStats } from '../tools/vault_stats.js';
 
 const FIXTURE = resolve(import.meta.dirname, '../../../harness/fixtures/vault-1k');
 // The most-linked note in the fixture (269 inbound links).
@@ -119,6 +120,14 @@ describe('links', () => {
         resolveLink('Kalinjar', ctx.notes, maps);
       }),
     );
+  });
+});
+
+describe('stats', () => {
+  test('vault_stats', async ({ bench }) => {
+    await bench('vault_stats (1k notes)', () => {
+      vaultStats(ctx);
+    }).run();
   });
 });
 
