@@ -8,6 +8,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { dispatch } from '../dispatch.js';
 import { buildIndex } from '../index/build.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { createLogger } from '../log.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
@@ -43,6 +44,7 @@ function ctxOf(notes: Array<{ id: string; size?: number; tags?: string; ageDays?
     index: new MiniSearch<IndexedNote>({ fields: ['title'] }),
     notes: map,
     backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
   };
   return ctx;

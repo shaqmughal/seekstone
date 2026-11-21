@@ -88,6 +88,13 @@ atomic renames rather than temp-file writes; `move_note`'s link rewrites in
 referencing notes are each individually atomic. This is per-file crash-safety,
 not a multi-file transaction.)
 
+Each write uses its own temp file next to the note, named
+`.<note>.<process tag><counter>.seekstone-tmp` and created exclusively. Two
+writers on the same note never share a temp file, and a failed write only
+removes the temp file it created. If a crash leaves one behind, it stays out
+of the vault: the leading dot hides it from Obsidian and the file watcher, and
+the index walk never treats the `.seekstone-tmp` extension as a note.
+
 - Proven by: [`atomic-write.test.ts`](../packages/server/src/atomic-write.test.ts)
   and every write-tool test asserting exact post-write bytes.
 
@@ -105,7 +112,10 @@ destination the same way.
 
 `delete_note` moves the note to the vault's `.trash/` folder
 (Obsidian-compatible; restore by moving it back) instead of unlinking it, and
-reports where it went. `permanent: true` is the explicit opt-out.
+reports where it went. `permanent: true` is the explicit opt-out. `move_note`
+accepts a source inside `.trash/` so the note can be moved back, even though
+`.trash/` is otherwise closed to write tools (see §8). `undo_write` can undo
+that restore, which puts the note back in `.trash/`.
 
 - Proven by: [`delete_note.test.ts`](../packages/server/src/tools/delete_note.test.ts)
   and the harness `recoverable-delete` op — after a delete, a byte-identical
@@ -140,6 +150,26 @@ an explicit glob allowlist. Both are enforced at the dispatch layer plus a
 shared `assertWritable` in every write handler, so a new tool cannot forget
 the check.
 
+Two top-level folders are closed to every write tool, whatever the policy
+allows: `.seekstone/`, which holds the write journal, and `.trash/`, which
+holds deleted notes. Without this an agent could overwrite or delete its own
+undo history. The check runs in `assertWritable` on the normalized path, so
+`notes/../.seekstone/x`, an absolute path into the vault, a different case
+(`.Trash/`) and a folder name with trailing dots or spaces are refused too.
+Only the first path segment counts, so `notes/.trash/x.md` stays writable.
+`move_note` checks both ends, with one exception: its source may be inside
+`.trash/`, because moving a deleted note back out is how it is restored. Its
+destination may not be in `.trash/`, and neither end may be in `.seekstone/`.
+`delete_note`'s own move into `.trash/` is internal and skips the check.
+`undo_write` may write into `.trash/` when the path comes from the journal
+entry it is undoing, so undoing a restore puts the note back in `.trash/`. The
+caller never supplies those paths, and an entry that names `.seekstone/` is
+still refused. A refusal is audited as
+`policy_denied` with `policy: "reserved_path"`. The check reads the path as
+written and does not follow symlinks, like `containVaultPath`: a
+symlink the user creates inside the vault that points into `.seekstone/` is
+not caught. No tool can create a symlink.
+
 `SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
 excludes, so `!Journal/**` means everything except `Journal/`). Hidden files
 are never walked, indexed, embedded or watched, so search, listings, tags,
@@ -164,6 +194,9 @@ the read scope).
   [`index/build.ts`](../packages/server/src/index/build.ts) and
   [`watcher.ts`](../packages/server/src/watcher.ts).
 - Proven by: [`policy.test.ts`](../packages/server/src/policy.test.ts),
+  [`reserved-paths.test.ts`](../packages/server/src/tools/reserved-paths.test.ts)
+  (every write tool against `.seekstone/` and `.trash/`, the `move_note`
+  restore, and delete then undo),
   [`tool-list.test.ts`](../packages/server/src/tool-list.test.ts), the
   read-only dispatch tests,
   [`read-scope.test.ts`](../packages/server/src/read-scope.test.ts) (every

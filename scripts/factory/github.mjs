@@ -6,11 +6,18 @@ const API = 'https://api.github.com';
 const SAFE_PATH = /^repos\/[\w.-]+\/[\w.-]+\/[\w./?=&%:-]*$/;
 
 export function apiUrl(path) {
-  if (!SAFE_PATH.test(path) || path.includes('..')) {
+  // A `.` or `..` segment could walk out of the repo. Dots inside a segment
+  // are fine and needed: the compare endpoint takes `base...head`.
+  const segments = path.split('?')[0].split('/');
+  if (!SAFE_PATH.test(path) || segments.some((s) => s === '.' || s === '..')) {
     throw new Error(`refusing GitHub API path: ${path}`);
   }
   const url = new URL(path, `${API}/`);
-  if (url.origin !== API) throw new Error(`refusing GitHub API URL: ${url}`);
+  // The URL parser also resolves encoded dot segments (`%2e%2e`); a path that
+  // changed on the way through is refused.
+  if (url.origin !== API || url.pathname !== `/${path.split('?')[0]}`) {
+    throw new Error(`refusing GitHub API URL: ${url}`);
+  }
   return url;
 }
 

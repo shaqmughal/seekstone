@@ -89,7 +89,7 @@ flowchart TD
         doc["doc.ts · excerpt.ts · resolve.ts<br/>backlinks.ts · types.ts"]
     end
 
-    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · policy · journal? · audit? · semantic?"]
+    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · attachments · policy · journal? · audit? · semantic?"]
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
@@ -162,13 +162,14 @@ flowchart TD
    is a read tool and stays).
 2. **Index layer (`index/`)** — `buildIndex(vaultRoot)` walks the vault, parses
    each note, and returns a `MiniSearch` full-text index, a `notes` map
-   (path → `IndexedNote`), and a `backlinks` reverse-link map. This is the
-   in-memory model every read tool queries.
+   (path → `IndexedNote`), a `backlinks` reverse-link map, and an
+   `attachments` index of the non-note files (so `get_links` can resolve
+   `![[diagram.png]]`). This is the in-memory model every read tool queries.
 3. **`ServerContext` (`context.ts`)** — the single shared state bag:
-   `{ vaultRoot, index, notes, backlinks, policy, semantic? }`. No globals;
+   `{ vaultRoot, index, notes, backlinks, attachments, policy, semantic? }`. No globals;
    it's threaded into every tool call.
 4. **Watcher (`watcher.ts`)** — chokidar watches the vault and incrementally
-   updates `index` / `notes` / `backlinks` so the in-memory model never goes
+   updates `index` / `notes` / `backlinks` / `attachments` so the in-memory model never goes
    stale during a session; when semantic search is enabled it also pokes the
    semantic index's debounced re-embed queue.
    4b. **Semantic index (`semantic/`, opt-in)** — a local Model2Vec embedder
@@ -398,7 +399,7 @@ flowchart TD
 
 ## 5. Quality and CI
 
-Nothing reaches `main` without passing the required checks: tests on three OSes, the changeset check, CodeQL, the CodSpeed speed gate on the hot-path benchmarks in `packages/server/src/bench/` (`*.bench.ts`, run with `npm run bench -w seekstone`), and the quality rules (no weakened tests, flaky check, and the factory's scope lock, size limit and failing-test-first). The Linux test leg also runs conformance, the write-safety baseline, schema-tax, docs-sync and coverage gates. The factory workflow (`factory.yml`, `scripts/factory/`) turns a Linear ticket into a PR under the same checks, with the Linear key and the push token kept out of the job where the agent runs. `factory-followup.yml` keeps the PR a draft until CI passes and CodeRabbit has reviewed the head commit, starts a fix run for a failing check, and runs one round on CodeRabbit's open findings before it marks the PR ready. [`QUALITY-GATES.md`](QUALITY-GATES.md) covers each check and how to operate the factory.
+Nothing reaches `main` without passing the required checks: tests on three OSes, the changeset check, CodeQL, the CodSpeed speed gate on the hot-path benchmarks in `packages/server/src/bench/` (`*.bench.ts`, run with `npm run bench -w seekstone`), the quality rules (no weakened tests, flaky check, and the factory's scope lock, size limit and failing-test-first), and the review gate (`review-gate.yml`, `scripts/review-gate.mjs`), which needs CodeRabbit's approval of the PR's latest changes. The Linux test leg also runs conformance, the write-safety baseline, schema-tax, docs-sync and coverage gates. The factory workflow (`factory.yml`, `scripts/factory/`) turns a Linear ticket into a PR under the same checks, with the Linear key and the push token kept out of the job where the agent runs. `factory-followup.yml` keeps the PR a draft until CI passes and CodeRabbit has reviewed the head commit, starts a fix run for a failing check, and runs one round on CodeRabbit's open findings before it marks the PR ready. [`QUALITY-GATES.md`](QUALITY-GATES.md) covers each check and how to operate the factory.
 
 ## 6. The thesis: filesystem-direct vs REST-proxy
 

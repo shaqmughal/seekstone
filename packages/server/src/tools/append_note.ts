@@ -1,10 +1,10 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
-import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { refreshCachedNote } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -46,7 +46,7 @@ export async function appendNote(
   ctx: ServerContext,
   input: AppendNoteInput,
 ): Promise<AppendNoteResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const original = await readFile(absPath, 'utf8');
@@ -65,13 +65,8 @@ export async function appendNote(
   await journalWrite(ctx, 'append_note', input.path, original, newContent);
   await atomicWrite(absPath, newContent);
 
-  // Update the in-memory index entry so subsequent searches reflect the change.
-  const cached = ctx.notes.get(input.path);
-  if (cached) {
-    cached.body = newBody;
-    cached.raw = newContent;
-    cached.tasks = extractTasks(newContent);
-  }
+  // Size, mtime, tags and tasks are current now; the watcher re-indexes search terms.
+  refreshCachedNote(ctx, input.path, newContent, { keepsLinks: true });
 
   return {
     path: input.path,

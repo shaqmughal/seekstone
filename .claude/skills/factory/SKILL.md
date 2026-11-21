@@ -91,3 +91,16 @@ Then repeat steps 5, 7 and 8, and in `pr.md` list each finding with what you did
 ## CI-fix runs
 
 When `ci-failure.md` exists, the branch is already pushed and a check failed. Read the failing logs, reproduce the failure locally, fix it on the same branch, and repeat steps 5, 7 and 8. Update the "Checks run" section of `pr.md`. If the failure is in a check you can't run locally or isn't caused by this branch, write `blocked.md` saying which check and what the log shows.
+
+### When the failing check is CodSpeed
+
+`ci-failure.md` lists each regressed benchmark with its base and head values and the change, read from CodSpeed's PR comment. CodSpeed runs the benchmarks in CPU simulation: it counts the CPU work a benchmark does and leaves system calls out. Wall-clock time on the runner is a different measure, so a change that looks free in wall time can still fail the gate, and the other way round.
+
+Measure before you push:
+
+1. Find the regressed benchmark in `packages/server/src/bench/` and the code it calls. The change to explain is in `git diff main`.
+2. Compare base and branch on this machine with `npm run bench -w seekstone -- -t "<benchmark name>"`. Commit your candidate fix first, because the next command overwrites uncommitted changes. To get the base, check out main's copy of the changed source files (`git checkout main -- <files>`), run, then restore your commit's (`git checkout HEAD -- <files>`). If the candidate doesn't hold up, amend or add to that commit. Interleave the runs (base, branch, branch, base) and use both orders, because whichever runs first is skewed by 2 to 4%.
+3. Measure CPU time too, since that is what CodSpeed counts. A throwaway `*.test.ts` that calls the benchmarked function a few thousand times and prints the `process.cpuUsage()` delta (user time) works; run it with `npx vitest run <file>` on base and branch the same way, and delete it before you commit.
+4. Push only when the branch's CPU time is back to base, within the spread you saw between two base runs. Name the commit `perf(...): ... (CodSpeed)` so a later run can tell a perf fix was already tried.
+
+A perf fix gets one try. If `git log main..HEAD` already has a commit marked `(CodSpeed)` and CodSpeed still fails, don't guess again: write `blocked.md` with the benchmark, the CodSpeed numbers from `ci-failure.md`, your base and branch measurements (wall and CPU, both orders), and what you think the cost is.

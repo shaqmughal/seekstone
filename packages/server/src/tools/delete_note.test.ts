@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks } from '../index/backlinks.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { deleteNote } from './delete_note.js';
@@ -24,6 +25,7 @@ function freshCtx(): ServerContext {
     index,
     notes: new Map(),
     backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
   };
 }

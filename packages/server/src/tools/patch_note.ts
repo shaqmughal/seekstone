@@ -1,11 +1,11 @@
 import { readFile } from 'node:fs/promises';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { buildOutline } from '@seekstone/core/outline';
-import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { refreshCachedNote } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -65,7 +65,7 @@ export async function patchNote(
   ctx: ServerContext,
   input: PatchNoteInput,
 ): Promise<PatchNoteResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const raw = await readFile(absPath, 'utf8');
@@ -90,7 +90,7 @@ export async function patchNote(
         await journalWrite(ctx, 'patch_note', input.path, raw, newContent);
         await atomicWrite(absPath, newContent);
         await verifyFrontmatter(absPath, originalFmRegion);
-        updateCache(ctx, input.path, newContent, fm.bodyStart);
+        refreshCachedNote(ctx, input.path, newContent);
         const headingOffset = raw.length + sep.length;
         return {
           path: input.path,
@@ -165,7 +165,7 @@ export async function patchNote(
   await journalWrite(ctx, 'patch_note', input.path, raw, newContent);
   await atomicWrite(absPath, newContent);
   await verifyFrontmatter(absPath, originalFmRegion);
-  updateCache(ctx, input.path, newContent, fm.bodyStart);
+  refreshCachedNote(ctx, input.path, newContent);
 
   return {
     path: input.path,
@@ -180,20 +180,5 @@ async function verifyFrontmatter(absPath: string, originalFmRegion: string): Pro
   const written = await readFile(absPath, 'utf8');
   if (written.slice(0, originalFmRegion.length) !== originalFmRegion) {
     throw new Error('Write-safety violation: frontmatter region changed unexpectedly');
-  }
-}
-
-function updateCache(
-  ctx: ServerContext,
-  path: string,
-  newContent: string,
-  bodyStart: number,
-): void {
-  const cached = ctx.notes.get(path);
-  if (cached) {
-    cached.body = newContent.slice(bodyStart);
-    cached.raw = newContent;
-    cached.tasks = extractTasks(newContent);
-    cached.sizeBytes = Buffer.byteLength(newContent, 'utf8');
   }
 }

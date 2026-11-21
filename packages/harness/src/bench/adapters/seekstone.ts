@@ -18,6 +18,7 @@ import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
 import { undoWrite as undoWriteTool } from '../../../../server/src/tools/undo_write.js';
 import { updateTask as updateTaskTool } from '../../../../server/src/tools/update_task.js';
+import { vaultStats as vaultStatsTool } from '../../../../server/src/tools/vault_stats.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 export interface SeekstoneAdapterOptions {
@@ -35,18 +36,28 @@ export class SeekstoneAdapter implements Backend {
   readonly description = 'Seekstone server (in-process function calls, no IPC)';
 
   private readonly ctx: ServerContext;
+  /**
+   * vault_stats's reference time: the newest note's mtime, so the
+   * modified-in-1/7/30-days counts (and the payload) depend only on the
+   * vault snapshot, not on when the harness runs.
+   */
+  private readonly statsNow: number;
 
   private constructor(ctx: ServerContext) {
     this.ctx = ctx;
+    let newest = 0;
+    for (const note of ctx.notes.values()) newest = Math.max(newest, note.mtimeMs);
+    this.statsNow = newest;
   }
 
   static async build(opts: SeekstoneAdapterOptions): Promise<SeekstoneAdapter> {
-    const { index, notes, backlinks } = await buildIndex(opts.vaultRoot);
+    const { index, notes, backlinks, attachments } = await buildIndex(opts.vaultRoot);
     const ctx: ServerContext = {
       vaultRoot: opts.vaultRoot,
       index,
       notes,
       backlinks,
+      attachments,
       policy: PERMISSIVE_POLICY,
     };
     return new SeekstoneAdapter(ctx);
@@ -124,6 +135,17 @@ export class SeekstoneAdapter implements Backend {
       limit: filter?.limit ?? 100,
     });
     // Minified like the dispatch case — the payload IS the thesis here.
+    const payload = JSON.stringify(result);
+    return {
+      result,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
+    };
+  }
+
+  async vaultStats(): Promise<BackendResponse<unknown>> {
+    const result = vaultStatsTool(this.ctx, this.statsNow);
+    // Minified like the dispatch case.
     const payload = JSON.stringify(result);
     return {
       result,

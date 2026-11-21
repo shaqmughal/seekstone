@@ -10,11 +10,21 @@ describe('apiUrl', () => {
     );
   });
 
+  it('allows the three-dot range of the compare endpoint', () => {
+    const sha = 'a'.repeat(40);
+    expect(apiUrl(`repos/o/r/compare/main...${sha}`).href).toBe(
+      `https://api.github.com/repos/o/r/compare/main...${sha}`,
+    );
+  });
+
   it('refuses paths that could leave the API or the repo', () => {
     for (const p of [
       '//evil.example/x',
       'https://evil.example/repos/o/r',
       'repos/o/r/../../../users',
+      'repos/o/r/./x',
+      'repos/o/r/%2e%2e/%2e%2e/%2e%2e/users',
+      'repos/o/r/%2E%2E/x',
       'users/octocat',
       'repos/o/r/x y',
       'repos/o/r/#frag',
