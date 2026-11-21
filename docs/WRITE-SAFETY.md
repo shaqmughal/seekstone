@@ -107,7 +107,8 @@ destination the same way.
 (Obsidian-compatible; restore by moving it back) instead of unlinking it, and
 reports where it went. `permanent: true` is the explicit opt-out. `move_note`
 accepts a source inside `.trash/` so the note can be moved back, even though
-`.trash/` is otherwise closed to write tools (see §8).
+`.trash/` is otherwise closed to write tools (see §8). `undo_write` can undo
+that restore, which puts the note back in `.trash/`.
 
 - Proven by: [`delete_note.test.ts`](../packages/server/src/tools/delete_note.test.ts)
   and the harness `recoverable-delete` op — after a delete, a byte-identical
@@ -153,8 +154,10 @@ Only the first path segment counts, so `notes/.trash/x.md` stays writable.
 `.trash/`, because moving a deleted note back out is how it is restored. Its
 destination may not be in `.trash/`, and neither end may be in `.seekstone/`.
 `delete_note`'s own move into `.trash/` is internal and skips the check.
-`undo_write` refuses an entry that would write into either folder, which
-includes undoing a restore from `.trash/`. A refusal is audited as
+`undo_write` may write into `.trash/` when the path comes from the journal
+entry it is undoing, so undoing a restore puts the note back in `.trash/`. The
+caller never supplies those paths, and an entry that names `.seekstone/` is
+still refused. A refusal is audited as
 `policy_denied` with `policy: "reserved_path"`. The check reads the path as
 written and does not follow symlinks, like `containVaultPath`: a
 symlink the user creates inside the vault that points into `.seekstone/` is

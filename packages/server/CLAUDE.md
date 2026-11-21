@@ -15,7 +15,7 @@ Every rule here protects someone's notes. Tests enforce most of them, but read t
 - **Deletes are recoverable** (moved to `.trash/`), and **moves rewrite inbound links**.
 - **Audit.** A write tool's dispatch case in `dispatch.ts` returns an `audit` detail object with paths and counts only, never note content. Without it, calls aren't recorded when `SEEKSTONE_AUDIT_FILE` is set. See `docs/ARCHITECTURE.md` §2.
 - `.seekstone/` and `.trash/` are excluded from the walker.
-- **Reserved folders.** `assertWritable` refuses any path whose first segment is `.seekstone` or `.trash` (case-insensitive, after normalization). Pass `ctx.vaultRoot` as its third argument so absolute paths are caught too. The only exemption is `move_note`'s source, which passes `'.trash'` so a deleted note can be restored by moving it back. `delete_note`'s internal move into `.trash/` doesn't go through the check.
+- **Reserved folders.** `assertWritable` refuses any path whose first segment is `.seekstone` or `.trash` (case-insensitive, after normalization). Pass `ctx.vaultRoot` as its third argument so absolute paths are caught too. Two callers pass `'.trash'` as the `allow` argument: `move_note` for its source, so a deleted note can be restored by moving it back, and `undo_write` for the journal entry's paths, so a restore can be undone. Never pass it for a path the agent supplied. `delete_note`'s internal move into `.trash/` doesn't go through the check.
 
 ## Reads
 

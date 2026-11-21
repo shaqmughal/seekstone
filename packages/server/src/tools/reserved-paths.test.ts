@@ -188,18 +188,32 @@ describe('every write tool refuses reserved targets', () => {
     ]);
   });
 
-  it('refuses undo_write when a journal entry names a reserved path', async () => {
+  it('refuses undo_write when a journal entry names a .seekstone/ path', async () => {
     const journal = ctx.journal as Journal;
+    const before = await readFile(join(vault, MANIFEST), 'utf8');
     const txn = journal.begin('create_note');
-    await txn.add(TRASHED, null, '# Old\n\n- [ ] task\n');
+    await txn.add('.seekstone/forged.md', null, 'forged');
     await txn.commit();
+    await writeFile(join(vault, '.seekstone', 'forged.md'), 'forged', 'utf8');
     const r = await dispatch(ctx, 'undo_write', {}, log);
     expect(r.isError).toBe(true);
-    expect(r.content[0]?.text).toMatch(/"\.trash\/Old\.md" is inside \.trash\//);
-    expect(await readFile(join(vault, TRASHED), 'utf8')).toBe('# Old\n\n- [ ] task\n');
+    expect(r.content[0]?.text).toMatch(/"\.seekstone\/forged\.md" is inside \.seekstone\//);
+    expect(await readFile(join(vault, '.seekstone', 'forged.md'), 'utf8')).toBe('forged');
+    expect((await readFile(join(vault, MANIFEST), 'utf8')).startsWith(before)).toBe(true);
     expect((await records()).map((r) => [r.tool, r.outcome, r.policy])).toEqual([
       ['undo_write', 'policy_denied', 'reserved_path'],
     ]);
+  });
+
+  it('lets undo_write write a .trash/ path named by the journal entry', async () => {
+    const journal = ctx.journal as Journal;
+    const txn = journal.begin('create_note');
+    await txn.add(TRASHED, '# Old\n\n- [ ] task\n', 'changed');
+    await txn.commit();
+    await writeFile(join(vault, TRASHED), 'changed', 'utf8');
+    const r = await dispatch(ctx, 'undo_write', {}, log);
+    expect(r.isError, r.content[0]?.text).toBeFalsy();
+    expect(await readFile(join(vault, TRASHED), 'utf8')).toBe('# Old\n\n- [ ] task\n');
   });
 });
 
@@ -266,14 +280,39 @@ describe('move_note restores a note out of .trash/', () => {
     expect(await readFile(join(vault, TRASHED), 'utf8')).toBe('# Old\n\n- [ ] task\n');
   });
 
-  it('does not let undo_write put the restored note back into .trash/', async () => {
-    const r = await dispatch(ctx, 'move_note', { from: TRASHED, to: 'Old.md' }, log);
-    expect(r.isError).toBeFalsy();
-    const undo = await dispatch(ctx, 'undo_write', {}, log);
-    expect(undo.isError).toBe(true);
-    expect(undo.content[0]?.text).toMatch(/"\.trash\/Old\.md" is inside \.trash\//);
-    expect(await readFile(join(vault, 'Old.md'), 'utf8')).toBe('# Old\n\n- [ ] task\n');
-    await expect(access(join(vault, TRASHED))).rejects.toThrow();
+  it('undo_write of a restore puts the note back in .trash/, and the next undo reverses the delete', async () => {
+    const original = await readFile(join(vault, 'Alpha.md'), 'utf8');
+    const trashed = join(vault, '.trash', 'Alpha.md');
+    expect((await dispatch(ctx, 'delete_note', { path: 'Alpha.md' }, log)).isError).toBeFalsy();
+    const back = await dispatch(ctx, 'move_note', { from: '.trash/Alpha.md', to: 'Alpha.md' }, log);
+    expect(back.isError, back.content[0]?.text).toBeFalsy();
+
+    // Undo the restore: the note goes back into .trash/.
+    const undo1 = await dispatch(ctx, 'undo_write', {}, log);
+    expect(undo1.isError, undo1.content[0]?.text).toBeFalsy();
+    expect(await readFile(trashed, 'utf8')).toBe(original);
+    await expect(access(join(vault, 'Alpha.md'))).rejects.toThrow();
+
+    // The next default undo walks back to the delete and restores the note.
+    const undo2 = await dispatch(ctx, 'undo_write', {}, log);
+    expect(undo2.isError, undo2.content[0]?.text).toBeFalsy();
+    expect(await readFile(join(vault, 'Alpha.md'), 'utf8')).toBe(original);
+    expect(ctx.notes.has('Alpha.md')).toBe(true);
+    expect((await records()).map((rec) => [rec.tool, rec.outcome])).toEqual([
+      ['delete_note', 'ok'],
+      ['move_note', 'ok'],
+      ['undo_write', 'ok'],
+      ['undo_write', 'ok'],
+    ]);
+  });
+
+  it('still refuses an agent-supplied .trash/ path after an undo into .trash/', async () => {
+    await dispatch(ctx, 'move_note', { from: TRASHED, to: 'Old.md' }, log);
+    expect((await dispatch(ctx, 'undo_write', {}, log)).isError).toBeFalsy();
+    const r = await dispatch(ctx, 'append_note', { path: TRASHED, content: 'x' }, log);
+    expect(r.isError).toBe(true);
+    expect(r.content[0]?.text).toMatch(/is inside \.trash\//);
+    expect(await readFile(join(vault, TRASHED), 'utf8')).toBe('# Old\n\n- [ ] task\n');
   });
 });
 

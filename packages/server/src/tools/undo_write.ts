@@ -91,7 +91,10 @@ export async function undoWrite(
   }
 
   // Policy applies to every path the undo will write, before anything moves.
-  for (const f of entry.files) assertWritable(ctx.policy, f.path, ctx.vaultRoot);
+  // These paths come from the journal, not the caller, so `.trash/` is allowed:
+  // undoing a restore puts Seekstone's own earlier state back, the same as
+  // delete_note's move into `.trash/`. `.seekstone/` stays refused.
+  for (const f of entry.files) assertWritable(ctx.policy, f.path, ctx.vaultRoot, '.trash');
 
   // Current state vs. what the journal says the write left behind.
   const current = new Map<string, string | null>();

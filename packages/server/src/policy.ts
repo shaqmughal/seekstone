@@ -173,7 +173,9 @@ export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedF
  * the first disk read, so a refused write never reveals whether a file exists.
  * Pass `vaultRoot` so an absolute path into a reserved folder is refused too.
  * `allow` exempts one reserved folder: `move_note` passes `.trash` for its
- * source, because moving a trashed note back out is how it is restored.
+ * source, because moving a trashed note back out is how it is restored, and
+ * `undo_write` passes it for the journal entry's paths, which come from
+ * Seekstone's own history rather than the caller.
  */
 export function assertWritable(
   policy: WritePolicy,
