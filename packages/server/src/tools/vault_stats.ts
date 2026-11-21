@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
+import { cachedByGeneration } from '../index/generation.js';
 
 export const VaultStatsInput = z.object({});
 export type VaultStatsInput = z.infer<typeof VaultStatsInput>;
@@ -20,21 +21,65 @@ export interface VaultStatsResult {
 
 const DAY_MS = 86_400_000;
 
+type Snapshot = Omit<VaultStatsResult, 'modified'> & {
+  /** Every note's mtime, for the clock-relative `modified` counts. */
+  mtimes: Float64Array;
+  /** `modified` as counted during the pass, for the `now` the pass ran with. */
+  modifiedAt: { now: number; counts: VaultStatsResult['modified'] };
+};
+
 /**
  * Counts and sizes for the whole vault, from the warm index only: one pass
- * over ctx.notes plus a sum over ctx.backlinks, no disk reads. `now` is
+ * over ctx.notes plus a sum over ctx.backlinks, no disk reads. That pass is
+ * cached per index generation; `modified` depends on the clock, so a cache
+ * hit counts it again from the cached mtimes. `now` is
  * injectable so the `modified` windows are testable.
  */
 export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultStatsResult {
-  const folders = new Set<string>();
-  const tags = new Set<string>();
-  const sizes = new Float64Array(ctx.notes.size);
-  let tagged = 0;
-  let total = 0;
+  const snap = cachedByGeneration(ctx, 'vault_stats', () => snapshot(ctx, now));
+  return {
+    notes: snap.notes,
+    folders: snap.folders,
+    tags: { ...snap.tags },
+    links: { ...snap.links },
+    bytes: snap.bytes.largest
+      ? { ...snap.bytes, largest: { ...snap.bytes.largest } }
+      : { ...snap.bytes },
+    modified:
+      snap.modifiedAt.now === now ? { ...snap.modifiedAt.counts } : modifiedSince(snap.mtimes, now),
+  };
+}
+
+/** Notes modified within 1, 7 and 30 days of `now`: one pass over the cached mtimes. */
+function modifiedSince(mtimes: Float64Array, now: number): VaultStatsResult['modified'] {
   let d1 = 0;
   let d7 = 0;
   let d30 = 0;
+  for (const m of mtimes) {
+    const age = now - m;
+    if (age < 30 * DAY_MS) {
+      d30++;
+      if (age < 7 * DAY_MS) {
+        d7++;
+        if (age < DAY_MS) d1++;
+      }
+    }
+  }
+  return { d1, d7, d30 };
+}
+
+/** The full pass. Counts `modified` for `now` on the way, so a cache miss needs no second loop. */
+function snapshot(ctx: ServerContext, now: number): Snapshot {
+  const folders = new Set<string>();
+  const tags = new Set<string>();
+  const sizes = new Float64Array(ctx.notes.size);
+  const mtimes = new Float64Array(ctx.notes.size);
+  let tagged = 0;
+  let total = 0;
   let largest: { path: string; size: number } | undefined;
+  let d1 = 0;
+  let d7 = 0;
+  let d30 = 0;
   let i = 0;
 
   for (const [path, note] of ctx.notes) {
@@ -49,7 +94,17 @@ export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultS
     }
     if (hasTag) tagged++;
 
+    const age = now - note.mtimeMs;
+    if (age < 30 * DAY_MS) {
+      d30++;
+      if (age < 7 * DAY_MS) {
+        d7++;
+        if (age < DAY_MS) d1++;
+      }
+    }
+
     const size = note.sizeBytes;
+    mtimes[i] = note.mtimeMs;
     sizes[i++] = size;
     total += size;
     if (
@@ -58,15 +113,6 @@ export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultS
       (size === largest.size && path.localeCompare(largest.path) < 0)
     ) {
       largest = { path, size };
-    }
-
-    const age = now - note.mtimeMs;
-    if (age < 30 * DAY_MS) {
-      d30++;
-      if (age < 7 * DAY_MS) {
-        d7++;
-        if (age < DAY_MS) d1++;
-      }
     }
   }
 
@@ -87,6 +133,7 @@ export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultS
     tags: { unique: tags.size, tagged },
     links: { resolved },
     bytes,
-    modified: { d1, d7, d30 },
+    mtimes,
+    modifiedAt: { now, counts: { d1, d7, d30 } },
   };
 }

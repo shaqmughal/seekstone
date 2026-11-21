@@ -52,6 +52,7 @@ async function freshCtx(opts: { journal?: boolean; audit?: boolean } = {}): Prom
     vaultRoot: vault,
     index: built.index,
     notes: built.notes,
+    generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
     policy: PERMISSIVE_POLICY,

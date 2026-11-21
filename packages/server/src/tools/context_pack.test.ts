@@ -44,6 +44,7 @@ function buildCtx(
     vaultRoot,
     index,
     notes: notesMap,
+    generation: 0,
     backlinks: backlinks ?? new Map(),
     attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,

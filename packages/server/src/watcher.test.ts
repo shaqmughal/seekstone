@@ -9,6 +9,7 @@ import { buildAttachmentIndex } from './index/resolve.js';
 import type { IndexedNote } from './index/types.js';
 import { PERMISSIVE_POLICY } from './policy.js';
 import { getLinks } from './tools/get_links.js';
+import { listTags } from './tools/list_tags.js';
 import { vaultStats } from './tools/vault_stats.js';
 import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
 
@@ -27,6 +28,7 @@ function freshCtx(vaultRoot: string): ServerContext {
     vaultRoot,
     index,
     notes: new Map(),
+    generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
@@ -342,6 +344,33 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await rm(join(tmpDir, 'b.md'));
       await waitFor(() => vaultStats(ctx).notes === 1);
       expect(vaultStats(ctx).bytes.total).toBe(100);
+    } finally {
+      await stop();
+    }
+  });
+
+  it('list_tags and get_links reflect an add, an edit and a delete on the next call (SHA-461)', async () => {
+    await writeFile(join(tmpDir, 'a.md'), 'See [[Short]] #base\n', 'utf8');
+    const built = await buildIndex(tmpDir);
+    const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+    const tags = () => listTags(ctx, { sort: 'name' }).tags.map((t) => t.tag);
+    const target = () => getLinks(ctx, { path: 'a.md' }).links[0]?.target;
+    // Fill the caches before any event, so a missed bump would serve these.
+    expect(tags()).toEqual(['base']);
+    expect(target()).toBeUndefined();
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'b.md'), '---\naliases: [Short]\ntags: [one]\n---\nb\n');
+      await waitFor(() => tags().includes('one'), { nudge: dirNudger(tmpDir) });
+      expect(target()).toBe('b.md');
+      await writeFile(join(tmpDir, 'b.md'), '---\naliases: [Other]\ntags: [two]\n---\nb\n');
+      await waitFor(() => tags().includes('two'));
+      expect(tags()).toEqual(['base', 'two']);
+      expect(target()).toBeUndefined();
+      await rm(join(tmpDir, 'b.md'));
+      await waitFor(() => !tags().includes('two'));
+      expect(tags()).toEqual(['base']);
     } finally {
       await stop();
     }

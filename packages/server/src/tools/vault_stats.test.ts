@@ -43,6 +43,7 @@ function ctxOf(notes: Array<{ id: string; size?: number; tags?: string; ageDays?
     vaultRoot: '/vault',
     index: new MiniSearch<IndexedNote>({ fields: ['title'] }),
     notes: map,
+    generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
@@ -122,6 +123,31 @@ describe('vaultStats', () => {
       modified: { d1: 0, d7: 0, d30: 0 },
     });
     expect('largest' in stats.bytes).toBe(false);
+  });
+
+  it('serves a repeat call from cache until the generation moves (SHA-461)', () => {
+    const ctx = ctxOf([{ id: 'a.md', size: 10, ageDays: 2 }]);
+    const first = vaultStats(ctx, NOW);
+    // Changed without a bump, so only the clock-relative counts can see it.
+    const note = ctx.notes.get('a.md');
+    if (note) note.sizeBytes = 500;
+    expect(vaultStats(ctx, NOW)).toEqual(first);
+    ctx.generation++;
+    expect(vaultStats(ctx, NOW).bytes.total).toBe(500);
+  });
+
+  it("doesn't let a caller change the cache through a result (SHA-461)", () => {
+    const ctx = ctxOf([{ id: 'a.md', size: 10, tags: 'x' }]);
+    const first = vaultStats(ctx, NOW);
+    first.tags.unique = 99;
+    first.links.resolved = 99;
+    first.bytes.total = 99;
+    if (first.bytes.largest) first.bytes.largest.size = 99;
+    expect(vaultStats(ctx, NOW)).toMatchObject({
+      tags: { unique: 1 },
+      links: { resolved: 0 },
+      bytes: { total: 10, largest: { size: 10 } },
+    });
   });
 
   it('counts no folders when every note is at the root', () => {
