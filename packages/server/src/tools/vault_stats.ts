@@ -24,17 +24,19 @@ const DAY_MS = 86_400_000;
 type Snapshot = Omit<VaultStatsResult, 'modified'> & {
   /** Every note's mtime, for the clock-relative `modified` counts. */
   mtimes: Float64Array;
+  /** `modified` as counted during the pass, for the `now` the pass ran with. */
+  modifiedAt: { now: number; counts: VaultStatsResult['modified'] };
 };
 
 /**
  * Counts and sizes for the whole vault, from the warm index only: one pass
  * over ctx.notes plus a sum over ctx.backlinks, no disk reads. That pass is
- * cached per index generation; `modified` depends on the clock, so it is
- * counted on every call from the cached mtimes. `now` is
+ * cached per index generation; `modified` depends on the clock, so a cache
+ * hit counts it again from the cached mtimes. `now` is
  * injectable so the `modified` windows are testable.
  */
 export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultStatsResult {
-  const snap = cachedByGeneration(ctx, 'vault_stats', () => snapshot(ctx));
+  const snap = cachedByGeneration(ctx, 'vault_stats', () => snapshot(ctx, now));
   return {
     notes: snap.notes,
     folders: snap.folders,
@@ -43,7 +45,8 @@ export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultS
     bytes: snap.bytes.largest
       ? { ...snap.bytes, largest: { ...snap.bytes.largest } }
       : { ...snap.bytes },
-    modified: modifiedSince(snap.mtimes, now),
+    modified:
+      snap.modifiedAt.now === now ? { ...snap.modifiedAt.counts } : modifiedSince(snap.mtimes, now),
   };
 }
 
@@ -65,7 +68,8 @@ function modifiedSince(mtimes: Float64Array, now: number): VaultStatsResult['mod
   return { d1, d7, d30 };
 }
 
-function snapshot(ctx: ServerContext): Snapshot {
+/** The full pass. Counts `modified` for `now` on the way, so a cache miss needs no second loop. */
+function snapshot(ctx: ServerContext, now: number): Snapshot {
   const folders = new Set<string>();
   const tags = new Set<string>();
   const sizes = new Float64Array(ctx.notes.size);
@@ -73,6 +77,9 @@ function snapshot(ctx: ServerContext): Snapshot {
   let tagged = 0;
   let total = 0;
   let largest: { path: string; size: number } | undefined;
+  let d1 = 0;
+  let d7 = 0;
+  let d30 = 0;
   let i = 0;
 
   for (const [path, note] of ctx.notes) {
@@ -86,6 +93,15 @@ function snapshot(ctx: ServerContext): Snapshot {
       hasTag = true;
     }
     if (hasTag) tagged++;
+
+    const age = now - note.mtimeMs;
+    if (age < 30 * DAY_MS) {
+      d30++;
+      if (age < 7 * DAY_MS) {
+        d7++;
+        if (age < DAY_MS) d1++;
+      }
+    }
 
     const size = note.sizeBytes;
     mtimes[i] = note.mtimeMs;
@@ -118,5 +134,6 @@ function snapshot(ctx: ServerContext): Snapshot {
     links: { resolved },
     bytes,
     mtimes,
+    modifiedAt: { now, counts: { d1, d7, d30 } },
   };
 }
