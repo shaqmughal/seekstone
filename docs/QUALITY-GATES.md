@@ -19,17 +19,19 @@ The `main protection (SHA-516)` ruleset blocks a merge until these pass, on a br
 
 The ruleset also requires every review thread to be resolved before a merge. It doesn't require an approving review from a person; the maintainer's merge is that review.
 
+Until the ruleset is updated (SHA-569), `review gate` runs on every PR but is not yet required, and unresolved threads don't block. The update adds `review gate` to the required checks and turns on `required_review_thread_resolution`, once the gate has passed on a real PR.
+
 ### The review gate
 
 CodeRabbit's own `CodeRabbit` check reports success whenever a review finishes, whatever it found, so it can't block anything. With `auto_approvals` on in `.coderabbit.yaml`, CodeRabbit requests changes while any actionable finding is open and approves once its threads are resolved, the latest commit has been reviewed and its pre-merge checks pass. `review gate` turns that approval into a required check. `scripts/review-gate.mjs` holds the logic and passes a PR when:
 
 - CodeRabbit's latest review is an approval of the head commit. Its plain comment reviews don't count either way; a later request for changes or a dismissed approval does.
-- CodeRabbit approved an earlier commit and the PR's own changes are the same at the head. This is the case after `pr-autoupdate.yml` merges `main` into an approved PR: CodeRabbit skips that merge commit, so its approval stays on the older one. The gate compares the PR's diff against `main` at both commits, file by file. A file counts as unchanged when its content is identical or its patch matches apart from hunk line numbers. If `main` changed lines next to the PR's own edits, or the diff is too big to compare (300 files or more), the gate fails and the PR needs a fresh review.
+- CodeRabbit approved an earlier commit and every commit since is a clean merge of the base branch. This is the case after `pr-autoupdate.yml` merges `main` into an approved PR: CodeRabbit skips that merge commit, so its approval stays on the older one. The gate checks it with git. Following first parents from the head back to the approved commit, each commit must be a merge whose second parent is already on the base branch, and its tree must equal what `git merge-tree` produces for the same two parents. A merge that resolved a conflict or carries any other edit fails that test, and the PR needs a fresh review.
 - The PR is a draft. A draft can't merge, and the gate runs again when it is marked ready. This keeps the factory's draft step working: CodeRabbit reviews drafts now, so its findings are usually in by the time the PR is ready.
 - The PR is the changesets release PR: branch `changeset-release/main` in this repo, opened by the `seekstone-release-bot` app.
 - A maintainer added the `review:override` label. The check output says the gate was overridden and who added the label. Use it when CodeRabbit is down or rate limited, or when a finding is wrong and you'd rather not argue it in the thread.
 
-The gate runs when a PR is opened, pushed to, reopened, marked ready or labelled, and when a review is submitted or dismissed. Reviews from CodeRabbit, a GitHub App, start it. It only reads, so it works on fork PRs, whose token is read-only. It runs the script from the base commit, so a PR that edits the script is still judged by the version on `main`.
+The gate runs when a PR is opened, pushed to, reopened, marked ready or labelled, and when a review is submitted or dismissed. Reviews from CodeRabbit, a GitHub App, start it. It only reads, so it works on fork PRs, whose token is read-only. It runs the script from the base commit, so a PR that edits the script is still judged by the version on `main`. A PR can still change `review-gate.yml` itself, because GitHub runs a PR's own copy of its workflows. That is true of every required check here, so only maintainers merge, and CodeRabbit's rules for `.github/workflows/` flag such edits.
 
 When the gate fails on a PR you expect to pass:
 

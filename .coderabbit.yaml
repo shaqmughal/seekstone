@@ -185,6 +185,11 @@ reviews:
         job level, and checkouts set `persist-credentials: false`. Untrusted
         values (PR titles, branch names, file names) go through `env:`, never
         straight into `run:` with `${{ }}`.
+        GitHub runs a PR's own copy of its workflows, so a PR can loosen a
+        required check by editing its job. Any change that makes a required
+        check (`review gate`, `quality rules`, the `test` and `flaky check`
+        jobs, `changeset check`) pass in more cases is a Major finding that
+        needs a stated reason in the PR.
 
   # Failing checks in `error` mode withhold CodeRabbit's approval, and with it
   # the review gate. Each check passes when it does not apply.
@@ -235,11 +240,12 @@ reviews:
           packages/server/src/instructions.ts, or a new file in
           packages/server/src/tools/ that is registered as a tool. Pass when
           the PR adds none.
-          Otherwise pass only if the same PR also:
-          1. adds a task for it to packages/harness/queries/tasks.json, and
-          2. changes the schema-tax baseline under
-             packages/harness/fixtures/baseline-reports/ and benchmarks.json.
-          Fail if either is missing.
+          Otherwise pass only if the same PR adds a task for it to
+          packages/harness/queries/tasks.json that measures its token cost
+          against the calls it replaces. Fail if no such task is added.
+          The regenerated schema-tax baseline is not checked here: CI's
+          `schema-tax --check` fails any PR whose served tool list differs
+          from the committed baseline.
 
   # Linters and scanners that cover files in this repo. They are on by
   # default; listing them keeps them on if a default changes.

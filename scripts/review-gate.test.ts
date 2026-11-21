@@ -1,14 +1,17 @@
-import { afterEach, describe, expect, it, vi } from 'vitest';
+import { mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { afterAll, afterEach, beforeAll, describe, expect, it, vi } from 'vitest';
 import {
   isReleasePr,
   latestReview,
-  MAX_FILES,
   OVERRIDE_LABEL,
+  onlyBaseMerges,
   RELEASE_AUTHOR,
   RELEASE_BRANCH,
   REVIEWER,
   run,
-  sameChanges,
+  runGit,
   verdict,
 } from './review-gate.mjs';
 
@@ -32,14 +35,6 @@ const review = (state: string, commit_id = HEAD, submitted_at = '2026-11-21T10:0
   state,
   commit_id,
   submitted_at,
-});
-
-const file = (over: Record<string, unknown> = {}) => ({
-  filename: 'src/a.ts',
-  status: 'modified',
-  sha: 'blob1',
-  patch: '@@ -1,2 +1,3 @@\n a\n+b\n c',
-  ...over,
 });
 
 describe('isReleasePr', () => {
@@ -92,30 +87,95 @@ describe('latestReview', () => {
   });
 });
 
-describe('sameChanges', () => {
-  it('accepts identical file lists', () => {
-    expect(sameChanges([file()], [file()])).toBe(true);
+describe('onlyBaseMerges', () => {
+  // A real repo: main with a.txt and b.txt; a PR branch that edits a.txt.
+  // Two functions share the same body, so a relocated edit would look the
+  // same in a patch with its line numbers removed.
+  let dir: string;
+  const git = (args: string[]) => runGit(args, dir);
+  const write = (name: string, text: string) => writeFileSync(join(dir, name), text);
+  const commit = (msg: string) => {
+    git(['add', '-A']);
+    git(['commit', '-q', '-m', msg]);
+    return git(['rev-parse', 'HEAD']);
+  };
+  const body = 'function f() {\n  return 1;\n}\n';
+  let approved: string;
+
+  beforeAll(() => {
+    dir = mkdtempSync(join(tmpdir(), 'review-gate-'));
+    git(['init', '-q', '-b', 'main']);
+    git(['config', 'user.email', 'test@example.com']);
+    git(['config', 'user.name', 'test']);
+    git(['config', 'commit.gpgsign', 'false']);
+    write('a.txt', `// one\n${body}// two\n${body}`);
+    write('b.txt', 'b\n');
+    commit('base');
+    git(['checkout', '-q', '-b', 'pr']);
+    write('a.txt', `// one\n${body.replace('1', '2')}// two\n${body}`);
+    approved = commit('pr change');
+    git(['checkout', '-q', 'main']);
+    write('b.txt', 'b changed on main\n');
+    commit('main moves on');
   });
 
-  it('accepts a patch whose hunks only moved because main changed lines above', () => {
-    const moved = file({ sha: 'blob2', patch: '@@ -11,2 +11,3 @@ fn()\n a\n+b\n c' });
-    expect(sameChanges([file()], [moved])).toBe(true);
+  afterAll(() => rmSync(dir, { recursive: true, force: true }));
+
+  const branchFrom = (name: string) => git(['checkout', '-q', '-B', name, approved]);
+
+  it('accepts a clean merge of main', () => {
+    branchFrom('clean');
+    git(['merge', '-q', '--no-edit', 'main']);
+    const head = git(['rev-parse', 'HEAD']);
+    expect(onlyBaseMerges({ approved, head, baseRef: 'main', git })).toMatchObject({ ok: true });
   });
 
-  it('rejects a changed line, an extra file, a missing file or a new status', () => {
-    expect(sameChanges([file()], [file({ sha: 'x', patch: '@@ -1,2 +1,3 @@\n a\n+B\n c' })])).toBe(
-      false,
-    );
-    expect(sameChanges([file()], [file(), file({ filename: 'src/b.ts' })])).toBe(false);
-    expect(sameChanges([file()], [file({ filename: 'src/b.ts' })])).toBe(false);
-    expect(sameChanges([file()], [file({ status: 'added' })])).toBe(false);
-    expect(sameChanges([file()], [file({ previous_filename: 'old.ts' })])).toBe(false);
+  it('accepts two merges in a row', () => {
+    branchFrom('twice');
+    git(['merge', '-q', '--no-edit', 'main~1']);
+    git(['merge', '-q', '--no-edit', 'main']);
+    const head = git(['rev-parse', 'HEAD']);
+    expect(onlyBaseMerges({ approved, head, baseRef: 'main', git }).ok).toBe(true);
   });
 
-  it('fails closed when GitHub leaves out a patch or truncates the list', () => {
-    expect(sameChanges([file()], [file({ sha: 'x', patch: undefined })])).toBe(false);
-    const many = Array.from({ length: MAX_FILES }, (_, i) => file({ filename: `f${i}` }));
-    expect(sameChanges(many, many)).toBe(false);
+  it('rejects a merge that slipped in an edit', () => {
+    branchFrom('evil');
+    git(['merge', '-q', '--no-commit', 'main']);
+    write('a.txt', `// one\n${body.replace('1', '2')}// two\n${body.replace('1', '3')}`);
+    const head = commit('merge main');
+    const m = onlyBaseMerges({ approved, head, baseRef: 'main', git });
+    expect(m).toMatchObject({ ok: false });
+    expect(m.why).toContain('differs from a clean merge');
+  });
+
+  it('rejects an edit moved to a function with the same context', () => {
+    branchFrom('moved');
+    write('a.txt', `// one\n${body}// two\n${body.replace('1', '2')}`);
+    const head = commit('move the change');
+    expect(onlyBaseMerges({ approved, head, baseRef: 'main', git }).why).toContain('not a merge');
+  });
+
+  it('rejects a merge of a branch that is not main', () => {
+    git(['checkout', '-q', '-B', 'side', 'main~1']);
+    write('c.txt', 'c\n');
+    const side = commit('side');
+    branchFrom('other');
+    git(['merge', '-q', '--no-edit', side]);
+    const head = git(['rev-parse', 'HEAD']);
+    expect(onlyBaseMerges({ approved, head, baseRef: 'main', git }).why).toContain('not on main');
+  });
+
+  it('rejects an approval that is not on the first-parent line', () => {
+    git(['checkout', '-q', '-B', 'reverse', 'main']);
+    git(['merge', '-q', '--no-edit', approved]);
+    const head = git(['rev-parse', 'HEAD']);
+    expect(onlyBaseMerges({ approved, head, baseRef: 'main', git }).ok).toBe(false);
+  });
+
+  it('fails closed on a missing commit or when nothing came after the approval', () => {
+    const m = onlyBaseMerges({ approved: 'f'.repeat(40), head: approved, baseRef: 'main', git });
+    expect(m.why).toContain('git could not check it');
+    expect(onlyBaseMerges({ approved, head: approved, baseRef: 'main', git }).ok).toBe(false);
   });
 });
 
@@ -138,10 +198,10 @@ describe('verdict', () => {
   it('fails an approval on an older commit when the changes differ', () => {
     const v = verdict({ pr: pull(), headSha: HEAD, review: review('APPROVED', OLD) });
     expect(v.pass).toBe(false);
-    expect(v.reason).toContain('changes are different');
+    expect(v.reason).toContain('not only clean merges');
   });
 
-  it('passes an approval on an older commit when only main was merged in since', () => {
+  it('passes an approval on an older commit when only clean merges of main came since', () => {
     const v = verdict({
       pr: pull(),
       headSha: HEAD,
@@ -149,7 +209,7 @@ describe('verdict', () => {
       unchanged: true,
     });
     expect(v.pass).toBe(true);
-    expect(v.reason).toContain('only bring in main');
+    expect(v.reason).toContain('clean merge of the base branch');
   });
 
   it('passes on the override label and says so', () => {
@@ -202,29 +262,31 @@ describe('run', () => {
     expect((await run({ repo: 'o/r', number: 7, headSha: HEAD })).pass).toBe(true);
   });
 
-  it('compares the approved commit with the head when they differ', async () => {
-    const fetch = routes({
-      '/repos/o/r/pulls/7/reviews': [review('APPROVED', OLD)],
-      '/repos/o/r/pulls/7': pull(),
-      [`/repos/o/r/compare/main...${OLD}`]: { files: [file()] },
-      [`/repos/o/r/compare/main...${HEAD}`]: { files: [file()] },
-    });
-    const v = await run({ repo: 'o/r', number: 7, headSha: HEAD });
-    expect(v.pass).toBe(true);
-    expect(fetch.mock.calls.map(([u]) => (u as URL).pathname)).toContain(
-      `/repos/o/r/compare/main...${HEAD}`,
-    );
-  });
-
-  it('fails closed when the compare call fails', async () => {
+  it('checks the commits after an older approval with git', async () => {
     const log = vi.fn();
+    const git = vi.fn(() => {
+      throw new Error('fatal: bad object');
+    });
     routes({
       '/repos/o/r/pulls/7/reviews': [review('APPROVED', OLD)],
       '/repos/o/r/pulls/7': pull(),
     });
-    const v = await run({ repo: 'o/r', number: 7, headSha: HEAD, log });
+    const v = await run({ repo: 'o/r', number: 7, headSha: HEAD, git, log });
     expect(v.pass).toBe(false);
-    expect(log).toHaveBeenCalledWith(expect.stringContaining('Could not compare'));
+    expect(git).toHaveBeenCalledWith([
+      'rev-list',
+      '--first-parent',
+      '--parents',
+      `${OLD}..${HEAD}`,
+    ]);
+    expect(log).toHaveBeenCalledWith(expect.stringContaining('git could not check it'));
+  });
+
+  it('refuses a base ref that could be read as a git option', async () => {
+    routes({});
+    await expect(
+      run({ repo: 'o/r', number: 7, headSha: HEAD, baseRef: '--output=x' }),
+    ).rejects.toThrow(/bad BASE_REF/);
   });
 
   it('names who added the override label', async () => {
