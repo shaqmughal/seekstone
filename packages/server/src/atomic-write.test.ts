@@ -1,4 +1,4 @@
-import { mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, open, readdir, readFile, rename, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -42,6 +42,56 @@ describe('atomicWrite', () => {
     await writeFile(join(target, 'keep.md'), 'x', 'utf8');
     await expect(atomicWrite(target, 'new')).rejects.toThrow();
     expect((await readdir(sub)).some((e) => e.includes('.seekstone-tmp'))).toBe(false);
+  });
+
+  /** Real `open`, with every handle call and the rename recorded in order. */
+  function traced() {
+    const events: string[] = [];
+    const openFn = async (path: string, flags: string) => {
+      const fh = await open(path, flags);
+      events.push(`open ${flags}`);
+      return new Proxy(fh, {
+        get(target, prop, receiver) {
+          const value = Reflect.get(target, prop, receiver);
+          if (typeof value !== 'function') return value;
+          return (...args: unknown[]) => {
+            events.push(String(prop));
+            return value.apply(target, args);
+          };
+        },
+      });
+    };
+    const renameFn = async (from: string, to: string) => {
+      events.push('rename');
+      await rename(from, to);
+    };
+    return { events, openFn, renameFn };
+  }
+
+  it('syncs the temp file to disk before renaming it over the note (SHA-561)', async () => {
+    const p = join(dir, 'synced.md');
+    await writeFile(p, 'old', 'utf8');
+    const { events, openFn, renameFn } = traced();
+    await atomicWrite(p, 'durable', { openFn, renameFn });
+    expect(events).toEqual(['open w', 'writeFile', 'sync', 'close', 'rename']);
+    expect(await readFile(p, 'utf8')).toBe('durable');
+  });
+
+  it('keeps the old note and removes the temp file when the sync fails', async () => {
+    const sub = await mkdtemp(join(dir, 'sync-fail-'));
+    const p = join(sub, 'note.md');
+    await writeFile(p, 'old', 'utf8');
+    const openFn = async (path: string, flags: string) => {
+      const fh = await open(path, flags);
+      return Object.assign(fh, {
+        sync: async () => {
+          throw Object.assign(new Error('EIO'), { code: 'EIO' });
+        },
+      });
+    };
+    await expect(atomicWrite(p, 'new', { openFn })).rejects.toThrow('EIO');
+    expect(await readFile(p, 'utf8')).toBe('old');
+    expect(await readdir(sub)).toEqual(['note.md']);
   });
 });
 
