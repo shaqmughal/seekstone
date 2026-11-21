@@ -46,7 +46,7 @@ export async function appendNote(
   ctx: ServerContext,
   input: AppendNoteInput,
 ): Promise<AppendNoteResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const original = await readFile(absPath, 'utf8');

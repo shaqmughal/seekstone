@@ -74,7 +74,7 @@ export async function updateTask(
   ctx: ServerContext,
   input: UpdateTaskInput,
 ): Promise<UpdateTaskResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const original = await readFile(absPath, 'utf8');

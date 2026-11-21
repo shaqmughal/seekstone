@@ -65,7 +65,7 @@ export async function patchNote(
   ctx: ServerContext,
   input: PatchNoteInput,
 ): Promise<PatchNoteResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const raw = await readFile(absPath, 'utf8');

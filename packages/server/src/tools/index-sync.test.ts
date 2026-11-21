@@ -157,6 +157,27 @@ describe('the index matches a cold rebuild right after each write', () => {
     ]);
   });
 
+  it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {
+    const live = () => [...ctx.notes.keys()].filter((p) => p.toLowerCase().startsWith('.trash'));
+    await deleteNote(ctx, { path: 'Gamma.md' });
+    await moveNote(ctx, { from: '.trash/Gamma.md', to: 'Gamma.md' });
+    await expectInSync();
+    expect(vaultStats(ctx).links.resolved).toBe(4);
+
+    // Undo the restore: the note goes back into .trash/ and stays unindexed.
+    await undoWrite(ctx, {});
+    await expectInSync();
+    expect(live()).toEqual([]);
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).total).toBe(0);
+    expect(vaultStats(ctx).links.resolved).toBe(1);
+
+    // Undo the delete: the inbound links come back.
+    await undoWrite(ctx, {});
+    await expectInSync();
+    expect(live()).toEqual([]);
+    expect(vaultStats(ctx).links.resolved).toBe(4);
+  });
+
   it('move_note without rewriting links keeps refs that still resolve', async () => {
     await mkdir(join(root, 'B'));
     await moveNote(ctx, { from: 'A/Beta.md', to: 'B/Beta.md', rewriteLinks: false });
