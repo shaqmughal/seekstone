@@ -57,7 +57,7 @@ export async function deleteNote(
   const input = DeleteNoteInput.parse(rawInput);
   // Policy applies to the note being deleted; the .trash/ destination is the
   // safety mechanism itself, not a user write.
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   // Read before deleting: ENOENT propagates for a missing note (same shape rm

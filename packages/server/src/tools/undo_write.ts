@@ -89,7 +89,7 @@ export async function undoWrite(
   }
 
   // Policy applies to every path the undo will write, before anything moves.
-  for (const f of entry.files) assertWritable(ctx.policy, f.path);
+  for (const f of entry.files) assertWritable(ctx.policy, f.path, ctx.vaultRoot);
 
   // Current state vs. what the journal says the write left behind.
   const current = new Map<string, string | null>();

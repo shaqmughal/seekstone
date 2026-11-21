@@ -101,7 +101,7 @@ export async function renameHeading(
   // Parse here (not only in dispatch) so validation applies to direct callers
   // too — same pattern as move_note.
   const input = RenameHeadingInput.parse(rawInput);
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   let raw: string;

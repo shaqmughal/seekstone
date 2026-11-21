@@ -52,8 +52,8 @@ export async function moveNote(
   // Parse here (not only in dispatch) so defaults like rewriteLinks apply to
   // direct callers too — same pattern as periodic_note.
   const input = MoveNoteInput.parse(rawInput);
-  assertWritable(ctx.policy, input.from);
-  assertWritable(ctx.policy, input.to);
+  assertWritable(ctx.policy, input.from, ctx.vaultRoot);
+  assertWritable(ctx.policy, input.to, ctx.vaultRoot);
   const absFrom = resolveVaultPath(ctx, input.from);
   const absTo = resolveVaultPath(ctx, input.to);
 

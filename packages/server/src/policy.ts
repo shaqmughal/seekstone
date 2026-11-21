@@ -1,3 +1,4 @@
+import { posix, relative, resolve } from 'node:path';
 import picomatch from 'picomatch';
 
 /**
@@ -130,12 +131,37 @@ export function isWritable(policy: WritePolicy, relPath: string): boolean {
 }
 
 /**
+ * Top-level folders no write tool may touch: the write journal lives in
+ * `.seekstone/history/` and `delete_note` moves notes into `.trash/`. Letting
+ * an agent write there would let it overwrite or delete its own undo history.
+ */
+const RESERVED_FOLDERS = ['.seekstone', '.trash'] as const;
+
+/**
+ * The reserved folder `inputPath` falls inside, or undefined. The path is
+ * normalized the way `containVaultPath` resolves it, so `notes/../.trash/x`
+ * counts. With `vaultRoot`, absolute paths inside the vault are caught too.
+ * The comparison ignores case, and trailing dots and spaces that Windows
+ * drops from a folder name, because Windows and default macOS file systems
+ * would put `.Trash./x` in the same folder as `.trash/x`.
+ */
+export function reservedFolder(inputPath: string, vaultRoot?: string): string | undefined {
+  const rel =
+    vaultRoot === undefined
+      ? posix.normalize(inputPath.replaceAll('\\', '/'))
+      : relative(vaultRoot, resolve(vaultRoot, inputPath));
+  const first = (rel.split(/[\\/]/, 1)[0] ?? '').toLowerCase().replace(/[. ]+$/, '');
+  return RESERVED_FOLDERS.find((f) => f === first);
+}
+
+/**
  * Throw with an actionable message when the policy forbids writing `relPath`.
  * Call from write handlers with the final vault-relative path — after any
  * internal path computation (e.g. periodic-note date resolution) and before
  * the first disk read, so a refused write never reveals whether a file exists.
+ * Pass `vaultRoot` so an absolute path into a reserved folder is refused too.
  */
-export function assertWritable(policy: WritePolicy, relPath: string): void {
+export function assertWritable(policy: WritePolicy, relPath: string, vaultRoot?: string): void {
   if (policy.readOnly) {
     throw new Error('Server is read-only (SEEKSTONE_READ_ONLY=1); write tools are disabled.');
   }
@@ -147,6 +173,12 @@ export function assertWritable(policy: WritePolicy, relPath: string): void {
   if (!isWritable(policy, relPath)) {
     throw new Error(
       `Write not permitted: "${relPath}" is outside SEEKSTONE_WRITE_PATHS (${policy.writeGlobs?.join(', ')}).`,
+    );
+  }
+  const reserved = reservedFolder(relPath, vaultRoot);
+  if (reserved !== undefined) {
+    throw new Error(
+      `Write not permitted: "${relPath}" is inside ${reserved}/, which Seekstone reserves for write history and deleted notes.`,
     );
   }
 }
