@@ -80,6 +80,8 @@ describe('summaryFindings', () => {
   it('skips findings under a resolved heading and other authors', () => {
     const body = `${SUMMARY.replace('**Retained concerns**', '**Resolved concerns**')}`;
     expect(summaryFindings([{ ...summaryComment, body }])).toEqual([]);
+    const unresolved = SUMMARY.replace('**Retained concerns**', '**Unresolved concerns**');
+    expect(summaryFindings([{ ...summaryComment, body: unresolved }])).toHaveLength(1);
     expect(summaryFindings([{ user: { login: 'x' }, body: SUMMARY }])).toEqual([]);
   });
 });

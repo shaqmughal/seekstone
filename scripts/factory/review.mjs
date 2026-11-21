@@ -88,7 +88,7 @@ export function summaryFindings(comments) {
   let resolved = false;
   for (const line of noComments(summary.body).split(/\r?\n/)) {
     const heading = line.match(/^\s*(?:#+\s*|\*\*)([^*]+?)\**\s*$/);
-    if (heading) resolved = /resolved/i.test(heading[1]);
+    if (heading) resolved = /\bresolved\b/i.test(heading[1]);
     const m = line.match(/^\s*[-*] \*\*([A-Z][a-z]+) · ([^*]+?):\*\*\s*(.+)$/);
     if (m && !resolved) findings.push({ severity: m[1], where: m[2], text: m[3].trim() });
   }
@@ -267,13 +267,16 @@ async function main() {
       return console.log(`::warning::review-replies.json is not JSON: ${e.message}`);
     }
     const open = new Set(openThreads(threads).map((t) => t.id));
+    if (!Array.isArray(replies)) {
+      return console.log('::warning::review-replies.json is not a JSON array; no replies posted');
+    }
     const valid = validReplies(replies, open);
     for (const r of valid) {
       await gh(`repos/${repo}/pulls/${prNumber}/comments/${r.id}/replies`, {
         post: { body: r.body },
       });
     }
-    return console.log(`posted ${valid.length} of ${replies.length ?? 0} replies`);
+    return console.log(`posted ${valid.length} of ${replies.length} replies`);
   }
 
   const pr = await gh(`repos/${repo}/pulls/${prNumber}`);

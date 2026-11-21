@@ -38,7 +38,7 @@ export const BLOCKED_LABEL = 'factory-blocked';
 export const REVIEW_OPEN_LABEL = 'factory-review-open';
 export const MARKER_RE = /<!-- factory-fix sha=([0-9a-f]{7,40}) attempt=(\d+) -->/;
 /** Posted when the review round starts, and by deliver when it ends. */
-export const REVIEW_START_RE = /<!-- factory-review sha=[0-9a-f]{7,40} -->/;
+export const REVIEW_START_RE = /<!-- factory-review sha=([0-9a-f]{7,40}) -->/;
 export const REVIEW_DONE = '<!-- factory-review-done -->';
 
 export const MODEL_SONNET = /<!-- factory-model sonnet -->/;
@@ -61,14 +61,17 @@ export function fixHistory(comments, sha, bot) {
   return { attempts, forSha };
 }
 
-/** Whether the review round started and ended, from the factory app's markers. */
+/**
+ * Whether the review round started and ended, from the factory app's
+ * markers, and the commit it started on.
+ */
 export function reviewRound(comments, bot) {
   const mine = comments.filter((c) => c.user?.login === bot);
-  return {
-    started: mine.some((c) => REVIEW_START_RE.test(c.body ?? '')),
-    done: mine.some((c) => c.body?.includes(REVIEW_DONE)),
-  };
+  const sha = mine.map((c) => c.body?.match(REVIEW_START_RE)?.[1]).find(Boolean) ?? null;
+  return { started: sha !== null, sha, done: mine.some((c) => c.body?.includes(REVIEW_DONE)) };
 }
+
+const sameCommit = (a, b) => a.startsWith(b) || b.startsWith(a);
 
 export function markerFor(sha, attempt) {
   return `<!-- factory-fix sha=${sha} attempt=${attempt} -->`;
@@ -102,9 +105,11 @@ export function decide({ pr, required, checkRuns, comments, sonnet, bot, review 
   if (pr.labels.includes(BLOCKED_LABEL)) return { action: 'none', reason: 'blocked' };
   if (!pr.draft) return { action: 'none', reason: 'already ready for review' };
   // The review run pushes and then posts its done marker; until then its
-  // branch is in motion, so nothing else starts.
+  // branch is in motion, so nothing else starts. Only on the commit the
+  // round started from: a round that died without its done marker (and got
+  // factory-blocked) mustn't hold the PR once someone pushes a fix.
   const round = reviewRound(comments, bot);
-  if (round.started && !round.done) {
+  if (round.started && !round.done && sameCommit(pr.headSha, round.sha)) {
     return { action: 'none', reason: 'the review round is still running' };
   }
   const { pending, failed } = requiredState(required, checkRuns);

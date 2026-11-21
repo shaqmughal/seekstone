@@ -134,10 +134,10 @@ describe('decide', () => {
 
 describe('reviewRound', () => {
   it('reads the start and done markers from the factory app only', () => {
-    expect(reviewRound([started], BOT)).toEqual({ started: true, done: false });
-    expect(reviewRound([started, done], BOT)).toEqual({ started: true, done: true });
+    expect(reviewRound([started], BOT)).toEqual({ started: true, sha: SHA, done: false });
+    expect(reviewRound([started, done], BOT)).toEqual({ started: true, sha: SHA, done: true });
     const forged = [{ ...started, user: { login: 'someone' } }];
-    expect(reviewRound(forged, BOT)).toEqual({ started: false, done: false });
+    expect(reviewRound(forged, BOT)).toEqual({ started: false, sha: null, done: false });
   });
 });
 
@@ -177,6 +177,18 @@ describe('decide: the CodeRabbit review round', () => {
   it('does nothing while the review round runs, even if CI fails', () => {
     const d = decide({ ...base, review: findings, comments: [started], pr: pr(), checkRuns: red });
     expect(d).toEqual({ action: 'none', reason: 'the review round is still running' });
+  });
+
+  it('lets a new commit go on when a round died without its done marker', () => {
+    const old = mine('Starting the review round.\n\n<!-- factory-review sha=1111111 -->');
+    expect(reviewRound([old], BOT)).toEqual({ started: true, sha: '1111111', done: false });
+    const comments = [old];
+    expect(decide({ ...base, review: findings, comments, pr: pr(), checkRuns: red })).toMatchObject(
+      { action: 'fix', attempt: 1 },
+    );
+    expect(
+      decide({ ...base, review: findings, comments, pr: pr(), checkRuns: green }),
+    ).toMatchObject({ action: 'ready', label: REVIEW_OPEN_LABEL });
   });
 
   it('marks ready with the label when findings are still open after the round', () => {
