@@ -1,14 +1,53 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
 #
-# CodeRabbit review config (SHA-522). The path instructions below are the
-# rules a generic reviewer wouldn't know; CLAUDE.md, AGENTS.md and
-# CONTRIBUTING.md are read as code guidelines too.
+# CodeRabbit review config (SHA-522, SHA-569). The path instructions below
+# are the rules a generic reviewer wouldn't know; the files listed under
+# knowledge_base.code_guidelines are read as review rules too.
+#
+# CodeRabbit is a merge gate here: it requests changes for findings and
+# approves only when none are left open, and the required `review gate` check
+# (.github/workflows/review-gate.yml) passes only on that approval. See
+# docs/QUALITY-GATES.md.
 
 language: en-US
 
 reviews:
-  profile: chill
-  request_changes_workflow: false
+  profile: assertive
+  # Request changes for actionable findings; approve once the threads are
+  # resolved, the latest commit is reviewed and the pre-merge checks pass.
+  # Every actionable finding blocks, whatever its severity.
+  auto_approvals:
+    enabled: true
+    # A skipped review (draft, file limit) reviewed nothing, so it approves
+    # nothing.
+    approve_on_skipped_review: false
+    # `@coderabbitai approve` from the PR's own author would skip the review.
+    allow_author_approval: false
+  # A review that stops on an error shows as failed, not as success.
+  fail_commit_status: true
+  merge_risk_instructions: |
+    Highest risk: anything that can lose or corrupt a user's vault or undo
+    history. That is packages/server/src/journal.ts, atomic-write.ts,
+    policy.ts, audit.ts, vault-path.ts and the write tools in
+    packages/server/src/tools/ (create, append, patch, move, delete, rename,
+    rewrite links, frontmatter). Also high: changes to the release pipeline
+    (.github/workflows/release.yml, scripts/publish-*.mjs, server.json) and to
+    the required checks themselves (.github/workflows/, scripts/quality-rules.mjs,
+    scripts/review-gate.mjs, .coderabbit.yaml).
+    Moderate: read and search tools, the index, link resolution and other hot
+    paths, where a slowdown breaks the project's main claim, and tool, prompt
+    or resource descriptions, which cost context in every session.
+    Low: docs, tests that only add cases, harness reports and fixtures.
+  security_risk_instructions: |
+    Seekstone runs locally over stdio as the user who started it. It has no
+    network listener and makes no network calls on the serving path
+    (no-network.test.ts guards this). Its trust boundary is the vault: every
+    path from a tool call is untrusted and must go through resolveVaultPath,
+    which keeps it inside the vault and applies SEEKSTONE_READ_PATHS;
+    writes also need assertWritable (SEEKSTONE_WRITE_PATHS, read-only mode).
+    Path traversal, symlink escapes and policy bypasses are the highest risk.
+    CI workflows hold the release and factory app secrets; pull_request_target
+    or workflow_run jobs that run PR code are high risk.
   # Keep the PR description as the author wrote it; the summary goes in the
   # walkthrough comment instead.
   high_level_summary: true
@@ -21,7 +60,12 @@ reviews:
   auto_apply_labels: false
   auto_review:
     enabled: true
-    drafts: false
+    # Factory PRs start as drafts while CI runs; reviewing them then means
+    # the findings are in by the time the PR is marked ready.
+    drafts: true
+    # The default pauses reviews after 5 reviewed commits. The review gate
+    # needs a review of the latest commit, so reviews never pause.
+    auto_pause_after_reviewed_commits: 0
     base_branches: ['main']
   # Nothing pushes commits to a PR branch without a person asking for it.
   finishing_touches:
@@ -92,6 +136,28 @@ reviews:
         Even a one-word description change needs the regenerated baseline, or
         CI's `schema-tax --check` fails. Point out wordy descriptions; every
         token counts here.
+    - path: 'packages/server/src/{journal,atomic-write,audit,policy}.ts'
+      instructions: |
+        The write-safety core (docs/WRITE-SAFETY.md). Treat any of these as a
+        Major finding, and losing or corrupting undo history as Major even
+        when the vault write itself succeeds:
+        - Crash consistency: a crash or kill at any point leaves either the old
+          or the new file, never a mix. Data is fsynced before the rename that
+          publishes it, and the journal entry is durable before the vault file
+          changes.
+        - Short writes: a partial write, ENOSPC or EIO must fail the operation
+          and leave no truncated file or half-written journal record behind.
+        - Concurrent processes: two server processes on one vault share the
+          journal. The manifest lock in journal.ts must be held for every
+          read-modify-write of shared state; temp file names must be unique per
+          process and write; a stale lock is taken over safely; nothing assumes
+          it is the only writer.
+        - Windows: rename over an existing file can fail with EPERM or EBUSY
+          when another process has it open, and fsync on a directory is not
+          supported. Check for a retry or fallback and that errors are not
+          swallowed.
+        - Policy: assertWritable runs before any path is resolved or touched.
+          The audit log records paths and counts only, never note content.
     - path: 'packages/{server,core,harness}/src/**/*.ts'
       instructions: |
         - Relative imports use `.js` extensions, even for TypeScript sources
@@ -119,11 +185,111 @@ reviews:
         job level, and checkouts set `persist-credentials: false`. Untrusted
         values (PR titles, branch names, file names) go through `env:`, never
         straight into `run:` with `${{ }}`.
+        GitHub runs a PR's own copy of its workflows, so a PR can loosen a
+        required check by editing its job. Any change that makes a required
+        check (`review gate`, `quality rules`, the `test` and `flaky check`
+        jobs, `changeset check`) pass in more cases is a Major finding that
+        needs a stated reason in the PR.
+
+  # Failing checks in `error` mode withhold CodeRabbit's approval, and with it
+  # the review gate. Each check passes when it does not apply.
+  pre_merge_checks:
+    # Only a maintainer, not the PR's author, can waive a failing check.
+    override_requested_reviewers_only: true
+    title:
+      mode: error
+      requirements: |
+        Conventional-commit style: `type(scope): summary` or `type: summary`.
+        type is one of feat, fix, perf, refactor, docs, test, ci, build,
+        chore or revert. The summary is imperative ("add", not "added" or
+        "adds"), lower case, with no trailing period. A Linear ticket ID such
+        as (SHA-123) may follow the summary.
+    description:
+      mode: warning
+    # PRs name a Linear ticket (SHA-123) in the title or description.
+    issue_assessment:
+      mode: error
+    custom_checks:
+      - name: Write safety
+        mode: error
+        instructions: |
+          Applies only when the PR changes a non-test file under
+          packages/server/src/ that writes, moves or deletes vault files or
+          journal state: journal.ts, atomic-write.ts, policy.ts, audit.ts,
+          dispatch.ts, or a write tool in packages/server/src/tools/. Pass
+          when no such file changed.
+          Otherwise fail if any of these is true of the changed code:
+          1. A vault file changes before its pre-image is journaled
+             (journalWrite, or ctx.journal.begin() for several files).
+          2. A vault file is written with anything other than atomicWrite
+             (for example a bare fs.writeFile, appendFile or createWriteStream
+             on a vault path).
+          3. A write path is resolved or touched before assertWritable runs.
+          4. Crash safety is weakened: data is not fsynced before the rename
+             that publishes it, or a failed or partial write can leave a
+             truncated file or journal record.
+          5. Multi-process safety is weakened: shared journal state is changed
+             without the manifest lock, or a temp file path can be shared by
+             two processes or two concurrent writes.
+          Pass when none of these is true.
+      - name: Admission bar
+        mode: error
+        instructions: |
+          Applies only when the PR adds a new MCP tool, prompt or resource:
+          a new name registered in packages/server/src/tool-list.ts or
+          packages/server/src/instructions.ts, or a new file in
+          packages/server/src/tools/ that is registered as a tool. Pass when
+          the PR adds none.
+          Otherwise pass only if the same PR adds a task for it to
+          packages/harness/queries/tasks.json that measures its token cost
+          against the calls it replaces. Fail if no such task is added.
+          The regenerated schema-tax baseline is not checked here: CI's
+          `schema-tax --check` fails any PR whose served tool list differs
+          from the committed baseline.
+
+  # Linters and scanners that cover files in this repo. They are on by
+  # default; listing them keeps them on if a default changes.
+  tools:
+    biome:
+      enabled: true
+    actionlint:
+      enabled: true
+    zizmor:
+      enabled: true
+    shellcheck:
+      enabled: true
+    gitleaks:
+      enabled: true
+    osvScanner:
+      enabled: true
+    semgrep:
+      enabled: true
+    markdownlint:
+      enabled: true
+    github-checks:
+      enabled: true
+
+  # Flags low-effort PRs from people outside the repo.
+  slop_detection:
+    enabled: true
+    label: slop
 
 chat:
   auto_reply: true
 
 knowledge_base:
+  code_guidelines:
+    enabled: true
+    filePatterns:
+      - '**/CLAUDE.md'
+      - '**/AGENTS.md'
+      - 'CONTRIBUTING.md'
+      - 'docs/WRITE-SAFETY.md'
+      - 'docs/QUALITY-GATES.md'
+  learnings:
+    scope: local
+  # `auto` turns Linear off for public repos, and this one is public. The
+  # linked-issue check needs it on.
   linear:
-    usage: auto
+    usage: enabled
     team_keys: ['SHA']

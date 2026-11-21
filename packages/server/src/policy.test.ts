@@ -1,3 +1,5 @@
+import { tmpdir } from 'node:os';
+import { join, resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import {
   assertWritable,
@@ -5,8 +7,65 @@ import {
   isWritable,
   PERMISSIVE_POLICY,
   parseWritePolicy,
+  reservedFolder,
   splitGlobs,
 } from './policy.js';
+
+describe('reservedFolder (SHA-560)', () => {
+  const ROOT = resolve(tmpdir(), 'vault');
+
+  it.each([
+    ['.seekstone/history/manifest.jsonl', '.seekstone'],
+    ['.trash/a.md', '.trash'],
+    ['notes/../.seekstone/x', '.seekstone'],
+    ['./.Seekstone/x', '.seekstone'],
+    ['.TRASH\\a.md', '.trash'],
+    ['.trash. /a.md', '.trash'],
+    ['.seekstone', '.seekstone'],
+    ['.trash::$INDEX_ALLOCATION/a.md', '.trash'],
+    ['.Seekstone:stream/history/x', '.seekstone'],
+    ['notes/.trash/a.md', undefined],
+    ['.seekstone-notes/a.md', undefined],
+    ['.trashcan/a.md', undefined],
+    ['a.md', undefined],
+    ['../.trash/a.md', undefined],
+  ])('%s → %s', (p, want) => {
+    expect(reservedFolder(p)).toBe(want);
+    expect(reservedFolder(p, ROOT)).toBe(want);
+  });
+
+  it('catches absolute paths into the vault only when given the vault root', () => {
+    const abs = join(ROOT, '.trash', 'a.md');
+    expect(reservedFolder(abs, ROOT)).toBe('.trash');
+    expect(reservedFolder(join(ROOT, 'notes', 'a.md'), ROOT)).toBeUndefined();
+  });
+
+  it('assertWritable refuses after the policy checks pass', () => {
+    expect(() => assertWritable(PERMISSIVE_POLICY, './.Trash/a.md')).toThrow(
+      'Write not permitted: "./.Trash/a.md" is inside .trash/, which Seekstone reserves for write history and deleted notes.',
+    );
+    expect(() => assertWritable(PERMISSIVE_POLICY, join(ROOT, '.seekstone', 'x'), ROOT)).toThrow(
+      /is inside \.seekstone\//,
+    );
+    expect(() => assertWritable(PERMISSIVE_POLICY, 'notes/a.md', ROOT)).not.toThrow();
+  });
+
+  it('still resolves the path when the vault root itself mentions a reserved name', () => {
+    const root = resolve(tmpdir(), 'my.trash.vault');
+    expect(reservedFolder(join(root, 'notes', 'a.md'), root)).toBeUndefined();
+    expect(reservedFolder(join(root, '.Trash', 'a.md'), root)).toBe('.trash');
+  });
+
+  it('assertWritable exempts only the folder passed as allow', () => {
+    expect(() => assertWritable(PERMISSIVE_POLICY, '.Trash/a.md', ROOT, '.trash')).not.toThrow();
+    expect(() => assertWritable(PERMISSIVE_POLICY, '.seekstone/x', ROOT, '.trash')).toThrow(
+      /is inside \.seekstone\//,
+    );
+    expect(() => assertWritable({ readOnly: true }, '.trash/a.md', ROOT, '.trash')).toThrow(
+      /read-only/,
+    );
+  });
+});
 
 describe('parseWritePolicy', () => {
   it('defaults to writable everywhere', () => {

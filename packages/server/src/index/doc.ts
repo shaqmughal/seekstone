@@ -1,7 +1,9 @@
 import { basename, extname } from 'node:path';
-import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
+import { extractInlineTags, frontmatterAliases, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
+import type { BacklinkRef, ServerContext } from '../context.js';
+import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
 import type { IndexedNote } from './types.js';
 
 /** Build an IndexedNote from a vault-relative path and raw file content. */
@@ -26,15 +28,99 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
   };
 }
 
-/** Upsert a document into the context index. Discards any stale entry first. */
+/**
+ * Upsert a document into the context index. Discards any stale entry first.
+ * A note that comes back after removeDoc gets its parked inbound refs back.
+ */
 export function upsertDoc(
   ctx: {
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
+    backlinks?: Map<string, BacklinkRef[]>;
+    parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
 ): void {
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
+  else if (ctx.backlinks !== undefined)
+    unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
+}
+
+/** Drop a note from the index and park its inbound refs (see parkedBacklinks). */
+export function removeDoc(ctx: ServerContext, path: string): void {
+  // Clear the note's own outgoing refs while its entry is still readable.
+  removeNoteBacklinks(ctx, path);
+  if (!ctx.notes.has(path)) return;
+  ctx.index.discard(path);
+  ctx.notes.delete(path);
+  const inbound = ctx.backlinks.get(path);
+  if (inbound === undefined) return;
+  ctx.backlinks.delete(path);
+  if (inbound.length === 0) return;
+  ctx.parkedBacklinks ??= new Map();
+  ctx.parkedBacklinks.set(path, inbound);
+}
+
+function unparkBacklinks(
+  backlinks: Map<string, BacklinkRef[]>,
+  parked: Map<string, BacklinkRef[]> | undefined,
+  path: string,
+  notes: Map<string, IndexedNote>,
+): void {
+  const refs = parked?.get(path);
+  if (refs === undefined) return;
+  parked?.delete(path);
+  // A source deleted while this note was gone couldn't clear its ref.
+  const merged = refs.filter((r) => notes.has(r.path));
+  for (const r of backlinks.get(path) ?? []) {
+    if (!merged.some((m) => m.path === r.path)) merged.push(r);
+  }
+  merged.sort((a, b) => a.path.localeCompare(b.path));
+  if (merged.length > 0) backlinks.set(path, merged);
+}
+
+/**
+ * Bring a cached note up to date after a write tool rewrote it in place:
+ * size, mtime, tags, tasks and frontmatter are current when this returns.
+ * Search terms and newly added links are left to the watcher's re-index of
+ * the file. A dropped link can't be: the watcher removes refs using the
+ * cached raw, which no longer has it. So when the new content drops a link,
+ * this re-registers the note's refs now. Pass `keepsLinks` when the write
+ * can't remove a link (an append, a task toggle) to skip that check.
+ */
+export function refreshCachedNote(
+  ctx: ServerContext,
+  path: string,
+  raw: string,
+  opts: { keepsLinks?: boolean } = {},
+): void {
+  const cached = ctx.notes.get(path);
+  if (cached === undefined) return;
+  const next = buildDoc(path, raw);
+  // A changed alias can change where this note's own links resolve.
+  const relink =
+    opts.keepsLinks !== true &&
+    (dropsLinks(cached.raw, raw) || aliasKey(cached.fm) !== aliasKey(next.fm));
+  if (relink) removeNoteBacklinks(ctx, path);
+  Object.assign(cached, next);
+  if (relink) addNoteBacklinks(ctx, path, raw);
+}
+
+function aliasKey(fm: IndexedNote['fm']): string {
+  return frontmatterAliases(fm).join('\0');
+}
+
+/**
+ * upsertDoc for a write that replaces a note's whole content (create with
+ * overwrite). Clears the old content's refs first when the new content drops
+ * a link, for the same reason as refreshCachedNote.
+ */
+export function replaceDoc(ctx: ServerContext, path: string, raw: string): void {
+  const prev = ctx.notes.get(path);
+  const relink = prev !== undefined && dropsLinks(prev.raw, raw);
+  if (relink) removeNoteBacklinks(ctx, path);
+  upsertDoc(ctx, buildDoc(path, raw));
+  if (relink) addNoteBacklinks(ctx, path, raw);
 }

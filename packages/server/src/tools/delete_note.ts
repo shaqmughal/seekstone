@@ -3,7 +3,7 @@ import { basename, extname, join } from 'node:path';
 import { z } from 'zod';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
-import { removeNoteBacklinks } from '../index/backlinks.js';
+import { removeDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -57,7 +57,7 @@ export async function deleteNote(
   const input = DeleteNoteInput.parse(rawInput);
   // Policy applies to the note being deleted; the .trash/ destination is the
   // safety mechanism itself, not a user write.
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   // Read before deleting: ENOENT propagates for a missing note (same shape rm
@@ -81,12 +81,7 @@ export async function deleteNote(
     await rename(absPath, join(ctx.vaultRoot, trashedTo));
   }
 
-  // Clear the note's own outgoing refs while its entry is still readable.
-  removeNoteBacklinks(ctx, input.path);
-  if (ctx.notes.has(input.path)) {
-    ctx.index.discard(input.path);
-    ctx.notes.delete(input.path);
-  }
+  removeDoc(ctx, input.path);
 
   const result: DeleteNoteResult = {
     path: input.path,

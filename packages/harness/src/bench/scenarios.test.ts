@@ -229,6 +229,45 @@ describe('runScenarios', () => {
     });
   });
 
+  describe('statsQuery (SHA-290)', () => {
+    const statsTask = task({ searchQuery: undefined, readTopK: undefined, statsQuery: {} });
+    const listing = [{ path: 'a.md', isDirectory: false }];
+
+    it('uses one vault_stats call when the backend supports it', async () => {
+      const backend = multicallBackend({ vaultStats: async () => resp({ notes: 1 }) });
+      const t = (await runScenarios({ backend, taskSet: taskSet([statsTask], 1) })).tasks[0];
+      expect(t?.strategy).toBe('vault-stats');
+      expect(t?.steps.map((s) => [s.op, s.target])).toEqual([['vault_stats', '(vault)']]);
+      expect(t?.totalPayloadBytes).toBe(Buffer.byteLength('{"notes":1}'));
+    });
+
+    it('falls back to the vault listing plus list_tags, and only the listing without tags', async () => {
+      const listed: Array<string | undefined> = [];
+      const withTags = multicallBackend({
+        vaultStats: async () => resp({}),
+        listTags: async () => resp({ tags: [], total: 0 }),
+        list: async (folder?: string) => {
+          listed.push(folder);
+          return resp(listing);
+        },
+      });
+      const forced = await runScenarios({
+        backend: withTags,
+        taskSet: taskSet([statsTask], 1),
+        forceMulticall: true,
+      });
+      expect(forced.tasks[0]?.strategy).toBe('list-fallback');
+      expect(forced.tasks[0]?.steps.map((s) => s.op)).toEqual(['list', 'list_tags']);
+      expect(listed).toEqual([undefined]);
+
+      const bare = await runScenarios({
+        backend: multicallBackend({ list: async () => resp(listing) }),
+        taskSet: taskSet([statsTask], 1),
+      });
+      expect(bare.tasks[0]?.steps.map((s) => [s.op, s.target])).toEqual([['list', '(vault)']]);
+    });
+  });
+
   it('reports cold/warm latency with the RunStats split (cold = run 1)', async () => {
     const backend = multicallBackend();
     const summary = await runScenarios({ backend, taskSet: taskSet([task()], 4) });

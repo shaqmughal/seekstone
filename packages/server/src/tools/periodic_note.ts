@@ -1,12 +1,11 @@
 import { access, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
-import { extractTasks } from '@seekstone/core/tasks';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
-import { buildDoc, upsertDoc } from '../index/doc.js';
+import { buildDoc, refreshCachedNote, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable, isReadable } from '../policy.js';
 import { containVaultPath, resolveVaultPath } from '../vault-path.js';
@@ -187,7 +186,7 @@ export async function getPeriodicNote(
 
   // About to write: this "read" tool creates the note here, so the write
   // policy applies (dispatch also strips createIfMissing in read-only mode).
-  assertWritable(ctx.policy, path);
+  assertWritable(ctx.policy, path, ctx.vaultRoot);
 
   // Read template if configured.
   let body = '';
@@ -247,7 +246,7 @@ export async function appendPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  assertWritable(ctx.policy, path);
+  assertWritable(ctx.policy, path, ctx.vaultRoot);
   const abs = resolveVaultPath(ctx, path);
 
   let original = '';
@@ -291,12 +290,7 @@ export async function appendPeriodicNote(
   await journalWrite(ctx, 'append_periodic_note', path, original, newRaw);
   await atomicWrite(abs, newRaw);
 
-  const cached = ctx.notes.get(path);
-  if (cached) {
-    cached.body = newBody;
-    cached.raw = newRaw;
-    cached.tasks = extractTasks(newRaw);
-  }
+  refreshCachedNote(ctx, path, newRaw, { keepsLinks: true });
 
   return {
     path,
