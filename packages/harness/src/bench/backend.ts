@@ -70,6 +70,8 @@ export interface Backend {
     state?: string;
     limit?: number;
   }): Promise<BackendResponse<unknown>>;
+  /** vault_stats — vault size and shape in one call (SHA-290). */
+  vaultStats?(): Promise<BackendResponse<unknown>>;
   /** context_pack — byte-budgeted one-call context assembly for a question. */
   contextPack?(query: string, budgetBytes?: number): Promise<BackendResponse<unknown>>;
   /** outline_note — heading tree + block anchors without body content. */

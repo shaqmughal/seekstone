@@ -26,6 +26,12 @@ export interface TaskDef {
    * exclusive with searchQuery/readTopK.
    */
   taskQuery?: { folder?: string; state?: string; limit?: number };
+  /**
+   * Vault-overview task (SHA-290): one vault_stats call for backends that
+   * support it, a root listing plus list_tags for backends that don't. Takes
+   * no options; mutually exclusive with every other query field.
+   */
+  statsQuery?: Record<string, never>;
   notes?: string;
 }
 
@@ -49,6 +55,16 @@ export async function loadTaskSet(path: string): Promise<TaskSet> {
   for (const t of parsed.tasks) {
     if (!t.id || !t.question) {
       throw new Error(`Task file ${path}: every task needs id and question.`);
+    }
+    if (t.statsQuery !== undefined) {
+      const q: unknown = t.statsQuery;
+      if (typeof q !== 'object' || q === null || Array.isArray(q) || Object.keys(q).length > 0) {
+        throw new Error(`Task ${t.id}: statsQuery takes no options; use {}.`);
+      }
+      if (t.searchQuery !== undefined || t.readTopK !== undefined || t.taskQuery) {
+        throw new Error(`Task ${t.id}: statsQuery is mutually exclusive with the other queries.`);
+      }
+      continue;
     }
     if (t.taskQuery) {
       if (t.searchQuery !== undefined || t.readTopK !== undefined) {
