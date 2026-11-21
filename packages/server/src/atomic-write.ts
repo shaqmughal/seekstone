@@ -1,20 +1,42 @@
-import { rename, rm, writeFile } from 'node:fs/promises';
+import { type FileHandle, open, rename, rm } from 'node:fs/promises';
+
+/** Test seams for `atomicWrite`. Production callers pass nothing. */
+export interface AtomicWriteDeps {
+  openFn?: (path: string, flags: string) => Promise<FileHandle>;
+  renameFn?: RenameRetryDeps['renameFn'];
+}
 
 /**
- * Crash-safe file write: write to a same-directory temp file, then rename
- * over the destination. A crash mid-write leaves either the old content or
- * the new content on disk — never a torn file. rename-over-existing works on
- * the full CI OS matrix (proven by patch_note's original implementation).
+ * Crash-safe file write: write a same-directory temp file, fsync it, close
+ * it, then rename it over the destination (the same shape as the journal's
+ * `writeDurable`). The fsync means the new data is on disk before the rename
+ * can be, so a crash or power loss leaves the old content or the new content,
+ * never an empty or partial note (SHA-561).
+ *
+ * Not guaranteed: the rename itself surviving a power loss. The directory is
+ * not fsynced, so after a crash the note may still hold its old content. A
+ * directory fsync costs real time on some file systems and is left out on
+ * purpose. rename-over-existing works on the full CI OS matrix.
  *
  * Not a lock: two seekstone processes writing the same note share this temp
  * suffix and can race each other — same exposure as any two writers on one
  * file. CAS (content-hash.ts) is the conflict-detection layer above this.
  */
-export async function atomicWrite(absPath: string, content: string): Promise<void> {
+export async function atomicWrite(
+  absPath: string,
+  content: string,
+  { openFn = open, renameFn }: AtomicWriteDeps = {},
+): Promise<void> {
   const tmpPath = `${absPath}.seekstone-tmp`;
-  await writeFile(tmpPath, content, 'utf8');
   try {
-    await renameWithRetry(tmpPath, absPath);
+    const fh = await openFn(tmpPath, 'w');
+    try {
+      await fh.writeFile(content, 'utf8');
+      await fh.sync();
+    } finally {
+      await fh.close();
+    }
+    await renameWithRetry(tmpPath, absPath, { renameFn });
   } catch (err) {
     // Don't leave the temp file in the vault when the write finally fails.
     await rm(tmpPath, { force: true }).catch(() => {});
