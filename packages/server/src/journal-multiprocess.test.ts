@@ -344,6 +344,20 @@ describe('Journal lock', () => {
     expect((await readdir(hist())).sort()).toEqual(['blobs', 'manifest.jsonl']);
   }, 15_000);
 
+  it('clears a chain of 70 abandoned claims, past any fixed depth', async () => {
+    const j = await Journal.open(vault, BIG);
+    await plantLock(token({ pid: dead }));
+    let target = lock();
+    for (let i = 0; i < 70; i++) {
+      const { key } = inspectLock(target) as LockSnapshot;
+      target = `${lock()}.${key}.claim`;
+      await writeFile(target, token({ pid: dead, id: `claim${i}` }));
+    }
+    await write(j, 't', 'v1', 'v2');
+    expect(j.list().total).toBe(1);
+    expect((await readdir(hist())).sort()).toEqual(['blobs', 'manifest.jsonl']);
+  }, 15_000);
+
   it('fails the commit, not hangs, when the lock cannot be created at all', async () => {
     const j = await Journal.open(vault, BIG);
     await rm(hist(), { recursive: true });

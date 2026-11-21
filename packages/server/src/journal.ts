@@ -116,8 +116,6 @@ function newToken(): string {
 }
 /** Lock and claim files this process created and then gave up on (by exact identity). */
 const abandoned = new Set<string>();
-/** How many nested abandoned claims one attempt will walk before waiting. */
-const MAX_CLAIM_CHAIN = 64;
 
 /**
  * Read the journal settings from env. Returns undefined when the journal is
@@ -810,8 +808,14 @@ export function removeIfUnchanged(path: string, seen: LockSnapshot, cleanUp = tr
   const base = path.replace(/(\.[0-9a-f]{32}\.claim)+$/, '');
   let target = path;
   let snap = seen;
-  for (let i = 0; i < MAX_CLAIM_CHAIN; i++) {
+  // No fixed depth: a chain only gets longer when a process dies or gives up
+  // mid-claim, and each step is a different file on disk. The visited set
+  // keeps the walk finite even if names ever repeated.
+  const visited = new Set<string>();
+  for (;;) {
     const claim = `${base}.${snap.key}.claim`;
+    if (visited.has(claim)) return false;
+    visited.add(claim);
     if (tryCreate(claim, newToken(), cleanUp)) {
       try {
         const now = inspectLock(target);
@@ -827,7 +831,6 @@ export function removeIfUnchanged(path: string, seen: LockSnapshot, cleanUp = tr
     target = claim;
     snap = held;
   }
-  return false;
 }
 
 function pidAlive(pid: number): boolean {
