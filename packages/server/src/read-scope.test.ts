@@ -345,8 +345,16 @@ describe('read scope: index and watcher', () => {
       await put('journal/late.png', SENTINEL);
       await put('notes/late.png', 'png');
       const deadline = Date.now() + 10_000;
+      let ticks = 0;
       while (!ctx.attachments.byPath.has('notes/late.png') || !seen.includes('journal/late.png')) {
         if (Date.now() > deadline) throw new Error('watcher timeout');
+        ticks += 1;
+        // Polling rescans a directory only when it changes, so a fresh file in
+        // each one every ~2 s makes chokidar pick up a create it missed.
+        if (ticks % 80 === 0) {
+          await put(`journal/nudge-${ticks}.tmp`, '');
+          await put(`notes/nudge-${ticks}.tmp`, '');
+        }
         await new Promise((r) => setTimeout(r, 25));
       }
       expect(ctx.attachments.byPath.has('journal/late.png')).toBe(false);

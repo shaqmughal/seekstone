@@ -30,6 +30,8 @@ export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResu
   if (note === undefined) throw new Error(`Note not found: ${input.path}`);
 
   const rawLinks = extractLinksWithLines(note.raw);
+  // No links, nothing to resolve: skip the pass over every note.
+  if (rawLinks.length === 0) return { path: input.path, links: [] };
 
   // De-duplicate: one entry per (target string) — keep first occurrence by line
   const seen = new Set<string>();
