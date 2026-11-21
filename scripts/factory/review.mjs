@@ -134,7 +134,7 @@ export function checkReviewed(checkRuns) {
  * Where CodeRabbit stands on `headSha`. `reviewed` once it has reviewed the
  * head (checkReviewed). `changesRequested` from its latest approving or
  * blocking review. `open` counts threads, summary findings and comments
- * outside the diff.
+ * outside the diff in its latest review.
  */
 export function reviewStatus({ reviews, threads, comments, checkRuns, headSha }) {
   const mine = reviews.filter((r) => isCodeRabbit(r.author?.login));
@@ -143,8 +143,12 @@ export function reviewStatus({ reviews, threads, comments, checkRuns, headSha })
   return {
     reviewed,
     changesRequested: verdict?.state === 'CHANGES_REQUESTED',
+    // Comments outside the diff have no thread to resolve, so only the
+    // latest review's count: an older review's list would never clear.
     open:
-      openThreads(threads).length + summaryFindings(comments).length + outsideDiff(reviews).length,
+      openThreads(threads).length +
+      summaryFindings(comments).length +
+      outsideDiff(mine.slice(-1)).length,
   };
 }
 

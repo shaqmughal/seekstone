@@ -129,6 +129,8 @@ describe('reviewStatus', () => {
     expect(s).toEqual({ reviewed: true, changesRequested: true, open: 2 });
     const outside = reviewStatus({ ...base, reviews: [{ ...review('COMMENTED'), body: REVIEW }] });
     expect(outside.open).toBe(1);
+    const later = [{ ...review('COMMENTED', 'old'), body: REVIEW }, review('APPROVED')];
+    expect(reviewStatus({ ...base, reviews: later }).open).toBe(0);
     reviews.push(review('APPROVED'));
     expect(reviewStatus({ ...base, reviews }).changesRequested).toBe(false);
   });
