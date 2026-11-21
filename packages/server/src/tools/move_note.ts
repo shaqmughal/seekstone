@@ -89,9 +89,10 @@ export async function moveNote(
   // The moved note's own outgoing links are untouched by design — wikilinks
   // are path-independent, and rewriting its relative markdown links is a
   // separate concern from "don't orphan the note in the graph".
+  const linkers = [...(ctx.backlinks.get(input.from) ?? [])];
   const candidates = new Set<string>();
   if (input.rewriteLinks) {
-    for (const ref of ctx.backlinks.get(input.from) ?? []) candidates.add(ref.path);
+    for (const ref of linkers) candidates.add(ref.path);
     for (const [path, doc] of preNotes) {
       if (path === input.from || candidates.has(path)) continue;
       if (hasMarkdownLinkTo(doc.raw, path, input.from)) candidates.add(path);
@@ -148,6 +149,8 @@ export async function moveNote(
     ctx.index.discard(input.from);
     ctx.notes.delete(input.from);
   }
+  // With overwrite, the replaced note's outgoing refs go with it.
+  removeNoteBacklinks(ctx, input.to);
   upsertDoc(ctx, buildDoc(input.to, raw));
   addNoteBacklinks(ctx, input.to, raw);
 
@@ -170,6 +173,17 @@ export async function moveNote(
     } else {
       addNoteBacklinks(ctx, path, doc.raw);
     }
+  }
+
+  // Notes that linked to the old path but weren't rewritten (rewriteLinks:
+  // false, or outside the write scope) may still resolve to the new path, by
+  // basename for example. Re-register them before dropping the old key.
+  const rewritten = new Set(rewrites.map((r) => r.path));
+  for (const ref of linkers) {
+    const doc = ctx.notes.get(ref.path);
+    if (doc === undefined || rewritten.has(ref.path)) continue;
+    removeNoteBacklinks(ctx, ref.path);
+    addNoteBacklinks(ctx, ref.path, doc.raw);
   }
 
   // Nothing resolves to the old path anymore — drop the stale key.

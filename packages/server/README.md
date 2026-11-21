@@ -118,7 +118,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
 | `list_tasks` | List Markdown checkbox tasks as compact structured rows (path, line, state, text, nearest heading) — vault-wide or filtered by note, folder, tag, state, or modified time. Custom markers (`- [/]`, `- [-]`, …) are first-class single-char states. |
-| `vault_stats` | How big the vault is and what's in it, in one call under 1 KB: counts of notes, folders, tags and resolved links, total/median/largest note size, and how many notes changed in the last 1, 7 and 30 days. To see *which* notes changed, follow up with `query_notes` and `modifiedAfter`. |
+| `vault_stats` | How big the vault is and what's in it, in one call (230 bytes on the 10k-note benchmark vault): counts of notes, folders, tags and resolved links, total/median/largest note size, and how many notes changed in the last 1, 7 and 30 days. To see *which* notes changed, follow up with `query_notes` and `modifiedAfter`. |
 | `outline_note` | Return a note's heading and block structure without its full content. |
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |

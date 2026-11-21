@@ -45,3 +45,16 @@ export function addNoteBacklinks(ctx: ServerContext, relPath: string, raw: strin
     arr.sort((a, b) => a.path.localeCompare(b.path));
   }
 }
+
+/**
+ * True when `next` has lost a link target that `prev` had. The watcher's
+ * re-index removes a note's refs by reading the cached raw, so a write that
+ * replaces the cached raw and drops a link must clear that ref itself, or
+ * nothing ever will.
+ */
+export function dropsLinks(prev: string, next: string): boolean {
+  const before = extractLinksWithLines(prev);
+  if (before.length === 0) return false;
+  const kept = new Set(extractLinksWithLines(next).map((l) => l.target));
+  return before.some((l) => !kept.has(l.target));
+}
