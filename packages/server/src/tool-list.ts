@@ -343,6 +343,13 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'vault_stats',
+    annotations: READ_ONLY_ANNOTATIONS,
+    description:
+      'Vault size and shape: note, folder, tag and link counts, total/median/largest note bytes, notes modified in the last 1/7/30 days. Call first to pick between reading and searching.',
+    inputSchema: { type: 'object', properties: {}, required: [] },
+  },
+  {
     name: 'create_note',
     annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:

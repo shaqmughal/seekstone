@@ -34,6 +34,7 @@ import { ResolveNoteInput } from './tools/resolve_note.js';
 import { SearchInput } from './tools/search.js';
 import { UndoWriteInput } from './tools/undo_write.js';
 import { UpdateTaskInput } from './tools/update_task.js';
+import { VaultStatsInput } from './tools/vault_stats.js';
 
 /** Tool name → the zod schema its dispatch case parses with. */
 const ZOD_INPUTS: Record<string, z.ZodType> = {
@@ -62,6 +63,7 @@ const ZOD_INPUTS: Record<string, z.ZodType> = {
   list_writes: ListWritesInput,
   undo_write: UndoWriteInput,
   update_task: UpdateTaskInput,
+  vault_stats: VaultStatsInput,
 };
 
 type JsonSchema = {

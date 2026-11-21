@@ -30,6 +30,7 @@ import { ResolveNoteInput, resolveNote } from './tools/resolve_note.js';
 import { SearchInput, search } from './tools/search.js';
 import { UndoWriteInput, undoWrite } from './tools/undo_write.js';
 import { UpdateTaskInput, updateTask } from './tools/update_task.js';
+import { VaultStatsInput, vaultStats } from './tools/vault_stats.js';
 
 export type ToolResult = {
   content: { type: 'text'; text: string }[];
@@ -52,6 +53,7 @@ export const HANDLED_TOOLS = [
   'list_notes',
   'list_tags',
   'list_tasks',
+  'vault_stats',
   'create_note',
   'delete_note',
   'move_note',
@@ -340,6 +342,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const result = listTasks(ctx, input);
       // Minified: one compact row per task is the tool's whole point.
       return { content: [{ type: 'text', text: JSON.stringify(result) }] };
+    }
+    case 'vault_stats': {
+      // No-argument tool: a client may omit `arguments` entirely.
+      VaultStatsInput.parse(args ?? {});
+      // Minified: a once-per-session orientation call should cost almost nothing.
+      return { content: [{ type: 'text', text: JSON.stringify(vaultStats(ctx)) }] };
     }
     case 'create_note': {
       const input = CreateNoteInput.parse(args);

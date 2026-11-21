@@ -82,6 +82,7 @@ function probes(target: string): Array<[string, Record<string, unknown>]> {
     ['list_notes', {}],
     ['list_tags', {}],
     ['list_tasks', {}],
+    ['vault_stats', {}],
     ['outline_note', { path: target }],
     ['get_backlinks', { path: 'notes/visible.md' }],
     ['get_backlinks', { path: target }],
@@ -138,7 +139,7 @@ describe('read scope: nothing hidden crosses the tool boundary', () => {
 
   it('listings never name the hidden folder', async () => {
     const ctx = await ctxFor(parseWritePolicy({ SEEKSTONE_READ_PATHS: SCOPE }));
-    for (const tool of ['list_notes', 'list_tags', 'list_tasks', 'query_notes']) {
+    for (const tool of ['list_notes', 'list_tags', 'list_tasks', 'query_notes', 'vault_stats']) {
       expect((await call(ctx, tool, {})).text).not.toContain('journal/');
     }
     expect((await call(ctx, 'get_backlinks', { path: 'notes/visible.md' })).text).not.toContain(
