@@ -20,6 +20,7 @@ import { Journal } from '../journal.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from '../tools/append_note.js';
 import { getBacklinks } from '../tools/get_backlinks.js';
+import { getLinks } from '../tools/get_links.js';
 import { readNote } from '../tools/read_note.js';
 import { search } from '../tools/search.js';
 import { vaultStats } from '../tools/vault_stats.js';
@@ -27,6 +28,8 @@ import { vaultStats } from '../tools/vault_stats.js';
 const FIXTURE = resolve(import.meta.dirname, '../../../harness/fixtures/vault-1k');
 // The most-linked note in the fixture (269 inbound links).
 const HUB = 'Encyclopedia/K/Kalinjar.md';
+// A note with 30 wikilinks: get_links resolves each one (SHA-553).
+const LINKY = 'MOCs/biography MOC.md';
 
 // Under CodSpeed's CPU simulation everything runs far slower than native,
 // including setup (copying 1k notes, building the index). Generous limits
@@ -120,6 +123,14 @@ describe('links', () => {
         resolveLink('Kalinjar', ctx.notes, maps);
       }),
     );
+  });
+});
+
+describe('outlinks', () => {
+  test('get_links', async ({ bench }) => {
+    await bench('get_links (30-link note)', () => {
+      getLinks(ctx, { path: LINKY });
+    }).run();
   });
 });
 

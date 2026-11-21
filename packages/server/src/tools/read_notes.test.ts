@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { readNote } from './read_note.js';
@@ -33,7 +34,14 @@ let ctx: ServerContext;
 beforeAll(async () => {
   vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-read-notes-'));
   const index = new MiniSearch<IndexedNote>({ idField: 'id', fields: ['title', 'body'] });
-  ctx = { vaultRoot, index, notes: new Map(), backlinks: new Map(), policy: PERMISSIVE_POLICY };
+  ctx = {
+    vaultRoot,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
+    policy: PERMISSIVE_POLICY,
+  };
   await writeFile(join(vaultRoot, 'note.md'), NOTE, 'utf8');
   await writeFile(join(vaultRoot, 'hello.md'), '# Hello\n\nSome content here.\n', 'utf8');
   await writeFile(join(vaultRoot, 'big-a.md'), 'a'.repeat(1000), 'utf8');

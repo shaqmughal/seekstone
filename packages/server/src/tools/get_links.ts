@@ -2,7 +2,7 @@ import type { LinkType } from '@seekstone/core/extract';
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
-import { resolveLink } from '../index/resolve.js';
+import { buildResolveMaps, resolveAttachment, resolveLink } from '../index/resolve.js';
 import { containVaultPath } from '../vault-path.js';
 
 export const GetLinksInput = z.object({
@@ -30,14 +30,19 @@ export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResu
   if (note === undefined) throw new Error(`Note not found: ${input.path}`);
 
   const rawLinks = extractLinksWithLines(note.raw);
+  // No links, nothing to resolve: skip the pass over every note.
+  if (rawLinks.length === 0) return { path: input.path, links: [] };
 
   // De-duplicate: one entry per (target string) — keep first occurrence by line
   const seen = new Set<string>();
   const links: GetLinksEntry[] = [];
+  // Built once per call: resolveLink without maps rebuilds them per link.
+  const maps = buildResolveMaps(ctx.notes);
   for (const link of rawLinks) {
     if (seen.has(link.target)) continue;
     seen.add(link.target);
-    const resolvedPath = resolveLink(link.target, ctx.notes);
+    const resolvedPath =
+      resolveLink(link.target, ctx.notes, maps) ?? resolveAttachment(link.target, ctx.attachments);
     const entry: GetLinksEntry = {
       raw: link.raw,
       resolved: resolvedPath !== undefined,

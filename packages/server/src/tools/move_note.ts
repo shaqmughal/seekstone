@@ -6,6 +6,7 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { buildResolveMaps } from '../index/resolve.js';
 import { assertWritable, isWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
@@ -52,8 +53,10 @@ export async function moveNote(
   // Parse here (not only in dispatch) so defaults like rewriteLinks apply to
   // direct callers too — same pattern as periodic_note.
   const input = MoveNoteInput.parse(rawInput);
-  assertWritable(ctx.policy, input.from);
-  assertWritable(ctx.policy, input.to);
+  // A source in .trash/ is a restore of a deleted note, so it is allowed; the
+  // destination may not be in .trash/ and neither end may be in .seekstone/.
+  assertWritable(ctx.policy, input.from, ctx.vaultRoot, '.trash');
+  assertWritable(ctx.policy, input.to, ctx.vaultRoot);
   const absFrom = resolveVaultPath(ctx, input.from);
   const absTo = resolveVaultPath(ctx, input.to);
 
@@ -89,9 +92,10 @@ export async function moveNote(
   // The moved note's own outgoing links are untouched by design — wikilinks
   // are path-independent, and rewriting its relative markdown links is a
   // separate concern from "don't orphan the note in the graph".
+  const linkers = [...(ctx.backlinks.get(input.from) ?? [])];
   const candidates = new Set<string>();
   if (input.rewriteLinks) {
-    for (const ref of ctx.backlinks.get(input.from) ?? []) candidates.add(ref.path);
+    for (const ref of linkers) candidates.add(ref.path);
     for (const [path, doc] of preNotes) {
       if (path === input.from || candidates.has(path)) continue;
       if (hasMarkdownLinkTo(doc.raw, path, input.from)) candidates.add(path);
@@ -148,8 +152,14 @@ export async function moveNote(
     ctx.index.discard(input.from);
     ctx.notes.delete(input.from);
   }
+  // With overwrite, the replaced note's outgoing refs go with it.
+  removeNoteBacklinks(ctx, input.to);
   upsertDoc(ctx, buildDoc(input.to, raw));
   addNoteBacklinks(ctx, input.to, raw);
+
+  // One resolution snapshot for both loops below: they change note content
+  // but never which paths exist or their aliases.
+  const maps = rewrites.length + linkers.length > 0 ? buildResolveMaps(ctx.notes) : undefined;
 
   let notesRewritten = 0;
   let linksRewritten = 0;
@@ -160,16 +170,27 @@ export async function moveNote(
     // Re-register this note's backlinks against post-move resolution even
     // when nothing was rewritten (basename links now resolve to the new
     // path); remove reads the old raw, so call it before updating the entry.
-    removeNoteBacklinks(ctx, path);
+    removeNoteBacklinks(ctx, path, maps);
     if (count > 0) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
       upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;
       linksRewritten += count;
-      addNoteBacklinks(ctx, path, content);
+      addNoteBacklinks(ctx, path, content, maps);
     } else {
-      addNoteBacklinks(ctx, path, doc.raw);
+      addNoteBacklinks(ctx, path, doc.raw, maps);
     }
+  }
+
+  // Notes that linked to the old path but weren't rewritten (rewriteLinks:
+  // false, or outside the write scope) may still resolve to the new path, by
+  // basename for example. Re-register them before dropping the old key.
+  const rewritten = new Set(rewrites.map((r) => r.path));
+  for (const ref of linkers) {
+    const doc = ctx.notes.get(ref.path);
+    if (doc === undefined || rewritten.has(ref.path)) continue;
+    removeNoteBacklinks(ctx, ref.path, maps);
+    addNoteBacklinks(ctx, ref.path, doc.raw, maps);
   }
 
   // Nothing resolves to the old path anymore — drop the stale key.
