@@ -89,10 +89,13 @@ if (policy.writeGlobs) log.info('write paths scoped', { globs: policy.writeGlobs
 if (policy.readGlobs) log.info('read paths scoped', { globs: policy.readGlobs });
 
 log.info('building index', { vault: vaultRoot });
-const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot, readScopeWalk(policy));
+const { index, notes, backlinks, attachments, buildMs } = await buildIndex(
+  vaultRoot,
+  readScopeWalk(policy),
+);
 log.info('index ready', { notes: notes.size, buildMs });
 
-const ctx: ServerContext = { vaultRoot, index, notes, backlinks, policy };
+const ctx: ServerContext = { vaultRoot, index, notes, backlinks, attachments, policy };
 
 // Write journal: pre-images under <vault>/.seekstone/history so every write
 // is reversible via undo_write. Read-only mode never writes, so it never

@@ -45,6 +45,8 @@ async function expectInSync(): Promise<void> {
   const fresh = await cold();
   expect(vaultStats(ctx)).toEqual(vaultStats(fresh));
   expect(linkSets(ctx)).toEqual(linkSets(fresh));
+  // Writes only touch notes, so the attachment index must be left as it was.
+  expect(ctx.attachments).toEqual(fresh.attachments);
 }
 
 beforeEach(async () => {
@@ -59,6 +61,7 @@ beforeEach(async () => {
     '---\ntags: [work]\nrel: "[[Gamma]]"\n---\n- [ ] ship it\n',
   );
   await writeFile(join(root, 'Gamma.md'), '# Gamma\n\n[[Home]]\n');
+  await writeFile(join(root, 'A/diagram.png'), 'png');
   ctx = await cold();
   ctx.journal = await Journal.open(root, { maxBytes: 1e9, maxEntries: 1e6 });
 });

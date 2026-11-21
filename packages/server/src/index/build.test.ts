@@ -202,6 +202,22 @@ describe('buildIndex', () => {
       await rm(aliasVault, { recursive: true, force: true });
     }
   });
+
+  it('indexes attachments, leaving out files in dot-folders and dotfiles (SHA-553)', async () => {
+    const vault = await mkdtemp(join(tmpdir(), 'seekstone-build-att-'));
+    try {
+      await mkdir(join(vault, 'img'));
+      await mkdir(join(vault, '.assets'));
+      await writeFile(join(vault, 'img', 'Logo.png'), 'png', 'utf8');
+      await writeFile(join(vault, '.assets', 'hidden.png'), 'png', 'utf8');
+      await writeFile(join(vault, 'img', '.cover.png'), 'png', 'utf8');
+      await writeFile(join(vault, 'n.md'), '# N\n', 'utf8');
+      const { attachments } = await buildIndex(vault);
+      expect([...attachments.byPath.values()].flat()).toEqual(['img/Logo.png']);
+    } finally {
+      await rm(vault, { recursive: true, force: true });
+    }
+  });
 });
 
 describe('indexNotes (SHA-532)', () => {

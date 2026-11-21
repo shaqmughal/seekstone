@@ -15,8 +15,31 @@ The `main protection (SHA-516)` ruleset blocks a merge until these pass, on a br
 | `quality rules` | `quality.yml` | No weakened tests; for `factory` PRs, the scope lock and size limit (see [Quality rules](#quality-rules)). |
 | `flaky check (ubuntu-latest)`, `(macos-latest)`, `(windows-latest)` | `quality.yml` | Every test file the PR adds or changes passes 10 runs in a row on each OS. |
 | `failing test first` | `quality.yml` | Runs only on PRs labelled both `factory` and `bug`; otherwise it is skipped, which counts as passing. |
+| `review gate` | `review-gate.yml` | CodeRabbit has approved the code that would merge (see [The review gate](#the-review-gate)). |
 
-No approving review is required by the ruleset. The maintainer's merge is the review.
+The ruleset also requires every review thread to be resolved before a merge. It doesn't require an approving review from a person; the maintainer's merge is that review.
+
+Until the ruleset is updated (SHA-569), `review gate` runs on every PR but is not yet required, and unresolved threads don't block. The update adds `review gate` to the required checks and turns on `required_review_thread_resolution`, once the gate has passed on a real PR.
+
+### The review gate
+
+CodeRabbit's own `CodeRabbit` check reports success whenever a review finishes, whatever it found, so it can't block anything. With `auto_approvals` on in `.coderabbit.yaml`, CodeRabbit requests changes while any actionable finding is open and approves once its threads are resolved, the latest commit has been reviewed and its pre-merge checks pass. `review gate` turns that approval into a required check. `scripts/review-gate.mjs` holds the logic and passes a PR when:
+
+- CodeRabbit's latest review is an approval of the head commit. Its plain comment reviews don't count either way; a later request for changes or a dismissed approval does.
+- CodeRabbit approved an earlier commit and every commit since is a clean merge of the base branch. This is the case after `pr-autoupdate.yml` merges `main` into an approved PR: CodeRabbit skips that merge commit, so its approval stays on the older one. The gate checks it with git. Following first parents from the head back to the approved commit, each commit must be a merge whose second parent is already on the base branch, and its tree must equal what `git merge-tree` produces for the same two parents. A merge that resolved a conflict or carries any other edit fails that test, and the PR needs a fresh review.
+- The PR is a draft. A draft can't merge, and the gate runs again when it is marked ready. This keeps the factory's draft step working: CodeRabbit reviews drafts now, so its findings are usually in by the time the PR is ready.
+- The PR is the changesets release PR: branch `changeset-release/main` in this repo, opened by the `seekstone-release-bot` app.
+- A maintainer added the `review:override` label. The check output says the gate was overridden and who added the label. Use it when CodeRabbit is down or rate limited, or when a finding is wrong and you'd rather not argue it in the thread.
+
+The gate runs when a PR is opened, pushed to, reopened, marked ready or labelled, and when a review is submitted or dismissed. Reviews from CodeRabbit, a GitHub App, start it. It only reads, so it works on fork PRs, whose token is read-only. It runs the script from the base commit, so a PR that edits the script is still judged by the version on `main`. A PR can still change `review-gate.yml` itself, because GitHub runs a PR's own copy of its workflows. That is true of every required check here, so only maintainers merge, and CodeRabbit's rules for `.github/workflows/` flag such edits.
+
+When the gate fails on a PR you expect to pass:
+
+- **Findings are open.** Fix them or answer in the thread, and resolve each thread. CodeRabbit approves when nothing blocking is left.
+- **No review of the latest commit.** Comment `@coderabbitai review`. CodeRabbit sometimes skips a commit, and it doesn't review while it's rate limited.
+- **Overriding.** Add `review:override`. Remove it again if you change your mind; the gate reruns either way. CodeRabbit's `@coderabbitai approve` command doesn't work for a PR's own author (`allow_author_approval: false`).
+
+`pr-autoupdate.yml` also reruns when the review gate finishes, so a PR it skipped for a failing gate goes back in line once CodeRabbit approves.
 
 ### Merging several PRs: auto-merge and the update queue
 
@@ -78,7 +101,7 @@ Two checks cover speed: one on every PR and one weekly on real hardware.
 
 ## Review and supply chain
 
-- **CodeRabbit** reviews every non-draft PR against `main`. Its rules are in `.coderabbit.yaml`, and it also reads `CLAUDE.md`, `AGENTS.md` and `CONTRIBUTING.md`. Its comments are advice; a maintainer decides. It never pushes commits.
+- **CodeRabbit** reviews every PR against `main`, drafts included, with the `assertive` profile. Its rules are in `.coderabbit.yaml`, and it also reads `CLAUDE.md`, `AGENTS.md`, `CONTRIBUTING.md`, `docs/WRITE-SAFETY.md` and this page. Its approval is required through the [review gate](#the-review-gate), and its pre-merge checks (conventional-commit title, a linked Linear ticket, write safety and the tool admission bar) must pass before it approves. A maintainer can waive a failing pre-merge check or override the gate. It never pushes commits.
 - **Harden-Runner** is the first step of every job in every workflow, in audit mode: it records outbound network calls but doesn't block them yet (SHA-517).
 - **Pinned actions.** Every action is pinned to a commit SHA, and `check-action-inputs.mjs` checks the inputs against the pinned version.
 - **Scorecard** (`scorecard.yml`) runs weekly, on pushes to `main` and on branch protection changes.
@@ -114,7 +137,7 @@ The model comes from the ticket's Linear labels: `factory:opus` always gets Opus
 
 ### Draft PRs
 
-`factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch. Once every required check has passed on the head commit, it marks the PR ready for review. Until then it waits. Skipped and neutral results count as passing. Ready for review is also what moves the ticket to In Review and starts the CodeRabbit review.
+`factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch. Once every required check has passed on the head commit, it marks the PR ready for review. Until then it waits. Skipped and neutral results count as passing. Ready for review is also what moves the ticket to In Review. CodeRabbit reviews the draft as soon as it opens, and the review gate passes on a draft, so only the CI checks decide when it is marked ready.
 
 ### The CI-fix loop
 
