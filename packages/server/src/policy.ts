@@ -144,7 +144,8 @@ export type ReservedFolder = (typeof RESERVED_FOLDERS)[number];
  * counts. With `vaultRoot`, absolute paths inside the vault are caught too.
  * The comparison ignores case, and trailing dots and spaces that Windows
  * drops from a folder name, because Windows and default macOS file systems
- * would put `.Trash./x` in the same folder as `.trash/x`.
+ * would put `.Trash./x` in the same folder as `.trash/x`. The check is on the
+ * path as written: it does not follow symlinks, the same as `containVaultPath`.
  */
 export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedFolder | undefined {
   // Every write goes through here. Normalizing can only drop segments, never
@@ -156,7 +157,12 @@ export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedF
     vaultRoot === undefined
       ? posix.normalize(inputPath.replaceAll('\\', '/'))
       : relative(vaultRoot, resolve(vaultRoot, inputPath));
-  const first = (rel.split(/[\\/]/, 1)[0] ?? '').toLowerCase().replace(/[. ]+$/, '');
+  // Drop an NTFS stream suffix too: on Windows `.trash::$INDEX_ALLOCATION`
+  // names the `.trash` directory itself.
+  const first = (rel.split(/[\\/]/, 1)[0] ?? '')
+    .replace(/:.*$/, '')
+    .toLowerCase()
+    .replace(/[. ]+$/, '');
   return RESERVED_FOLDERS.find((f) => f === first);
 }
 

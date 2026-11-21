@@ -135,6 +135,17 @@ describe('classifyError', () => {
         'Write not permitted: ".trash/a.md" is inside .trash/, which Seekstone reserves for write history and deleted notes.',
       ),
     ).toEqual({ outcome: 'policy_denied', policy: 'reserved_path', error: 'reserved_path' });
+    // The path is user text; a filename naming another policy must not win.
+    expect(
+      classifyError(
+        'Write not permitted: ".trash/SEEKSTONE_READ_PATHS.md" is inside .trash/, which Seekstone reserves for write history and deleted notes.',
+      ),
+    ).toEqual({ outcome: 'policy_denied', policy: 'reserved_path', error: 'reserved_path' });
+    expect(
+      classifyError(
+        'Write not permitted: "x/, which Seekstone reserves for write history and deleted notes..md" is outside SEEKSTONE_READ_PATHS (notes/**).',
+      ),
+    ).toEqual({ outcome: 'policy_denied', policy: 'read_paths', error: 'read_paths' });
     expect(classifyError('Note not found: a.md').error).toBe('not_found');
     expect(classifyError("ENOENT: no such file or directory, open '/v/a.md'").error).toBe(
       'not_found',

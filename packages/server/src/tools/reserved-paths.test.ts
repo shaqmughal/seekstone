@@ -1,6 +1,6 @@
 import { access, mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { AuditLog, type AuditRecord } from '../audit.js';
 import type { ServerContext } from '../context.js';
@@ -209,10 +209,14 @@ describe('move_note restores a note out of .trash/', () => {
     ['mixed case', '.Trash/Old.md'],
     ['dot-dot', 'notes/../.trash/Old.md'],
   ])('accepts a .trash/ source (%s) and journals the restore', async (_how, from) => {
+    // Put the note at the requested spelling: on a case-sensitive file system
+    // `.Trash/` is a different folder from `.trash/`, and it is reserved too.
+    await mkdir(dirname(join(vault, from)), { recursive: true });
+    await writeFile(join(vault, from), '# Old\n\n- [ ] task\n', 'utf8');
     const r = await dispatch(ctx, 'move_note', { from, to: 'Old.md' }, log);
     expect(r.isError, r.content[0]?.text).toBeFalsy();
     expect(await readFile(join(vault, 'Old.md'), 'utf8')).toBe('# Old\n\n- [ ] task\n');
-    await expect(access(join(vault, TRASHED))).rejects.toThrow();
+    await expect(access(join(vault, from))).rejects.toThrow();
     expect(ctx.notes.has('Old.md')).toBe(true);
     expect((await records()).map((rec) => [rec.tool, rec.outcome])).toEqual([['move_note', 'ok']]);
   });

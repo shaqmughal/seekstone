@@ -22,6 +22,8 @@ describe('reservedFolder (SHA-560)', () => {
     ['.TRASH\\a.md', '.trash'],
     ['.trash. /a.md', '.trash'],
     ['.seekstone', '.seekstone'],
+    ['.trash::$INDEX_ALLOCATION/a.md', '.trash'],
+    ['.Seekstone:stream/history/x', '.seekstone'],
     ['notes/.trash/a.md', undefined],
     ['.seekstone-notes/a.md', undefined],
     ['.trashcan/a.md', undefined],

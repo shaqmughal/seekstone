@@ -155,7 +155,10 @@ destination may not be in `.trash/`, and neither end may be in `.seekstone/`.
 `delete_note`'s own move into `.trash/` is internal and skips the check.
 `undo_write` refuses an entry that would write into either folder, which
 includes undoing a restore from `.trash/`. A refusal is audited as
-`policy_denied` with `policy: "reserved_path"`.
+`policy_denied` with `policy: "reserved_path"`. The check reads the path as
+written and does not follow symlinks, like `containVaultPath`: a
+symlink the user creates inside the vault that points into `.seekstone/` is
+not caught. No tool can create a symlink.
 
 `SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
 excludes, so `!Journal/**` means everything except `Journal/`). Hidden files
