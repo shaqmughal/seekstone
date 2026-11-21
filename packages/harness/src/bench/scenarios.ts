@@ -14,10 +14,24 @@ import { countTokens, timed } from './timer.js';
  * pays for search → read ×K → backlinks. The sum is the context tax per task.
  */
 
-export type ScenarioStrategy = 'context-pack' | 'search-read' | 'list-tasks' | 'folder-read';
+export type ScenarioStrategy =
+  | 'context-pack'
+  | 'search-read'
+  | 'list-tasks'
+  | 'folder-read'
+  | 'vault-stats'
+  | 'list-fallback';
 
 export interface TaskStep {
-  op: 'context_pack' | 'search' | 'read' | 'get_backlinks' | 'list_tasks' | 'list';
+  op:
+    | 'context_pack'
+    | 'search'
+    | 'read'
+    | 'get_backlinks'
+    | 'list_tasks'
+    | 'list'
+    | 'vault_stats'
+    | 'list_tags';
   /** Query string (context_pack/search), folder, or vault-relative note path. */
   target: string;
   payloadBytes: number;
@@ -65,13 +79,7 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
 
   const tasks: TaskResult[] = [];
   for (const task of taskSet.tasks) {
-    const strategy: ScenarioStrategy = task.taskQuery
-      ? !forceMulticall && backend.listTasks
-        ? 'list-tasks'
-        : 'folder-read'
-      : !forceMulticall && backend.contextPack
-        ? 'context-pack'
-        : 'search-read';
+    const strategy = pickStrategy(backend, task, forceMulticall);
 
     const durations: number[] = [];
     const byteTotals: number[] = [];
@@ -116,6 +124,17 @@ export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSumma
   };
 }
 
+/** The one-call tool when the backend has it (and the run isn't the ablation), else the fallback. */
+function pickStrategy(backend: Backend, task: TaskDef, forceMulticall: boolean): ScenarioStrategy {
+  if (task.statsQuery) {
+    return !forceMulticall && backend.vaultStats ? 'vault-stats' : 'list-fallback';
+  }
+  if (task.taskQuery) {
+    return !forceMulticall && backend.listTasks ? 'list-tasks' : 'folder-read';
+  }
+  return !forceMulticall && backend.contextPack ? 'context-pack' : 'search-read';
+}
+
 /**
  * folder-read reads at most this many notes — a month of daily notes, so a
  * month-scoped task-triage question is answered COMPLETELY by both paths and
@@ -139,6 +158,24 @@ async function executeTask(
     const q = task.taskQuery ?? {};
     const r = await listTasksFn(q);
     return [step('list_tasks', q.folder ?? '(vault)', r)];
+  }
+
+  if (strategy === 'vault-stats') {
+    const vaultStatsFn = backend.vaultStats?.bind(backend);
+    if (!vaultStatsFn) {
+      throw new Error(`Backend ${backend.name} has no vaultStats but strategy is vault-stats.`);
+    }
+    return [step('vault_stats', '(vault)', await vaultStatsFn())];
+  }
+
+  if (strategy === 'list-fallback') {
+    // Without vault_stats, the closest an agent gets is the vault listing
+    // (seekstone caps it at 500 rows) plus list_tags. It still has no sizes or
+    // recency and no total past the cap, so this understates the real cost.
+    const steps = [step('list', '(vault)', await backend.list())];
+    const listTagsFn = backend.listTags?.bind(backend);
+    if (listTagsFn) steps.push(step('list_tags', '(vault)', await listTagsFn()));
+    return steps;
   }
 
   if (strategy === 'folder-read') {
