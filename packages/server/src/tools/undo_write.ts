@@ -7,7 +7,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
-import { assertWritable, isReadable } from '../policy.js';
+import { assertWritable, isReadable, reservedFolder } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
@@ -158,7 +158,9 @@ export async function undoWrite(
     } else {
       await mkdir(dirname(abs), { recursive: true });
       await atomicWrite(abs, pre);
-      if (f.path.endsWith('.md')) {
+      // A note put back into .trash/ stays out of the index, as the walker
+      // and watcher leave it out.
+      if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
         removeNoteBacklinks(ctx, f.path);
         upsertDoc(ctx, buildDoc(f.path, pre));
         addNoteBacklinks(ctx, f.path, pre);

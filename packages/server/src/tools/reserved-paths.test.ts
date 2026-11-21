@@ -292,6 +292,11 @@ describe('move_note restores a note out of .trash/', () => {
     expect(undo1.isError, undo1.content[0]?.text).toBeFalsy();
     expect(await readFile(trashed, 'utf8')).toBe(original);
     await expect(access(join(vault, 'Alpha.md'))).rejects.toThrow();
+    // The trashed note stays out of the live index, like the walker leaves it.
+    expect([...ctx.notes.keys()].filter((p) => /trash/i.test(p))).toEqual([]);
+    expect(ctx.notes.has('Alpha.md')).toBe(false);
+    const sources = [...ctx.backlinks.values()].flat().map((ref) => ref.path);
+    expect(sources.filter((p) => /trash|^Alpha\.md$/i.test(p))).toEqual([]);
 
     // The next default undo walks back to the delete and restores the note.
     const undo2 = await dispatch(ctx, 'undo_write', {}, log);
