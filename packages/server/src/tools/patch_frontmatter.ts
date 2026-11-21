@@ -51,7 +51,7 @@ export async function patchFrontmatter(
   ctx: ServerContext,
   input: PatchFrontmatterInput,
 ): Promise<PatchFrontmatterResult> {
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   const original = await readFile(absPath, 'utf8');
