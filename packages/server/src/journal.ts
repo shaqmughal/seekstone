@@ -1,6 +1,17 @@
-import { timingSafeEqual } from 'node:crypto';
-import { closeSync, fsyncSync, openSync, statSync, unlinkSync, writeSync } from 'node:fs';
+import { randomBytes, timingSafeEqual } from 'node:crypto';
+import {
+  closeSync,
+  fstatSync,
+  fsyncSync,
+  openSync,
+  readdirSync,
+  readSync,
+  statSync,
+  unlinkSync,
+  writeSync,
+} from 'node:fs';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
+import { hostname } from 'node:os';
 import { join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
@@ -37,6 +48,7 @@ import { parseSize } from './log.js';
  *
  * Several server processes can share a vault. Every manifest change holds
  * `manifest.lock` and first reads what others appended; reads need no lock.
+ * The lock protocol is described above `withLock`.
  */
 
 export interface JournalFile {
@@ -81,9 +93,19 @@ const DEFAULT_MAX_ENTRIES = 1000;
 /** Vault-relative directory the journal lives in — excluded from indexing like `.trash/`. */
 export const HISTORY_DIR = '.seekstone/history';
 
-/** A lock older than this is taken over even when its owner pid looks alive. */
+/**
+ * A lock whose owner can't be checked (no body yet, or held from another
+ * host) is reclaimed once its file is this old. A live owner on this host
+ * keeps its lock however old it is.
+ */
 const LOCK_STALE_MS = 30_000;
+/** How long a commit waits for the lock before failing. */
+const LOCK_WAIT_MS = 2 * LOCK_STALE_MS;
 const LOCK_RETRY_MS = 5;
+const HOST = hostname();
+/** Lock tokens are `{pid, host, id, ts}`; `id` is unique per acquisition. */
+const TOKEN_HEAD = `{"pid":${process.pid},"host":${JSON.stringify(HOST)},"id":"${randomBytes(8).toString('hex')}-`;
+let tokenCount = 0;
 
 /**
  * Read the journal settings from env. Returns undefined when the journal is
@@ -115,12 +137,22 @@ async function writeDurable(dest: string, content: string): Promise<void> {
   await rename(tmp, dest);
 }
 
+/** `writeSync` may write fewer bytes than asked; loop until all of `data` is out. */
+function writeAll(fd: number, data: string): void {
+  const buf = Buffer.from(data, 'utf8');
+  for (let off = 0; off < buf.length; ) {
+    const n = writeSync(fd, buf, off, buf.length - off);
+    if (n <= 0) throw new Error('journal: write made no progress');
+    off += n;
+  }
+}
+
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
-function writeSmall(dest: string, flag: 'a' | 'wx', data: string, durable: boolean): void {
-  const fd = openSync(dest, flag);
+function appendDurable(dest: string, data: string): void {
+  const fd = openSync(dest, 'a');
   try {
-    writeSync(fd, data);
-    if (durable) fsyncSync(fd);
+    writeAll(fd, data);
+    fsyncSync(fd);
   } finally {
     closeSync(fd);
   }
@@ -194,7 +226,7 @@ export class Journal {
       }
     }
     const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
-    await journal.refresh();
+    await journal.enqueue(() => journal.load());
     // A torn last line from a crash: not listed; the next commit starts a new line.
     if (journal.tailBytes > 0) opts.log?.warn('journal: skipping malformed manifest line');
     return journal;
@@ -202,7 +234,22 @@ export class Journal {
 
   /** Read what other processes appended or compacted since we last looked. True if anything. */
   refresh(): Promise<boolean> {
-    return this.enqueue(() => this.load());
+    return this.enqueue(async () => {
+      if (!(await this.load())) return false;
+      // Another process committed, and may have evicted blobs we know of.
+      this.forgetMissingBlobs();
+      return true;
+    });
+  }
+
+  /** Drop cached blobs that are no longer on disk (evicted by another process). */
+  private forgetMissingBlobs(): void {
+    const onDisk = new Set(readdirSync(this.blobDir));
+    for (const [hash, size] of this.blobSizes) {
+      if (onDisk.has(hash)) continue;
+      this.blobSizes.delete(hash);
+      this.totalBytes -= size;
+    }
   }
 
   /** One (sync) stat when nothing changed. Only whole lines are read. */
@@ -360,9 +407,19 @@ export class Journal {
     return entry.files.every((f) => f.preHash === null || this.blobSizes.has(f.preHash));
   }
 
-  /** Read a stored pre-image by hash. Throws if evicted. */
+  /** Read a stored pre-image by hash. Throws (code ENOENT) if evicted. */
   async preimage(hash: string): Promise<string> {
-    const raw = await readFile(join(this.blobDir, hash), 'utf8');
+    let raw: string;
+    try {
+      raw = await readFile(join(this.blobDir, hash), 'utf8');
+    } catch (err) {
+      // Evicted by another process since we last looked: stop listing it as undoable.
+      if ((err as NodeJS.ErrnoException).code === 'ENOENT' && this.blobSizes.has(hash)) {
+        this.totalBytes -= this.blobSizes.get(hash) ?? 0;
+        this.blobSizes.delete(hash);
+      }
+      throw err;
+    }
     // Integrity check on the stored blob (not a secret comparison); the
     // constant-time compare is free and keeps static analysis quiet.
     const actual = Buffer.from(contentHash(raw), 'hex');
@@ -401,12 +458,20 @@ export class Journal {
     preimages: Map<string, string>,
     undoOf?: number,
   ): Promise<JournalEntry> {
-    const othersWrote = await this.load();
-    // A blob stored before the lock may have been evicted since (shared with
-    // an old entry). Others only evict while committing, which we'd have seen.
+    await this.load();
+    // A blob stored before the lock may have been evicted since by another
+    // process (shared with an old entry). Our cache can't tell: a refresh may
+    // have read that process's manifest line before it removed the blob. So
+    // check the disk, under the lock, where no eviction can be in progress.
     for (const [hash, content] of preimages) {
-      if (!othersWrote && this.blobSizes.has(hash)) continue;
-      if (statSync(join(this.blobDir, hash), { throwIfNoEntry: false })) continue;
+      const st = statSync(join(this.blobDir, hash), { throwIfNoEntry: false });
+      if (st) {
+        if (!this.blobSizes.has(hash)) {
+          this.blobSizes.set(hash, st.size);
+          this.totalBytes += st.size;
+        }
+        continue;
+      }
       this.totalBytes -= this.blobSizes.get(hash) ?? 0;
       this.blobSizes.delete(hash);
       await this.storeBlob(content);
@@ -415,7 +480,14 @@ export class Journal {
     if (undoOf !== undefined) entry.undoOf = undoOf;
     // After a torn line, start a fresh one so this entry parses.
     const line = `${this.tailBytes > 0 ? '\n' : ''}${JSON.stringify(entry)}\n`;
-    writeSmall(this.manifestPath, 'a', line, true);
+    try {
+      appendDurable(this.manifestPath, line);
+    } catch (err) {
+      // Part of the line, or all of it, may be on disk. Reread the manifest
+      // from the start next time instead of trusting our offsets.
+      this.manifestIno = -1;
+      throw err;
+    }
     this.manifestOffset += this.tailBytes + Buffer.byteLength(line, 'utf8');
     this.tailBytes = 0;
     this.nextSeq++;
@@ -424,38 +496,60 @@ export class Journal {
     return entry;
   }
 
+  /**
+   * The manifest lock. Acquire: create `manifest.lock` exclusively (O_EXCL)
+   * and write a token `{pid, host, id, ts}`; release: unlink it.
+   *
+   * A waiting process removes someone else's lock only when its owner is
+   * gone: a pid on this host that no longer runs. A live owner keeps the lock
+   * however long it pauses, so two processes never both think they hold it.
+   * Age decides only where liveness can't be checked: a lock with no token
+   * (its owner died between create and write) or one held from another host
+   * is reclaimed when its file is older than LOCK_STALE_MS.
+   *
+   * Removing a dead lock by path is racy on its own: two waiters can judge
+   * the same dead lock, and the slower one would delete the lock the faster
+   * one just took. So a waiter first creates a claim file, again with O_EXCL,
+   * named after that exact lock file (inode, mtime and body). Only one waiter
+   * can hold it. Holding the claim, it reads the lock again and unlinks it
+   * only if it is still the same file, then deletes the claim. Nothing can
+   * replace the file in between: its owner is dead, any other remover needs
+   * the same claim, and an exclusive create fails while the file exists. A
+   * claim left by a waiter that died is removed the same way, keyed by the
+   * claim file. Everything here is sync, which also suits Windows: there an
+   * unlinked file can linger briefly and creates fail with EPERM, which we
+   * treat like EEXIST.
+   */
   private async withLock<T>(fn: () => Promise<T>): Promise<T> {
     const ts = Date.now();
-    // Commits in one process are serialized, so pid + ts tells holders apart.
-    const token = `{"pid":${process.pid},"ts":${ts}}`;
-    const deadline = ts + 2 * LOCK_STALE_MS;
+    const token = `${TOKEN_HEAD}${++tokenCount}","ts":${ts}}`;
+    const deadline = ts + LOCK_WAIT_MS;
     for (;;) {
-      try {
-        writeSmall(this.lockPath, 'wx', token, false);
-        break;
-      } catch (err) {
-        const code = (err as NodeJS.ErrnoException).code;
-        // Windows reports EPERM while another process is deleting the lock.
-        if (code !== 'EEXIST' && !(code === 'EPERM' && process.platform === 'win32')) throw err;
+      if (tryCreate(this.lockPath, token)) break;
+      const seen = inspectLock(this.lockPath);
+      if (seen && ownerGone(seen)) {
+        this.log?.warn('journal: reclaiming the history lock of a process that is gone', {
+          owner: seen.body,
+        });
+        if (removeIfUnchanged(this.lockPath, seen, token)) continue;
       }
-      if (await lockIsStale(this.lockPath)) {
-        this.log?.warn('journal: taking over a stale lock');
-        unlinkLock(this.lockPath);
-      } else if (Date.now() > deadline) {
-        throw new Error('journal: timed out waiting for the history lock');
-      } else {
-        await sleep(LOCK_RETRY_MS);
+      if (Date.now() > deadline) {
+        throw new Error(
+          `journal: timed out waiting for the history lock ${this.lockPath} (held by ${seen?.body || 'unknown'}). ` +
+            'If no seekstone server is running as that process, delete the file.',
+        );
       }
+      await sleep(LOCK_RETRY_MS);
     }
     const acquired = Date.now();
     try {
       return await fn();
     } finally {
-      // A live owner's lock can only be taken over once LOCK_STALE_MS old.
-      const ours =
-        Date.now() - acquired < LOCK_STALE_MS ||
-        (await readFile(this.lockPath, 'utf8').catch(() => '')) === token;
-      if (ours) unlinkLock(this.lockPath);
+      // Only a lock held from another host can be reclaimed while its owner
+      // lives, and only once LOCK_STALE_MS old; check the token past that.
+      if (Date.now() - acquired < LOCK_STALE_MS || inspectLock(this.lockPath)?.body === token) {
+        unlinkLock(this.lockPath);
+      }
     }
   }
 
@@ -517,25 +611,100 @@ function unlinkLock(lockPath: string): void {
   }
 }
 
-/** Stale = older than LOCK_STALE_MS (by mtime if the body is unreadable) or owner pid gone. */
-async function lockIsStale(lockPath: string): Promise<boolean> {
-  let raw: string;
-  let mtimeMs: number;
+/** Create `path` exclusively with `body`. False if it already exists. */
+function tryCreate(path: string, body: string): boolean {
+  let fd: number;
   try {
-    raw = await readFile(lockPath, 'utf8');
-    mtimeMs = (await stat(lockPath)).mtimeMs;
-  } catch {
-    return false; // gone already: the caller retries
+    fd = openSync(path, 'wx');
+  } catch (err) {
+    const code = (err as NodeJS.ErrnoException).code;
+    // Windows reports EPERM while another process is deleting the file.
+    if (code === 'EEXIST' || (code === 'EPERM' && process.platform === 'win32')) return false;
+    throw err;
   }
-  let owner: { pid?: unknown; ts?: unknown } = {};
   try {
-    owner = JSON.parse(raw);
-  } catch {
-    /* unparsable body: fall back to mtime, pid unknown */
+    writeAll(fd, body);
+  } catch (err) {
+    closeSync(fd);
+    unlinkLock(path); // ours, and too young for anyone else to touch
+    throw err;
   }
-  const since = typeof owner.ts === 'number' ? owner.ts : mtimeMs;
-  if (Date.now() - since > LOCK_STALE_MS) return true;
-  return typeof owner.pid === 'number' && !pidAlive(owner.pid);
+  closeSync(fd);
+  return true;
+}
+
+/** @internal Exported for tests. */
+export interface LockSnapshot {
+  body: string;
+  mtimeMs: number;
+  /** Names this exact file: inode, mtime and body. */
+  key: string;
+}
+
+/** Read a lock or claim file. Undefined if it is gone (or unreadable for now). @internal */
+export function inspectLock(path: string): LockSnapshot | undefined {
+  let fd: number;
+  try {
+    fd = openSync(path, 'r');
+  } catch {
+    return undefined;
+  }
+  try {
+    const st = fstatSync(fd, { bigint: true });
+    const buf = Buffer.alloc(Math.min(Number(st.size), 4096));
+    const body = buf.toString('utf8', 0, readSync(fd, buf, 0, buf.length, 0));
+    const key = contentHash(`${st.dev}:${st.ino}:${st.mtimeNs}:${body}`).slice(0, 32);
+    return { body, mtimeMs: Number(st.mtimeMs), key };
+  } catch {
+    return undefined;
+  } finally {
+    closeSync(fd);
+  }
+}
+
+/**
+ * True when the file's owner can no longer release it: a dead pid on this
+ * host, or (when that can't be checked) a file older than LOCK_STALE_MS.
+ * Tokens without a host come from older releases, which ran on this host.
+ */
+function ownerGone(snap: LockSnapshot): boolean {
+  let owner: { pid?: unknown; host?: unknown } | undefined;
+  try {
+    owner = JSON.parse(snap.body);
+  } catch {
+    /* no token yet, or a torn one: fall back to age */
+  }
+  const pid = owner?.pid;
+  const local = owner?.host === undefined || owner.host === HOST;
+  if (local && typeof pid === 'number' && Number.isInteger(pid) && pid > 0) return !pidAlive(pid);
+  return Date.now() - snap.mtimeMs > LOCK_STALE_MS;
+}
+
+/**
+ * Unlink `path` if it is still the file `seen` describes, holding a claim so
+ * no other waiter can remove it (or its replacement) at the same time. True
+ * when the caller should retry the lock at once. @internal
+ */
+export function removeIfUnchanged(
+  path: string,
+  seen: LockSnapshot,
+  token: string,
+  depth = 0,
+): boolean {
+  const claim = `${path.replace(/(\.[0-9a-f]{32}\.claim)+$/, '')}.${seen.key}.claim`;
+  if (!tryCreate(claim, token)) {
+    // Another waiter is on it, or died there; clear its claim if so.
+    const held = inspectLock(claim);
+    return depth < 4 && held !== undefined && ownerGone(held)
+      ? removeIfUnchanged(claim, held, token, depth + 1)
+      : false;
+  }
+  try {
+    if (inspectLock(path)?.key === seen.key) unlinkLock(path);
+  } finally {
+    unlinkLock(claim);
+  }
+  return true;
 }
 
 function pidAlive(pid: number): boolean {

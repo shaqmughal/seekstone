@@ -200,7 +200,11 @@ does not proceed. Retention is capped (`SEEKSTONE_HISTORY_MAX_SIZE`, default
 50 MB; `SEEKSTONE_HISTORY_MAX_ENTRIES`, default 1000); evicted entries stay
 listed with `undoable: false`, never silently dropped. `SEEKSTONE_HISTORY=0`
 disables the journal. `.seekstone/` is excluded from indexing and search like
-`.trash/`. This complements git and Obsidian's File Recovery — it is the
+`.trash/`. Several server processes can share one journal: each manifest change
+holds `.seekstone/history/manifest.lock`, and a waiting process removes that
+lock only when its owner's pid on the same host has exited (or, where that
+can't be checked, when the lock file is over 30 seconds old). A live owner
+keeps the lock however long it pauses. This complements git and Obsidian's File Recovery — it is the
 recovery path the agent itself can drive.
 
 - Enforced by: [`journal.ts`](../packages/server/src/journal.ts) (blob store,
@@ -210,8 +214,11 @@ recovery path the agent itself can drive.
 - Proven by: [`journal.test.ts`](../packages/server/src/journal.test.ts),
   [`undo_write.test.ts`](../packages/server/src/tools/undo_write.test.ts)
   (write → undo → byte-identical for every write tool, multi-file
-  all-or-nothing, conflict/force/redo, eviction, journal-failure abort), and
-  the harness `undo-roundtrip` op — a write through the server, then
+  all-or-nothing, conflict/force/redo, eviction, journal-failure abort),
+  [`journal-multiprocess.test.ts`](../packages/server/src/journal-multiprocess.test.ts)
+  (shared journal, lock takeover and waiting) and
+  [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
+  (short and failed manifest writes), and the harness `undo-roundtrip` op — a write through the server, then
   `undo_write`, must leave the note byte-identical to its original.
 
 ### 10. Every write leaves a receipt
