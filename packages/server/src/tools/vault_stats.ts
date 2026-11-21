@@ -10,7 +10,7 @@ export interface VaultStatsResult {
   folders: number;
   /** unique = distinct tags (same as list_tags total); tagged = notes with at least one tag. */
   tags: { unique: number; tagged: number };
-  /** Backlink refs, already deduped per source→target by the index. */
+  /** Backlink refs to existing notes (removeDoc parks a deleted note's refs), deduped per source→target. */
   links: { resolved: number };
   /** median is the lower middle value for an even count; largest is omitted for an empty vault. */
   bytes: { total: number; median: number; largest?: { path: string; size: number } };

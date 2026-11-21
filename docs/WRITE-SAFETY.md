@@ -88,6 +88,13 @@ atomic renames rather than temp-file writes; `move_note`'s link rewrites in
 referencing notes are each individually atomic. This is per-file crash-safety,
 not a multi-file transaction.)
 
+Each write uses its own temp file next to the note, named
+`.<note>.<process tag><counter>.seekstone-tmp` and created exclusively. Two
+writers on the same note never share a temp file, and a failed write only
+removes the temp file it created. If a crash leaves one behind, it stays out
+of the vault: the leading dot hides it from Obsidian and the file watcher, and
+the index walk never treats the `.seekstone-tmp` extension as a note.
+
 - Proven by: [`atomic-write.test.ts`](../packages/server/src/atomic-write.test.ts)
   and every write-tool test asserting exact post-write bytes.
 
