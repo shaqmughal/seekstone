@@ -6,9 +6,9 @@
   "modes": [
     {
       "mode": "read-write",
-      "toolCount": 25,
-      "totalBytes": 26125,
-      "totalTokens": 5742,
+      "toolCount": 26,
+      "totalBytes": 26464,
+      "totalTokens": 5821,
       "instructionsBytes": 0,
       "instructionsTokens": 0,
       "prompts": {
@@ -151,14 +151,19 @@
           "name": "get_links",
           "bytes": 420,
           "tokens": 91
+        },
+        {
+          "name": "vault_stats",
+          "bytes": 338,
+          "tokens": 80
         }
       ]
     },
     {
       "mode": "read-only",
-      "toolCount": 14,
-      "totalBytes": 14751,
-      "totalTokens": 3261,
+      "toolCount": 15,
+      "totalBytes": 15090,
+      "totalTokens": 3340,
       "instructionsBytes": 0,
       "instructionsTokens": 0,
       "prompts": {
@@ -246,6 +251,11 @@
           "name": "get_links",
           "bytes": 420,
           "tokens": 91
+        },
+        {
+          "name": "vault_stats",
+          "bytes": 338,
+          "tokens": 80
         }
       ]
     }

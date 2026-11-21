@@ -339,6 +339,7 @@ describe('audit — one record per write-tool call', () => {
       'list_notes',
       'list_tags',
       'list_tasks',
+      'vault_stats',
       'outline_note',
       'get_backlinks',
       'get_links',

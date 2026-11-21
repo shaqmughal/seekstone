@@ -6,6 +6,7 @@ import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from './context.js';
 import type { IndexedNote } from './index/types.js';
 import { PERMISSIVE_POLICY } from './policy.js';
+import { vaultStats } from './tools/vault_stats.js';
 import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
 
 // Each test gets its own vault dir. We await the watcher's `ready` promise
@@ -312,6 +313,25 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       expect(
         events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
       ).toBe(true);
+    } finally {
+      await stop();
+    }
+  });
+
+  it('vault_stats reflects an add, an edit and a delete on the next call', async () => {
+    const ctx = freshCtx(tmpDir);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'a.md'), 'aaaa', 'utf8');
+      await writeFile(join(tmpDir, 'b.md'), 'bb', 'utf8');
+      await waitFor(() => vaultStats(ctx).notes === 2, { nudge: dirNudger(tmpDir) });
+      await writeFile(join(tmpDir, 'a.md'), 'a'.repeat(100), 'utf8');
+      await waitFor(() => vaultStats(ctx).bytes.total === 102);
+      expect(vaultStats(ctx).bytes.largest).toEqual({ path: 'a.md', size: 100 });
+      await rm(join(tmpDir, 'b.md'));
+      await waitFor(() => vaultStats(ctx).notes === 1);
+      expect(vaultStats(ctx).bytes.total).toBe(100);
     } finally {
       await stop();
     }
