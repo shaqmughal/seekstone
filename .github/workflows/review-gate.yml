@@ -1,0 +1,71 @@
+name: Review gate
+
+# `review gate` passes only when CodeRabbit has approved the code that would
+# merge, or a maintainer added the `review:override` label (SHA-569).
+# CodeRabbit's own check run reports success whenever a review finishes,
+# findings or not, so it can't block a merge by itself. Logic and the rules
+# for drafts, the release PR and merges from main live in
+# scripts/review-gate.mjs (tested); docs/QUALITY-GATES.md explains them.
+#
+# A CodeRabbit review comes from a GitHub App, so it triggers this workflow.
+# Everything here is a read, which keeps fork PRs (read-only token) working.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review, labeled, unlabeled]
+  pull_request_review:
+    types: [submitted, dismissed]
+
+permissions: {}
+
+jobs:
+  gate:
+    name: review gate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        with:
+          egress-policy: audit
+
+      # The script comes from the base commit, so editing it in a PR doesn't
+      # change how that PR is judged. Edits to this workflow file do take
+      # effect on their own PR; CodeRabbit's path rules flag those.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          persist-credentials: false
+
+      - name: Find the gate script
+        id: script
+        run: |
+          if [ -f scripts/review-gate.mjs ]; then
+            echo "missing=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "missing=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Only the PR that adds the gate gets here: its base has no script yet.
+      - name: Use the PR's gate script (first run only)
+        if: steps.script.outputs.missing == 'true'
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          persist-credentials: false
+          sparse-checkout: scripts
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - name: Check CodeRabbit's review
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node scripts/review-gate.mjs
