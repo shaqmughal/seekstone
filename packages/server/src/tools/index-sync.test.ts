@@ -10,11 +10,14 @@ import { appendNote } from './append_note.js';
 import { createNote } from './create_note.js';
 import { deleteNote } from './delete_note.js';
 import { getBacklinks } from './get_backlinks.js';
+import { getLinks } from './get_links.js';
+import { listTags } from './list_tags.js';
 import { listWrites } from './list_writes.js';
 import { moveNote } from './move_note.js';
 import { patchFrontmatter } from './patch_frontmatter.js';
 import { patchNote } from './patch_note.js';
-import { appendPeriodicNote } from './periodic_note.js';
+import { appendPeriodicNote, getPeriodicNote } from './periodic_note.js';
+import { renameHeading } from './rename_heading.js';
 import { replaceInNote } from './replace_in_note.js';
 import { undoWrite } from './undo_write.js';
 import { updateTask } from './update_task.js';
@@ -24,6 +27,10 @@ import { vaultStats } from './vault_stats.js';
 // get_backlinks must match a cold rebuild right after the call, with no
 // watcher running. Link additions are left to the watcher by design, so
 // these cases add no new links.
+//
+// list_tags, vault_stats and get_links cache by index generation (SHA-461).
+// Each case fills those caches before the write (prime), so a write that
+// skips the bump shows up here as a stale result.
 
 let root: string;
 let ctx: ServerContext;
@@ -41,9 +48,27 @@ function linkSets(c: ServerContext): Record<string, string[]> {
   return out;
 }
 
+/** Every note's outlinks, as get_links reports them. */
+function outlinks(c: ServerContext): Record<string, unknown> {
+  const out: Record<string, unknown> = {};
+  for (const path of [...c.notes.keys()].sort()) out[path] = getLinks(c, { path }).links;
+  return out;
+}
+
+/** Call every cached tool once, so the next call after a write could hit a stale cache. */
+function prime(c: ServerContext): void {
+  vaultStats(c);
+  listTags(c, { sort: 'count' });
+  listTags(c, { sort: 'name' });
+  outlinks(c);
+}
+
 async function expectInSync(): Promise<void> {
   const fresh = await cold();
   expect(vaultStats(ctx)).toEqual(vaultStats(fresh));
+  expect(listTags(ctx, { sort: 'count' })).toEqual(listTags(fresh, { sort: 'count' }));
+  expect(listTags(ctx, { sort: 'name' })).toEqual(listTags(fresh, { sort: 'name' }));
+  expect(outlinks(ctx)).toEqual(outlinks(fresh));
   expect(linkSets(ctx)).toEqual(linkSets(fresh));
   // Writes only touch notes, so the attachment index must be left as it was.
   expect(ctx.attachments).toEqual(fresh.attachments);
@@ -64,6 +89,7 @@ beforeEach(async () => {
   await writeFile(join(root, 'A/diagram.png'), 'png');
   ctx = await cold();
   ctx.journal = await Journal.open(root, { maxBytes: 1e9, maxEntries: 1e6 });
+  prime(ctx);
 });
 
 afterEach(async () => {
@@ -79,6 +105,7 @@ describe('the index matches a cold rebuild right after each write', () => {
   it('append_periodic_note on an existing note', async () => {
     await writeFile(join(root, '2026-11-21.md'), 'day\n');
     ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
     await appendPeriodicNote(ctx, { date: '2026-11-21', content: 'more text for the day' });
     await expectInSync();
   });
@@ -121,8 +148,27 @@ describe('the index matches a cold rebuild right after each write', () => {
     await writeFile(join(root, 'Self.md'), '---\naliases: [Shortcut]\n---\nSee [[Shortcut]].\n');
     await writeFile(join(root, 'Zed.md'), '---\naliases: [Shortcut]\n---\nother\n');
     ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
     expect(getBacklinks(ctx, { path: 'Zed.md' }).total).toBe(0);
     await patchFrontmatter(ctx, { path: 'Self.md', patch: { aliases: null } });
+    await expectInSync();
+  });
+
+  it('create_note of a new tagged note', async () => {
+    await createNote(ctx, { path: 'Fresh.md', content: '#brand-new body', overwrite: false });
+    await expectInSync();
+  });
+
+  it('get_periodic_note creating the day note', async () => {
+    await getPeriodicNote(ctx, { period: 'daily', date: '2026-11-22', createIfMissing: true });
+    await expectInSync();
+  });
+
+  it('rename_heading rewriting a heading link in another note', async () => {
+    await writeFile(join(root, 'Gamma.md'), '# Gamma\n\n[[Home#Log]]\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await renameHeading(ctx, { path: 'Home.md', oldHeading: 'Log', newHeading: 'Journal' });
     await expectInSync();
   });
 
@@ -199,9 +245,24 @@ describe('in-place writes count as modified now', () => {
   for (const [name, write] of writes) {
     it(name, async () => {
       for (const note of ctx.notes.values()) note.mtimeMs = Date.now() - 40 * 86_400_000;
+      // Changed by hand, outside the index helpers, so bump by hand too.
+      ctx.generation++;
       expect(vaultStats(ctx).modified).toEqual({ d1: 0, d7: 0, d30: 0 });
       await write();
       expect(vaultStats(ctx).modified).toEqual({ d1: 1, d7: 1, d30: 1 });
     });
   }
+});
+
+describe('a frontmatter alias change resolves on the next get_links call (SHA-461)', () => {
+  it('a new alias resolves, and a removed one stops resolving', async () => {
+    await writeFile(join(root, 'Linker.md'), 'See [[Gam]].\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    const target = () => getLinks(ctx, { path: 'Linker.md' }).links[0]?.target;
+    expect(target()).toBeUndefined();
+    await patchFrontmatter(ctx, { path: 'Gamma.md', patch: { aliases: ['Gam'] } });
+    expect(target()).toBe('Gamma.md');
+    await patchFrontmatter(ctx, { path: 'Gamma.md', patch: { aliases: null } });
+    expect(target()).toBeUndefined();
+  });
 });

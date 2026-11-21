@@ -4,6 +4,7 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
+import { bumpGeneration } from './generation.js';
 import type { IndexedNote } from './types.js';
 
 /** Build an IndexedNote from a vault-relative path and raw file content. */
@@ -36,11 +37,13 @@ export function upsertDoc(
   ctx: {
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
+    generation: number;
     backlinks?: Map<string, BacklinkRef[]>;
     parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
 ): void {
+  bumpGeneration(ctx);
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
   else if (ctx.backlinks !== undefined)
     unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
@@ -48,13 +51,24 @@ export function upsertDoc(
   ctx.index.add(doc);
 }
 
-/** Drop a note from the index and park its inbound refs (see parkedBacklinks). */
-export function removeDoc(ctx: ServerContext, path: string): void {
+/**
+ * Drop a note from the index and park its inbound refs (see parkedBacklinks).
+ * move_note passes `parkInbound: false`: it re-registers the old path's
+ * linkers against the new path itself, so nothing should come back if a note
+ * later appears at the old path.
+ */
+export function removeDoc(
+  ctx: ServerContext,
+  path: string,
+  opts: { parkInbound?: boolean } = {},
+): void {
   // Clear the note's own outgoing refs while its entry is still readable.
   removeNoteBacklinks(ctx, path);
   if (!ctx.notes.has(path)) return;
+  bumpGeneration(ctx);
   ctx.index.discard(path);
   ctx.notes.delete(path);
+  if (opts.parkInbound === false) return;
   const inbound = ctx.backlinks.get(path);
   if (inbound === undefined) return;
   ctx.backlinks.delete(path);
@@ -104,6 +118,8 @@ export function refreshCachedNote(
     opts.keepsLinks !== true &&
     (dropsLinks(cached.raw, raw) || aliasKey(cached.fm) !== aliasKey(next.fm));
   if (relink) removeNoteBacklinks(ctx, path);
+  // In-place update: tags, aliases and sizes change without a set().
+  bumpGeneration(ctx);
   Object.assign(cached, next);
   if (relink) addNoteBacklinks(ctx, path, raw);
 }

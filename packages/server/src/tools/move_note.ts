@@ -4,8 +4,12 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
-import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
-import { buildDoc, upsertDoc } from '../index/doc.js';
+import {
+  addNoteBacklinks,
+  clearInboundBacklinks,
+  removeNoteBacklinks,
+} from '../index/backlinks.js';
+import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import { buildResolveMaps } from '../index/resolve.js';
 import { assertWritable, isWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -143,15 +147,10 @@ export async function moveNote(
   await mkdir(dirname(absTo), { recursive: true });
   await rename(absFrom, absTo);
 
-  // Clear the moved note's own outgoing backlink refs while its old entry is
-  // still readable — otherwise they stay registered under the stale source
-  // path forever.
-  removeNoteBacklinks(ctx, input.from);
-
-  if (ctx.notes.has(input.from)) {
-    ctx.index.discard(input.from);
-    ctx.notes.delete(input.from);
-  }
+  // Drop the old entry. removeDoc clears the moved note's own outgoing refs
+  // first, while that entry is still readable. Inbound refs stay under the
+  // old key until the linkers are re-registered below, so they aren't parked.
+  removeDoc(ctx, input.from, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
   removeNoteBacklinks(ctx, input.to);
   upsertDoc(ctx, buildDoc(input.to, raw));
@@ -194,7 +193,7 @@ export async function moveNote(
   }
 
   // Nothing resolves to the old path anymore — drop the stale key.
-  ctx.backlinks.delete(input.from);
+  clearInboundBacklinks(ctx, input.from);
 
   const result: MoveNoteResult = {
     from: input.from,

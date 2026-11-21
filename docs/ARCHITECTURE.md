@@ -86,10 +86,10 @@ flowchart TD
 
     subgraph idx["② Index layer — index/"]
         build["build.ts<br/>buildIndex(vaultRoot)"]
-        doc["doc.ts · excerpt.ts · resolve.ts<br/>backlinks.ts · types.ts"]
+        doc["doc.ts · excerpt.ts · resolve.ts<br/>backlinks.ts · generation.ts · types.ts"]
     end
 
-    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · attachments · policy · journal? · audit? · semantic?"]
+    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · generation · backlinks Map · attachments · policy · journal? · audit? · semantic?"]
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
@@ -166,8 +166,19 @@ flowchart TD
    `attachments` index of the non-note files (so `get_links` can resolve
    `![[diagram.png]]`). This is the in-memory model every read tool queries.
 3. **`ServerContext` (`context.ts`)** — the single shared state bag:
-   `{ vaultRoot, index, notes, backlinks, attachments, policy, semantic? }`. No globals;
-   it's threaded into every tool call.
+   `{ vaultRoot, index, notes, generation, backlinks, attachments, policy, semantic? }`. No globals;
+   it's threaded into every tool call. `generation` starts at 0 after the boot
+   build and goes up by one whenever `notes`, a cached note's fields, or
+   `backlinks` change. Only the helpers in `index/doc.ts` (`upsertDoc`,
+   `removeDoc`, `replaceDoc`, `refreshCachedNote`) and `index/backlinks.ts`
+   change those, and each one bumps; `index/index-guard.test.ts` fails on a
+   direct `ctx.notes`/`ctx.backlinks` `set`/`delete` anywhere else.
+   `index/generation.ts` caches whole-vault results by generation:
+   `list_tags`' tag counts, `vault_stats`' totals (its `modified` counts
+   depend on the clock and are counted on every call), and the resolve maps
+   `get_links` uses. A repeat call on an unchanged vault reuses them. The
+   caches hold counts and path/alias lookup maps, never note content.
+   Attachments don't feed any cache, so attachment events don't bump.
 4. **Watcher (`watcher.ts`)** — chokidar watches the vault and incrementally
    updates `index` / `notes` / `backlinks` / `attachments` so the in-memory model never goes
    stale during a session; when semantic search is enabled it also pokes the
