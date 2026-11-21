@@ -5,10 +5,10 @@ const pull = (over = {}) => ({
   number: 10,
   state: 'open',
   draft: false,
-  base: { ref: 'main' },
+  base: { ref: 'main', repo: { full_name: 'o/r' } },
   auto_merge: { merge_method: 'squash' },
   labels: [],
-  head: { sha: 'aaa' },
+  head: { sha: 'aaa', repo: { full_name: 'o/r' } },
   ...over,
 });
 
@@ -26,11 +26,13 @@ describe('candidates', () => {
     expect(candidates([pull()]).map((p) => p.number)).toEqual([10]);
   });
 
-  it('drops PRs without auto-merge, drafts, other bases, closed PRs and needs-rebase', () => {
+  it('drops PRs without auto-merge, drafts, other bases, closed PRs, forks and needs-rebase', () => {
     const out = candidates([
       pull({ number: 1, auto_merge: null }),
       pull({ number: 2, draft: true }),
-      pull({ number: 3, base: { ref: 'release' } }),
+      pull({ number: 3, base: { ref: 'release', repo: { full_name: 'o/r' } } }),
+      pull({ number: 7, head: { sha: 'f', repo: { full_name: 'someone/fork' } } }),
+      pull({ number: 8, head: { sha: 'g', repo: null } }),
       pull({ number: 4, state: 'closed' }),
       pull({ number: 5, labels: [{ name: REBASE_LABEL }] }),
       pull({ number: 6, labels: [{ name: 'factory' }] }),

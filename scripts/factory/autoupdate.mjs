@@ -27,12 +27,18 @@ import { gh, ghAll, requiredChecks } from './github.mjs';
 
 export const REBASE_LABEL = 'needs-rebase';
 
-/** Approved PRs this script may act on: open into main, auto-merge on, not a draft, not marked for a manual rebase. */
+/**
+ * Approved PRs this script may act on: open into main, auto-merge on, not a
+ * draft, not marked for a manual rebase, and from a branch in this repo. The
+ * app token can't push to a fork, so a fork PR is updated by hand.
+ */
 export function candidates(pulls) {
   return pulls.filter(
     (p) =>
       p.state === 'open' &&
       p.base?.ref === 'main' &&
+      p.head?.repo?.full_name != null &&
+      p.head.repo.full_name === p.base.repo?.full_name &&
       p.auto_merge &&
       !p.draft &&
       !p.labels?.some((l) => l.name === REBASE_LABEL),

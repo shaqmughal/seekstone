@@ -26,7 +26,7 @@ Because a branch must be up to date with `main`, each merge puts every other ope
 2. If one of them is already up to date (its CI is running, or it's green and about to merge), it waits. Otherwise it updates the oldest PR that is behind. The update is pushed with the factory app's token, because a commit pushed with the default token doesn't start CI.
 3. CI runs, auto-merge merges the PR, and that push to `main` starts the next round.
 
-A PR whose required checks failed is skipped, so it can't hold up the others. For `factory` PRs the [CI-fix loop](#the-ci-fix-loop) handles the failure. If an update hits a merge conflict, the PR gets the `needs-rebase` label and a comment, and the queue moves on. Resolve the conflict on the branch, then remove the label to put the PR back in line. If the queue stalls (a failure the workflow didn't see, such as the CodSpeed check), run `pr-autoupdate.yml` by hand.
+A PR whose required checks failed is skipped, so it can't hold up the others, and goes back in line once a fix passes. Fixing it is manual: the [CI-fix loop](#the-ci-fix-loop) only acts on draft PRs, and a PR you've approved isn't a draft. PRs from forks are skipped too, because the factory app can't push to a fork; update those by hand. If an update hits a merge conflict, the PR gets the `needs-rebase` label and a comment, and the queue moves on. Resolve the conflict on the branch, then remove the label to put the PR back in line. If the queue stalls (a failure the workflow didn't see, such as the CodSpeed check), run `pr-autoupdate.yml` by hand.
 
 The queue only acts on PRs where a maintainer turned on auto-merge.
 

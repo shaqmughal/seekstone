@@ -16,8 +16,9 @@ on:
   # checks out or runs code from the PR.
   pull_request_target:
     types: [auto_merge_enabled, unlabeled]
-  # When the PR in flight fails a required check it's skipped, so the next
-  # one can go. Successes need no trigger: the merge pushes to main.
+  # A finished check run can change the picture either way: the PR in flight
+  # failed (skip it, start the next), or a skipped PR got a passing fix (put
+  # it back in line). Each run is a few API reads when nothing changed.
   workflow_run:
     workflows: [CI, CodeQL, CodSpeed, Quality rules]
     types: [completed]
@@ -31,7 +32,6 @@ concurrency:
 
 jobs:
   autoupdate:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'failure'
     runs-on: ubuntu-latest
     environment: factory
     timeout-minutes: 5
