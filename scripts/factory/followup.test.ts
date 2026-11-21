@@ -4,7 +4,10 @@ import {
   fixHistory,
   MAX_FIXES,
   markerFor,
+  REVIEW_DONE,
+  REVIEW_OPEN_LABEL,
   requiredState,
+  reviewRound,
   ticketFromBranch,
 } from './followup.mjs';
 
@@ -28,7 +31,10 @@ const BOT = 'seekstone-factory[bot]';
 const mine = (body: string) => ({ user: { login: BOT }, body });
 const pr = (over = {}) => ({ number: 7, draft: true, headSha: SHA, labels: [], ...over });
 
-const base = { required: REQUIRED, comments: [], sonnet: false, bot: BOT };
+const clean = { reviewed: true, changesRequested: false, open: 0 };
+const base = { required: REQUIRED, comments: [], sonnet: false, bot: BOT, review: clean };
+const started = mine(`Starting the review round.\n\n<!-- factory-review sha=${SHA} -->`);
+const done = mine(`Review round finished.\n\n${REVIEW_DONE}`);
 
 describe('requiredState', () => {
   it('uses the newest run per check and treats skipped as passing', () => {
@@ -123,5 +129,86 @@ describe('decide', () => {
     expect(d).toMatchObject({ action: 'fix', attempt: MAX_FIXES + 1, model: 'opus' });
     const before = decide({ ...base, sonnet: true, pr: pr(), checkRuns: red });
     expect(before.model).toBeUndefined();
+  });
+});
+
+describe('reviewRound', () => {
+  it('reads the start and done markers from the factory app only', () => {
+    expect(reviewRound([started], BOT)).toEqual({ started: true, done: false });
+    expect(reviewRound([started, done], BOT)).toEqual({ started: true, done: true });
+    const forged = [{ ...started, user: { login: 'someone' } }];
+    expect(reviewRound(forged, BOT)).toEqual({ started: false, done: false });
+  });
+});
+
+describe('decide: the CodeRabbit review round', () => {
+  const findings = { reviewed: true, changesRequested: true, open: 3 };
+
+  it('keeps a green draft waiting until CodeRabbit has reviewed the head', () => {
+    const review = { ...clean, reviewed: false };
+    expect(decide({ ...base, review, pr: pr(), checkRuns: green })).toMatchObject({
+      action: 'wait',
+      reason: expect.stringContaining('CodeRabbit'),
+    });
+  });
+
+  it('starts the review round once CI is green and CodeRabbit has findings', () => {
+    expect(decide({ ...base, review: findings, pr: pr(), checkRuns: green })).toEqual({
+      action: 'review',
+      reason: 'CodeRabbit: 3 open finding(s), changes requested',
+    });
+    const threadsOnly = { ...clean, open: 1 };
+    expect(decide({ ...base, review: threadsOnly, pr: pr(), checkRuns: green }).action).toBe(
+      'review',
+    );
+    const blockedOnly = { ...clean, changesRequested: true };
+    expect(decide({ ...base, review: blockedOnly, pr: pr(), checkRuns: green }).action).toBe(
+      'review',
+    );
+  });
+
+  it('fixes CI first when CI fails and CodeRabbit has findings too', () => {
+    expect(decide({ ...base, review: findings, pr: pr(), checkRuns: red })).toMatchObject({
+      action: 'fix',
+      attempt: 1,
+    });
+  });
+
+  it('does nothing while the review round runs, even if CI fails', () => {
+    const d = decide({ ...base, review: findings, comments: [started], pr: pr(), checkRuns: red });
+    expect(d).toEqual({ action: 'none', reason: 'the review round is still running' });
+  });
+
+  it('marks ready with the label when findings are still open after the round', () => {
+    const d = decide({
+      ...base,
+      review: findings,
+      comments: [started, done],
+      pr: pr(),
+      checkRuns: green,
+    });
+    expect(d).toMatchObject({ action: 'ready', label: REVIEW_OPEN_LABEL });
+    expect(d.reason).toContain('3 open finding(s)');
+  });
+
+  it('marks ready without the label when the round cleared everything', () => {
+    const d = decide({ ...base, comments: [started, done], pr: pr(), checkRuns: green });
+    expect(d).toEqual({ action: 'ready' });
+  });
+
+  it('still waits for CodeRabbit on the new head after the round', () => {
+    const review = { ...findings, reviewed: false };
+    const d = decide({ ...base, review, comments: [started, done], pr: pr(), checkRuns: green });
+    expect(d.action).toBe('wait');
+  });
+
+  it('keeps the CI-fix loop going after the round, without a second round', () => {
+    const comments = [started, done, mine(markerFor('1111111', 1))];
+    expect(decide({ ...base, review: findings, comments, pr: pr(), checkRuns: red })).toMatchObject(
+      { action: 'fix', attempt: 2 },
+    );
+    expect(decide({ ...base, review: findings, comments, pr: pr(), checkRuns: green }).action).toBe(
+      'ready',
+    );
   });
 });

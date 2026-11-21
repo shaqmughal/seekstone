@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { apiUrl, ghAll, nextPage, requiredChecks } from './github.mjs';
+import { apiUrl, gh, ghAll, graphql, nextPage, requiredChecks } from './github.mjs';
 
 afterEach(() => vi.unstubAllGlobals());
 
@@ -69,5 +69,31 @@ describe('paging', () => {
       vi.fn(async () => pages.shift()),
     );
     expect(await ghAll('repos/o/r/runs', { key: 'workflow_runs' })).toEqual([1, 2, 3]);
+  });
+});
+
+describe('writes and GraphQL', () => {
+  it('posts JSON when given a body', async () => {
+    const fetch = vi.fn(async () => new Response('{"id":1}'));
+    vi.stubGlobal('fetch', fetch);
+    expect(await gh('repos/o/r/pulls/1/comments/2/replies', { post: { body: 'hi' } })).toEqual({
+      id: 1,
+    });
+    expect(fetch.mock.calls[0][1]).toMatchObject({ method: 'POST', body: '{"body":"hi"}' });
+  });
+
+  it('returns data and throws on GraphQL or HTTP errors', async () => {
+    const replies = [
+      new Response(JSON.stringify({ data: { a: 1 } })),
+      new Response(JSON.stringify({ errors: [{ message: 'bad field' }] })),
+      new Response('', { status: 502 }),
+    ];
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async () => replies.shift()),
+    );
+    expect(await graphql('query { a }', {})).toEqual({ a: 1 });
+    await expect(graphql('query { b }', {})).rejects.toThrow(/bad field/);
+    await expect(graphql('query { c }', {})).rejects.toThrow(/HTTP 502/);
   });
 });

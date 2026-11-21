@@ -12,8 +12,7 @@
 import { appendFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { requiredState } from './followup.mjs';
-import { gh, requiredChecks } from './github.mjs';
+import { gh, requiredChecks, requiredState } from './github.mjs';
 
 export const LOG_LINES = 150;
 const MODEL_MARKER = /\n*<!-- factory-model \w+ -->\s*$/;
