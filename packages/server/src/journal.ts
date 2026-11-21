@@ -1,5 +1,6 @@
 import { randomBytes, timingSafeEqual } from 'node:crypto';
 import {
+  type BigIntStats,
   closeSync,
   fstatSync,
   fsyncSync,
@@ -9,6 +10,7 @@ import {
   readSync,
   renameSync,
   statSync,
+  truncateSync,
   unlinkSync,
   writeSync,
 } from 'node:fs';
@@ -108,6 +110,14 @@ const HOST = hostname();
 /** Lock tokens are `{pid, host, id, ts}`; `id` is unique per acquisition. */
 const TOKEN_HEAD = `{"pid":${process.pid},"host":${JSON.stringify(HOST)},"id":"${randomBytes(8).toString('hex')}-`;
 let tokenCount = 0;
+/** A fresh lock or claim token. Never reused, so an abandoned one stays recognisable. */
+function newToken(): string {
+  return `${TOKEN_HEAD}${++tokenCount}","ts":${Date.now()}}`;
+}
+/** Lock and claim files this process created and then gave up on (by exact identity). */
+const abandoned = new Set<string>();
+/** How many nested abandoned claims one attempt will walk before waiting. */
+const MAX_CLAIM_CHAIN = 64;
 
 /**
  * Read the journal settings from env. Returns undefined when the journal is
@@ -243,7 +253,7 @@ export class Journal {
     }
     const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
     await journal.enqueue(() => journal.load());
-    // A torn last line from a crash: not listed; the next commit starts a new line.
+    // A torn last line from a crash: not listed; the next commit cuts it off.
     if (journal.tailBytes > 0) opts.log?.warn('journal: skipping malformed manifest line');
     return journal;
   }
@@ -429,18 +439,17 @@ export class Journal {
     try {
       raw = await readFile(join(this.blobDir, hash), 'utf8');
     } catch (err) {
-      // Evicted by another process since we last looked: stop listing it as
-      // undoable. Check the disk first: a commit in this process may have
-      // restored the blob after the read failed.
-      if (
-        (err as NodeJS.ErrnoException).code === 'ENOENT' &&
-        this.blobSizes.has(hash) &&
-        !statSync(join(this.blobDir, hash), { throwIfNoEntry: false })
-      ) {
+      if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+      const path = join(this.blobDir, hash);
+      if (statSync(path, { throwIfNoEntry: false })) {
+        // A commit restored it after our read failed: read it again.
+        raw = await readFile(path, 'utf8');
+      } else {
+        // Evicted by another process since we last looked: stop listing it.
         this.totalBytes -= this.blobSizes.get(hash) ?? 0;
         this.blobSizes.delete(hash);
+        throw err;
       }
-      throw err;
     }
     // Integrity check on the stored blob (not a secret comparison); the
     // constant-time compare is free and keeps static analysis quiet.
@@ -510,8 +519,14 @@ export class Journal {
     }
     const entry: JournalEntry = { seq: this.nextSeq, ts: new Date().toISOString(), tool, files };
     if (undoOf !== undefined) entry.undoOf = undoOf;
-    // After a torn line, start a fresh one so this entry parses.
-    const line = `${this.tailBytes > 0 ? '\n' : ''}${JSON.stringify(entry)}\n`;
+    // A torn last line (a failed or crashed append) is cut off first, under
+    // the lock: completing it with a newline could turn it into a valid row
+    // that duplicates this entry's seq.
+    if (this.tailBytes > 0) {
+      truncateSync(this.manifestPath, this.manifestOffset);
+      this.tailBytes = 0;
+    }
+    const line = `${JSON.stringify(entry)}\n`;
     try {
       appendDurable(this.manifestPath, line);
     } catch (err) {
@@ -520,8 +535,7 @@ export class Journal {
       this.manifestIno = -1;
       throw err;
     }
-    this.manifestOffset += this.tailBytes + Buffer.byteLength(line, 'utf8');
-    this.tailBytes = 0;
+    this.manifestOffset += Buffer.byteLength(line, 'utf8');
     this.nextSeq++;
     this.entries.push(entry);
     await this.evict();
@@ -530,48 +544,55 @@ export class Journal {
 
   /**
    * The manifest lock. Acquire: create `manifest.lock` exclusively (O_EXCL)
-   * and write a token `{pid, host, id, ts}`; release: unlink it.
+   * and write a token `{pid, host, id, ts}`; release: unlink it. Every
+   * attempt uses a fresh token.
    *
    * A waiting process removes someone else's lock only when its owner is
    * gone: a pid on this host that no longer runs. A live owner keeps the lock
    * however long it pauses, so two processes never both think they hold it.
    * Age decides only where liveness can't be checked: a lock with no token
    * (its owner died between create and write) or one held from another host
-   * is reclaimed when its file is older than LOCK_STALE_MS. A process that
-   * was itself paused for over half that between creating a lock or claim
-   * file and writing its token reads the file back before using it, and
-   * never deletes it.
+   * is reclaimed when its file is older than LOCK_STALE_MS, measured from
+   * before the file was read.
    *
-   * Removing a dead lock by path is racy on its own: two waiters can judge
-   * the same dead lock, and the slower one would delete the lock the faster
-   * one just took. So a waiter first creates a claim file, again with O_EXCL,
-   * named after that exact lock file (inode, mtime and body). Only one waiter
-   * can hold it. Holding the claim, it reads the lock again and unlinks it
-   * only if it is still the same file, then deletes the claim. Nothing can
-   * replace the file in between: its owner is dead, any other remover needs
-   * the same claim, and an exclusive create fails while the file exists. A
-   * claim left by a waiter that died is removed the same way, keyed by the
-   * claim file. Everything here is sync, which also suits Windows: there an
-   * unlinked file can linger briefly and creates fail with EPERM, which we
-   * treat like EEXIST.
+   * So a creator that took more than half of LOCK_STALE_MS between creating
+   * a lock or claim file and writing its token never uses that file: a
+   * waiter may already be removing it. It records the file as abandoned
+   * (this process then treats it as gone), removes it if it can, and tries
+   * again. A creator that wrote in time is safe: no waiter could have judged
+   * its file stale before the token appeared.
+   *
+   * Removing a lock by path is racy on its own: two waiters can judge the
+   * same dead lock, and the slower one would delete the lock the faster one
+   * just took. So a remover first creates a claim file, again with O_EXCL,
+   * named after that file's identity (device, inode and birth time). Only
+   * one process can hold it. Holding the claim, it reads the file again and
+   * unlinks it only if it is the same file and its owner is still gone,
+   * then deletes the claim. Nothing else can remove or replace the file
+   * meanwhile: removers need the same claim, live owners are never judged
+   * gone, and an exclusive create fails while the file exists. A claim left
+   * behind by a process that died or gave up is removed the same way, deepest
+   * first, so a chain of them always makes progress. Everything here is sync,
+   * which also suits Windows: there an unlinked file can linger briefly and
+   * creates fail with EPERM, which we treat like EEXIST.
    */
   private async withLock<T>(fn: () => Promise<T>): Promise<T> {
-    const ts = Date.now();
-    const token = `${TOKEN_HEAD}${++tokenCount}","ts":${ts}}`;
-    const deadline = ts + LOCK_WAIT_MS;
+    const deadline = Date.now() + LOCK_WAIT_MS;
+    let token: string;
     for (;;) {
+      token = newToken();
       if (tryCreate(this.lockPath, token)) break;
       const seen = inspectLock(this.lockPath);
       if (seen && ownerGone(seen)) {
         this.log?.warn('journal: reclaiming the history lock of a process that is gone', {
           owner: seen.body,
         });
-        if (removeIfUnchanged(this.lockPath, seen, token)) continue;
+        if (removeIfUnchanged(this.lockPath, seen)) continue;
       }
       if (Date.now() > deadline) {
         throw new Error(
           `journal: timed out waiting for the history lock ${this.lockPath} (held by ${seen?.body || 'unknown'}). ` +
-            'If no seekstone server is running as that process, delete the file.',
+            'If that process is not a running seekstone server, stop every seekstone server that shares this vault, then delete the file.',
         );
       }
       await sleep(LOCK_RETRY_MS);
@@ -655,39 +676,58 @@ function tryCreate(path: string, body: string, cleanUp = true): boolean {
     if (code === 'EEXIST' || (code === 'EPERM' && process.platform === 'win32')) return false;
     throw err;
   }
-  // An empty file can be reclaimed once LOCK_STALE_MS old. If we were paused
-  // for over half that between the create and the write, the path may now
-  // name someone else's file: read it back instead of assuming.
+  let inTime: boolean;
   try {
     writeAll(fd, body);
+    // Written within half of LOCK_STALE_MS of the create: no waiter can have
+    // judged this file stale while it had no token.
+    inTime = Date.now() - before < LOCK_STALE_MS / 2;
   } catch (err) {
-    // Remove the half-made file, but never by path alone: we may pause at any
-    // point here, and a waiter can reclaim it and create a new lock meanwhile.
-    // Snapshot it while our fd still pins its inode, then remove it through
-    // the claim protocol, which unlinks only that exact file.
-    let mine: LockSnapshot | undefined;
-    if (cleanUp) {
-      const snap = inspectLock(path);
-      if (snap && snap.ino === fstatSync(fd, { bigint: true }).ino) mine = snap;
-    }
-    closeSync(fd);
-    if (mine) {
-      try {
-        removeIfUnchanged(path, mine, body, 0, false);
-      } catch {
-        /* still a tokenless file: reclaimed by age after LOCK_STALE_MS */
-      }
-    }
+    abandon(path, fd, cleanUp);
     throw err;
   }
-  closeSync(fd);
-  return Date.now() - before < LOCK_STALE_MS / 2 || holdsToken(path, body);
+  if (inTime) {
+    closeSync(fd);
+    return true;
+  }
+  abandon(path, fd, cleanUp);
+  return false;
+}
+
+/**
+ * Give up on a file we just created at `path` (fd still open). It is never
+ * used. We remember it as abandoned, which lets this process remove it
+ * through the claim protocol now or on its next attempt; other processes
+ * reclaim it by age or once we exit. Nothing here unlinks by path alone.
+ */
+function abandon(path: string, fd: number, cleanUp: boolean): void {
+  let mine: LockSnapshot | undefined;
+  try {
+    // While our fd is open its inode can't be reused, so a matching identity
+    // means the path still names our file.
+    const snap = inspectLock(path);
+    if (snap && snap.key === fileKey(fstatSync(fd, { bigint: true }))) {
+      mine = snap;
+      abandoned.add(snap.exact);
+    }
+  } finally {
+    closeSync(fd);
+  }
+  if (mine && cleanUp) {
+    try {
+      // cleanUp: false, so a claim that fails the same way can't recurse.
+      removeIfUnchanged(path, mine, false);
+    } catch {
+      /* left for the next attempt, or for age-based recovery */
+    }
+  }
 }
 
 /** True if the blob at `path` exists and its bytes hash to `hash`. */
 function blobMatches(path: string, hash: string): boolean {
   try {
-    const actual = Buffer.from(contentHash(readFileSync(path, 'utf8')), 'hex');
+    // Hash the raw bytes: decoding first would map invalid UTF-8 to U+FFFD.
+    const actual = Buffer.from(contentHash(readFileSync(path)), 'hex');
     return actual.equals(Buffer.from(hash, 'hex'));
   } catch {
     return false;
@@ -704,13 +744,22 @@ function holdsToken(path: string, token: string): boolean {
 export interface LockSnapshot {
   body: string;
   mtimeMs: number;
-  ino: bigint;
-  /** Names this exact file: inode, mtime and body. */
+  /** Date.now() taken before the file was read: ages are measured from here. */
+  at: number;
+  /** The file's identity (device, inode, birth time): names its claim. */
   key: string;
+  /** Identity plus mtime and body: this exact state of the file. */
+  exact: string;
+}
+
+/** A file's identity, stable across writes to it. */
+function fileKey(st: BigIntStats): string {
+  return contentHash(`${st.dev}:${st.ino}:${st.birthtimeNs}`).slice(0, 32);
 }
 
 /** Read a lock or claim file. Undefined if it is gone (or unreadable for now). @internal */
 export function inspectLock(path: string): LockSnapshot | undefined {
+  const at = Date.now();
   let fd: number;
   try {
     fd = openSync(path, 'r');
@@ -721,8 +770,9 @@ export function inspectLock(path: string): LockSnapshot | undefined {
     const st = fstatSync(fd, { bigint: true });
     const buf = Buffer.alloc(Math.min(Number(st.size), 4096));
     const body = buf.toString('utf8', 0, readSync(fd, buf, 0, buf.length, 0));
-    const key = contentHash(`${st.dev}:${st.ino}:${st.mtimeNs}:${body}`).slice(0, 32);
-    return { body, mtimeMs: Number(st.mtimeMs), ino: st.ino, key };
+    const key = fileKey(st);
+    const exact = contentHash(`${key}:${st.mtimeNs}:${body}`);
+    return { body, mtimeMs: Number(st.mtimeMs), at, key, exact };
   } catch {
     return undefined;
   } finally {
@@ -736,6 +786,7 @@ export function inspectLock(path: string): LockSnapshot | undefined {
  * Tokens without a host come from older releases, which ran on this host.
  */
 function ownerGone(snap: LockSnapshot): boolean {
+  if (abandoned.has(snap.exact)) return true;
   let owner: { pid?: unknown; host?: unknown } | undefined;
   try {
     owner = JSON.parse(snap.body);
@@ -745,37 +796,38 @@ function ownerGone(snap: LockSnapshot): boolean {
   const pid = owner?.pid;
   const local = owner?.host === undefined || owner.host === HOST;
   if (local && typeof pid === 'number' && Number.isInteger(pid) && pid > 0) return !pidAlive(pid);
-  return Date.now() - snap.mtimeMs > LOCK_STALE_MS;
+  return snap.at - snap.mtimeMs > LOCK_STALE_MS;
 }
 
 /**
- * Unlink `path` if it is still the file `seen` describes, holding a claim so
- * no other waiter can remove it (or its replacement) at the same time. True
- * when the caller should retry the lock at once. @internal
+ * Unlink `path` if it is still the file `seen` describes and its owner is
+ * still gone, holding a claim so no other process can remove it (or its
+ * replacement) at the same time. A claim left by a process that died or gave
+ * up is cleared first, deepest first. True when the caller should retry the
+ * lock at once. @internal
  */
-export function removeIfUnchanged(
-  path: string,
-  seen: LockSnapshot,
-  token: string,
-  depth = 0,
-  cleanUp = true,
-): boolean {
-  const claim = `${path.replace(/(\.[0-9a-f]{32}\.claim)+$/, '')}.${seen.key}.claim`;
-  // `cleanUp: false` when this call is itself cleaning up a failed create, so
-  // a full disk can't recurse: a failed claim is then left for age recovery.
-  if (!tryCreate(claim, token, cleanUp)) {
-    // Another waiter is on it, or died there; clear its claim if so.
+export function removeIfUnchanged(path: string, seen: LockSnapshot, cleanUp = true): boolean {
+  const base = path.replace(/(\.[0-9a-f]{32}\.claim)+$/, '');
+  let target = path;
+  let snap = seen;
+  for (let i = 0; i < MAX_CLAIM_CHAIN; i++) {
+    const claim = `${base}.${snap.key}.claim`;
+    if (tryCreate(claim, newToken(), cleanUp)) {
+      try {
+        const now = inspectLock(target);
+        if (now && now.key === snap.key && ownerGone(now)) unlinkLock(target);
+      } finally {
+        unlinkLock(claim);
+      }
+      return true;
+    }
     const held = inspectLock(claim);
-    return depth < 4 && held !== undefined && ownerGone(held)
-      ? removeIfUnchanged(claim, held, token, depth + 1, cleanUp)
-      : false;
+    if (held === undefined) return true; // released meanwhile
+    if (!ownerGone(held)) return false; // a live process is on it: wait
+    target = claim;
+    snap = held;
   }
-  try {
-    if (inspectLock(path)?.key === seen.key) unlinkLock(path);
-  } finally {
-    unlinkLock(claim);
-  }
-  return true;
+  return false;
 }
 
 function pidAlive(pid: number): boolean {

@@ -309,7 +309,7 @@ describe('Journal lock', () => {
     await rm(lock());
     const fresh = token({ pid: process.pid, id: 'winner' });
     await plantLock(fresh);
-    expect(removeIfUnchanged(lock(), seen as LockSnapshot, token({ pid: process.pid }))).toBe(true);
+    expect(removeIfUnchanged(lock(), seen as LockSnapshot)).toBe(true);
     expect(await readFile(lock(), 'utf8')).toBe(fresh);
     expect((await readdir(hist())).sort()).toEqual(['blobs', 'manifest.lock']);
   });
@@ -327,6 +327,22 @@ describe('Journal lock', () => {
     }
     expect(await manifestSeqs()).toEqual(Array.from({ length: 30 }, (_, i) => i + 1));
   });
+
+  // SHA-566 review: recovery used to stop after 4 nested claims, so a deeper
+  // chain of abandoned claims blocked every write until someone deleted files.
+  it('clears a chain of 6 abandoned claims, deepest first', async () => {
+    const j = await Journal.open(vault, BIG);
+    await plantLock(token({ pid: dead }));
+    let target = lock();
+    for (let i = 0; i < 6; i++) {
+      const { key } = inspectLock(target) as LockSnapshot;
+      target = `${lock()}.${key}.claim`;
+      await writeFile(target, token({ pid: dead, id: `claim${i}` }));
+    }
+    await write(j, 't', 'v1', 'v2');
+    expect(j.list().total).toBe(1);
+    expect((await readdir(hist())).sort()).toEqual(['blobs', 'manifest.jsonl']);
+  }, 15_000);
 
   it('fails the commit, not hangs, when the lock cannot be created at all', async () => {
     const j = await Journal.open(vault, BIG);

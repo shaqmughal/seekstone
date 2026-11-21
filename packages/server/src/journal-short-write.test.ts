@@ -1,10 +1,11 @@
 import { spawnSync } from 'node:child_process';
 import { unlinkSync, writeFileSync } from 'node:fs';
-import { mkdtemp, readdir, readFile, rm } from 'node:fs/promises';
+import { mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { hostname, tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { contentHash } from './content-hash.js';
+import { buildIndex } from './index/build.js';
 import {
   HISTORY_DIR,
   inspectLock,
@@ -13,6 +14,9 @@ import {
   journalWrite,
   type LockSnapshot,
 } from './journal.js';
+import { PERMISSIVE_POLICY } from './policy.js';
+import { appendNote } from './tools/append_note.js';
+import { undoWrite } from './tools/undo_write.js';
 
 // SHA-566: writeSync may write fewer bytes than asked. These tests make it do
 // so (or fail) and check the journal never reports a commit it didn't finish.
@@ -21,12 +25,20 @@ type Mode =
   | { kind: 'normal' }
   | { kind: 'chunks'; size: number }
   | { kind: 'tornLine' }
+  | { kind: 'tornNewline' }
   | { kind: 'beforeLockToken'; run: () => void; fail?: boolean }
-  | { kind: 'renameClash'; garbage?: boolean }
+  | { kind: 'renameClash'; garbage?: Buffer }
   | { kind: 'tokensFail' };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
-/** When set, runs right after the next closeSync (the creator's pause point). */
-const afterClose = vi.hoisted(() => ({ run: undefined as (() => void) | undefined }));
+/**
+ * When set, runs right after the next closeSync whose fd was opened with
+ * `path` and `flags` matching `when` (any close if `when` is unset). This is
+ * where a test plays the other process while ours is paused.
+ */
+const afterClose = vi.hoisted(() => ({
+  run: undefined as (() => void) | undefined,
+  when: undefined as ((path: string, flags: string) => boolean) | undefined,
+}));
 /** When set, the next blob read fails with ENOENT although the blob is on disk. */
 const staleRead = vi.hoisted(() => ({ next: false }));
 
@@ -80,9 +92,10 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     if (m.kind === 'chunks') return fs.writeSync(fd, buf, off, Math.min(len, m.size));
     // tornLine: a manifest line gets 7 bytes out, then the disk fails.
+    // tornNewline: all of it but the final newline gets out, then it fails.
     if (!buf.includes('"files"')) return fs.writeSync(fd, buf, off, len);
     if (off > 0) throw Object.assign(new Error('EIO: i/o error, write'), { code: 'EIO' });
-    return fs.writeSync(fd, buf, off, Math.min(len, 7));
+    return fs.writeSync(fd, buf, off, m.kind === 'tornLine' ? Math.min(len, 7) : len - 1);
   };
   // renameClash: another process places the same blob first, and the rename
   // onto it fails the way Windows fails it.
@@ -90,24 +103,36 @@ vi.mock('node:fs', async (importOriginal) => {
     const m = mode.current;
     if (m.kind === 'renameClash' && from.endsWith('.seekstone-tmp')) {
       mode.current = { kind: 'normal' };
-      if (m.garbage) fs.writeFileSync(to, 'not the pre-image');
+      if (m.garbage) fs.writeFileSync(to, m.garbage);
       else fs.copyFileSync(from, to);
       throw Object.assign(new Error('EPERM: operation not permitted, rename'), { code: 'EPERM' });
     }
     fs.renameSync(from, to);
   };
+  const opened = new Map<number, [string, string]>();
+  const openSync = (path: string, flags: string, ...rest: unknown[]): number => {
+    const fd = (fs.openSync as (...a: unknown[]) => number)(path, flags, ...rest);
+    opened.set(fd, [String(path), String(flags)]);
+    return fd;
+  };
   const closeSync = (fd: number): void => {
+    const [path, flags] = opened.get(fd) ?? ['', ''];
+    opened.delete(fd);
     fs.closeSync(fd);
-    const run = afterClose.run;
-    afterClose.run = undefined;
-    run?.();
+    const { run, when } = afterClose;
+    if (run && (!when || when(path, flags))) {
+      afterClose.run = undefined;
+      afterClose.when = undefined;
+      run();
+    }
   };
   return {
     ...fs,
     writeSync,
     renameSync,
+    openSync,
     closeSync,
-    default: { ...fs, writeSync, renameSync, closeSync },
+    default: { ...fs, writeSync, renameSync, openSync, closeSync },
   };
 });
 
@@ -122,6 +147,9 @@ beforeEach(async () => {
 });
 afterEach(async () => {
   mode.current = { kind: 'normal' };
+  afterClose.run = undefined;
+  afterClose.when = undefined;
+  vi.restoreAllMocks();
   await rm(vault, { recursive: true, force: true });
 });
 
@@ -267,20 +295,20 @@ describe('Journal with short writes', () => {
 
   it('fails the write when the blob found after a failed rename has other bytes', async () => {
     const j = await Journal.open(vault, BIG);
-    mode.current = { kind: 'renameClash', garbage: true };
+    mode.current = { kind: 'renameClash', garbage: Buffer.from('not the pre-image') };
     await expect(write(j, 'a', 'shared pre-image', 'v2')).rejects.toThrow(/EPERM/);
     expect(j.list().total).toBe(0);
   });
 
   // SHA-566 review: a pre-image read can fail with ENOENT after a concurrent
-  // commit has already restored the blob. The cache must not forget a blob
-  // that is on disk.
+  // commit has already restored the blob. The blob is on disk, so the read is
+  // retried and the cache keeps it.
   it('keeps a blob in the cache when a failed read races its restore', async () => {
     const j = await Journal.open(vault, BIG);
     await write(j, 'a', 'restored pre-image', 'v2');
     const bytes = j.storedBytes;
     staleRead.next = true;
-    await expect(j.preimage(contentHash('restored pre-image'))).rejects.toThrow(/ENOENT/);
+    expect(await j.preimage(contentHash('restored pre-image'))).toBe('restored pre-image');
     expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
     expect(j.storedBytes).toBe(bytes);
     expect(await j.preimage(contentHash('restored pre-image'))).toBe('restored pre-image');
@@ -296,6 +324,7 @@ describe('Journal with short writes', () => {
       kind: 'beforeLockToken',
       fail: true,
       run: () => {
+        afterClose.when = (p, flags) => p === lock && flags === 'wx';
         afterClose.run = () => {
           unlinkSync(lock);
           writeFileSync(lock, other);
@@ -326,5 +355,109 @@ describe('Journal with short writes', () => {
     } finally {
       vi.restoreAllMocks();
     }
+  });
+
+  // SHA-566 review: a waiter can match a stale empty lock and pause before
+  // unlinking it. If the creator then publishes its token and reads it back,
+  // it would run while the waiter deletes its lock and a third process enters.
+  // A creator that took that long to write never uses the file.
+  it('a creator that wrote its token late never uses the file', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    const realNow = Date.now;
+    let swapped!: () => void;
+    const reached = new Promise<void>((r) => {
+      swapped = r;
+    });
+    mode.current = {
+      kind: 'beforeLockToken',
+      run: () => {
+        vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000); // paused
+        // The paused waiter resumes after our next look at the lock: it
+        // deletes it, and a third process takes a new one.
+        afterClose.when = (p, flags) => p === lock && flags === 'r';
+        afterClose.run = () => {
+          unlinkSync(lock);
+          writeFileSync(lock, other);
+          swapped();
+        };
+      },
+    };
+    let done = false;
+    const pending = write(j, 'a', 'v1', 'v2').then(() => {
+      done = true;
+    });
+    await reached;
+    await new Promise((r) => setTimeout(r, 50));
+    expect(done).toBe(false);
+    expect(await readFile(lock, 'utf8')).toBe(other);
+    await rm(lock);
+    await pending;
+    expect(j.list().total).toBe(1);
+    expect((await readdir(join(vault, HISTORY_DIR))).sort()).toEqual(['blobs', 'manifest.jsonl']);
+  });
+
+  // SHA-566 review: hash the bytes, not their UTF-8 decoding. An invalid byte
+  // decodes to U+FFFD, so a corrupt blob could match a pre-image containing it.
+  it('rejects a blob whose bytes differ even when they decode to the same text', async () => {
+    const j = await Journal.open(vault, BIG);
+    mode.current = { kind: 'renameClash', garbage: Buffer.from([0x61, 0xff, 0x62]) };
+    await expect(write(j, 'a', 'a�b', 'v2')).rejects.toThrow(/EPERM/);
+    expect(j.list().total).toBe(0);
+  });
+
+  // SHA-566 review: an append that fails on the final newline leaves a whole
+  // JSON row without it. The next commit must cut it off, not complete it.
+  it('cuts off a torn last line before the next append, and a restart agrees', async () => {
+    const j = await Journal.open(vault, BIG);
+    mode.current = { kind: 'tornNewline' };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(/EIO/);
+    mode.current = { kind: 'normal' };
+    await write(j, 'b', 'v1', 'v2');
+    const seqs = (x: Journal) => x.list().writes.map((w) => `${w.seq}${w.tool}`);
+    expect(seqs(j)).toEqual(['1b']);
+    expect(seqs(await Journal.open(vault, BIG))).toEqual(['1b']);
+  });
+
+  it('cuts off a torn last line left before a restart', async () => {
+    const j = await Journal.open(vault, BIG);
+    await write(j, 'a', 'v1', 'v2');
+    mode.current = { kind: 'tornNewline' };
+    await expect(write(j, 'b', 'v2', 'v3')).rejects.toThrow(/EIO/);
+    mode.current = { kind: 'normal' };
+    const restarted = await Journal.open(vault, BIG); // as after a crash
+    await write(restarted, 'c', 'v2', 'v3');
+    const seqs = (x: Journal) => x.list().writes.map((w) => `${w.seq}${w.tool}`);
+    expect(seqs(restarted)).toEqual(['2c', '1a']);
+    expect(seqs(await Journal.open(vault, BIG))).toEqual(['2c', '1a']);
+  });
+
+  // SHA-566 review: deleting the lock file by hand is only safe with every
+  // server stopped; the timeout error says so.
+  it('the lock timeout tells the operator to stop every server first', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    writeFileSync(lock, other); // held by a live process
+    const realNow = Date.now;
+    afterClose.when = (p, flags) => p === lock && flags === 'r';
+    afterClose.run = () => {
+      vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 61_000);
+    };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(
+      /timed out .*stop every seekstone server that shares this vault, then delete the file/,
+    );
+  });
+
+  // SHA-566 review: undo_write must not report entry_evicted for a read that
+  // only raced a restore.
+  it('undo_write succeeds when its pre-image read races a restore', async () => {
+    await writeFile(join(vault, 'Note.md'), 'start\n', 'utf8');
+    const built = await buildIndex(vault);
+    const j = await Journal.open(vault, BIG);
+    const ctx = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY, journal: j };
+    await appendNote(ctx, { path: 'Note.md', content: 'more' });
+    staleRead.next = true;
+    expect((await undoWrite(ctx, { seq: 1 })).undoSeq).toBe(2);
+    expect(await readFile(join(vault, 'Note.md'), 'utf8')).toBe('start\n');
   });
 });
