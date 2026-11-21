@@ -137,7 +137,13 @@ The model comes from the ticket's Linear labels: `factory:opus` always gets Opus
 
 ### Draft PRs
 
-`factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch. Once every required check has passed on the head commit, it marks the PR ready for review. Until then it waits. Skipped and neutral results count as passing. Ready for review is also what moves the ticket to In Review. CodeRabbit reviews the draft as soon as it opens, and the review gate passes on a draft, so only the CI checks decide when it is marked ready.
+`factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch, and when CodeRabbit's check finishes. The PR stays a draft until every required check has passed on the head commit and CodeRabbit has reviewed that commit. Skipped and neutral results count as passing. A CodeRabbit review counts when it is on the head commit (an approval, a request for changes or a plain comment review), or when its check on the head finished `success`, or `skipped` with "No files to review". Ready for review is also what moves the ticket to In Review. The review gate passes on a draft, so it doesn't hold the draft step up.
+
+### The review round
+
+When CI is green and CodeRabbit has open findings, the follow-up starts one review round before it marks the PR ready. Open findings are any of: CodeRabbit's latest approval or request for changes asks for changes, an unresolved CodeRabbit thread, a finding in its summary comment, or a comment its latest review left outside the diff. The round is a fix run (`factory.yml` with `round=review`) whose input is `review-findings.md`: each finding with its severity and place, quoted as data. The agent fixes the findings that hold up, each with a failing test first, and for the rest writes a reason. Deliver posts reasons for threads as replies from the factory app, only on threads that are still open. Major and Critical findings must be fixed or blocked on.
+
+After the round the PR is marked ready. If anything is still open, it also gets the `factory-review-open` label and a comment, and is left for a maintainer: there is no second round. The round runs once per PR, marked by a comment from the factory app, and nothing else starts until its run posts a done marker. A CI failure after the round goes through the CI-fix loop as usual. A failing check always goes to the CI-fix loop first, because CI results arrive minutes before CodeRabbit's review and the round should start from a green branch.
 
 ### The CI-fix loop
 
@@ -145,7 +151,7 @@ A required check that fails on a draft factory PR starts a fix run. The follow-u
 
 - **Attempts.** Two fix attempts per PR. A ticket that started on Sonnet gets a third, and that last one runs on Opus.
 - **Out of attempts.** If required checks still fail, the follow-up workflow comments on the PR, adds the `factory-blocked` label and moves the ticket to Blocked. It does the same if it cannot start the fix run.
-- **By hand.** `gh workflow run factory-followup.yml -f branch=factory/SHA-123-slug` makes the same decision a CI event would. `factory.yml` also takes `pr`, `attempt` and `model` inputs, but those are meant for the follow-up workflow.
+- **By hand.** `gh workflow run factory-followup.yml -f branch=factory/SHA-123-slug` makes the same decision a CI event would. `factory.yml` also takes `pr`, `attempt`, `model` and `round` inputs, but those are meant for the follow-up workflow.
 
 ### The `factory-blocked` label
 

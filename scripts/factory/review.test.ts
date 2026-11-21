@@ -119,6 +119,11 @@ describe('reviewStatus', () => {
     for (const runs of [check('skipped', 'Review skipped'), check('cancelled'), []]) {
       expect(reviewStatus({ ...base, reviews: [], checkRuns: runs }).reviewed).toBe(false);
     }
+    // auto_approvals: the approval or request for changes on the head is the review.
+    for (const state of ['APPROVED', 'CHANGES_REQUESTED']) {
+      const s = reviewStatus({ ...base, reviews: [review(state)] });
+      expect(s).toMatchObject({ reviewed: true, changesRequested: state === 'CHANGES_REQUESTED' });
+    }
     const other = [review('COMMENTED', HEAD, { login: 'shaq' })];
     expect(reviewStatus({ ...base, reviews: other }).reviewed).toBe(false);
   });
@@ -133,6 +138,8 @@ describe('reviewStatus', () => {
     expect(reviewStatus({ ...base, reviews: later }).open).toBe(0);
     reviews.push(review('APPROVED'));
     expect(reviewStatus({ ...base, reviews }).changesRequested).toBe(false);
+    const dismissed = [review('CHANGES_REQUESTED', 'old'), review('DISMISSED', 'old')];
+    expect(reviewStatus({ ...base, reviews: dismissed }).changesRequested).toBe(false);
   });
 });
 

@@ -139,7 +139,11 @@ export function checkReviewed(checkRuns) {
 export function reviewStatus({ reviews, threads, comments, checkRuns, headSha }) {
   const mine = reviews.filter((r) => isCodeRabbit(r.author?.login));
   const reviewed = mine.some((r) => r.commit?.oid === headSha) || checkReviewed(checkRuns);
-  const verdict = mine.filter((r) => ['APPROVED', 'CHANGES_REQUESTED'].includes(r.state)).at(-1);
+  // Same rule as scripts/review-gate.mjs: a comment review doesn't change
+  // the verdict, a dismissal clears it.
+  const verdict = mine
+    .filter((r) => ['APPROVED', 'CHANGES_REQUESTED', 'DISMISSED'].includes(r.state))
+    .at(-1);
   return {
     reviewed,
     changesRequested: verdict?.state === 'CHANGES_REQUESTED',
