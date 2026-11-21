@@ -10,7 +10,7 @@ export interface VaultStatsResult {
   folders: number;
   /** unique = distinct tags (same as list_tags total); tagged = notes with at least one tag. */
   tags: { unique: number; tagged: number };
-  /** Backlink refs to existing notes, already deduped per source→target by the index. */
+  /** Backlink refs to existing notes (removeDoc parks a deleted note's refs), deduped per source→target. */
   links: { resolved: number };
   /** median is the lower middle value for an even count; largest is omitted for an empty vault. */
   bytes: { total: number; median: number; largest?: { path: string; size: number } };
@@ -70,12 +70,8 @@ export function vaultStats(ctx: ServerContext, now: number = Date.now()): VaultS
     }
   }
 
-  // A deleted note keeps its backlink bucket, so the links come back if the
-  // note does (undo_write, a re-create). Count only buckets of live notes.
   let resolved = 0;
-  for (const [target, refs] of ctx.backlinks) {
-    if (ctx.notes.has(target)) resolved += refs.length;
-  }
+  for (const refs of ctx.backlinks.values()) resolved += refs.length;
 
   sizes.sort();
   const bytes: VaultStatsResult['bytes'] = {

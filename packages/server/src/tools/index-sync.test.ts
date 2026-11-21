@@ -9,6 +9,8 @@ import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from './append_note.js';
 import { createNote } from './create_note.js';
 import { deleteNote } from './delete_note.js';
+import { getBacklinks } from './get_backlinks.js';
+import { listWrites } from './list_writes.js';
 import { moveNote } from './move_note.js';
 import { patchFrontmatter } from './patch_frontmatter.js';
 import { patchNote } from './patch_note.js';
@@ -128,6 +130,19 @@ describe('the index matches a cold rebuild right after each write', () => {
     await undoWrite(ctx, {});
     await expectInSync();
     expect(vaultStats(ctx).links.resolved).toBe(4);
+  });
+
+  it('a restored note gets back inbound links from notes that still exist', async () => {
+    const gone = await deleteNote(ctx, { path: 'Gamma.md' });
+    expect(gone.permanent).toBe(false);
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).total).toBe(0);
+    await deleteNote(ctx, { path: 'Home.md' });
+    const [first] = listWrites(ctx, { path: 'Gamma.md' }).writes;
+    await undoWrite(ctx, { seq: first?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
+      'A/Beta.md',
+    ]);
   });
 
   it('move_note without rewriting links keeps refs that still resolve', async () => {

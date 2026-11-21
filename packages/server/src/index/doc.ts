@@ -2,7 +2,7 @@ import { basename, extname } from 'node:path';
 import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
-import type { ServerContext } from '../context.js';
+import type { BacklinkRef, ServerContext } from '../context.js';
 import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
 import type { IndexedNote } from './types.js';
 
@@ -28,17 +28,57 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
   };
 }
 
-/** Upsert a document into the context index. Discards any stale entry first. */
+/**
+ * Upsert a document into the context index. Discards any stale entry first.
+ * A note that comes back after removeDoc gets its parked inbound refs back.
+ */
 export function upsertDoc(
   ctx: {
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
+    backlinks?: Map<string, BacklinkRef[]>;
+    parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
 ): void {
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
+  else if (ctx.backlinks !== undefined)
+    unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
+}
+
+/** Drop a note from the index and park its inbound refs (see parkedBacklinks). */
+export function removeDoc(ctx: ServerContext, path: string): void {
+  // Clear the note's own outgoing refs while its entry is still readable.
+  removeNoteBacklinks(ctx, path);
+  if (!ctx.notes.has(path)) return;
+  ctx.index.discard(path);
+  ctx.notes.delete(path);
+  const inbound = ctx.backlinks.get(path);
+  if (inbound === undefined) return;
+  ctx.backlinks.delete(path);
+  if (inbound.length === 0) return;
+  ctx.parkedBacklinks ??= new Map();
+  ctx.parkedBacklinks.set(path, inbound);
+}
+
+function unparkBacklinks(
+  backlinks: Map<string, BacklinkRef[]>,
+  parked: Map<string, BacklinkRef[]> | undefined,
+  path: string,
+  notes: Map<string, IndexedNote>,
+): void {
+  const refs = parked?.get(path);
+  if (refs === undefined) return;
+  parked?.delete(path);
+  // A source deleted while this note was gone couldn't clear its ref.
+  const merged = refs.filter((r) => notes.has(r.path));
+  for (const r of backlinks.get(path) ?? []) {
+    if (!merged.some((m) => m.path === r.path)) merged.push(r);
+  }
+  merged.sort((a, b) => a.path.localeCompare(b.path));
+  if (merged.length > 0) backlinks.set(path, merged);
 }
 
 /**
