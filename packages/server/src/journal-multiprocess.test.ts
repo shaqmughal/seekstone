@@ -1,5 +1,14 @@
 import { spawn, spawnSync } from 'node:child_process';
-import { mkdtemp, readdir, readFile, rm, utimes, writeFile } from 'node:fs/promises';
+import {
+  appendFile,
+  mkdtemp,
+  readdir,
+  readFile,
+  rename,
+  rm,
+  utimes,
+  writeFile,
+} from 'node:fs/promises';
 import { hostname, tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
@@ -180,6 +189,29 @@ describe('Journal shared by two processes', () => {
     expect(a.storedBytes).toBe(10_000);
   });
 
+  // SHA-566 review: instance A records a torn tail of N bytes. B cuts it off
+  // and commits a whole row of exactly N bytes. A must reread under the lock
+  // instead of trusting the unchanged size, or it cuts off B's row.
+  it("a stale torn-tail view never cuts off another instance's same-length row", async () => {
+    const a = await Journal.open(vault, BIG);
+    const b = await Journal.open(vault, BIG);
+    await write(a, 'a', 'a1', 'a2'); // seq 1
+    await b.refresh();
+    // B's next row, byte for byte in length (ts is always 24 characters).
+    const row = `${JSON.stringify({
+      seq: 2,
+      ts: new Date().toISOString(),
+      tool: 'b',
+      files: [{ path: 'b.md', preHash: contentHash('b1'), postHash: contentHash('b2') }],
+    })}\n`;
+    await appendFile(hist('manifest.jsonl'), 'x'.repeat(Buffer.byteLength(row)));
+    expect(await a.refresh()).toBe(true); // A now records the torn tail
+    await write(b, 'b', 'b1', 'b2'); // B cuts it off and appends seq 2
+    await write(a, 'a', 'a2', 'a3'); // A must see seq 2 and take seq 3
+    const rows = (await Journal.open(vault, BIG)).list().writes;
+    expect(rows.map((w) => `${w.seq}${w.tool}`)).toEqual(['3a', '2b', '1a']);
+  });
+
   it('a real second process committing alongside ends with 2N unique entries', async () => {
     const N = 40;
     const journalUrl = new URL('./journal.ts', import.meta.url).href;
@@ -218,12 +250,24 @@ describe('Journal lock', () => {
     }
   }
   /** Start a commit, check it is still waiting after a while, then free the lock. */
+  /**
+   * Resolve once a commit of pre-image `pre` has reached the lock: its blob
+   * is stored just before, and the lock attempt follows without a pause.
+   * Then give it a few retry cycles.
+   */
+  async function reachedLock(pre: string): Promise<void> {
+    while (!(await readFile(blob(pre)).catch(() => undefined))) {
+      await new Promise((r) => setTimeout(r, 5));
+    }
+    await new Promise((r) => setTimeout(r, 30));
+  }
+
   async function expectWaits(j: Journal): Promise<void> {
     let done = false;
     const pending = write(j, 't', 'v1', 'v2').then(() => {
       done = true;
     });
-    await new Promise((r) => setTimeout(r, 150));
+    await reachedLock('v1');
     expect(done).toBe(false);
     expect(j.list().total).toBe(0);
     await rm(lock());
@@ -281,8 +325,9 @@ describe('Journal lock', () => {
     const pending = write(j, 't', 'v1', 'v2').then(() => {
       done = true;
     });
-    await new Promise((r) => setTimeout(r, 150));
+    await reachedLock('v1');
     expect(done).toBe(false);
+    expect(await readFile(lock(), 'utf8')).toContain(String(dead)); // left alone
     await rm(lock());
     await rm(`${lock()}.${key}.claim`);
     await pending;
@@ -306,11 +351,15 @@ describe('Journal lock', () => {
     await plantLock(token({ pid: dead }));
     const seen = inspectLock(lock());
     expect(seen).toBeDefined();
+    // The replacement also has a dead owner, so only the file identity check
+    // protects it. It is created before the original goes, so it can't reuse
+    // the original's inode.
+    const replacement = token({ pid: dead, id: 'replacement' });
+    await writeFile(hist('replacement.tmp'), replacement);
     await rm(lock());
-    const fresh = token({ pid: process.pid, id: 'winner' });
-    await plantLock(fresh);
+    await rename(hist('replacement.tmp'), lock());
     expect(removeIfUnchanged(lock(), seen as LockSnapshot)).toBe(true);
-    expect(await readFile(lock(), 'utf8')).toBe(fresh);
+    expect(await readFile(lock(), 'utf8')).toBe(replacement);
     expect((await readdir(hist())).sort()).toEqual(['blobs', 'manifest.lock']);
   });
 

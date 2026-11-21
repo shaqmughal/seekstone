@@ -277,10 +277,10 @@ export class Journal {
   }
 
   /** One (sync) stat when nothing changed. Only whole lines are read. */
-  private async load(): Promise<boolean> {
+  private async load(reread = false): Promise<boolean> {
     const known = this.manifestOffset + this.tailBytes;
     const now = statSync(this.manifestPath, { throwIfNoEntry: false });
-    if (!now || (now.ino === this.manifestIno && now.size === known)) return false;
+    if (!now || (!reread && now.ino === this.manifestIno && now.size === known)) return false;
     const fh = await open(this.manifestPath, 'r');
     let buf: Buffer;
     let start: number;
@@ -437,17 +437,7 @@ export class Journal {
     try {
       raw = await readFile(join(this.blobDir, hash), 'utf8');
     } catch (err) {
-      if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
-      const path = join(this.blobDir, hash);
-      if (statSync(path, { throwIfNoEntry: false })) {
-        // A commit restored it after our read failed: read it again.
-        raw = await readFile(path, 'utf8');
-      } else {
-        // Evicted by another process since we last looked: stop listing it.
-        this.totalBytes -= this.blobSizes.get(hash) ?? 0;
-        this.blobSizes.delete(hash);
-        throw err;
-      }
+      raw = await this.rereadBlob(hash, err);
     }
     // Integrity check on the stored blob (not a secret comparison); the
     // constant-time compare is free and keeps static analysis quiet.
@@ -457,6 +447,35 @@ export class Journal {
       throw new Error(`journal: blob ${hash} is corrupt (hash mismatch)`);
     }
     return raw;
+  }
+
+  /**
+   * After a blob read failed with ENOENT. If the blob is absent, it was
+   * evicted: drop it from the cache and rethrow `first` (undo_write reports
+   * entry_evicted). If it is there, a commit restored it: read it again. If
+   * it keeps vanishing and reappearing, throw a retryable error instead, so
+   * a blob that exists is never reported as evicted.
+   */
+  private async rereadBlob(hash: string, first: unknown): Promise<string> {
+    if ((first as NodeJS.ErrnoException).code !== 'ENOENT') throw first;
+    const path = join(this.blobDir, hash);
+    let err = first;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      if (!statSync(path, { throwIfNoEntry: false })) {
+        this.totalBytes -= this.blobSizes.get(hash) ?? 0;
+        this.blobSizes.delete(hash);
+        throw err;
+      }
+      try {
+        return await readFile(path, 'utf8');
+      } catch (e) {
+        if ((e as NodeJS.ErrnoException).code !== 'ENOENT') throw e;
+        err = e;
+      }
+    }
+    throw new Error(
+      `journal: pre-image ${hash} is being evicted and restored by another process; try again`,
+    );
   }
 
   /** Bytes of pre-images currently stored (for diagnostics/tests). */
@@ -497,7 +516,10 @@ export class Journal {
     preimages: Map<string, string>,
     undoOf?: number,
   ): Promise<JournalEntry> {
-    await this.load();
+    // With a torn tail on record, reread past the last complete line rather
+    // than trust the size: another process may have cut it off and appended
+    // a whole row of exactly the same length.
+    await this.load(this.tailBytes > 0);
     // A blob stored before the lock may have been evicted since by another
     // process (shared with an old entry). Our cache can't tell: a refresh may
     // have read that process's manifest line before it removed the blob. So
@@ -581,19 +603,21 @@ export class Journal {
       token = newToken();
       if (tryCreate(this.lockPath, token)) break;
       const seen = inspectLock(this.lockPath);
+      let retryNow = false;
       if (seen && ownerGone(seen)) {
         this.log?.warn('journal: reclaiming the history lock of a process that is gone', {
           owner: seen.body,
         });
-        if (removeIfUnchanged(this.lockPath, seen)) continue;
+        retryNow = removeIfUnchanged(this.lockPath, seen);
       }
+      // Every pass checks the deadline, immediate retries included.
       if (Date.now() > deadline) {
         throw new Error(
           `journal: timed out waiting for the history lock ${this.lockPath} (held by ${seen?.body || 'unknown'}). ` +
             'If that process is not a running seekstone server, stop every seekstone server that shares this vault, then delete the file.',
         );
       }
-      await sleep(LOCK_RETRY_MS);
+      if (!retryNow) await sleep(LOCK_RETRY_MS);
     }
     const acquired = Date.now();
     try {
@@ -664,7 +688,8 @@ function unlinkLock(lockPath: string): void {
 
 /** Create `path` exclusively with `body`. False if it already exists. */
 function tryCreate(path: string, body: string, cleanUp = true): boolean {
-  const before = Date.now();
+  // A monotonic clock: a wall-clock step back must not hide a long stall.
+  const before = performance.now();
   let fd: number;
   try {
     fd = openSync(path, 'wx');
@@ -679,7 +704,7 @@ function tryCreate(path: string, body: string, cleanUp = true): boolean {
     writeAll(fd, body);
     // Written within half of LOCK_STALE_MS of the create: no waiter can have
     // judged this file stale while it had no token.
-    inTime = Date.now() - before < LOCK_STALE_MS / 2;
+    inTime = performance.now() - before < LOCK_STALE_MS / 2;
   } catch (err) {
     abandon(path, fd, cleanUp);
     throw err;
@@ -826,7 +851,10 @@ export function removeIfUnchanged(path: string, seen: LockSnapshot, cleanUp = tr
       return true;
     }
     const held = inspectLock(claim);
-    if (held === undefined) return true; // released meanwhile
+    if (held === undefined) {
+      // Retry at once only if the claim is really gone, not merely unreadable.
+      return !statSync(claim, { throwIfNoEntry: false });
+    }
     if (!ownerGone(held)) return false; // a live process is on it: wait
     target = claim;
     snap = held;

@@ -39,17 +39,25 @@ const afterClose = vi.hoisted(() => ({
   run: undefined as (() => void) | undefined,
   when: undefined as ((path: string, flags: string) => boolean) | undefined,
 }));
-/** When set, the next blob read fails with ENOENT although the blob is on disk. */
-const staleRead = vi.hoisted(() => ({ next: false }));
+/**
+ * Scripted blob reads, one step per read: 'stale' fails with ENOENT although
+ * the blob is on disk (the read lost a race with a restore); a function runs
+ * first and then the read goes ahead.
+ */
+const staleRead = vi.hoisted(() => ({ script: [] as Array<'stale' | (() => void)> }));
+/** While above zero, opening a claim file for reading fails with EACCES. */
+const unreadableClaims = vi.hoisted(() => ({ left: 0 }));
+/** Set when a zero-byte write was injected into a manifest append. */
+const manifestZero = vi.hoisted(() => ({ armed: false, fired: false }));
 
 vi.mock('node:fs/promises', async (importOriginal) => {
   const fsp = await importOriginal<typeof import('node:fs/promises')>();
   const readFile = ((...args: Parameters<typeof fsp.readFile>) => {
-    if (staleRead.next && String(args[0]).includes('blobs')) {
-      staleRead.next = false;
-      // The read lost a race: another commit restored the blob after it looked.
+    const step = String(args[0]).includes('blobs') ? staleRead.script.shift() : undefined;
+    if (step === 'stale') {
       return Promise.reject(Object.assign(new Error('ENOENT: no such file'), { code: 'ENOENT' }));
     }
+    step?.();
     return fsp.readFile(...args);
   }) as typeof fsp.readFile;
   return { ...fsp, readFile, default: { ...fsp, readFile } };
@@ -60,6 +68,11 @@ vi.mock('node:fs', async (importOriginal) => {
   const writeSync = (fd: number, data: unknown, ...rest: unknown[]): number => {
     const m = mode.current;
     const real = () => (fs.writeSync as (...a: unknown[]) => number)(fd, data, ...rest);
+    if (manifestZero.armed && Buffer.isBuffer(data) && data.includes('"files"')) {
+      manifestZero.armed = false;
+      manifestZero.fired = true;
+      return 0;
+    }
     if (m.kind === 'normal') return real();
     if (m.kind === 'tokensFail') {
       // A full disk: every lock and claim token write fails.
@@ -111,6 +124,10 @@ vi.mock('node:fs', async (importOriginal) => {
   };
   const opened = new Map<number, [string, string]>();
   const openSync = (path: string, flags: string, ...rest: unknown[]): number => {
+    if (unreadableClaims.left > 0 && flags === 'r' && String(path).endsWith('.claim')) {
+      unreadableClaims.left--;
+      throw Object.assign(new Error('EACCES: permission denied, open'), { code: 'EACCES' });
+    }
     const fd = (fs.openSync as (...a: unknown[]) => number)(path, flags, ...rest);
     opened.set(fd, [String(path), String(flags)]);
     return fd;
@@ -136,6 +153,14 @@ vi.mock('node:fs', async (importOriginal) => {
   };
 });
 
+/** A stall of `ms`: both the wall clock and the monotonic clock move on. */
+function stall(ms: number): void {
+  const realNow = Date.now;
+  const realPerf = performance.now.bind(performance);
+  vi.spyOn(Date, 'now').mockImplementation(() => realNow() + ms);
+  vi.spyOn(performance, 'now').mockImplementation(() => realPerf() + ms);
+}
+
 let vault: string;
 const BIG = { maxBytes: 1e9, maxEntries: 1e6 };
 const write = (j: Journal, tool: string, pre: string | null, post: string) =>
@@ -149,6 +174,10 @@ afterEach(async () => {
   mode.current = { kind: 'normal' };
   afterClose.run = undefined;
   afterClose.when = undefined;
+  staleRead.script = [];
+  unreadableClaims.left = 0;
+  manifestZero.armed = false;
+  manifestZero.fired = false;
   vi.restoreAllMocks();
   await rm(vault, { recursive: true, force: true });
 });
@@ -180,6 +209,16 @@ describe('Journal with short writes', () => {
     expect(j.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['1b']);
   });
 
+  it('a manifest append that makes no progress fails the commit and releases the lock', async () => {
+    const j = await Journal.open(vault, BIG);
+    manifestZero.armed = true;
+    await expect(write(j, 'a', null, 'x')).rejects.toThrow(/no progress/);
+    expect(manifestZero.fired).toBe(true);
+    expect(await readdir(join(vault, HISTORY_DIR))).not.toContain('manifest.lock');
+    await write(j, 'b', 'v1', 'v2');
+    expect(j.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['1b']);
+  });
+
   it('fails the commit when the manifest line is torn, and the next commit still lands', async () => {
     const j = await Journal.open(vault, BIG);
     mode.current = { kind: 'tornLine' };
@@ -203,7 +242,6 @@ describe('Journal with short writes', () => {
    * that happened, with the commit's promise.
    */
   async function pauseAtToken(j: Journal, path: () => string, fail = false) {
-    const realNow = Date.now;
     let paused!: () => void;
     const reached = new Promise<void>((r) => {
       paused = r;
@@ -212,7 +250,7 @@ describe('Journal with short writes', () => {
       kind: 'beforeLockToken',
       fail,
       run: () => {
-        vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000);
+        stall(31_000);
         unlinkSync(path());
         writeFileSync(path(), other);
         paused();
@@ -307,7 +345,7 @@ describe('Journal with short writes', () => {
     const j = await Journal.open(vault, BIG);
     await write(j, 'a', 'restored pre-image', 'v2');
     const bytes = j.storedBytes;
-    staleRead.next = true;
+    staleRead.script = ['stale'];
     expect(await j.preimage(contentHash('restored pre-image'))).toBe('restored pre-image');
     expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
     expect(j.storedBytes).toBe(bytes);
@@ -364,7 +402,6 @@ describe('Journal with short writes', () => {
   it('a creator that wrote its token late never uses the file', async () => {
     const j = await Journal.open(vault, BIG);
     const lock = join(vault, HISTORY_DIR, 'manifest.lock');
-    const realNow = Date.now;
     let swapped!: () => void;
     const reached = new Promise<void>((r) => {
       swapped = r;
@@ -372,7 +409,7 @@ describe('Journal with short writes', () => {
     mode.current = {
       kind: 'beforeLockToken',
       run: () => {
-        vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000); // paused
+        stall(31_000);
         // The paused waiter resumes after our next look at the lock: it
         // deletes it, and a third process takes a new one.
         afterClose.when = (p, flags) => p === lock && flags === 'r';
@@ -456,8 +493,110 @@ describe('Journal with short writes', () => {
     const j = await Journal.open(vault, BIG);
     const ctx = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY, journal: j };
     await appendNote(ctx, { path: 'Note.md', content: 'more' });
-    staleRead.next = true;
+    staleRead.script = ['stale'];
     expect((await undoWrite(ctx, { seq: 1 })).undoSeq).toBe(2);
     expect(await readFile(join(vault, 'Note.md'), 'utf8')).toBe('start\n');
+  });
+
+  // SHA-566 review: the create-to-write interval is measured on a monotonic
+  // clock. A stall followed by a wall-clock step back must still count.
+  it('a long stall counts even if the wall clock steps back meanwhile', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    const realPerf = performance.now.bind(performance);
+    let swapped!: () => void;
+    const reached = new Promise<void>((r) => {
+      swapped = r;
+    });
+    mode.current = {
+      kind: 'beforeLockToken',
+      run: () => {
+        // 31 s pass, but the wall clock is stepped back by the same amount.
+        vi.spyOn(performance, 'now').mockImplementation(() => realPerf() + 31_000);
+        unlinkSync(lock);
+        writeFileSync(lock, other); // a waiter reclaimed it and took its own
+        swapped();
+      },
+    };
+    let done = false;
+    const pending = write(j, 'a', 'v1', 'v2').then(() => {
+      done = true;
+    });
+    await reached;
+    await new Promise((r) => setTimeout(r, 50));
+    expect(done).toBe(false);
+    expect(await readFile(lock, 'utf8')).toBe(other);
+    await rm(lock);
+    await pending;
+    expect(j.list().total).toBe(1);
+  });
+
+  // SHA-566 review: a claim that exists but can't be read must not make the
+  // lock loop retry at once forever; it waits and honours the deadline.
+  it('an unreadable claim leads to the lock timeout, not a busy loop', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    const deadPid = spawnSync(process.execPath, ['-e', '']).pid;
+    const dead = (id: string) => JSON.stringify({ pid: deadPid, host: hostname(), id });
+    writeFileSync(lock, dead('lock'));
+    writeFileSync(`${lock}.${(inspectLock(lock) as LockSnapshot).key}.claim`, dead('claim'));
+    unreadableClaims.left = 2000;
+    const realNow = Date.now;
+    afterClose.when = (p, flags) => p === lock && flags === 'r';
+    afterClose.run = () => {
+      vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 61_000);
+    };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(/timed out/);
+    expect(unreadableClaims.left).toBeGreaterThan(1990);
+  });
+
+  // SHA-566 review: a reread that also fails must still tell eviction (blob
+  // gone: clear the cache) from a blob that keeps coming back (retryable).
+  it('a reread that finds the blob gone clears the cache', async () => {
+    const j = await Journal.open(vault, BIG);
+    await write(j, 'a', 'pre-image', 'v2');
+    const blob = join(vault, HISTORY_DIR, 'blobs', contentHash('pre-image'));
+    staleRead.script = ['stale', () => unlinkSync(blob)];
+    await expect(j.preimage(contentHash('pre-image'))).rejects.toThrow(/ENOENT/);
+    expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(false);
+  });
+
+  it('a blob that keeps vanishing and reappearing gives a retryable error, not eviction', async () => {
+    const j = await Journal.open(vault, BIG);
+    await write(j, 'a', 'pre-image', 'v2');
+    staleRead.script = ['stale', 'stale', 'stale', 'stale'];
+    const err = await j.preimage(contentHash('pre-image')).catch((e: unknown) => e);
+    expect(String(err)).toMatch(/try again/);
+    expect((err as NodeJS.ErrnoException).code).not.toBe('ENOENT');
+    expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
+  });
+
+  // SHA-566 review: age-based recovery must work in a process that never saw
+  // the failure (no record of abandoned files): it waits while the leftovers
+  // are fresh and reclaims them once they are LOCK_STALE_MS old.
+  it('a fresh process waits on fresh leftovers and reclaims them once old', async () => {
+    const j = await Journal.open(vault, BIG);
+    mode.current = { kind: 'tokensFail' };
+    await expect(write(j, 'a', 'v1', 'v2')).rejects.toThrow(/ENOSPC/);
+    mode.current = { kind: 'normal' };
+    vi.resetModules(); // a new module instance: nothing recorded as abandoned
+    const fresh = await import('./journal.js');
+    const other2 = await fresh.Journal.open(vault, BIG);
+    let done = false;
+    const pending = fresh.journalWrite({ journal: other2 }, 'b', 'b.md', 'w1', 'w2').then(() => {
+      done = true;
+    });
+    // Proof it got as far as the lock: its pre-image is stored.
+    const blob = join(vault, HISTORY_DIR, 'blobs', contentHash('w1'));
+    while (!(await readFile(blob).catch(() => undefined))) {
+      await new Promise((r) => setTimeout(r, 5));
+    }
+    await new Promise((r) => setTimeout(r, 50));
+    expect(done).toBe(false);
+    const realNow = Date.now;
+    vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000);
+    await pending;
+    expect(other2.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['1b']);
+    expect((await readdir(join(vault, HISTORY_DIR))).sort()).toEqual(['blobs', 'manifest.jsonl']);
   });
 });
