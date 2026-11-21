@@ -173,6 +173,13 @@ describe('Journal shared by two processes', () => {
     expect((await readdir(hist('blobs'))).every((n) => /^[0-9a-f]{64}$/.test(n))).toBe(true);
   });
 
+  it('counts a blob stored twice at once by one instance only once', async () => {
+    const a = await Journal.open(vault, BIG);
+    const pre = 'y'.repeat(10_000);
+    await Promise.all([a.begin('a').add('a.md', pre, 'z'), a.begin('b').add('b.md', pre, 'z')]);
+    expect(a.storedBytes).toBe(10_000);
+  });
+
   it('a real second process committing alongside ends with 2N unique entries', async () => {
     const N = 40;
     const journalUrl = new URL('./journal.ts', import.meta.url).href;

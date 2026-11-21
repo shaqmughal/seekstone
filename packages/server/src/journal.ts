@@ -458,6 +458,8 @@ export class Journal {
     const hash = contentHash(content);
     if (this.blobSizes.has(hash)) return hash;
     await writeDurable(join(this.blobDir, hash), content);
+    // A concurrent add of the same pre-image may have counted it meanwhile.
+    if (this.blobSizes.has(hash)) return hash;
     const size = Buffer.byteLength(content, 'utf8');
     this.blobSizes.set(hash, size);
     this.totalBytes += size;
@@ -518,7 +520,9 @@ export class Journal {
    * however long it pauses, so two processes never both think they hold it.
    * Age decides only where liveness can't be checked: a lock with no token
    * (its owner died between create and write) or one held from another host
-   * is reclaimed when its file is older than LOCK_STALE_MS.
+   * is reclaimed when its file is older than LOCK_STALE_MS. A process that
+   * was itself paused for over half that between creating the lock and
+   * writing its token reads the lock back before using it.
    *
    * Removing a dead lock by path is racy on its own: two waiters can judge
    * the same dead lock, and the slower one would delete the lock the faster
@@ -538,7 +542,14 @@ export class Journal {
     const token = `${TOKEN_HEAD}${++tokenCount}","ts":${ts}}`;
     const deadline = ts + LOCK_WAIT_MS;
     for (;;) {
-      if (tryCreate(this.lockPath, token)) break;
+      const before = Date.now();
+      if (tryCreate(this.lockPath, token)) {
+        // Paused between the create and the token write long enough for a
+        // waiter to reclaim the empty file? Then check the path is still ours.
+        if (Date.now() - before < LOCK_STALE_MS / 2) break;
+        if (inspectLock(this.lockPath)?.body === token) break;
+        continue;
+      }
       const seen = inspectLock(this.lockPath);
       if (seen && ownerGone(seen)) {
         this.log?.warn('journal: reclaiming the history lock of a process that is gone', {

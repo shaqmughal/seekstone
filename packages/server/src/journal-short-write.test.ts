@@ -1,5 +1,6 @@
+import { unlinkSync, writeFileSync } from 'node:fs';
 import { mkdtemp, readdir, readFile, rm } from 'node:fs/promises';
-import { tmpdir } from 'node:os';
+import { hostname, tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { HISTORY_DIR, Journal, journalWrite } from './journal.js';
@@ -7,15 +8,27 @@ import { HISTORY_DIR, Journal, journalWrite } from './journal.js';
 // SHA-566: writeSync may write fewer bytes than asked. These tests make it do
 // so (or fail) and check the journal never reports a commit it didn't finish.
 
-type Mode = { kind: 'normal' } | { kind: 'chunks'; size: number } | { kind: 'tornLine' };
+type Mode =
+  | { kind: 'normal' }
+  | { kind: 'chunks'; size: number }
+  | { kind: 'tornLine' }
+  | { kind: 'beforeLockToken'; run: () => void };
 const mode = vi.hoisted(() => ({ current: { kind: 'normal' } as Mode }));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
   const writeSync = (fd: number, data: unknown, ...rest: unknown[]): number => {
     const m = mode.current;
-    if (m.kind === 'normal')
-      return (fs.writeSync as (...a: unknown[]) => number)(fd, data, ...rest);
+    const real = () => (fs.writeSync as (...a: unknown[]) => number)(fd, data, ...rest);
+    if (m.kind === 'normal') return real();
+    if (m.kind === 'beforeLockToken') {
+      // Lock and claim tokens carry a host; manifest lines and blobs don't.
+      if (Buffer.isBuffer(data) && data.includes('"host"')) {
+        mode.current = { kind: 'normal' };
+        m.run();
+      }
+      return real();
+    }
     let buf: Buffer;
     let off = 0;
     let len: number;
@@ -87,5 +100,38 @@ describe('Journal with short writes', () => {
     expect((await Journal.open(vault, BIG)).list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual([
       '1b',
     ]);
+  });
+
+  // SHA-566 review: a creator paused between creating the lock and writing
+  // its token can have the empty lock reclaimed by a waiter. When it resumes
+  // it must not enter the critical section on a lock it no longer holds.
+  it('a creator paused before writing its token does not use a lock reclaimed meanwhile', async () => {
+    const j = await Journal.open(vault, BIG);
+    const lock = join(vault, HISTORY_DIR, 'manifest.lock');
+    const other = JSON.stringify({ pid: process.pid, host: hostname(), id: 'waiter' });
+    const realNow = Date.now;
+    mode.current = {
+      kind: 'beforeLockToken',
+      run: () => {
+        // 31 s pass; a waiter reclaims the empty lock and takes its own.
+        vi.spyOn(Date, 'now').mockImplementation(() => realNow() + 31_000);
+        unlinkSync(lock);
+        writeFileSync(lock, other);
+      },
+    };
+    let done = false;
+    const pending = write(j, 'a', 'v1', 'v2').then(() => {
+      done = true;
+    });
+    try {
+      await new Promise((r) => setTimeout(r, 150));
+      expect(done).toBe(false);
+      expect(await readFile(lock, 'utf8')).toBe(other);
+      await rm(lock);
+      await pending;
+      expect(j.list().total).toBe(1);
+    } finally {
+      vi.restoreAllMocks();
+    }
   });
 });
