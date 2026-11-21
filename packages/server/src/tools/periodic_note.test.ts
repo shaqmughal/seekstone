@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import {
@@ -27,6 +28,7 @@ function freshCtx(): ServerContext {
     index,
     notes: new Map(),
     backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
   };
 }
@@ -148,6 +150,7 @@ describe('getPeriodicNote', () => {
       index: freshCtx().index,
       notes: new Map(),
       backlinks: new Map(),
+      attachments: buildAttachmentIndex([]),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -175,6 +178,7 @@ describe('getPeriodicNote', () => {
       index: freshCtx().index,
       notes: new Map(),
       backlinks: new Map(),
+      attachments: buildAttachmentIndex([]),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -206,6 +210,7 @@ describe('getPeriodicNote', () => {
       index: freshCtx().index,
       notes: new Map(),
       backlinks: new Map(),
+      attachments: buildAttachmentIndex([]),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -233,6 +238,7 @@ describe('getPeriodicNote', () => {
       index: freshCtx().index,
       notes: new Map(),
       backlinks: new Map(),
+      attachments: buildAttachmentIndex([]),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -254,6 +260,7 @@ describe('getPeriodicNote', () => {
       index: freshCtx().index,
       notes: new Map(),
       backlinks: new Map(),
+      attachments: buildAttachmentIndex([]),
       policy: PERMISSIVE_POLICY,
     };
     try {

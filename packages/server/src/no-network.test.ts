@@ -39,6 +39,7 @@ beforeAll(async () => {
     index: built.index,
     notes: built.notes,
     backlinks: built.backlinks,
+    attachments: built.attachments,
     policy: PERMISSIVE_POLICY,
     // Journal on, so undo_write's blob + manifest I/O is inside the sweep too.
     journal: await Journal.open(vaultRoot, { maxBytes: 1e6, maxEntries: 100 }),

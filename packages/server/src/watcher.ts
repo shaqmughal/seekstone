@@ -5,6 +5,7 @@ import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from './index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
+import { addAttachment, removeAttachment } from './index/resolve.js';
 import type { Logger } from './log.js';
 import { isReadable } from './policy.js';
 
@@ -142,7 +143,10 @@ export function startWatcher(
     const relPath = toRel(abs);
     opts?.onRawEvent?.(op, abs, relPath);
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
-    if (relPath.endsWith('.md') && isReadable(ctx.policy, relPath)) void upsert(relPath, op);
+    if (!isReadable(ctx.policy, relPath)) return;
+    if (relPath.endsWith('.md')) void upsert(relPath, op);
+    // Attachments only track existence, so `change` is a no-op for them.
+    else if (op === 'add') addAttachment(ctx.attachments, relPath);
   };
 
   const watcher = chokidar.watch(vaultRoot, {
@@ -151,8 +155,9 @@ export function startWatcher(
     usePolling,
     interval: pollInterval,
     binaryInterval: pollInterval * 2,
-    // Skip dot-dirs (.obsidian, .git, .trash, …) regardless of where the vault
-    // lives — matched on the path relative to the vault root.
+    // Skip dot-dirs (.obsidian, .git, .trash, …) and node_modules, as the boot
+    // walk does, regardless of where the vault lives — matched on the path
+    // relative to the vault root.
     ignored: (p: string) => {
       const rel = relative(vaultRoot, p);
       if (!rel || rel === '.') return false;
@@ -162,7 +167,7 @@ export function startWatcher(
       return rel
         .split(sep)
         .filter(Boolean)
-        .some((seg) => seg.startsWith('.') && seg !== '..');
+        .some((seg) => (seg.startsWith('.') && seg !== '..') || seg === 'node_modules');
     },
   });
 
@@ -172,7 +177,9 @@ export function startWatcher(
     .on('unlink', (abs: string) => {
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
-      if (relPath.endsWith('.md') && isReadable(ctx.policy, relPath)) remove(relPath);
+      if (!isReadable(ctx.policy, relPath)) return;
+      if (relPath.endsWith('.md')) remove(relPath);
+      else removeAttachment(ctx.attachments, relPath);
     });
 
   const ready = new Promise<void>((resolve) => {

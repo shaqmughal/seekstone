@@ -67,6 +67,7 @@ async function freshCtx(
     index: built.index,
     notes: built.notes,
     backlinks: built.backlinks,
+    attachments: built.attachments,
     policy: PERMISSIVE_POLICY,
   };
   if (opts.journal !== false) {

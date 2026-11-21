@@ -88,6 +88,76 @@ export function resolveLink(
 }
 
 /**
+ * The vault's non-note files (images, PDFs, canvases, …), for resolving
+ * embeds like `![[diagram.png]]`. Keys are lowercased so matching is
+ * case-insensitive; values keep the real paths, sorted ascending, so the
+ * lexicographically first path wins a tie, as it does for notes.
+ */
+export interface AttachmentIndex {
+  /** lowercased vault-relative path → real paths with that key */
+  byPath: Map<string, string[]>;
+  /** lowercased basename, extension included → real paths with that basename */
+  byBasename: Map<string, string[]>;
+}
+
+export function buildAttachmentIndex(paths: Iterable<string>): AttachmentIndex {
+  const idx: AttachmentIndex = { byPath: new Map(), byBasename: new Map() };
+  for (const path of paths) {
+    const lower = path.toLowerCase();
+    push(idx.byPath, lower, path);
+    push(idx.byBasename, baseOf(lower), path);
+  }
+  for (const list of idx.byPath.values()) list.sort();
+  for (const list of idx.byBasename.values()) list.sort();
+  return idx;
+}
+
+export function addAttachment(idx: AttachmentIndex, path: string): void {
+  const lower = path.toLowerCase();
+  insertSorted(idx.byPath, lower, path);
+  insertSorted(idx.byBasename, baseOf(lower), path);
+}
+
+export function removeAttachment(idx: AttachmentIndex, path: string): void {
+  const lower = path.toLowerCase();
+  removeFrom(idx.byPath, lower, path);
+  removeFrom(idx.byBasename, baseOf(lower), path);
+}
+
+/**
+ * Resolve a link target to an attachment path: exact path first, then
+ * basename with extension (Obsidian's rule for attachments). Undefined on a miss.
+ */
+export function resolveAttachment(target: string, idx: AttachmentIndex): string | undefined {
+  const lower = target.toLowerCase();
+  return idx.byPath.get(lower)?.[0] ?? idx.byBasename.get(baseOf(lower))?.[0];
+}
+
+function baseOf(path: string): string {
+  return path.split('/').pop() ?? path;
+}
+
+function insertSorted(map: Map<string, string[]>, key: string, value: string): void {
+  const list = map.get(key);
+  if (!list) {
+    map.set(key, [value]);
+    return;
+  }
+  if (list.includes(value)) return;
+  list.push(value);
+  list.sort();
+}
+
+function removeFrom(map: Map<string, string[]>, key: string, value: string): void {
+  const list = map.get(key);
+  if (!list) return;
+  const i = list.indexOf(value);
+  if (i === -1) return;
+  list.splice(i, 1);
+  if (list.length === 0) map.delete(key);
+}
+
+/**
  * Every note a target could refer to, in tier order (exact path → basename →
  * path-without-extension → alias) then lexicographic order within a tier,
  * deduplicated by path keeping the highest tier. The first candidate is
