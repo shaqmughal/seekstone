@@ -52,8 +52,10 @@ export async function moveNote(
   // Parse here (not only in dispatch) so defaults like rewriteLinks apply to
   // direct callers too — same pattern as periodic_note.
   const input = MoveNoteInput.parse(rawInput);
-  assertWritable(ctx.policy, input.from);
-  assertWritable(ctx.policy, input.to);
+  // A source in .trash/ is a restore of a deleted note, so it is allowed; the
+  // destination may not be in .trash/ and neither end may be in .seekstone/.
+  assertWritable(ctx.policy, input.from, ctx.vaultRoot, '.trash');
+  assertWritable(ctx.policy, input.to, ctx.vaultRoot);
   const absFrom = resolveVaultPath(ctx, input.from);
   const absTo = resolveVaultPath(ctx, input.to);
 

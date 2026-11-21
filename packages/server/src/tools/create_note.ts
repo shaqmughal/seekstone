@@ -53,7 +53,7 @@ export async function createNote(
   rawInput: CreateNoteInput,
 ): Promise<CreateNoteResult> {
   const input = CreateNoteInput.parse(rawInput);
-  assertWritable(ctx.policy, input.path);
+  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   // Pre-image for the journal: the note being overwritten, or null for a

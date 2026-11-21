@@ -187,7 +187,7 @@ export async function getPeriodicNote(
 
   // About to write: this "read" tool creates the note here, so the write
   // policy applies (dispatch also strips createIfMissing in read-only mode).
-  assertWritable(ctx.policy, path);
+  assertWritable(ctx.policy, path, ctx.vaultRoot);
 
   // Read template if configured.
   let body = '';
@@ -247,7 +247,7 @@ export async function appendPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  assertWritable(ctx.policy, path);
+  assertWritable(ctx.policy, path, ctx.vaultRoot);
   const abs = resolveVaultPath(ctx, path);
 
   let original = '';
