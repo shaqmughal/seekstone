@@ -1,11 +1,15 @@
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { buildIndex } from '../index/build.js';
+import { buildResolveMaps, resolveLink } from '../index/resolve.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { getLinks } from './get_links.js';
+
+// Spy on the real resolver so a test can count resolve-map builds.
+vi.mock('../index/resolve.js', { spy: true });
 
 const NOTE_A = `---
 title: Note A
@@ -130,5 +134,52 @@ describe('getLinks', () => {
 
   it('throws "Note not found" for a path not in the index', () => {
     expect(() => getLinks(ctx, { path: 'no-such-note.md' })).toThrow('Note not found');
+  });
+});
+
+describe('getLinks: attachment embeds (SHA-553)', () => {
+  let vault: string;
+
+  beforeAll(async () => {
+    vault = await mkdtemp(join(tmpdir(), 'seekstone-get-links-att-'));
+    await mkdir(join(vault, 'img'));
+    await writeFile(join(vault, 'img', 'x.png'), 'png', 'utf8');
+    await writeFile(join(vault, 'other.md'), '# Other\n', 'utf8');
+    await writeFile(
+      join(vault, 'n.md'),
+      '# N\n\n![[x.png]]\n![[missing.png]]\n[[other]]\n[[nowhere]]\n',
+      'utf8',
+    );
+  });
+
+  afterAll(async () => {
+    await rm(vault, { recursive: true, force: true });
+  });
+
+  it('resolves an embed of an existing attachment and leaves a missing one unresolved', async () => {
+    const built = await buildIndex(vault);
+    const actx: ServerContext = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY };
+    const { links } = getLinks(actx, { path: 'n.md' });
+    expect(links.map(({ raw, resolved, target }) => ({ raw, resolved, target }))).toEqual([
+      { raw: '![[x.png]]', resolved: true, target: 'img/x.png' },
+      { raw: '![[missing.png]]', resolved: false, target: undefined },
+      { raw: '[[other]]', resolved: true, target: 'other.md' },
+      { raw: '[[nowhere]]', resolved: false, target: undefined },
+    ]);
+  });
+
+  it('builds the resolve maps once per call, not once per link', async () => {
+    const built = await buildIndex(vault);
+    const actx: ServerContext = { ...built, vaultRoot: vault, policy: PERMISSIVE_POLICY };
+    vi.mocked(buildResolveMaps).mockClear();
+    vi.mocked(resolveLink).mockClear();
+    getLinks(actx, { path: 'n.md' });
+    expect(buildResolveMaps).toHaveBeenCalledTimes(1);
+    // resolveLink rebuilds the maps internally (invisible to the spy) unless
+    // it is handed them, so every call must get the one prebuilt set.
+    const maps = vi.mocked(buildResolveMaps).mock.results[0]?.value;
+    expect(maps).toBeDefined();
+    expect(vi.mocked(resolveLink).mock.calls).toHaveLength(4);
+    for (const call of vi.mocked(resolveLink).mock.calls) expect(call[2]).toBe(maps);
   });
 });

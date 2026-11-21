@@ -1,6 +1,7 @@
 import type { LinkType } from '@seekstone/core/extract';
 import type MiniSearch from 'minisearch';
 import type { AuditLog } from './audit.js';
+import type { AttachmentIndex } from './index/resolve.js';
 import type { IndexedNote } from './index/types.js';
 import type { Journal } from './journal.js';
 import type { WritePolicy } from './policy.js';
@@ -23,6 +24,11 @@ export interface ServerContext {
    * Sorted by source path; maintained incrementally by the watcher.
    */
   backlinks: Map<string, BacklinkRef[]>;
+  /**
+   * Non-note files in the read scope, for resolving embeds such as
+   * `![[diagram.png]]`. Built from the boot walk; the watcher adds and removes.
+   */
+  attachments: AttachmentIndex;
   /** Read-only / write-path-scoping policy, parsed from env at boot. */
   policy: WritePolicy;
   /**

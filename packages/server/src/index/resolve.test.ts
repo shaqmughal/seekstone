@@ -1,5 +1,13 @@
 import { describe, expect, it } from 'vitest';
-import { buildResolveMaps, resolveCandidates, resolveLink } from './resolve.js';
+import {
+  addAttachment,
+  buildAttachmentIndex,
+  buildResolveMaps,
+  removeAttachment,
+  resolveAttachment,
+  resolveCandidates,
+  resolveLink,
+} from './resolve.js';
 
 const notesOf = (...paths: string[]): Map<string, unknown> => new Map(paths.map((p) => [p, {}]));
 
@@ -200,5 +208,50 @@ describe('resolveCandidates', () => {
     for (const target of ['Core', 'The Core', 'projects/core', 'Missing']) {
       expect(resolveCandidates(target, notes, maps)).toEqual(resolveCandidates(target, notes));
     }
+  });
+});
+
+describe('resolveAttachment', () => {
+  const idx = buildAttachmentIndex(['img/Diagram.png', 'b/shared.pdf', 'a/shared.pdf', 'top.png']);
+
+  it('matches an exact vault-relative path', () => {
+    expect(resolveAttachment('b/shared.pdf', idx)).toBe('b/shared.pdf');
+  });
+
+  it('matches a basename only with its extension', () => {
+    expect(resolveAttachment('Diagram.png', idx)).toBe('img/Diagram.png');
+    expect(resolveAttachment('Diagram', idx)).toBeUndefined();
+  });
+
+  it('matches case-insensitively and returns the real path', () => {
+    expect(resolveAttachment('IMG/diagram.PNG', idx)).toBe('img/Diagram.png');
+    expect(resolveAttachment('diagram.png', idx)).toBe('img/Diagram.png');
+  });
+
+  it('a basename shared by two folders resolves to the lexicographically first path', () => {
+    expect(resolveAttachment('shared.pdf', idx)).toBe('a/shared.pdf');
+  });
+
+  it('returns undefined on a miss', () => {
+    expect(resolveAttachment('nope.png', idx)).toBeUndefined();
+  });
+
+  it('addAttachment and removeAttachment keep both lookups in step', () => {
+    const live = buildAttachmentIndex([]);
+    addAttachment(live, 'z/new.png');
+    addAttachment(live, 'b/new.png');
+    addAttachment(live, 'b/new.png');
+    expect(live.byBasename.get('new.png')).toEqual(['b/new.png', 'z/new.png']);
+    expect(resolveAttachment('new.png', live)).toBe('b/new.png');
+    removeAttachment(live, 'b/new.png');
+    expect(resolveAttachment('new.png', live)).toBe('z/new.png');
+    removeAttachment(live, 'Z/NEW.png'); // same key, different file: left alone
+    expect(resolveAttachment('new.png', live)).toBe('z/new.png');
+    removeAttachment(live, 'z/new.png');
+    removeAttachment(live, 'z/new.png');
+    removeAttachment(live, 'never/added.png');
+    expect(resolveAttachment('new.png', live)).toBeUndefined();
+    expect(live.byPath.size).toBe(0);
+    expect(live.byBasename.size).toBe(0);
   });
 });

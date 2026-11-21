@@ -6,7 +6,12 @@ import { extractTasks } from '@seekstone/core/tasks';
 import { type WalkOptions, walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
-import { buildResolveMaps, resolveLink } from './resolve.js';
+import {
+  type AttachmentIndex,
+  buildAttachmentIndex,
+  buildResolveMaps,
+  resolveLink,
+} from './resolve.js';
 import type { IndexedNote } from './types.js';
 
 export type VaultIndex = MiniSearch<IndexedNote>;
@@ -15,6 +20,7 @@ export interface BuildResult {
   index: VaultIndex;
   notes: Map<string, IndexedNote>;
   backlinks: Map<string, BacklinkRef[]>;
+  attachments: AttachmentIndex;
   buildMs: number;
 }
 
@@ -27,6 +33,7 @@ export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promis
   const t0 = Date.now();
 
   const entries = await walkVault(vaultRoot, scope);
+  const attachmentPaths = entries.filter((e) => e.kind !== 'note').map((e) => e.relPath);
   const files: NoteFile[] = [];
   await Promise.all(
     entries
@@ -46,7 +53,11 @@ export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promis
       }),
   );
 
-  return { ...indexNotes(files), buildMs: Date.now() - t0 };
+  return {
+    ...indexNotes(files),
+    attachments: buildAttachmentIndex(attachmentPaths),
+    buildMs: Date.now() - t0,
+  };
 }
 
 /** A note's bytes plus the walk metadata the index stores. */
@@ -63,7 +74,7 @@ export interface NoteFile {
  * always builds the same index, whatever order the file reads finished in
  * (SHA-532). Pure CPU work, which is what the CodSpeed bench measures.
  */
-export function indexNotes(files: NoteFile[]): Omit<BuildResult, 'buildMs'> {
+export function indexNotes(files: NoteFile[]): Omit<BuildResult, 'attachments' | 'buildMs'> {
   const index = new MiniSearch<IndexedNote>({
     idField: 'id',
     fields: ['title', 'body', 'tags', 'fmKeys'],

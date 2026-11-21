@@ -4,8 +4,11 @@ import { join, sep } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from './context.js';
+import { buildIndex } from './index/build.js';
+import { buildAttachmentIndex } from './index/resolve.js';
 import type { IndexedNote } from './index/types.js';
 import { PERMISSIVE_POLICY } from './policy.js';
+import { getLinks } from './tools/get_links.js';
 import { vaultStats } from './tools/vault_stats.js';
 import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
 
@@ -20,7 +23,14 @@ function freshCtx(vaultRoot: string): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot, index, notes: new Map(), backlinks: new Map(), policy: PERMISSIVE_POLICY };
+  return {
+    vaultRoot,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 interface WaitForOpts {
@@ -345,6 +355,27 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await writeFile(join(tmpDir, 'image.png'), 'binary', 'utf8');
       await new Promise((r) => setTimeout(r, 150));
       expect(ctx.notes.size).toBe(0);
+    } finally {
+      await stop();
+    }
+  });
+
+  it('tracks attachment adds and unlinks so get_links resolves embeds fresh (SHA-553)', async () => {
+    await writeFile(join(tmpDir, 'note.md'), '![[new.png]]\n', 'utf8');
+    await mkdir(join(tmpDir, 'img'));
+    const built = await buildIndex(tmpDir);
+    const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+    const embed = () => getLinks(ctx, { path: 'note.md' }).links[0];
+    expect(embed()).toMatchObject({ resolved: false });
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'img', 'new.png'), 'png', 'utf8');
+      await waitFor(() => embed()?.resolved === true, { nudge: dirNudger(join(tmpDir, 'img')) });
+      expect(embed()).toMatchObject({ resolved: true, target: 'img/new.png' });
+      await rm(join(tmpDir, 'img', 'new.png'));
+      await waitFor(() => embed()?.resolved === false);
+      expect(embed()?.target).toBeUndefined();
     } finally {
       await stop();
     }

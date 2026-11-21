@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { ReplaceInNoteInput, replaceInNote } from './replace_in_note.js';
@@ -33,7 +34,14 @@ function buildCtx(vaultRoot: string): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot, index, notes: new Map(), backlinks: new Map(), policy: PERMISSIVE_POLICY };
+  return {
+    vaultRoot,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 let vaultRoot: string;

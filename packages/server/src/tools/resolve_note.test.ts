@@ -1,7 +1,7 @@
 import MiniSearch from 'minisearch';
 import { describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
-import { resolveLink } from '../index/resolve.js';
+import { buildAttachmentIndex, resolveLink } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { ResolveNoteInput, resolveNote } from './resolve_note.js';
@@ -31,6 +31,7 @@ function buildCtx(
     index,
     notes: notesMap,
     backlinks: new Map(),
+    attachments: buildAttachmentIndex([]),
     policy: PERMISSIVE_POLICY,
   };
 }

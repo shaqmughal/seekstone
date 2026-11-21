@@ -9,6 +9,7 @@ import { Journal } from './journal.js';
 import type { Logger } from './log.js';
 import { PERMISSIVE_POLICY, parseWritePolicy, readScopeWalk, type WritePolicy } from './policy.js';
 import { scopeWarnings } from './scope-warnings.js';
+import { getLinks } from './tools/get_links.js';
 import { startWatcher } from './watcher.js';
 
 /**
@@ -312,6 +313,43 @@ describe('read scope: index and watcher', () => {
         await new Promise((r) => setTimeout(r, 25));
       }
       expect(ctx.notes.has('journal/late.md')).toBe(false);
+    } finally {
+      await w.stop();
+    }
+  });
+
+  it('attachments outside the scope never enter the index, so embeds of them stay unresolved (SHA-553)', async () => {
+    await put('journal/hidden.png', SENTINEL);
+    await put('notes/shown.png', 'png');
+    await put('notes/embeds.md', '![[hidden.png]] ![[shown.png]]\n');
+    const ctx = await ctxFor(parseWritePolicy({ SEEKSTONE_READ_PATHS: SCOPE }), false);
+    expect([...ctx.attachments.byPath.keys()]).toEqual(['notes/shown.png']);
+    const { text } = await call(ctx, 'get_links', { path: 'notes/embeds.md' });
+    expect(text).not.toContain('journal/hidden.png');
+    expect(getLinks(ctx, { path: 'notes/embeds.md' }).links).toMatchObject([
+      { raw: '![[hidden.png]]', resolved: false },
+      { raw: '![[shown.png]]', resolved: true, target: 'notes/shown.png' },
+    ]);
+  });
+
+  it('the watcher ignores attachments added outside the scope (SHA-553)', async () => {
+    const ctx = await ctxFor(parseWritePolicy({ SEEKSTONE_READ_PATHS: SCOPE }), false);
+    const seen: string[] = [];
+    const w = startWatcher(ctx, undefined, {
+      usePolling: true,
+      pollInterval: 50,
+      onRawEvent: (_e, _abs, rel) => seen.push(rel),
+    });
+    await w.ready;
+    try {
+      await put('journal/late.png', SENTINEL);
+      await put('notes/late.png', 'png');
+      const deadline = Date.now() + 10_000;
+      while (!ctx.attachments.byPath.has('notes/late.png') || !seen.includes('journal/late.png')) {
+        if (Date.now() > deadline) throw new Error('watcher timeout');
+        await new Promise((r) => setTimeout(r, 25));
+      }
+      expect(ctx.attachments.byPath.has('journal/late.png')).toBe(false);
     } finally {
       await w.stop();
     }
