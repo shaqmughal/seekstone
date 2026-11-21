@@ -1,5 +1,5 @@
 import { timingSafeEqual } from 'node:crypto';
-import { closeSync, openSync, rmSync, statSync, writeSync } from 'node:fs';
+import { closeSync, fsyncSync, openSync, statSync, unlinkSync, writeSync } from 'node:fs';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
 import { join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
@@ -35,10 +35,8 @@ import { parseSize } from './log.js';
  * `undoable: false` rather than vanishing silently. `SEEKSTONE_HISTORY=0`
  * disables the journal entirely (ctx.journal is undefined; tools skip it).
  *
- * Each MCP client runs its own server process, so several can share a vault.
- * Every manifest change holds `manifest.lock` (`open(..., 'wx')`) and first
- * reads what others appended, so seqs stay unique and eviction works from
- * the merged history. Reads (`refresh`) need no lock.
+ * Several server processes can share a vault. Every manifest change holds
+ * `manifest.lock` and first reads what others appended; reads need no lock.
  */
 
 export interface JournalFile {
@@ -117,14 +115,14 @@ async function writeDurable(dest: string, content: string): Promise<void> {
   await rename(tmp, dest);
 }
 
-/** Append one line to `dest` durably (fsync before returning). */
-async function appendDurable(dest: string, line: string): Promise<void> {
-  const fh = await open(dest, 'a');
+/** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
+function writeSmall(dest: string, flag: 'a' | 'wx', data: string, durable: boolean): void {
+  const fd = openSync(dest, flag);
   try {
-    await fh.writeFile(line, 'utf8');
-    await fh.sync();
+    writeSync(fd, data);
+    if (durable) fsyncSync(fd);
   } finally {
-    await fh.close();
+    closeSync(fd);
   }
 }
 
@@ -209,15 +207,9 @@ export class Journal {
 
   /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(): Promise<boolean> {
-    try {
-      const st = statSync(this.manifestPath);
-      if (st.ino === this.manifestIno && st.size === this.manifestOffset + this.tailBytes) {
-        return false;
-      }
-    } catch (err) {
-      if ((err as NodeJS.ErrnoException).code === 'ENOENT') return false;
-      throw err;
-    }
+    const known = this.manifestOffset + this.tailBytes;
+    const now = statSync(this.manifestPath, { throwIfNoEntry: false });
+    if (!now || (now.ino === this.manifestIno && now.size === known)) return false;
     const fh = await open(this.manifestPath, 'r');
     let buf: Buffer;
     let start: number;
@@ -250,7 +242,8 @@ export class Journal {
       try {
         parsed = JSON.parse(line);
       } catch {
-        // Never fail boot over a damaged line; the write it described is not listed.
+        // A torn trailing line from a crash mid-append — the write it
+        // described simply is not listed. Never fail boot over it.
         this.log?.warn('journal: skipping malformed manifest line');
         continue;
       }
@@ -262,13 +255,11 @@ export class Journal {
       lastSeq = parsed.seq;
       for (const f of parsed.files) {
         if (f.preHash === null || this.blobSizes.has(f.preHash)) continue;
-        try {
-          const size = (await stat(join(this.blobDir, f.preHash))).size;
-          this.blobSizes.set(f.preHash, size);
-          this.totalBytes += size;
-        } catch {
-          /* already evicted — the entry lists as not undoable */
-        }
+        // Missing means already evicted: the entry lists as not undoable.
+        const size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
+        if (size === undefined) continue;
+        this.blobSizes.set(f.preHash, size);
+        this.totalBytes += size;
       }
     }
     this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
@@ -415,19 +406,16 @@ export class Journal {
     // an old entry). Others only evict while committing, which we'd have seen.
     for (const [hash, content] of preimages) {
       if (!othersWrote && this.blobSizes.has(hash)) continue;
-      try {
-        await stat(join(this.blobDir, hash));
-      } catch {
-        this.totalBytes -= this.blobSizes.get(hash) ?? 0;
-        this.blobSizes.delete(hash);
-        await this.storeBlob(content);
-      }
+      if (statSync(join(this.blobDir, hash), { throwIfNoEntry: false })) continue;
+      this.totalBytes -= this.blobSizes.get(hash) ?? 0;
+      this.blobSizes.delete(hash);
+      await this.storeBlob(content);
     }
     const entry: JournalEntry = { seq: this.nextSeq, ts: new Date().toISOString(), tool, files };
     if (undoOf !== undefined) entry.undoOf = undoOf;
     // After a torn line, start a fresh one so this entry parses.
     const line = `${this.tailBytes > 0 ? '\n' : ''}${JSON.stringify(entry)}\n`;
-    await appendDurable(this.manifestPath, line);
+    writeSmall(this.manifestPath, 'a', line, true);
     this.manifestOffset += this.tailBytes + Buffer.byteLength(line, 'utf8');
     this.tailBytes = 0;
     this.nextSeq++;
@@ -436,7 +424,6 @@ export class Journal {
     return entry;
   }
 
-  /** Sync fs calls: cheaper inline than as thread-pool round trips (as in `AuditLog.record`). */
   private async withLock<T>(fn: () => Promise<T>): Promise<T> {
     const ts = Date.now();
     // Commits in one process are serialized, so pid + ts tells holders apart.
@@ -444,12 +431,7 @@ export class Journal {
     const deadline = ts + 2 * LOCK_STALE_MS;
     for (;;) {
       try {
-        const fd = openSync(this.lockPath, 'wx');
-        try {
-          writeSync(fd, token);
-        } finally {
-          closeSync(fd);
-        }
+        writeSmall(this.lockPath, 'wx', token, false);
         break;
       } catch (err) {
         const code = (err as NodeJS.ErrnoException).code;
@@ -458,7 +440,7 @@ export class Journal {
       }
       if (await lockIsStale(this.lockPath)) {
         this.log?.warn('journal: taking over a stale lock');
-        rmSync(this.lockPath, { force: true });
+        unlinkLock(this.lockPath);
       } else if (Date.now() > deadline) {
         throw new Error('journal: timed out waiting for the history lock');
       } else {
@@ -473,7 +455,7 @@ export class Journal {
       const ours =
         Date.now() - acquired < LOCK_STALE_MS ||
         (await readFile(this.lockPath, 'utf8').catch(() => '')) === token;
-      if (ours) rmSync(this.lockPath, { force: true });
+      if (ours) unlinkLock(this.lockPath);
     }
   }
 
@@ -524,6 +506,14 @@ export class Journal {
       this.manifestOffset = st.size;
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
     }
+  }
+}
+
+function unlinkLock(lockPath: string): void {
+  try {
+    unlinkSync(lockPath);
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
   }
 }
 
