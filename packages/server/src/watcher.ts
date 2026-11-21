@@ -155,8 +155,9 @@ export function startWatcher(
     usePolling,
     interval: pollInterval,
     binaryInterval: pollInterval * 2,
-    // Skip dot-dirs (.obsidian, .git, .trash, …) regardless of where the vault
-    // lives — matched on the path relative to the vault root.
+    // Skip dot-dirs (.obsidian, .git, .trash, …) and node_modules, as the boot
+    // walk does, regardless of where the vault lives — matched on the path
+    // relative to the vault root.
     ignored: (p: string) => {
       const rel = relative(vaultRoot, p);
       if (!rel || rel === '.') return false;
@@ -166,7 +167,7 @@ export function startWatcher(
       return rel
         .split(sep)
         .filter(Boolean)
-        .some((seg) => seg.startsWith('.') && seg !== '..');
+        .some((seg) => (seg.startsWith('.') && seg !== '..') || seg === 'node_modules');
     },
   });
 

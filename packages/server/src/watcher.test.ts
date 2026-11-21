@@ -381,6 +381,35 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('ignores files under node_modules, as the boot walk does (SHA-553)', async () => {
+    await mkdir(join(tmpDir, 'img'));
+    await mkdir(join(tmpDir, 'A'));
+    await writeFile(join(tmpDir, 'img', 'logo.png'), 'png', 'utf8');
+    await writeFile(join(tmpDir, 'note.md'), '![[logo.png]]\n', 'utf8');
+    const built = await buildIndex(tmpDir);
+    const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      // A/node_modules/... sorts before img/, so it would win the basename tie.
+      await mkdir(join(tmpDir, 'A', 'node_modules', 'pkg'), { recursive: true });
+      await writeFile(join(tmpDir, 'A', 'node_modules', 'pkg', 'logo.png'), 'png', 'utf8');
+      await writeFile(join(tmpDir, 'A', 'late.png'), 'png', 'utf8');
+      await waitFor(() => ctx.attachments.byPath.has('a/late.png'), {
+        nudge: dirNudger(join(tmpDir, 'A')),
+      });
+      expect([...ctx.attachments.byPath.keys()].some((k) => k.includes('node_modules'))).toBe(
+        false,
+      );
+      expect(getLinks(ctx, { path: 'note.md' }).links[0]).toMatchObject({
+        resolved: true,
+        target: 'img/logo.png',
+      });
+    } finally {
+      await stop();
+    }
+  });
+
   it('returns a stop function whose promise resolves once the watcher closes', async () => {
     const ctx = freshCtx(tmpDir);
     const { stop } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
