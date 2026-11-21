@@ -186,7 +186,7 @@ Giving an AI write access to your notes deserves more than "trust us." Seekstone
 {"v":1,"ts":"2026-08-29T21:02:11.042Z","tool":"replace_in_note","outcome":"ok","durationMs":1.8,"seq":42,"files":[{"path":"notes/a.md","hashBefore":"3f9c…","hashAfter":"b71e…"}],"path":"notes/a.md","replacements":3}
 ```
 
-The hashes are the same `contentHash` values `read_note` returns, so any record can be checked against the vault; `seq` is the journal entry the call committed, so a row indexes straight into `list_writes` / `undo_write`. Records are appended and fsync'd after the vault write commits, the file rotates to `<file>.1` past `SEEKSTONE_AUDIT_MAX_SIZE`, an unwritable audit path fails boot, and a failed append reports the call as a structured `audit_failed` error rather than a clean success. A few `jq` recipes:
+The hashes are the same `contentHash` values `read_note` returns, so any record can be checked against the vault; `seq` is the journal entry the call committed, so a row indexes straight into `list_writes` / `undo_write`. Records are appended and fsync'd after the vault write commits, the file rotates to `<file>.1` past `SEEKSTONE_AUDIT_MAX_SIZE`, an unwritable audit path fails boot, and a failed append reports the call as a structured `audit_failed` error rather than a clean success (the write itself has already happened and has no record). A few `jq` recipes:
 
 ```bash
 jq -r '[.tool, .outcome] | @tsv' audit.jsonl | sort | uniq -c            # session summary by tool + outcome

@@ -351,7 +351,8 @@ relative path resolves against the server's working directory, which the MCP
 client chooses, so use an absolute path. An unwritable audit path fails
 boot, and a failed append turns the (already completed) call into a structured
 `audit_failed` error — an unauditable write is never reported as a clean
-success.
+success. That write has still happened, and the audit file has no record of
+it. The write journal still has its entry when the journal is on.
 
 Non-goals: reads and searches are not audited; there is no tamper-evident hash
 chaining yet (a v2 candidate); the sink is a local file only — no network, no
