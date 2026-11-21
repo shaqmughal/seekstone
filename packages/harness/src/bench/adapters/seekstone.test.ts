@@ -1,4 +1,4 @@
-import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, readFile, rm, utimes, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -201,5 +201,30 @@ describe('SeekstoneAdapter', () => {
     const fresh = await adapter.readWithHash('cas-del.md');
     await adapter.casDelete('cas-del.md', fresh.hash);
     await expect(adapter.readWithHash('cas-del.md')).rejects.toThrow();
+  });
+});
+
+describe('SeekstoneAdapter.vaultStats', () => {
+  it('counts recent activity from the newest note, not the wall clock', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'seekstone-adapter-stats-'));
+    try {
+      const day = 86_400_000;
+      const newest = Date.UTC(2020, 0, 31);
+      for (const [name, age] of [
+        ['a.md', 0],
+        ['b.md', 3],
+        ['c.md', 20],
+        ['d.md', 90],
+      ] as const) {
+        await writeFile(join(dir, name), `# ${name}\n`, 'utf8');
+        const t = new Date(newest - age * day);
+        await utimes(join(dir, name), t, t);
+      }
+      const adapter = await SeekstoneAdapter.build({ vaultRoot: dir });
+      const { result } = await adapter.vaultStats();
+      expect((result as { modified: unknown }).modified).toEqual({ d1: 1, d7: 2, d30: 3 });
+    } finally {
+      await rm(dir, { recursive: true, force: true });
+    }
   });
 });

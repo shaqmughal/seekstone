@@ -56,7 +56,11 @@ export async function loadTaskSet(path: string): Promise<TaskSet> {
     if (!t.id || !t.question) {
       throw new Error(`Task file ${path}: every task needs id and question.`);
     }
-    if (t.statsQuery) {
+    if (t.statsQuery !== undefined) {
+      const q: unknown = t.statsQuery;
+      if (typeof q !== 'object' || q === null || Array.isArray(q) || Object.keys(q).length > 0) {
+        throw new Error(`Task ${t.id}: statsQuery takes no options; use {}.`);
+      }
       if (t.searchQuery !== undefined || t.readTopK !== undefined || t.taskQuery) {
         throw new Error(`Task ${t.id}: statsQuery is mutually exclusive with the other queries.`);
       }

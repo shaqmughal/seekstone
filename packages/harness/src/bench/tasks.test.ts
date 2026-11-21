@@ -70,6 +70,10 @@ describe('loadTaskSet', () => {
       });
       await expect(loadTaskSet(mixed)).rejects.toThrow(/statsQuery is mutually exclusive/);
     }
+    for (const statsQuery of [{ folder: 'Daily/' }, [], null, 'all', true]) {
+      const bad = await writeTaskFile({ tasks: [{ id: 's', question: 'How big?', statsQuery }] });
+      await expect(loadTaskSet(bad)).rejects.toThrow(/statsQuery takes no options/);
+    }
   });
 
   it('throws when readTopK is out of range (adapters cap search hits at 10)', async () => {

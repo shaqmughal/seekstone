@@ -36,9 +36,18 @@ export class SeekstoneAdapter implements Backend {
   readonly description = 'Seekstone server (in-process function calls, no IPC)';
 
   private readonly ctx: ServerContext;
+  /**
+   * vault_stats's reference time: the newest note's mtime, so the
+   * modified-in-1/7/30-days counts (and the payload) depend only on the
+   * vault snapshot, not on when the harness runs.
+   */
+  private readonly statsNow: number;
 
   private constructor(ctx: ServerContext) {
     this.ctx = ctx;
+    let newest = 0;
+    for (const note of ctx.notes.values()) newest = Math.max(newest, note.mtimeMs);
+    this.statsNow = newest;
   }
 
   static async build(opts: SeekstoneAdapterOptions): Promise<SeekstoneAdapter> {
@@ -134,7 +143,7 @@ export class SeekstoneAdapter implements Backend {
   }
 
   async vaultStats(): Promise<BackendResponse<unknown>> {
-    const result = vaultStatsTool(this.ctx);
+    const result = vaultStatsTool(this.ctx, this.statsNow);
     // Minified like the dispatch case.
     const payload = JSON.stringify(result);
     return {
