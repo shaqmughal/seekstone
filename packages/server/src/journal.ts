@@ -1,6 +1,8 @@
 import { timingSafeEqual } from 'node:crypto';
+import { closeSync, fsyncSync, openSync, statSync, unlinkSync, writeSync } from 'node:fs';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
 import { join } from 'node:path';
+import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
@@ -32,6 +34,9 @@ import { parseSize } from './log.js';
  * Eviction drops the oldest entries' blobs; the entry stays listed with
  * `undoable: false` rather than vanishing silently. `SEEKSTONE_HISTORY=0`
  * disables the journal entirely (ctx.journal is undefined; tools skip it).
+ *
+ * Several server processes can share a vault. Every manifest change holds
+ * `manifest.lock` and first reads what others appended; reads need no lock.
  */
 
 export interface JournalFile {
@@ -76,6 +81,10 @@ const DEFAULT_MAX_ENTRIES = 1000;
 /** Vault-relative directory the journal lives in — excluded from indexing like `.trash/`. */
 export const HISTORY_DIR = '.seekstone/history';
 
+/** A lock older than this is taken over even when its owner pid looks alive. */
+const LOCK_STALE_MS = 30_000;
+const LOCK_RETRY_MS = 5;
+
 /**
  * Read the journal settings from env. Returns undefined when the journal is
  * disabled (`SEEKSTONE_HISTORY=0|false`).
@@ -106,14 +115,14 @@ async function writeDurable(dest: string, content: string): Promise<void> {
   await rename(tmp, dest);
 }
 
-/** Append one line to `dest` durably (fsync before returning). */
-async function appendDurable(dest: string, line: string): Promise<void> {
-  const fh = await open(dest, 'a');
+/** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
+function writeSmall(dest: string, flag: 'a' | 'wx', data: string, durable: boolean): void {
+  const fd = openSync(dest, flag);
   try {
-    await fh.writeFile(line, 'utf8');
-    await fh.sync();
+    writeSync(fd, data);
+    if (durable) fsyncSync(fd);
   } finally {
-    await fh.close();
+    closeSync(fd);
   }
 }
 
@@ -133,9 +142,15 @@ export class Journal {
   private readonly dir: string;
   private readonly blobDir: string;
   private readonly manifestPath: string;
+  private readonly lockPath: string;
   private readonly log?: Logger;
-  private entries: JournalEntry[];
-  private nextSeq: number;
+  private entries: JournalEntry[] = [];
+  private nextSeq = 1;
+  /** Identity and length of the manifest as last read; a new inode means it was compacted. */
+  private manifestIno = -1;
+  private manifestOffset = 0;
+  /** Bytes after the last newline: an append in flight, or torn by a crash. */
+  private tailBytes = 0;
   /** Blob hash → byte size, for every blob currently on disk. */
   private readonly blobSizes: Map<string, number>;
   private totalBytes: number;
@@ -145,7 +160,6 @@ export class Journal {
   private constructor(
     vaultRoot: string,
     config: JournalConfig,
-    entries: JournalEntry[],
     blobSizes: Map<string, number>,
     log?: Logger,
   ) {
@@ -153,8 +167,7 @@ export class Journal {
     this.dir = join(vaultRoot, HISTORY_DIR);
     this.blobDir = join(this.dir, 'blobs');
     this.manifestPath = join(this.dir, 'manifest.jsonl');
-    this.entries = entries;
-    this.nextSeq = (entries.at(-1)?.seq ?? 0) + 1;
+    this.lockPath = join(this.dir, 'manifest.lock');
     this.blobSizes = blobSizes;
     this.totalBytes = 0;
     for (const n of blobSizes.values()) this.totalBytes += n;
@@ -171,33 +184,6 @@ export class Journal {
     const blobDir = join(dir, 'blobs');
     await mkdir(blobDir, { recursive: true });
 
-    const entries: JournalEntry[] = [];
-    let manifest = '';
-    try {
-      manifest = await readFile(join(dir, 'manifest.jsonl'), 'utf8');
-    } catch (err) {
-      if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
-    }
-    let lastSeq = 0;
-    for (const line of manifest.split('\n')) {
-      if (line.trim() === '') continue;
-      let parsed: unknown;
-      try {
-        parsed = JSON.parse(line);
-      } catch {
-        // A torn trailing line from a crash mid-append — the write it
-        // described simply is not listed. Never fail boot over it.
-        opts.log?.warn('journal: skipping malformed manifest line');
-        continue;
-      }
-      if (!isEntry(parsed) || parsed.seq <= lastSeq) {
-        opts.log?.warn('journal: skipping invalid manifest entry');
-        continue;
-      }
-      entries.push(parsed);
-      lastSeq = parsed.seq;
-    }
-
     const blobSizes = new Map<string, number>();
     for (const name of await readdir(blobDir)) {
       if (!/^[0-9a-f]{64}$/.test(name)) continue;
@@ -207,22 +193,93 @@ export class Journal {
         /* vanished between readdir and stat — treat as absent */
       }
     }
-    return new Journal(vaultRoot, config, entries, blobSizes, opts.log);
+    const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
+    await journal.refresh();
+    // A torn last line from a crash: not listed; the next commit starts a new line.
+    if (journal.tailBytes > 0) opts.log?.warn('journal: skipping malformed manifest line');
+    return journal;
+  }
+
+  /** Read what other processes appended or compacted since we last looked. True if anything. */
+  refresh(): Promise<boolean> {
+    return this.enqueue(() => this.load());
+  }
+
+  /** One (sync) stat when nothing changed. Only whole lines are read. */
+  private async load(): Promise<boolean> {
+    const known = this.manifestOffset + this.tailBytes;
+    const now = statSync(this.manifestPath, { throwIfNoEntry: false });
+    if (!now || (now.ino === this.manifestIno && now.size === known)) return false;
+    const fh = await open(this.manifestPath, 'r');
+    let buf: Buffer;
+    let start: number;
+    try {
+      const st = await fh.stat();
+      const replaced = st.ino !== this.manifestIno || st.size < this.manifestOffset;
+      start = replaced ? 0 : this.manifestOffset;
+      buf = Buffer.alloc(st.size - start);
+      buf = buf.subarray(0, (await fh.read(buf, 0, buf.length, start)).bytesRead);
+      if (replaced) {
+        this.entries = [];
+        this.manifestIno = st.ino;
+      }
+    } finally {
+      await fh.close();
+    }
+    const end = buf.lastIndexOf(0x0a) + 1;
+    this.manifestOffset = start + end;
+    this.tailBytes = buf.length - end;
+    await this.ingest(buf.subarray(0, end).toString('utf8'), start === 0);
+    return true;
+  }
+
+  /** Parse complete manifest lines and add their entries (and their blobs' sizes). */
+  private async ingest(text: string, fromStart: boolean): Promise<void> {
+    let lastSeq = fromStart ? 0 : this.nextSeq - 1;
+    for (const line of text.split('\n')) {
+      if (line.trim() === '') continue;
+      let parsed: unknown;
+      try {
+        parsed = JSON.parse(line);
+      } catch {
+        // A torn trailing line from a crash mid-append — the write it
+        // described simply is not listed. Never fail boot over it.
+        this.log?.warn('journal: skipping malformed manifest line');
+        continue;
+      }
+      if (!isEntry(parsed) || parsed.seq <= lastSeq) {
+        this.log?.warn('journal: skipping invalid manifest entry');
+        continue;
+      }
+      this.entries.push(parsed);
+      lastSeq = parsed.seq;
+      for (const f of parsed.files) {
+        if (f.preHash === null || this.blobSizes.has(f.preHash)) continue;
+        // Missing means already evicted: the entry lists as not undoable.
+        const size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
+        if (size === undefined) continue;
+        this.blobSizes.set(f.preHash, size);
+        this.totalBytes += size;
+      }
+    }
+    this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
   }
 
   begin(tool: string, undoOf?: number): JournalTxn {
     const files: JournalFile[] = [];
+    const preimages = new Map<string, string>();
     let committed = false;
     return {
       add: async (path, pre, post) => {
         if (committed) throw new Error('journal: add after commit');
         const preHash = pre === null ? null : await this.storeBlob(pre);
+        if (preHash !== null && pre !== null) preimages.set(preHash, pre);
         files.push({ path, preHash, postHash: post === null ? null : contentHash(post) });
       },
       commit: async () => {
         if (committed) throw new Error('journal: double commit');
         committed = true;
-        return this.enqueue(() => this.commit(tool, files, undoOf));
+        return this.enqueue(() => this.withLock(() => this.commit(tool, files, preimages, undoOf)));
       },
     };
   }
@@ -337,14 +394,69 @@ export class Journal {
     return hash;
   }
 
-  private async commit(tool: string, files: JournalFile[], undoOf?: number): Promise<JournalEntry> {
+  /** Called with the lock held. */
+  private async commit(
+    tool: string,
+    files: JournalFile[],
+    preimages: Map<string, string>,
+    undoOf?: number,
+  ): Promise<JournalEntry> {
+    const othersWrote = await this.load();
+    // A blob stored before the lock may have been evicted since (shared with
+    // an old entry). Others only evict while committing, which we'd have seen.
+    for (const [hash, content] of preimages) {
+      if (!othersWrote && this.blobSizes.has(hash)) continue;
+      if (statSync(join(this.blobDir, hash), { throwIfNoEntry: false })) continue;
+      this.totalBytes -= this.blobSizes.get(hash) ?? 0;
+      this.blobSizes.delete(hash);
+      await this.storeBlob(content);
+    }
     const entry: JournalEntry = { seq: this.nextSeq, ts: new Date().toISOString(), tool, files };
     if (undoOf !== undefined) entry.undoOf = undoOf;
-    await appendDurable(this.manifestPath, `${JSON.stringify(entry)}\n`);
+    // After a torn line, start a fresh one so this entry parses.
+    const line = `${this.tailBytes > 0 ? '\n' : ''}${JSON.stringify(entry)}\n`;
+    writeSmall(this.manifestPath, 'a', line, true);
+    this.manifestOffset += this.tailBytes + Buffer.byteLength(line, 'utf8');
+    this.tailBytes = 0;
     this.nextSeq++;
     this.entries.push(entry);
     await this.evict();
     return entry;
+  }
+
+  private async withLock<T>(fn: () => Promise<T>): Promise<T> {
+    const ts = Date.now();
+    // Commits in one process are serialized, so pid + ts tells holders apart.
+    const token = `{"pid":${process.pid},"ts":${ts}}`;
+    const deadline = ts + 2 * LOCK_STALE_MS;
+    for (;;) {
+      try {
+        writeSmall(this.lockPath, 'wx', token, false);
+        break;
+      } catch (err) {
+        const code = (err as NodeJS.ErrnoException).code;
+        // Windows reports EPERM while another process is deleting the lock.
+        if (code !== 'EEXIST' && !(code === 'EPERM' && process.platform === 'win32')) throw err;
+      }
+      if (await lockIsStale(this.lockPath)) {
+        this.log?.warn('journal: taking over a stale lock');
+        unlinkLock(this.lockPath);
+      } else if (Date.now() > deadline) {
+        throw new Error('journal: timed out waiting for the history lock');
+      } else {
+        await sleep(LOCK_RETRY_MS);
+      }
+    }
+    const acquired = Date.now();
+    try {
+      return await fn();
+    } finally {
+      // A live owner's lock can only be taken over once LOCK_STALE_MS old.
+      const ours =
+        Date.now() - acquired < LOCK_STALE_MS ||
+        (await readFile(this.lockPath, 'utf8').catch(() => '')) === token;
+      if (ours) unlinkLock(this.lockPath);
+    }
   }
 
   /**
@@ -389,8 +501,50 @@ export class Journal {
         this.manifestPath,
         this.entries.map((e) => `${JSON.stringify(e)}\n`).join(''),
       );
+      const st = statSync(this.manifestPath);
+      this.manifestIno = st.ino;
+      this.manifestOffset = st.size;
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
     }
+  }
+}
+
+function unlinkLock(lockPath: string): void {
+  try {
+    unlinkSync(lockPath);
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+  }
+}
+
+/** Stale = older than LOCK_STALE_MS (by mtime if the body is unreadable) or owner pid gone. */
+async function lockIsStale(lockPath: string): Promise<boolean> {
+  let raw: string;
+  let mtimeMs: number;
+  try {
+    raw = await readFile(lockPath, 'utf8');
+    mtimeMs = (await stat(lockPath)).mtimeMs;
+  } catch {
+    return false; // gone already: the caller retries
+  }
+  let owner: { pid?: unknown; ts?: unknown } = {};
+  try {
+    owner = JSON.parse(raw);
+  } catch {
+    /* unparsable body: fall back to mtime, pid unknown */
+  }
+  const since = typeof owner.ts === 'number' ? owner.ts : mtimeMs;
+  if (Date.now() - since > LOCK_STALE_MS) return true;
+  return typeof owner.pid === 'number' && !pidAlive(owner.pid);
+}
+
+function pidAlive(pid: number): boolean {
+  try {
+    process.kill(pid, 0);
+    return true;
+  } catch (err) {
+    // EPERM: the process exists but belongs to someone else.
+    return (err as NodeJS.ErrnoException).code === 'EPERM';
   }
 }
 

@@ -65,6 +65,8 @@ export async function undoWrite(
   if (!journal) {
     throw new Error('Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.');
   }
+  // Another server process on this vault may have written since we last looked.
+  await journal.refresh();
 
   // Entries that touched a path outside SEEKSTONE_READ_PATHS are invisible:
   // skipped as "latest", and not found by seq (SHA-291 D3).

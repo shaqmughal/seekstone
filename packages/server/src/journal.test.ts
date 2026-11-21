@@ -108,6 +108,8 @@ describe('Journal', () => {
     // The next commit continues from the last good seq.
     await journalWrite({ journal: j2 }, 't', 'a.md', 'v2', 'v3');
     expect(j2.list().writes[0]?.seq).toBe(2);
+    // ...on a line of its own, so it survives the next reopen (SHA-559).
+    expect((await Journal.open(vault, BIG)).list().total).toBe(2);
   });
 
   it('marks entries whose blobs were evicted by the byte cap as not undoable', async () => {
