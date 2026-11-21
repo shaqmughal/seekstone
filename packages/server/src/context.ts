@@ -29,6 +29,12 @@ export interface ServerContext {
    * `![[diagram.png]]`. Built from the boot walk; the watcher adds and removes.
    */
   attachments: AttachmentIndex;
+  /**
+   * Inbound refs of deleted notes, set aside by removeDoc so they don't count
+   * while the note is gone, and put back by upsertDoc if the note returns
+   * (undo_write, a re-create). Created on first delete.
+   */
+  parkedBacklinks?: Map<string, BacklinkRef[]>;
   /** Read-only / write-path-scoping policy, parsed from env at boot. */
   policy: WritePolicy;
   /**

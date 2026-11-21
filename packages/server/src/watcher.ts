@@ -4,7 +4,7 @@ import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from './index/backlinks.js';
-import { buildDoc, upsertDoc } from './index/doc.js';
+import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
 import { addAttachment, removeAttachment } from './index/resolve.js';
 import type { Logger } from './log.js';
 import { isReadable } from './policy.js';
@@ -133,9 +133,7 @@ export function startWatcher(
 
   function remove(relPath: string): void {
     if (ctx.notes.has(relPath)) {
-      removeNoteBacklinks(ctx, relPath);
-      ctx.index.discard(relPath);
-      ctx.notes.delete(relPath);
+      removeDoc(ctx, relPath);
       ctx.semantic?.noteRemoved(relPath);
       log?.debug('index removed', { path: relPath, op: 'delete' });
     }
