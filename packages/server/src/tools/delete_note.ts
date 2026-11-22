@@ -20,7 +20,7 @@ export const DeleteNoteInput = z.object({
     .string()
     .optional()
     .describe(
-      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since — so you never delete content you have not seen.',
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
     ),
 });
 export type DeleteNoteInput = z.input<typeof DeleteNoteInput>;

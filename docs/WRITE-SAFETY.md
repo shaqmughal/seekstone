@@ -44,7 +44,7 @@ against the same pinned SHA-256 hashes.
 ### 2. Vault sandbox
 
 No tool can read or write **vault files** outside `SEEKSTONE_VAULT`, unless
-you set `SEEKSTONE_FOLLOW_SYMLINKS=1` and the vault holds a symlink that
+you set `SEEKSTONE_FOLLOW_SYMLINKS=1` (or `true`) and the vault holds a symlink that
 points outside it. One short window also exists without it: if you replace
 an indexed note's folder with a symlink, reads of that note can reach the
 link's target until the file watcher drops the note (below). Every tool resolves its path and refuses anything
@@ -61,19 +61,20 @@ symlink, the guard resolves its real path, and for a new file the real path
 of the folder it would land in. A real path outside the vault is refused for
 reads and writes, and so is a dangling or looping link. A symlink whose real
 target is inside the vault keeps working. To allow links that leave the
-vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1`. Even then, a dangling link is
+vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1` (or `true`). Even then, a dangling link is
 refused, and the path scopes and reserved folders in §8 still apply wherever
 a link lands inside the vault. The scope globs are vault-relative, so for a
 link that leaves the vault they are matched against the path as written. The
 index never holds a path that crosses a symlink, in either mode: the walk
 and the file watcher don't follow links, and a write through a link updates
 the file without indexing its linked path. So linked files never show up in
-search, listings or backlinks. No tool can create a symlink.
+search, listings or backlinks. A write to an allowed symlinked file replaces
+the link with a regular file, because the atomic write renames over it. No
+tool can create a symlink.
 
 Writes run the check on every call. Reads skip it for a note that is already
 in the index, because every indexed path crossed no link when it was
-indexed. If the user replaces
-an indexed note's folder with a link, reads of that note go through until the
+indexed. If the user replaces an indexed note's folder with a link, reads of that note go through until the
 watcher sees the change and drops the note from the index. A link the user
 swaps in while a call is running can also race the check.
 
@@ -116,12 +117,19 @@ across lines).
 ### 4. Atomic writes — no torn files
 
 Every write goes through one shared temp-file-plus-rename helper
-([`atomic-write.ts`](../packages/server/src/atomic-write.ts)). A crash
-mid-write leaves either the old content or the new content on disk, never a
+([`atomic-write.ts`](../packages/server/src/atomic-write.ts)). It writes the
+temp file, fsyncs it, closes it, and only then renames it over the note, so
+the new bytes are on disk before the rename can be. A crash or power loss
+mid-write leaves either the old content or the new content, never an empty or
 truncated file. (`move_note`'s file relocation and `delete_note`'s move-to-`.trash/` are
 atomic renames rather than temp-file writes; `move_note`'s link rewrites in
 referencing notes are each individually atomic. This is per-file crash-safety,
 not a multi-file transaction.)
+
+Not guaranteed: that the rename itself survives a power loss. The directory
+entry is not fsynced after the rename, so after a power cut the note can
+still hold its old content even though the write returned. It is never torn
+either way. (Tracked as SHA-576.)
 
 Each write uses its own temp file next to the note, named
 `.<note>.<process tag><counter>.seekstone-tmp` and created exclusively. Two
@@ -131,7 +139,9 @@ of the vault: the leading dot hides it from Obsidian and the file watcher, and
 the index walk never treats the `.seekstone-tmp` extension as a note.
 
 - Proven by: [`atomic-write.test.ts`](../packages/server/src/atomic-write.test.ts)
-  and every write-tool test asserting exact post-write bytes.
+  (the open, write, sync, close, rename order; a failed sync keeps the old
+  note; one exclusive temp file per call) and every write-tool test asserting
+  exact post-write bytes.
 
 ### 5. Creates never clobber
 
@@ -156,34 +166,63 @@ that restore, which puts the note back in `.trash/`.
   and the harness `recoverable-delete` op — after a delete, a byte-identical
   copy must exist in a recoverable location.
 
-### 7. Optional compare-and-swap on every write
+### 7. Optional compare-and-swap on writes
 
-`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Every
-content-editing tool — the ten pre-undo write tools, `update_task` included — accepts `prevHash` and refuse to act — with a structured
-`hash_conflict` error carrying the current hash — when the note changed since
-it was read, so a concurrent edit is never silently discarded, moved, or
-deleted. Every mutating result returns a `contentHash`, so chained edits need
-no re-reads: `move_note` returns the hash of the (unchanged) bytes at the new
-path, `delete_note` the hash of the deleted content (byte-identical to the
-`.trash/` copy when recoverable), and `replace_in_note` returns the unchanged
-hash on dry runs and zero-match calls. This is conflict **detection**, not
-locking.
+`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Ten
+write tools accept `prevHash`: `create_note`, `append_note`, `patch_note`,
+`patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`,
+`delete_note`, `append_periodic_note` and `update_task`. When the note changed
+since it was read, they refuse with a structured `hash_conflict` error that
+carries the current hash, so a concurrent edit the check detects is never
+silently discarded, moved, or deleted (see the window below). `create_note` takes `prevHash` only with `overwrite: true`,
+since a fresh create has no earlier version. Two writes have no `prevHash`:
+`undo_write`, which checks every file against the journal instead (see §9),
+and the note `get_periodic_note` creates when it is missing, which by
+definition has no earlier version to compare. The other write results return
+the note's new `contentHash`, so chained edits need no re-reads, and
+`replace_in_note` returns the unchanged hash on dry runs and zero-match calls.
+`move_note` and `delete_note` don't return the hash to the client yet (tracked
+in SHA-581), so re-read the note before a chained `prevHash` edit after a move.
+`undo_write` returns a `restoredHash` per file. This is conflict **detection**, not
+locking: the hash is checked against the bytes the tool reads just before it
+writes, and the note is not locked in between, so an outside edit that lands
+in that window is overwritten without a conflict. The journal holds the bytes
+read before the check, so `undo_write` can't bring that edit back. The window
+includes the journal write, which can wait up to 60 seconds for the journal
+lock when another server process holds it. For `move_note`, `prevHash` guards the source
+note only. With `overwrite: true`, an existing destination is replaced without
+a hash check; the journal keeps its old content, so `undo_write` can bring it
+back.
 
 - Enforced by: [`content-hash.ts`](../packages/server/src/content-hash.ts),
-  checked immediately after the disk read in every write tool.
-- Proven by: [`cas.test.ts`](../packages/server/src/tools/cas.test.ts) and the
-  harness `cas-conflict` op — a stale-hash write, move, or delete after an
-  out-of-band edit must be refused, and the out-of-band edit must survive.
+  checked immediately after the disk read in each of those ten tools.
+- Proven by: [`cas.test.ts`](../packages/server/src/tools/cas.test.ts),
+  [`rename_heading.test.ts`](../packages/server/src/tools/rename_heading.test.ts)
+  and the harness `cas-conflict` op — a stale-hash write, move, or delete after
+  an out-of-band edit must be refused, and the out-of-band edit must survive.
+  `append_periodic_note`'s `prevHash` check has no test of its own yet.
 
 ### 8. Path scoping and read-only mode
 
 `SEEKSTONE_READ_ONLY=1` removes the 11 write tools (`undo_write` included)
 from `tools/list` entirely (and rejects them at dispatch if a client calls
-anyway — including `get_periodic_note`'s create flag); `list_writes` is a read
-tool and stays visible. `SEEKSTONE_WRITE_PATHS` restricts writes to
-an explicit glob allowlist. Both are enforced at the dispatch layer plus a
-shared `assertWritable` in every write handler, so a new tool cannot forget
-the check.
+anyway — including `get_periodic_note`'s create flag). `list_writes` is a read
+tool and stays listed, but the journal is not opened in read-only mode, so it
+returns `disabled: true` and no entries: write history can't be browsed while
+the server is read-only. `SEEKSTONE_WRITE_PATHS` restricts writes to an
+explicit glob allowlist.
+
+Only read-only mode is enforced at dispatch. `SEEKSTONE_WRITE_PATHS`, the read
+scope and the reserved folders below are checked inside each write tool, by a
+call to the shared `assertWritable` before the tool reads or writes the path.
+Nothing in the code forces a new tool to make that call; tests catch a tool
+that doesn't. `reserved-paths.test.ts` drives every tool in `WRITE_TOOLS` at
+`.seekstone/` and `.trash/` and fails if one is missing from its cases, and
+`read-scope.test.ts` drives every write tool except `undo_write` and
+`append_periodic_note` at a hidden path. Both fail for a tool that skips
+`assertWritable`; `reserved-paths.test.ts` covers those two tools on its own. A new tool must also be added to
+`WRITE_TOOLS`, which `dispatch-audit.test.ts` checks by pinning the list of
+read tools.
 
 Two top-level folders are closed to every write tool, whatever the policy
 allows: `.seekstone/`, which holds the write journal, and `.trash/`, which
@@ -253,13 +292,26 @@ file it is about to touch** under `<vault>/.seekstone/history/` —
 content-addressed blobs (identical states are stored once) plus a JSONL
 manifest row `{ seq, ts, tool, files: [{ path, preHash, postHash }] }`.
 `list_writes` lists the journal; `undo_write` restores byte-identically. A
-multi-file `move_note` or `rename_heading` is journaled under one `seq` and
-restored whole (the note *and* every link rewrite) or not at all; a
+multi-file `move_note` or `rename_heading` is journaled under one `seq`, and
+its undo restores every file in it (the note *and* every link rewrite); a
 `delete_note` is restored even when it was `permanent: true`. Undo is CAS
-against the journal: if a file changed after the journaled write, the undo is
+against the journal: before writing anything, it checks every file in the
+entry, and if any one changed after the journaled write, the whole undo is
 refused with a structured `undo_conflict` (expected/actual hashes and byte
 counts) unless `force: true` — and even then the clobbered state is journaled
-first. The undo is itself journaled, so `undo_write({ seq })` on an undo entry
+first. The check isn't a lock: an edit that lands after it and before that
+file is restored is overwritten without an `undo_conflict`. Only that check is
+all-or-nothing. The restore itself writes the files
+one at a time, so a failure partway through (a full disk, say) can leave some
+files restored and others not. The undo's own journal entry, which holds
+every file's state from before the undo, is committed before the first file is
+written, so that state can still be put back. It does not hold the original
+write's pre-images. Committing it can evict the original entry under the
+retention caps, and if that happened, the files not yet restored can't be
+taken back to their pre-write state through the journal. Undoing a partial
+undo reports `undo_conflict` for the files that weren't restored; `force: true`
+is safe once those conflicts have been checked. The undo is itself
+journaled, so `undo_write({ seq })` on an undo entry
 redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
 
@@ -268,9 +320,13 @@ write starts. A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
-does not proceed. Retention is capped (`SEEKSTONE_HISTORY_MAX_SIZE`, default
-50 MB; `SEEKSTONE_HISTORY_MAX_ENTRIES`, default 1000); evicted entries stay
-listed with `undoable: false`, never silently dropped. `SEEKSTONE_HISTORY=0`
+does not proceed. Retention has two caps, and they evict differently. Over
+`SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest
+entries' pre-images are deleted but their rows stay, listed with
+`undoable: false`; the entry just committed is never evicted this way. Over
+`SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
+from the manifest along with their pre-images, so they no longer appear in
+`list_writes` and `undo_write` reports them as not found. `SEEKSTONE_HISTORY=0`
 disables the journal. `.seekstone/` is excluded from indexing and search like
 `.trash/`. Several server processes can share one journal: each manifest change
 holds `.seekstone/history/manifest.lock`, and a waiting process removes that
@@ -281,22 +337,28 @@ holder's pid is reused by another process, writes fail after 60 seconds with an
 error that names the lock file; and a lock held from another host is reclaimed
 after 30 seconds, even if its owner is only paused. Before deleting the lock
 file by hand, stop every seekstone server that shares the vault: a server that
-is still running may have taken the lock again in the meantime. This complements git and Obsidian's File Recovery — it is the
-recovery path the agent itself can drive.
+is still running may have taken the lock again in the meantime. This
+complements git and Obsidian's File Recovery — it is the recovery path the
+agent itself can drive.
 
 - Enforced by: [`journal.ts`](../packages/server/src/journal.ts) (blob store,
   manifest, retention) called from every write tool before its first disk
   write, and [`undo_write.ts`](../packages/server/src/tools/undo_write.ts)
-  (conflict check, all-or-nothing restore, self-journaling).
+  (conflict check over every file before any write, self-journaling before
+  the restore).
 - Proven by: [`journal.test.ts`](../packages/server/src/journal.test.ts),
   [`undo_write.test.ts`](../packages/server/src/tools/undo_write.test.ts)
-  (write → undo → byte-identical for every write tool, multi-file
-  all-or-nothing, conflict/force/redo, eviction, journal-failure abort),
+  (write → undo → byte-identical for every write tool, a conflict on one
+  file of a multi-file entry refuses the whole undo, conflict/force/redo,
+  eviction, journal-failure abort),
   [`journal-multiprocess.test.ts`](../packages/server/src/journal-multiprocess.test.ts)
   (shared journal, lock takeover and waiting) and
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
-  (short and failed manifest writes), and the harness `undo-roundtrip` op — a write through the server, then
-  `undo_write`, must leave the note byte-identical to its original.
+  (short and failed manifest writes), and the harness `undo-roundtrip` op — a
+  write through the server, then `undo_write`, must leave the note
+  byte-identical to its original. `journal.test.ts` covers both caps: the
+  byte cap marks rows `undoable: false`, and the entry cap drops rows and
+  compacts the manifest. No test forces a failure partway through a restore.
 
 ### 10. Every write leaves a receipt
 
@@ -321,12 +383,23 @@ report.
 
 Durability: each record is appended and fsync'd **after** the vault write
 commits, so a crash loses at most the in-flight record and never touches
-earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. The file
-rotates to `<file>.1` when the next record would exceed
-`SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB). An unwritable audit path fails
+earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. The
+append doesn't check for a short write (tracked in SHA-580): one can leave a
+partial line while the call reports success, the next record is then appended
+to that line, and `jq -R 'fromjson?'` skips both. So the parsed file is not
+guaranteed to be a complete trail. The file rotates to `<file>.1` when the next record would exceed
+`SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB). The path is used as given: a
+relative path resolves against the server's working directory, which the MCP
+client chooses, so use an absolute path. An unwritable audit path fails
 boot, and a failed append turns the (already completed) call into a structured
 `audit_failed` error — an unauditable write is never reported as a clean
-success.
+success. If the call itself succeeded, its write has already happened; a
+refused call (a read-only rejection, say) wrote nothing; a call that errored
+may have written part of its work (an `undo_write` that restored one file and
+failed on the next, say). A call that returned
+`audit_failed` may or may not have a record in the audit file, and a missing
+record doesn't prove the write didn't happen. The write journal still has the
+entry of a write that happened, when the journal is on.
 
 Non-goals: reads and searches are not audited; there is no tamper-evident hash
 chaining yet (a v2 candidate); the sink is a local file only — no network, no

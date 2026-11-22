@@ -220,7 +220,7 @@ export const AppendPeriodicNoteInput = z.object({
     .string()
     .optional()
     .describe(
-      'Optional compare-and-swap guard: the contentHash from a prior read of the resolved periodic note. Fails with hash_conflict if it changed since.',
+      'Optional compare-and-swap guard: the contentHash from a prior read of the resolved periodic note. Fails with hash_conflict on mismatch.',
     ),
 });
 export type AppendPeriodicNoteInput = z.input<typeof AppendPeriodicNoteInput>;

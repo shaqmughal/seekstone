@@ -7,8 +7,8 @@
     {
       "mode": "read-write",
       "toolCount": 26,
-      "totalBytes": 26464,
-      "totalTokens": 5821,
+      "totalBytes": 26219,
+      "totalTokens": 5770,
       "instructionsBytes": 0,
       "instructionsTokens": 0,
       "prompts": {
@@ -44,8 +44,8 @@
         },
         {
           "name": "patch_note",
-          "bytes": 1586,
-          "tokens": 345
+          "bytes": 1572,
+          "tokens": 342
         },
         {
           "name": "list_tasks",
@@ -54,8 +54,8 @@
         },
         {
           "name": "replace_in_note",
-          "bytes": 1347,
-          "tokens": 290
+          "bytes": 1333,
+          "tokens": 287
         },
         {
           "name": "read_note",
@@ -63,39 +63,34 @@
           "tokens": 273
         },
         {
-          "name": "update_task",
-          "bytes": 1187,
-          "tokens": 267
-        },
-        {
           "name": "search",
           "bytes": 1185,
           "tokens": 265
         },
         {
+          "name": "update_task",
+          "bytes": 1173,
+          "tokens": 264
+        },
+        {
           "name": "rename_heading",
-          "bytes": 1118,
-          "tokens": 246
+          "bytes": 1104,
+          "tokens": 243
         },
         {
           "name": "move_note",
-          "bytes": 1118,
-          "tokens": 233
+          "bytes": 1104,
+          "tokens": 230
         },
         {
           "name": "append_periodic_note",
-          "bytes": 1031,
-          "tokens": 228
+          "bytes": 1017,
+          "tokens": 225
         },
         {
           "name": "create_note",
-          "bytes": 973,
-          "tokens": 213
-        },
-        {
-          "name": "undo_write",
-          "bytes": 872,
-          "tokens": 198
+          "bytes": 959,
+          "tokens": 210
         },
         {
           "name": "get_periodic_note",
@@ -108,14 +103,19 @@
           "tokens": 191
         },
         {
+          "name": "undo_write",
+          "bytes": 817,
+          "tokens": 187
+        },
+        {
           "name": "delete_note",
-          "bytes": 767,
-          "tokens": 171
+          "bytes": 703,
+          "tokens": 158
         },
         {
           "name": "patch_frontmatter",
-          "bytes": 720,
-          "tokens": 159
+          "bytes": 706,
+          "tokens": 156
         },
         {
           "name": "list_tags",
@@ -134,8 +134,8 @@
         },
         {
           "name": "append_note",
-          "bytes": 644,
-          "tokens": 142
+          "bytes": 630,
+          "tokens": 139
         },
         {
           "name": "list_writes",

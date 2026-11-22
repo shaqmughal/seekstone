@@ -4,7 +4,7 @@ What a client can load into context when a session starts, before any tool is ca
 
 | Mode | Tools | Tool list | Tokens (approx) | Instructions | Prompts | Resources |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Read-write (default) | 26 | 25.8 KB | 5,821 | none | none | none |
+| Read-write (default) | 26 | 25.6 KB | 5,770 | none | none | none |
 | Read-only (`SEEKSTONE_READ_ONLY=1`) | 15 | 14.7 KB | 3,340 | none | none | none |
 
 ## Per tool — Read-write (default)
@@ -13,30 +13,30 @@ Most expensive first.
 
 | Tool | Bytes | Tokens (approx) | Share |
 | --- | ---: | ---: | ---: |
-| `query_notes` | 2,155 | 480 | 8.2% |
-| `read_notes` | 1,797 | 417 | 7.1% |
-| `context_pack` | 1,666 | 357 | 6.1% |
-| `patch_note` | 1,586 | 345 | 5.9% |
-| `list_tasks` | 1,356 | 324 | 5.5% |
-| `replace_in_note` | 1,347 | 290 | 5.0% |
+| `query_notes` | 2,155 | 480 | 8.3% |
+| `read_notes` | 1,797 | 417 | 7.2% |
+| `context_pack` | 1,666 | 357 | 6.2% |
+| `patch_note` | 1,572 | 342 | 5.9% |
+| `list_tasks` | 1,356 | 324 | 5.6% |
+| `replace_in_note` | 1,333 | 287 | 5.0% |
 | `read_note` | 1,223 | 273 | 4.7% |
-| `update_task` | 1,187 | 267 | 4.6% |
-| `search` | 1,185 | 265 | 4.5% |
-| `rename_heading` | 1,118 | 246 | 4.2% |
-| `move_note` | 1,118 | 233 | 4.0% |
-| `append_periodic_note` | 1,031 | 228 | 3.9% |
-| `create_note` | 973 | 213 | 3.6% |
-| `undo_write` | 872 | 198 | 3.4% |
+| `search` | 1,185 | 265 | 4.6% |
+| `update_task` | 1,173 | 264 | 4.6% |
+| `rename_heading` | 1,104 | 243 | 4.2% |
+| `move_note` | 1,104 | 230 | 4.0% |
+| `append_periodic_note` | 1,017 | 225 | 3.9% |
+| `create_note` | 959 | 210 | 3.6% |
 | `get_periodic_note` | 878 | 193 | 3.3% |
 | `resolve_note` | 880 | 191 | 3.3% |
-| `delete_note` | 767 | 171 | 2.9% |
-| `patch_frontmatter` | 720 | 159 | 2.7% |
-| `list_tags` | 674 | 149 | 2.5% |
-| `get_backlinks` | 680 | 148 | 2.5% |
+| `undo_write` | 817 | 187 | 3.2% |
+| `delete_note` | 703 | 158 | 2.7% |
+| `patch_frontmatter` | 706 | 156 | 2.7% |
+| `list_tags` | 674 | 149 | 2.6% |
+| `get_backlinks` | 680 | 148 | 2.6% |
 | `outline_note` | 732 | 145 | 2.5% |
-| `append_note` | 644 | 142 | 2.4% |
+| `append_note` | 630 | 139 | 2.4% |
 | `list_writes` | 580 | 126 | 2.2% |
-| `list_notes` | 510 | 113 | 1.9% |
+| `list_notes` | 510 | 113 | 2.0% |
 | `get_links` | 420 | 91 | 1.6% |
 | `vault_stats` | 338 | 80 | 1.4% |
 
