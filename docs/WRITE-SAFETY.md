@@ -150,11 +150,12 @@ silently discarded, moved, or deleted (see the window below). `create_note` take
 since a fresh create has no earlier version. Two writes have no `prevHash`:
 `undo_write`, which checks every file against the journal instead (see §9),
 and the note `get_periodic_note` creates when it is missing, which by
-definition has no earlier version to compare. Every mutating result returns a `contentHash`, so chained edits need
-no re-reads: `move_note` returns the hash of the (unchanged) bytes at the new
-path, `delete_note` the hash of the deleted content (byte-identical to the
-`.trash/` copy when recoverable), and `replace_in_note` returns the unchanged
-hash on dry runs and zero-match calls. This is conflict **detection**, not
+definition has no earlier version to compare. The other write results return
+the note's new `contentHash`, so chained edits need no re-reads, and
+`replace_in_note` returns the unchanged hash on dry runs and zero-match calls.
+`move_note` and `delete_note` don't return the hash to the client yet (tracked
+in SHA-581), so re-read the note before a chained `prevHash` edit after a move.
+`undo_write` returns a `restoredHash` per file. This is conflict **detection**, not
 locking: the hash is checked against the bytes the tool reads just before it
 writes, and the note is not locked in between, so an outside edit that lands
 in that window is overwritten. For `move_note`, `prevHash` guards the source
@@ -186,8 +187,9 @@ call to the shared `assertWritable` before the tool reads or writes the path.
 Nothing in the code forces a new tool to make that call; tests catch a tool
 that doesn't. `reserved-paths.test.ts` drives every tool in `WRITE_TOOLS` at
 `.seekstone/` and `.trash/` and fails if one is missing from its cases, and
-`read-scope.test.ts` drives every write tool at a hidden path. Both fail for a
-tool that skips `assertWritable`. A new tool must also be added to
+`read-scope.test.ts` drives every write tool except `undo_write` and
+`append_periodic_note` at a hidden path. Both fail for a tool that skips
+`assertWritable`; `reserved-paths.test.ts` covers those two tools on its own. A new tool must also be added to
 `WRITE_TOOLS`, which `dispatch-audit.test.ts` checks by pinning the list of
 read tools.
 
@@ -357,7 +359,9 @@ client chooses, so use an absolute path. An unwritable audit path fails
 boot, and a failed append turns the (already completed) call into a structured
 `audit_failed` error — an unauditable write is never reported as a clean
 success. If the call itself succeeded, its write has already happened; a
-refused call (a read-only rejection, say) wrote nothing. A call that returned
+refused call (a read-only rejection, say) wrote nothing; a call that errored
+may have written part of its work (an `undo_write` that restored one file and
+failed on the next, say). A call that returned
 `audit_failed` may or may not have a record in the audit file, and a missing
 record doesn't prove the write didn't happen. The write journal still has the
 entry of a write that happened, when the journal is on.

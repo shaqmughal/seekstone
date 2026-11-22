@@ -4,7 +4,7 @@ What a client can load into context when a session starts, before any tool is ca
 
 | Mode | Tools | Tool list | Tokens (approx) | Instructions | Prompts | Resources |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Read-write (default) | 26 | 25.8 KB | 5,821 | none | none | none |
+| Read-write (default) | 26 | 25.8 KB | 5,810 | none | none | none |
 | Read-only (`SEEKSTONE_READ_ONLY=1`) | 15 | 14.7 KB | 3,340 | none | none | none |
 
 ## Per tool — Read-write (default)
@@ -17,7 +17,7 @@ Most expensive first.
 | `read_notes` | 1,797 | 417 | 7.1% |
 | `context_pack` | 1,666 | 357 | 6.1% |
 | `patch_note` | 1,586 | 345 | 5.9% |
-| `list_tasks` | 1,356 | 324 | 5.5% |
+| `list_tasks` | 1,356 | 324 | 5.6% |
 | `replace_in_note` | 1,347 | 290 | 5.0% |
 | `read_note` | 1,223 | 273 | 4.7% |
 | `update_task` | 1,187 | 267 | 4.6% |
@@ -25,13 +25,13 @@ Most expensive first.
 | `rename_heading` | 1,118 | 246 | 4.2% |
 | `move_note` | 1,118 | 233 | 4.0% |
 | `append_periodic_note` | 1,031 | 228 | 3.9% |
-| `create_note` | 973 | 213 | 3.6% |
-| `undo_write` | 872 | 198 | 3.4% |
+| `create_note` | 973 | 213 | 3.7% |
 | `get_periodic_note` | 878 | 193 | 3.3% |
 | `resolve_note` | 880 | 191 | 3.3% |
+| `undo_write` | 817 | 187 | 3.2% |
 | `delete_note` | 767 | 171 | 2.9% |
 | `patch_frontmatter` | 720 | 159 | 2.7% |
-| `list_tags` | 674 | 149 | 2.5% |
+| `list_tags` | 674 | 149 | 2.6% |
 | `get_backlinks` | 680 | 148 | 2.5% |
 | `outline_note` | 732 | 145 | 2.5% |
 | `append_note` | 644 | 142 | 2.4% |

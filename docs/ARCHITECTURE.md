@@ -235,8 +235,8 @@ filesystem through a shared set of write primitives — path containment
 (`vault-path.ts`), the per-handler `assertWritable` policy check
 (`policy.ts`; dispatch itself only enforces read-only mode), optional
 compare-and-swap via `prevHash` on every write tool except `undo_write`,
-moves and deletes included (`create_note` only with `overwrite: true`), with every mutating result returning a
-`contentHash` (`content-hash.ts`), a crash-safe temp-file+rename write
+moves and deletes included (`create_note` only with `overwrite: true`), with mutating results returning a
+`contentHash` (`content-hash.ts`; `move_note` and `delete_note` don't yet, SHA-581), a crash-safe temp-file+rename write
 (`atomic-write.ts`), and the write journal (`journal.ts`): before the first
 vault byte changes, every write tool stores the pre-image of each file it will
 touch (`journalWrite` for single-file tools; `ctx.journal.begin()` for

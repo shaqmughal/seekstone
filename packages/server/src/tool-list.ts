@@ -786,7 +786,7 @@ export const ALL_TOOLS = [
     name: 'undo_write',
     annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
-      'Revert a journaled write: restores every file it touched to its byte-identical pre-write state (a multi-file move or heading rename is restored whole; a delete is restored even if it was permanent). Defaults to the most recent undoable write. Refuses with undo_conflict if a file changed since that write, unless force: true. The undo is itself journaled — undo it to redo.',
+      'Revert a journaled write: restores every file it touched to its byte-identical pre-write state (a delete is restored even if it was permanent). Defaults to the most recent undoable write. Refuses with undo_conflict if a file changed since that write, unless force: true. The undo is itself journaled — undo it to redo.',
     inputSchema: {
       type: 'object',
       properties: {

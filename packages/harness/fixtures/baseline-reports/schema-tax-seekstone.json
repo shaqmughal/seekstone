@@ -7,8 +7,8 @@
     {
       "mode": "read-write",
       "toolCount": 26,
-      "totalBytes": 26464,
-      "totalTokens": 5821,
+      "totalBytes": 26409,
+      "totalTokens": 5810,
       "instructionsBytes": 0,
       "instructionsTokens": 0,
       "prompts": {
@@ -93,11 +93,6 @@
           "tokens": 213
         },
         {
-          "name": "undo_write",
-          "bytes": 872,
-          "tokens": 198
-        },
-        {
           "name": "get_periodic_note",
           "bytes": 878,
           "tokens": 193
@@ -106,6 +101,11 @@
           "name": "resolve_note",
           "bytes": 880,
           "tokens": 191
+        },
+        {
+          "name": "undo_write",
+          "bytes": 817,
+          "tokens": 187
         },
         {
           "name": "delete_note",
