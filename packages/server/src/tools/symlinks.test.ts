@@ -10,6 +10,7 @@ import { buildIndex } from '../index/build.js';
 import { Journal } from '../journal.js';
 import { createLogger } from '../log.js';
 import { parseWritePolicy } from '../policy.js';
+import { startWatcher } from '../watcher.js';
 
 /**
  * SHA-575: a symlink inside the vault must not take a read or a write outside
@@ -25,7 +26,7 @@ import { parseWritePolicy } from '../policy.js';
 
 const log = createLogger({ env: { SEEKSTONE_LOG_LEVEL: 'error' }, stderr: () => {} });
 const OUT_TEXT = 'outside-the-vault marker';
-const SECRET = 'hidden-folder marker';
+const HIDDEN_TEXT = 'hidden-folder marker';
 
 const canLinkFiles = (() => {
   const dir = mkdtempSync(join(tmpdir(), 'seekstone-linkprobe-'));
@@ -60,7 +61,7 @@ beforeEach(async () => {
     await writeFile(abs, body, 'utf8');
   };
   await put(join(vault, 'notes', 'a.md'), '# A\n\n- [ ] task\n');
-  await put(join(vault, 'private', 'secret.md'), `# Secret\n\n${SECRET}\n`);
+  await put(join(vault, 'private', 'secret.md'), `# Secret\n\n${HIDDEN_TEXT}\n`);
   await put(join(vault, '.trash', 'Old.md'), '# Old\n');
   await put(join(outside, 'o.md'), `# Out\n\n${OUT_TEXT}\n\n- [ ] task\n`);
   await put(join(outside, 'sub', 'deep.md'), `# Deep\n\n${OUT_TEXT}\n`);
@@ -192,7 +193,7 @@ describe('reads through a symlink (default)', () => {
       const r = await call(ctx, 'read_note', { path: 'notes/privlink/secret.md' });
       expect(r.isError).toBe(true);
       expect(r.text).toMatch(/ENOENT/);
-      expect(r.text).not.toContain(SECRET);
+      expect(r.text).not.toContain(HIDDEN_TEXT);
     }
   });
 });
@@ -374,7 +375,7 @@ describe('path scopes through a symlink', () => {
       // The hidden real path is not named.
       expect(r.text).not.toContain('private');
       expect(await readFile(join(vault, 'private', 'secret.md'), 'utf8')).toBe(
-        `# Secret\n\n${SECRET}\n`,
+        `# Secret\n\n${HIDDEN_TEXT}\n`,
       );
     });
   }
@@ -453,6 +454,47 @@ describe('undo_write through a link swapped in after the write', () => {
     expect(u.text).toMatch(OUTSIDE_MSG);
     expect(existsSync(join(outside, 'n.md'))).toBe(true);
   });
+});
+
+describe('a folder swapped for a link after indexing', () => {
+  async function swapNotesForLink(): Promise<void> {
+    await rm(join(vault, 'notes'), { recursive: true });
+    await writeFile(join(outside, 'a.md'), `# Swapped\n\n${OUT_TEXT}\n`);
+    linkDir(outside, join(vault, 'notes'));
+  }
+
+  it('still refuses writes to an indexed note, with no watcher running', async () => {
+    const ctx = await makeCtx();
+    expect(ctx.notes.has('notes/a.md')).toBe(true);
+    await swapNotesForLink();
+    const r = await call(ctx, 'append_note', { path: 'notes/a.md', content: 'x' });
+    expect(r.isError).toBe(true);
+    expect(r.text).toMatch(OUTSIDE_MSG);
+    expect(await readFile(join(outside, 'a.md'), 'utf8')).not.toContain('x\n');
+  });
+
+  it.skipIf(process.env.SEEKSTONE_COVERAGE === '1')(
+    'refuses reads once the watcher drops the swapped folder from the index',
+    async () => {
+      const ctx = await makeCtx();
+      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+      try {
+        await ready;
+        await swapNotesForLink();
+        const deadline = Date.now() + 60_000;
+        while (ctx.notes.has('notes/a.md') && Date.now() < deadline) {
+          await new Promise((res) => setTimeout(res, 20));
+        }
+        expect(ctx.notes.has('notes/a.md')).toBe(false);
+        const r = await call(ctx, 'read_note', { path: 'notes/a.md' });
+        expect(r.isError).toBe(true);
+        expect(r.text).toMatch(OUTSIDE_MSG);
+        expect(r.text).not.toContain(OUT_TEXT);
+      } finally {
+        await stop();
+      }
+    },
+  );
 });
 
 describe('the index', () => {

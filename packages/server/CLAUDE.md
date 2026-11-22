@@ -21,7 +21,7 @@ Every rule here protects someone's notes. Tests enforce most of them, but read t
 ## Reads
 
 - Every tool that reads a file by path goes through `resolveVaultPath` (`vault-path.ts`). That is how `SEEKSTONE_READ_PATHS` hides files consistently; the index hides them too. `tools/path-guard.test.ts` enforces it.
-- **Symlinks** (`symlinks.ts`). `resolveVaultPath` and `assertWritable` (when given `ctx.vaultRoot`) check where a path really lands: a link out of the vault is refused unless `SEEKSTONE_FOLLOW_SYMLINKS=1`, a dangling one always, and the scopes and reserved folders run again on a real path inside the vault. The fast path is one `lstat` per segment, so don't add a second pass. The index walk and the watcher never follow symlinks.
+- **Symlinks** (`symlinks.ts`). `resolveVaultPath` and `assertWritable` (when given `ctx.vaultRoot`) check where a path really lands: a link out of the vault is refused unless `SEEKSTONE_FOLLOW_SYMLINKS=1`, a dangling one always, and the scopes and reserved folders run again on a real path inside the vault. The check is one `lstat` per segment, so don't add a second pass. `resolveVaultPath` skips it for a path that is a key in `ctx.notes`, which is safe only because the index walk and the watcher never index a path that crosses a link, and writes index only paths `assertWritable` checked. Keep both true.
 
 ## Adding a tool, prompt or resource
 

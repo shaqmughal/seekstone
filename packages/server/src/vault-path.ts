@@ -42,14 +42,17 @@ export function containVaultPath(vaultRoot: string, inputPath: string): string {
  *   lexically or through a symlink.
  * @throws ENOENT-shaped Error when the path is outside the read scope.
  */
-export function resolveVaultPath(
-  ctx: { vaultRoot: string; policy: WritePolicy },
-  inputPath: string,
-): string {
+export function resolveVaultPath(ctx: PathContext, inputPath: string): string {
   const abs = containVaultPath(ctx.vaultRoot, inputPath);
   if (ctx.policy.readGlobs && !isReadable(ctx.policy, vaultRelative(ctx.vaultRoot, abs))) {
     throw notFoundError(abs);
   }
+  // Fast path: an indexed note was reached without crossing a symlink when
+  // the walk or the watcher added it (neither follows links), or was checked
+  // by assertWritable when a write added it. A folder later swapped for a
+  // link drops its notes from the index once the watcher sees the change.
+  // Writes don't rely on this: assertWritable always runs the full check.
+  if (ctx.notes?.has(indexKey(ctx.vaultRoot, abs))) return abs;
   // Through a symlink, the real path must be in the vault (unless
   // SEEKSTONE_FOLLOW_SYMLINKS is on) and inside the read scope too (SHA-575).
   const real = realVaultTarget(ctx.vaultRoot, abs, inputPath, ctx.policy.followSymlinks === true);
@@ -64,16 +67,29 @@ export function resolveVaultPath(
  * A path the read scope hides, or one behind a symlink `resolveVaultPath`
  * refuses, reports false, like a missing file.
  */
-export async function existsReadable(
-  ctx: { vaultRoot: string; policy: WritePolicy },
-  inputPath: string,
-): Promise<boolean> {
+export async function existsReadable(ctx: PathContext, inputPath: string): Promise<boolean> {
   try {
     await access(resolveVaultPath(ctx, inputPath));
     return true;
   } catch {
     return false;
   }
+}
+
+/**
+ * What the path guards need from the server context. `notes` is the index;
+ * when given, an indexed note skips the symlink check (see resolveVaultPath).
+ */
+export interface PathContext {
+  vaultRoot: string;
+  policy: WritePolicy;
+  notes?: ReadonlyMap<string, unknown>;
+}
+
+/** `vaultRelative` for a path already inside the vault, without `relative()`. */
+function indexKey(vaultRoot: string, abs: string): string {
+  const rel = abs.slice(vaultRoot.length + 1);
+  return sep === '/' ? rel : rel.split(sep).join('/');
 }
 
 /** Forward-slash vault-relative key, the same shape walkVault produces. */

@@ -1,4 +1,4 @@
-import { lstatSync, realpathSync } from 'node:fs';
+import { realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
@@ -8,6 +8,7 @@ import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
 import { addAttachment, removeAttachment } from './index/resolve.js';
 import type { Logger } from './log.js';
 import { isReadable } from './policy.js';
+import { symlinkTarget } from './symlinks.js';
 
 /**
  * Watch the vault for .md changes and keep the in-memory index in sync.
@@ -87,14 +88,6 @@ export function resolvePollInterval(
   return parsed;
 }
 
-function isSymlink(abs: string): boolean {
-  try {
-    return lstatSync(abs).isSymbolicLink();
-  } catch {
-    return false;
-  }
-}
-
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -154,9 +147,15 @@ export function startWatcher(
     opts?.onRawEvent?.(op, abs, relPath);
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
-    // Neither do symlinks, the same as the boot walk (SHA-575): a link can
-    // point outside the vault or into a hidden folder.
-    if (isSymlink(abs)) return;
+    // Neither does anything reached through a symlink, the same as the boot
+    // walk (SHA-575): a link can point outside the vault or into a hidden
+    // folder. A note whose folder was swapped for a link is dropped, which
+    // the read path's indexed-note shortcut relies on.
+    if (symlinkTarget(vaultRoot, abs) !== undefined) {
+      if (relPath.endsWith('.md')) remove(relPath);
+      else removeAttachment(ctx.attachments, relPath);
+      return;
+    }
     if (relPath.endsWith('.md')) void upsert(relPath, op);
     // Attachments only track existence, so `change` is a no-op for them.
     else if (op === 'add') addAttachment(ctx.attachments, relPath);

@@ -63,12 +63,18 @@ a link lands inside the vault. The scope globs are vault-relative, so for a
 link that leaves the vault they are matched against the path as written. The
 index walk and the file watcher never
 follow symlinks in either mode, so linked files never show up in search,
-listings or backlinks. No tool can create a symlink. A link that the user
-swaps in while a call is running can still race the check.
+listings or backlinks. No tool can create a symlink.
 
-The check costs one `lstat` per path segment below the vault root on every
-read and write, and a `realpath` only when one of those segments is a link.
-For `read_note` on a three-segment path that is about 5 µs.
+Writes run the check on every call. Reads skip it for a note that is already
+in the index, because the walk and the watcher only index paths that cross
+no link, and a write only indexes a path it has checked. If the user replaces
+an indexed note's folder with a link, reads of that note go through until the
+watcher sees the change and drops the note from the index. A link the user
+swaps in while a call is running can also race the check.
+
+The check costs one `lstat` per path segment below the vault root, and a
+`realpath` only when one of those segments is a link: about 5 µs on a
+three-segment path. Reads of indexed notes don't pay it.
 
 - Enforced by: the path-containment guard in every tool handler, plus the
   symlink check in `resolveVaultPath` and `assertWritable`
