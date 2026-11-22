@@ -1,6 +1,6 @@
 import { posix, relative, resolve, sep } from 'node:path';
 import picomatch from 'picomatch';
-import { realVaultTarget } from './symlinks.js';
+import { OUTSIDE_VAULT, realVaultTarget } from './symlinks.js';
 
 /**
  * Path policy: read-only mode, read- and write-path scoping and symlink
@@ -208,7 +208,13 @@ export function assertWritable(
   const abs = resolve(vaultRoot, relPath);
   if (!abs.startsWith(vaultRoot + sep)) return;
   const real = realVaultTarget(vaultRoot, abs, relPath, policy.followSymlinks === true);
-  if (real !== undefined) {
+  if (real === OUTSIDE_VAULT) {
+    // With SEEKSTONE_FOLLOW_SYMLINKS on: no vault-relative glob can match a
+    // place outside the vault, so a scope that is set refuses it.
+    const label = `"${relPath}" goes through a symlink out of the vault, so it`;
+    if (policy.readGlobs) throw outsideScope(label, 'SEEKSTONE_READ_PATHS', policy.readGlobs);
+    if (policy.writeGlobs) throw outsideScope(label, 'SEEKSTONE_WRITE_PATHS', policy.writeGlobs);
+  } else if (real !== undefined) {
     assertInScope(
       policy,
       real,
@@ -243,14 +249,10 @@ function assertInScope(
   allow: ReservedFolder | undefined,
 ): void {
   if (!isReadable(policy, relPath)) {
-    throw new Error(
-      `Write not permitted: ${label} is outside SEEKSTONE_READ_PATHS (${policy.readGlobs?.join(', ')}).`,
-    );
+    throw outsideScope(label, 'SEEKSTONE_READ_PATHS', policy.readGlobs);
   }
   if (!isWritable(policy, relPath)) {
-    throw new Error(
-      `Write not permitted: ${label} is outside SEEKSTONE_WRITE_PATHS (${policy.writeGlobs?.join(', ')}).`,
-    );
+    throw outsideScope(label, 'SEEKSTONE_WRITE_PATHS', policy.writeGlobs);
   }
   const reserved = reservedFolder(relPath, vaultRoot);
   if (reserved !== undefined && reserved !== allow) {
@@ -258,6 +260,10 @@ function assertInScope(
       `Write not permitted: ${label} is inside ${reserved}/, which Seekstone reserves for write history and deleted notes.`,
     );
   }
+}
+
+function outsideScope(label: string, env: string, globs: string[] | undefined): Error {
+  return new Error(`Write not permitted: ${label} is outside ${env} (${globs?.join(', ')}).`);
 }
 
 /**

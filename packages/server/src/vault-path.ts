@@ -1,7 +1,7 @@
 import { access } from 'node:fs/promises';
 import { relative, resolve, sep } from 'node:path';
 import { isReadable, type WritePolicy } from './policy.js';
-import { realVaultTarget } from './symlinks.js';
+import { OUTSIDE_VAULT, realVaultTarget } from './symlinks.js';
 
 /**
  * Resolve a vault-relative path to an absolute path, guaranteeing the result
@@ -47,17 +47,18 @@ export function resolveVaultPath(ctx: PathContext, inputPath: string): string {
   if (ctx.policy.readGlobs && !isReadable(ctx.policy, vaultRelative(ctx.vaultRoot, abs))) {
     throw notFoundError(abs);
   }
-  // Fast path: an indexed note was reached without crossing a symlink when
-  // the walk or the watcher added it (neither follows links), or was checked
-  // by assertWritable when a write added it. A folder later swapped for a
-  // link drops its notes from the index once the watcher sees the change.
-  // Writes don't rely on this: assertWritable always runs the full check.
+  // Fast path: no indexed path crosses a symlink. The walk and the watcher
+  // don't follow links, and upsertDoc refuses a path that crosses one. A
+  // folder later swapped for a link drops its notes from the index once the
+  // watcher sees the change. Writes don't rely on this: assertWritable
+  // always runs the full check.
   if (ctx.notes?.has(indexKey(ctx.vaultRoot, abs))) return abs;
   // Through a symlink, the real path must be in the vault (unless
   // SEEKSTONE_FOLLOW_SYMLINKS is on) and inside the read scope too (SHA-575).
+  // A target outside the vault is outside any read scope that is set.
   const real = realVaultTarget(ctx.vaultRoot, abs, inputPath, ctx.policy.followSymlinks === true);
-  if (real !== undefined && ctx.policy.readGlobs && !isReadable(ctx.policy, real)) {
-    throw notFoundError(abs);
+  if (real !== undefined && ctx.policy.readGlobs) {
+    if (real === OUTSIDE_VAULT || !isReadable(ctx.policy, real)) throw notFoundError(abs);
   }
   return abs;
 }

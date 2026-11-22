@@ -54,6 +54,10 @@ export interface UndoWriteResult {
  * All-or-nothing: the current state of every file is checked against the
  * entry's postHash first (CAS against the journal), and any mismatch refuses
  * the whole undo with a structured `undo_conflict` unless `force` is set.
+ * A file that already holds its pre-image is not a conflict: there is
+ * nothing to restore and nothing to lose. That covers a file the write never
+ * reached, because the process stopped after journaling or because a
+ * multi-file tool skipped it at the last check (SHA-575).
  * The undo is itself journaled, so undoing the undo redoes the write.
  */
 export async function undoWrite(
@@ -101,7 +105,7 @@ export async function undoWrite(
     }
     current.set(f.path, cur);
     const actualHash = cur === null ? null : contentHash(cur);
-    if (actualHash !== f.postHash) {
+    if (actualHash !== f.postHash && actualHash !== f.preHash) {
       conflicts.push({
         path: f.path,
         expectedHash: f.postHash,
@@ -145,7 +149,10 @@ export async function undoWrite(
   for (const f of entry.files) {
     const abs = resolveVaultPath(ctx, f.path);
     const pre = preimages.get(f.path) ?? null;
-    if (pre === null) {
+    if (current.get(f.path) === pre) {
+      // Already at its pre-image (the write never reached it): leave it be.
+      restored.push({ path: f.path, restoredHash: pre === null ? null : contentHash(pre) });
+    } else if (pre === null) {
       await rm(abs, { force: true });
       removeDoc(ctx, f.path);
       restored.push({ path: f.path, restoredHash: null });

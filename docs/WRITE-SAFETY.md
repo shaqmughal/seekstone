@@ -63,8 +63,8 @@ reads and writes, and so is a dangling or looping link. A symlink whose real
 target is inside the vault keeps working. To allow links that leave the
 vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1` (or `true`). Even then, a dangling link is
 refused, and the path scopes and reserved folders in §8 still apply wherever
-a link lands inside the vault. The scope globs are vault-relative, so for a
-link that leaves the vault they are matched against the path as written. The
+a link lands inside the vault. The scope globs only describe the vault, so a
+link that leaves it counts as outside any read or write scope that is set. The
 index never holds a path that crosses a symlink, in either mode: the walk
 and the file watcher don't follow links, the watcher indexes a note only if
 the file it opened is the one its check approved (same device and inode), and
@@ -255,7 +255,7 @@ symlink, `assertWritable` runs these checks again on where the link really
 lands. A link into `.seekstone/` or `.trash/` is refused for every write
 tool, `move_note`'s source and `undo_write` included, with or without
 `SEEKSTONE_FOLLOW_SYMLINKS`. With the opt-in, a link to somewhere outside
-the vault is checked by the path as written only. A link into a folder outside
+the vault is outside any read or write scope that is set. A link into a folder outside
 `SEEKSTONE_WRITE_PATHS` or `SEEKSTONE_READ_PATHS` is refused the same way, and
 reads through a link into a hidden folder get the not-found error.
 
@@ -310,7 +310,8 @@ against the journal: before writing anything, it checks every file in the
 entry, and if any one changed after the journaled write, the whole undo is
 refused with a structured `undo_conflict` (expected/actual hashes and byte
 counts) unless `force: true` — and even then the clobbered state is journaled
-first. The check isn't a lock: an edit that lands after it and before that
+first. A file that already holds its pre-image isn't a conflict: there is
+nothing to restore, so it is left as it is. The check isn't a lock: an edit that lands after it and before that
 file is restored is overwritten without an `undo_conflict`. Only that check is
 all-or-nothing. The restore itself writes the files
 one at a time, so a failure partway through (a full disk, say) can leave some
@@ -320,16 +321,18 @@ written, so that state can still be put back. It does not hold the original
 write's pre-images. Committing it can evict the original entry under the
 retention caps, and if that happened, the files not yet restored can't be
 taken back to their pre-write state through the journal. Undoing a partial
-undo reports `undo_conflict` for the files that weren't restored; `force: true`
-is safe once those conflicts have been checked. The undo is itself
+undo leaves the files that weren't restored as they are, since they still
+hold that undo's pre-images. The undo is itself
 journaled, so `undo_write({ seq })` on an undo entry
 redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
 
 Crash window: the blob **and** the manifest row are fsync'd before the vault
 write starts. A crash after the journal commit but before the vault write
-leaves an entry whose `postHash` does not match disk — `undo_write` reports
-that as a conflict rather than restoring blindly. A journal write failure
+leaves an entry whose `postHash` does not match disk. The files still hold
+their pre-images, so `undo_write` finds nothing to restore in them rather than
+a conflict. A `move_note` or `rename_heading` that skips a linker at its last
+check, after the commit, leaves the same kind of entry for that file. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
 does not proceed. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest

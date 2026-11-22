@@ -112,12 +112,18 @@ function realPathOfExisting(abs: string): string | undefined {
 }
 
 /**
+ * realVaultTarget's answer for a link that leaves the vault when `follow` is
+ * on. Vault-relative globs can't match such a path, so a read or write scope,
+ * when one is set, refuses it.
+ */
+export const OUTSIDE_VAULT = Symbol('outside the vault');
+
+/**
  * The guard both the read path (`resolveVaultPath`) and the write path
  * (`assertWritable`) call. Returns the real vault-relative path when a link
  * is crossed and the target is inside the vault, so the caller can run its
- * scope checks on it too. Returns undefined when no link is crossed, or when
- * `follow` is on and the target is outside the vault: then only the checks on
- * the path as written apply.
+ * scope checks on it too; OUTSIDE_VAULT when `follow` is on and the target is
+ * outside the vault; undefined when no link is crossed.
  *
  * @throws Error `Path outside vault: ...` when a link leads outside the vault
  *   and `follow` is off, or when a link is dangling or loops.
@@ -127,7 +133,7 @@ export function realVaultTarget(
   abs: string,
   inputPath: string,
   follow: boolean,
-): string | undefined {
+): string | typeof OUTSIDE_VAULT | undefined {
   const target = symlinkTarget(vaultRoot, abs);
   if (target === undefined) return undefined;
   if (target.kind === 'inside') return target.rel;
@@ -136,7 +142,7 @@ export function realVaultTarget(
       `Path outside vault: ${inputPath} goes through a symlink that is dangling or loops.`,
     );
   }
-  if (follow) return undefined;
+  if (follow) return OUTSIDE_VAULT;
   throw new Error(
     `Path outside vault: ${inputPath} goes through a symlink to a location outside the vault. Set SEEKSTONE_FOLLOW_SYMLINKS=1 to allow it.`,
   );

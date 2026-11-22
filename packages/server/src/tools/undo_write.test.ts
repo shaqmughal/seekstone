@@ -355,6 +355,28 @@ describe('undo_write — semantics', () => {
     expect(await disk('Alpha.md')).toBe(external);
   });
 
+  it('treats a file still at its pre-image as restored, not a conflict', async () => {
+    // Journaled but never written: a crash after the commit, or a multi-file
+    // tool that skipped the file at its last check (SHA-575).
+    const journal = ctx.journal;
+    if (journal === undefined) throw new Error('journal expected');
+    const txn = journal.begin('move_note');
+    await txn.add('Alpha.md', A, null);
+    await txn.add('Moved.md', null, A);
+    await txn.add('Beta.md', B, 'never written\n');
+    await txn.commit();
+    const r = await undoWrite(ctx, {});
+    expect(r.overrode).toBeUndefined();
+    expect(r.restored).toEqual([
+      { path: 'Alpha.md', restoredHash: contentHash(A) },
+      { path: 'Moved.md', restoredHash: null },
+      { path: 'Beta.md', restoredHash: contentHash(B) },
+    ]);
+    expect(await disk('Alpha.md')).toBe(A);
+    expect(await disk('Moved.md')).toBeNull();
+    expect(await disk('Beta.md')).toBe(B);
+  });
+
   it('multi-file undo is all-or-nothing on conflict', async () => {
     await moveNote(ctx, { from: 'Alpha.md', to: 'Moved.md' });
     await writeFile(join(vault, 'Beta.md'), 'tampered\n', 'utf8');

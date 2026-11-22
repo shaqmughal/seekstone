@@ -2,7 +2,7 @@ import { mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
-import { _resetRealRoots, realVaultTarget, symlinkTarget } from './symlinks.js';
+import { _resetRealRoots, OUTSIDE_VAULT, realVaultTarget, symlinkTarget } from './symlinks.js';
 
 /** SHA-575 unit cases for the symlink resolver; tools/symlinks.test.ts drives the tools. */
 
@@ -83,7 +83,7 @@ describe('realVaultTarget', () => {
     expect(() => realVaultTarget(vault, abs, 'ext/x.md', false)).toThrow(
       'Path outside vault: ext/x.md goes through a symlink to a location outside the vault. Set SEEKSTONE_FOLLOW_SYMLINKS=1 to allow it.',
     );
-    expect(realVaultTarget(vault, abs, 'ext/x.md', true)).toBeUndefined();
+    expect(realVaultTarget(vault, abs, 'ext/x.md', true)).toBe(OUTSIDE_VAULT);
   });
 
   it('refuses a dangling link even with follow on', async () => {

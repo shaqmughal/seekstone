@@ -88,9 +88,6 @@ export function resolvePollInterval(
   return parsed;
 }
 
-/** readChecked's answer for a path that crosses a symlink. */
-const LINKED = Symbol('linked');
-
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -125,21 +122,16 @@ export function startWatcher(
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
       const raw = await readChecked(join(vaultRoot, relPath));
-      if (raw === LINKED) {
-        remove(relPath);
-        return;
-      }
       // Replaced while we read: the event for the new file re-indexes it.
       if (raw === undefined) return;
-      // Check again after the await: the path may have become a link while
-      // the read was pending, and its removal must not be undone here.
-      // Nothing between this check and the commit below awaits.
-      if (symlinkTarget(vaultRoot, join(vaultRoot, relPath)) !== undefined) {
-        remove(relPath);
+      removeNoteBacklinks(ctx, relPath);
+      // upsertDoc checks the path for links again, after the awaits above and
+      // with none between that check and the commit. If the path became a
+      // link meanwhile, it drops the note instead of indexing it.
+      if (!upsertDoc(ctx, buildDoc(relPath, raw))) {
+        ctx.semantic?.noteRemoved(relPath);
         return;
       }
-      removeNoteBacklinks(ctx, relPath);
-      upsertDoc(ctx, buildDoc(relPath, raw));
       addNoteBacklinks(ctx, relPath, raw);
       // Semantic re-embeds are debounced internally and read the fresh
       // ctx.notes entry — never the disk — so this stays off the hot path.
@@ -152,15 +144,14 @@ export function startWatcher(
 
   /**
    * Read a note only if the bytes come from the file the symlink check
-   * approved (SHA-575). The path is checked with lstat, then opened, and the
-   * open handle must be the same regular file (device and inode). Without
-   * this, a link swapped in just before the open and swapped back after the
-   * read would put a file from outside the vault into the index.
-   * LINKED when the path crosses a link; undefined when the file was
-   * replaced between the check and the open.
+   * approved (SHA-575). The caller has just checked that no path segment is
+   * a link. The file is lstat'd, then opened, and the open handle must be the
+   * same regular file (device and inode). Without this, a link swapped in
+   * just before the open and swapped back after the read would put a file
+   * from outside the vault into the index. Undefined when the file was
+   * replaced (or swapped) between the check and the read.
    */
-  async function readChecked(abs: string): Promise<string | typeof LINKED | undefined> {
-    if (symlinkTarget(vaultRoot, abs) !== undefined) return LINKED;
+  async function readChecked(abs: string): Promise<string | undefined> {
     const checked = lstatSync(abs, { bigint: true });
     if (!checked.isFile()) return undefined;
     const fh = await open(abs, 'r');
@@ -177,7 +168,7 @@ export function startWatcher(
     // A parent folder swapped for a link before the lstat and back after the
     // read would pass both checks above, since lstat and open both follow
     // it. After the read, the path must still name the file that was read,
-    // with no link on the way. upsert commits right after this, synchronously.
+    // with no link on the way (upsertDoc checks the segments next).
     const after = lstatSync(abs, { bigint: true, throwIfNoEntry: false });
     if (after === undefined || after.dev !== opened.dev || after.ino !== opened.ino) {
       return undefined;

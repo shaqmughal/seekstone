@@ -177,10 +177,11 @@ export async function moveNote(
     if (count > 0 && !allowed) skipped.push(path);
     if (allowed) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
-      upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;
       linksRewritten += count;
-      addNoteBacklinks(ctx, path, content, maps);
+      // A linker reached through a link that stays in the vault is written
+      // but not indexed under its linked path (upsertDoc refuses it).
+      if (upsertDoc(ctx, buildDoc(path, content))) addNoteBacklinks(ctx, path, content, maps);
     } else {
       addNoteBacklinks(ctx, path, doc.raw, maps);
     }

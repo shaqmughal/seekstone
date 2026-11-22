@@ -90,7 +90,7 @@ Write:
 
 - `SEEKSTONE_VAULT` (required) — absolute path to the vault
 - `SEEKSTONE_READ_ONLY=1` — unregister and reject all 11 write tools
-- `SEEKSTONE_READ_PATHS` — comma-separated globs (a leading `!` excludes) hiding everything outside them from the agent; also limits writes. A symlink is checked by where it lands, so a link to an excluded note reads as missing (an indexed note can stay readable for a moment after its folder becomes a link)
+- `SEEKSTONE_READ_PATHS` — comma-separated globs (a leading `!` excludes) hiding everything outside them from the agent; also limits writes. A symlink is checked by where it lands: a link to an excluded note, or (with `SEEKSTONE_FOLLOW_SYMLINKS`) to anywhere outside the vault, reads as missing. An indexed note can stay readable for a moment after its folder becomes a link
 - `SEEKSTONE_WRITE_PATHS` — comma-separated globs restricting where writes may land
 - `SEEKSTONE_FOLLOW_SYMLINKS=1` (or `true`) — allow reads and writes through a symlink in the vault that points outside it (refused by default)
 - `SEEKSTONE_SEMANTIC=1` — enable semantic/hybrid search modes (model must be fetched first)
