@@ -43,8 +43,10 @@ against the same pinned SHA-256 hashes.
 
 ### 2. Vault sandbox
 
-No tool can read or write **vault files** outside `SEEKSTONE_VAULT`. Every
-tool resolves its path and refuses anything that escapes the vault root;
+No tool can read or write **vault files** outside `SEEKSTONE_VAULT`, unless
+you set `SEEKSTONE_FOLLOW_SYMLINKS=1` and the vault holds a symlink that
+points outside it (below). Every tool resolves its path and refuses anything
+that escapes the vault root;
 traversal attempts (`../…`) are errors. (With semantic search enabled, the
 server also reads the local embedding model and maintains a per-vault
 embedding cache under `SEEKSTONE_CACHE_DIR`, default `~/.cache/seekstone` —
@@ -199,7 +201,8 @@ still refused. A refusal is audited as
 symlink, `assertWritable` runs these checks again on where the link really
 lands. A link into `.seekstone/` or `.trash/` is refused for every write
 tool, `move_note`'s source and `undo_write` included, with or without
-`SEEKSTONE_FOLLOW_SYMLINKS`. A link into a folder outside
+`SEEKSTONE_FOLLOW_SYMLINKS`. With the opt-in, a link to somewhere outside
+the vault is checked by the path as written only. A link into a folder outside
 `SEEKSTONE_WRITE_PATHS` or `SEEKSTONE_READ_PATHS` is refused the same way, and
 reads through a link into a hidden folder get the not-found error.
 

@@ -157,8 +157,10 @@ export function startWatcher(
       return;
     }
     if (relPath.endsWith('.md')) void upsert(relPath, op);
-    // Attachments only track existence, so `change` is a no-op for them.
-    else if (op === 'add') addAttachment(ctx.attachments, relPath);
+    // Attachments only track existence. A `change` can still be the first
+    // event for one, when a skipped symlink is replaced by a regular file;
+    // addAttachment ignores a path it already has.
+    else addAttachment(ctx.attachments, relPath);
   };
 
   const watcher = chokidar.watch(vaultRoot, {

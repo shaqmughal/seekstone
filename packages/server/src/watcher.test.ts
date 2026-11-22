@@ -476,6 +476,43 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('drops an indexed note replaced by a symlink, and adds an attachment whose link became a file (SHA-575)', async () => {
+    const outside = await mkdtemp(join(tmpdir(), 'seekstone-watcher-outside-'));
+    try {
+      await writeFile(join(outside, 'o.md'), '# Outside\n', 'utf8');
+      await writeFile(join(outside, 'o.png'), 'png', 'utf8');
+      await writeFile(join(tmpDir, 'a.md'), '# A\n', 'utf8');
+      try {
+        await symlink(join(outside, 'o.png'), join(tmpDir, 'pic.png'), 'file');
+      } catch {
+        return; // Windows without the symlink privilege: file links can't be made.
+      }
+      const built = await buildIndex(tmpDir);
+      const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+      expect(ctx.attachments.byPath.has('pic.png')).toBe(false);
+      // Native events: with polling, chokidar doesn't watch a symlink it
+      // won't follow, so the link-to-file swap only shows up on restart.
+      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: false });
+      try {
+        await ready;
+        await rm(join(tmpDir, 'a.md'));
+        await symlink(join(outside, 'o.md'), join(tmpDir, 'a.md'), 'file');
+        await rm(join(tmpDir, 'pic.png'));
+        await writeFile(join(tmpDir, 'pic.png'), 'real png', 'utf8');
+        await waitFor(() => !ctx.notes.has('a.md') && ctx.attachments.byPath.has('pic.png'), {
+          nudge: dirNudger(tmpDir),
+        });
+        // The link's target never enters the index.
+        await new Promise((r) => setTimeout(r, 300));
+        expect(ctx.notes.has('a.md')).toBe(false);
+      } finally {
+        await stop();
+      }
+    } finally {
+      await rm(outside, { recursive: true, force: true });
+    }
+  });
+
   it('returns a stop function whose promise resolves once the watcher closes', async () => {
     const ctx = freshCtx(tmpDir);
     const { stop } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
