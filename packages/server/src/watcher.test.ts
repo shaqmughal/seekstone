@@ -11,6 +11,7 @@ import { PERMISSIVE_POLICY } from './policy.js';
 import { getLinks } from './tools/get_links.js';
 import { listTags } from './tools/list_tags.js';
 import { vaultStats } from './tools/vault_stats.js';
+import { resolveVaultPath } from './vault-path.js';
 import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
 
 // Each test gets its own vault dir. We await the watcher's `ready` promise
@@ -505,6 +506,34 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
         // The link's target never enters the index.
         await new Promise((r) => setTimeout(r, 300));
         expect(ctx.notes.has('a.md')).toBe(false);
+      } finally {
+        await stop();
+      }
+    } finally {
+      await rm(outside, { recursive: true, force: true });
+    }
+  });
+
+  it('drops notes whose folder is swapped for a symlink, so the read path checks them again (SHA-575)', async () => {
+    const outside = await mkdtemp(join(tmpdir(), 'seekstone-watcher-outside-'));
+    try {
+      await mkdir(join(tmpDir, 'notes'));
+      await writeFile(join(tmpDir, 'notes', 'a.md'), '# A\n', 'utf8');
+      await writeFile(join(outside, 'a.md'), '# Swapped\n', 'utf8');
+      const built = await buildIndex(tmpDir);
+      const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+      expect(ctx.notes.has('notes/a.md')).toBe(true);
+      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+      try {
+        await ready;
+        await rm(join(tmpDir, 'notes'), { recursive: true });
+        await symlink(
+          outside,
+          join(tmpDir, 'notes'),
+          process.platform === 'win32' ? 'junction' : 'dir',
+        );
+        await waitFor(() => !ctx.notes.has('notes/a.md'), { nudge: dirNudger(tmpDir) });
+        expect(() => resolveVaultPath(ctx, 'notes/a.md')).toThrow(/outside the vault/);
       } finally {
         await stop();
       }

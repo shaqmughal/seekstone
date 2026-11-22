@@ -10,7 +10,6 @@ import { buildIndex } from '../index/build.js';
 import { Journal } from '../journal.js';
 import { createLogger } from '../log.js';
 import { parseWritePolicy } from '../policy.js';
-import { startWatcher } from '../watcher.js';
 
 /**
  * SHA-575: a symlink inside the vault must not take a read or a write outside
@@ -472,29 +471,6 @@ describe('a folder swapped for a link after indexing', () => {
     expect(r.text).toMatch(OUTSIDE_MSG);
     expect(await readFile(join(outside, 'a.md'), 'utf8')).not.toContain('x\n');
   });
-
-  it.skipIf(process.env.SEEKSTONE_COVERAGE === '1')(
-    'refuses reads once the watcher drops the swapped folder from the index',
-    async () => {
-      const ctx = await makeCtx();
-      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
-      try {
-        await ready;
-        await swapNotesForLink();
-        const deadline = Date.now() + 60_000;
-        while (ctx.notes.has('notes/a.md') && Date.now() < deadline) {
-          await new Promise((res) => setTimeout(res, 20));
-        }
-        expect(ctx.notes.has('notes/a.md')).toBe(false);
-        const r = await call(ctx, 'read_note', { path: 'notes/a.md' });
-        expect(r.isError).toBe(true);
-        expect(r.text).toMatch(OUTSIDE_MSG);
-        expect(r.text).not.toContain(OUT_TEXT);
-      } finally {
-        await stop();
-      }
-    },
-  );
 });
 
 describe('the index', () => {
