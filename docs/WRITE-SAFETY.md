@@ -271,7 +271,9 @@ every file's state from before the undo, is committed before the first file is
 written, so that state can still be put back. It does not hold the original
 write's pre-images. Committing it can evict the original entry under the
 retention caps, and if that happened, the files not yet restored can't be
-taken back to their pre-write state through the journal. The undo is itself
+taken back to their pre-write state through the journal. Undoing a partial
+undo reports `undo_conflict` for the files that weren't restored; `force: true`
+is safe once those conflicts have been checked. The undo is itself
 journaled, so `undo_write({ seq })` on an undo entry
 redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
@@ -344,15 +346,19 @@ report.
 
 Durability: each record is appended and fsync'd **after** the vault write
 commits, so a crash loses at most the in-flight record and never touches
-earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. The file
+earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. A short
+write can also leave a partial line, which `jq -R 'fromjson?'` skips; this is
+tracked in SHA-580. The file
 rotates to `<file>.1` when the next record would exceed
 `SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB). The path is used as given: a
 relative path resolves against the server's working directory, which the MCP
 client chooses, so use an absolute path. An unwritable audit path fails
 boot, and a failed append turns the (already completed) call into a structured
 `audit_failed` error — an unauditable write is never reported as a clean
-success. That write has still happened, and the audit file has no record of
-it. The write journal still has its entry when the journal is on.
+success. The write itself has still happened. A call that returned
+`audit_failed` may or may not have a record in the audit file, and a missing
+record doesn't prove the write didn't happen. The write journal still has its
+entry when the journal is on.
 
 Non-goals: reads and searches are not audited; there is no tamper-evident hash
 chaining yet (a v2 candidate); the sink is a local file only — no network, no
