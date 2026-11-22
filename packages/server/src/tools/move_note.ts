@@ -11,7 +11,7 @@ import {
 } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import { buildResolveMaps } from '../index/resolve.js';
-import { assertWritable, isWritable } from '../policy.js';
+import { assertWritable, canWrite } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 
@@ -119,9 +119,11 @@ export async function moveNote(
   for (const path of [...candidates].sort()) {
     const doc = preNotes.get(path);
     if (doc === undefined) continue;
-    if (!isWritable(ctx.policy, path)) {
-      // Out of write scope: leave the note untouched but report it, so the
-      // caller knows which references were NOT updated.
+    // The same check as the tool's own path, symlinks included (SHA-575): a
+    // cached linker whose folder became a link must not be written through.
+    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
+      // Refused: leave the note untouched but report it, so the caller
+      // knows which references were NOT updated.
       skipped.push(path);
       continue;
     }
@@ -169,7 +171,11 @@ export async function moveNote(
     // when nothing was rewritten (basename links now resolve to the new
     // path); remove reads the old raw, so call it before updating the entry.
     removeNoteBacklinks(ctx, path, maps);
-    if (count > 0) {
+    // Checked again here: the journal awaits above leave time for a folder
+    // to be swapped for a link since the plan was made.
+    const allowed = count > 0 && canWrite(ctx.policy, path, ctx.vaultRoot);
+    if (count > 0 && !allowed) skipped.push(path);
+    if (allowed) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
       upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;

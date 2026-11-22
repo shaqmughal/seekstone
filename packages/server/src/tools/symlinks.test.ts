@@ -1,4 +1,4 @@
-import { existsSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
+import { existsSync, symlinkSync } from 'node:fs';
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
@@ -18,28 +18,14 @@ import { parseWritePolicy } from '../policy.js';
  * working, and SEEKSTONE_FOLLOW_SYMLINKS=1 allows links that leave the vault
  * (the scopes and reserved folders still apply to real paths in the vault).
  *
- * Folder links are junctions on Windows, which need no privilege. File links
- * need the symlink privilege there, so those cases are skipped when the
- * process can't create one.
+ * Folder links are junctions on Windows. File links need the symlink
+ * privilege there, which the CI runners have, so every case runs on every OS
+ * (no conditional skips).
  */
 
 const log = createLogger({ env: { SEEKSTONE_LOG_LEVEL: 'error' }, stderr: () => {} });
 const OUT_TEXT = 'outside-the-vault marker';
 const HIDDEN_TEXT = 'hidden-folder marker';
-
-const canLinkFiles = (() => {
-  const dir = mkdtempSync(join(tmpdir(), 'seekstone-linkprobe-'));
-  try {
-    writeFileSync(join(dir, 'a'), '');
-    symlinkSync(join(dir, 'a'), join(dir, 'b'), 'file');
-    return true;
-  } catch {
-    return false;
-  } finally {
-    rmSync(dir, { recursive: true, force: true });
-  }
-})();
-const itFileLinks = it.skipIf(!canLinkFiles);
 
 function linkDir(target: string, path: string): void {
   symlinkSync(target, path, process.platform === 'win32' ? 'junction' : 'dir');
@@ -135,7 +121,7 @@ describe('reads through a symlink (default)', () => {
     }
   });
 
-  itFileLinks('refuses a file link that leaves the vault', async () => {
+  it('refuses a file link that leaves the vault', async () => {
     symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');
     const ctx = await makeCtx();
     const r = await call(ctx, 'read_note', { path: 'outfile.md' });
@@ -158,7 +144,7 @@ describe('reads through a symlink (default)', () => {
     expect(r.text).toContain('# A');
   });
 
-  itFileLinks('reads through a file link that stays in the vault', async () => {
+  it('reads through a file link that stays in the vault', async () => {
     symlinkSync(join(vault, 'notes', 'a.md'), join(vault, 'notes', 'inlink.md'), 'file');
     const ctx = await makeCtx();
     const r = await call(ctx, 'read_note', { path: 'notes/inlink.md' });
@@ -173,7 +159,7 @@ describe('reads through a symlink (default)', () => {
     expect(r.text).toMatch(DANGLING_MSG);
   });
 
-  itFileLinks('refuses a dangling file link and a link loop', async () => {
+  it('refuses a dangling file link and a link loop', async () => {
     symlinkSync(join(base, 'nope.md'), join(vault, 'dead.md'), 'file');
     symlinkSync(join(vault, 'loop-b.md'), join(vault, 'loop-a.md'), 'file');
     symlinkSync(join(vault, 'loop-a.md'), join(vault, 'loop-b.md'), 'file');
@@ -295,7 +281,7 @@ describe('writes through a symlink (default)', () => {
     expect(existsSync(join(base, 'missing'))).toBe(false);
   });
 
-  itFileLinks('refuses to write to a dangling file link', async () => {
+  it('refuses to write to a dangling file link', async () => {
     symlinkSync(join(base, 'nope.md'), join(vault, 'dead.md'), 'file');
     const ctx = await makeCtx();
     const r = await call(ctx, 'create_note', { path: 'dead.md', content: 'x', overwrite: true });
@@ -304,7 +290,7 @@ describe('writes through a symlink (default)', () => {
     expect(existsSync(join(base, 'nope.md'))).toBe(false);
   });
 
-  itFileLinks('refuses a file link that leaves the vault', async () => {
+  it('refuses a file link that leaves the vault', async () => {
     symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');
     const ctx = await makeCtx();
     const r = await call(ctx, 'append_note', { path: 'outfile.md', content: 'x' });
@@ -522,9 +508,46 @@ describe('an indexed note whose folder becomes an in-vault link', () => {
   });
 });
 
+describe('link rewrites in notes whose folder became a link', () => {
+  async function linkerSwappedOut(body: string): Promise<ServerContext> {
+    await mkdir(join(vault, 'refs'));
+    await writeFile(join(vault, 'refs', 'r.md'), body);
+    const ctx = await makeCtx();
+    expect(ctx.notes.has('refs/r.md')).toBe(true);
+    // The watcher hasn't caught up: refs/r.md is still cached.
+    await rm(join(vault, 'refs'), { recursive: true });
+    await mkdir(join(outside, 'refs'));
+    await writeFile(join(outside, 'refs', 'r.md'), body);
+    linkDir(join(outside, 'refs'), join(vault, 'refs'));
+    return ctx;
+  }
+
+  it('move_note skips and reports the linker instead of writing outside the vault', async () => {
+    const body = '# R\n\nSee [[a]].\n';
+    const ctx = await linkerSwappedOut(body);
+    const r = await call(ctx, 'move_note', { from: 'notes/a.md', to: 'notes/b.md' });
+    expect(r.isError, r.text).toBe(false);
+    expect(r.text).toContain('through a symlink): refs/r.md.');
+    expect(await readFile(join(outside, 'refs', 'r.md'), 'utf8')).toBe(body);
+  });
+
+  it('rename_heading skips and reports the linker instead of writing outside the vault', async () => {
+    const body = '# R\n\nSee [[a#A]].\n';
+    const ctx = await linkerSwappedOut(body);
+    const r = await call(ctx, 'rename_heading', {
+      path: 'notes/a.md',
+      oldHeading: 'A',
+      newHeading: 'Z',
+    });
+    expect(r.isError, r.text).toBe(false);
+    expect(r.text).toContain('through a symlink): refs/r.md.');
+    expect(await readFile(join(outside, 'refs', 'r.md'), 'utf8')).toBe(body);
+  });
+});
+
 describe('the index', () => {
   it('does not walk into links, in either mode', async () => {
-    if (canLinkFiles) symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');
+    symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');
     const built = await buildIndex(vault);
     const keys = [...built.notes.keys()];
     expect(keys).toContain('notes/a.md');

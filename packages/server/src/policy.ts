@@ -220,6 +220,20 @@ export function assertWritable(
   }
 }
 
+/**
+ * True when `assertWritable` would let `relPath` be written. For paths a
+ * tool picks itself (the notes a move or heading rename rewrites), which it
+ * skips and reports instead of failing the whole call.
+ */
+export function canWrite(policy: WritePolicy, relPath: string, vaultRoot: string): boolean {
+  try {
+    assertWritable(policy, relPath, vaultRoot);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 /** The scope and reserved-folder checks; `label` names the path in the message. */
 function assertInScope(
   policy: WritePolicy,

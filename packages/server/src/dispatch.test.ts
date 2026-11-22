@@ -217,7 +217,9 @@ describe('rename_heading dispatch text', () => {
       expect(res.isError).toBeUndefined();
       const text = res.content[0]?.text ?? '';
       expect(text).toContain('Renamed heading "Old" → "New" in subject.md');
-      expect(text).toContain('Skipped (outside SEEKSTONE_WRITE_PATHS): linker.md.');
+      expect(text).toContain(
+        'Skipped (not writable: outside SEEKSTONE_WRITE_PATHS, or through a symlink): linker.md.',
+      );
     } finally {
       await rm(scopedVault, { recursive: true, force: true });
     }

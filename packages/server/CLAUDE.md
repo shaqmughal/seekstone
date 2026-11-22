@@ -8,7 +8,7 @@ The server reads its own env vars; the README's Configuration table lists them.
 
 Every rule here protects someone's notes. Tests enforce most of them, but read them before you touch a write path.
 
-- **Check the policy first.** Call `assertWritable` (`policy.ts`) before resolving the path.
+- **Check the policy first.** Call `assertWritable` (`policy.ts`) before resolving the path. Paths a tool picks itself (the other notes a move or heading rename rewrites) go through `canWrite` just before each write; a refused one is skipped and reported.
 - **Journal before the first byte changes.** One file: `journalWrite`. Several files: work out every rewrite first, journal them all under one `ctx.journal.begin()` `seq`, then write. A write that lands before its journal entry can't be undone by `undo_write`.
 - **Write atomically.** Use `atomicWrite` (`atomic-write.ts`), never a bare `writeFile` on a vault path.
 - **Compare-and-swap.** Every write tool takes an optional `prevHash` (moves and deletes included) and returns a `contentHash` (`move_note` and `delete_note` don't put it in the client result yet; SHA-581), with two exceptions: `undo_write` checks each file against its journal entry instead, and `get_periodic_note`'s create of a missing note has nothing to compare. `create_note` accepts `prevHash` only with `overwrite: true`. The check is conflict detection, not a lock: an edit that lands between the check and the rename is overwritten without a conflict, so don't describe it as preventing lost updates.

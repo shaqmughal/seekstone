@@ -1,5 +1,5 @@
-import { realpathSync } from 'node:fs';
-import { mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
+import { realpathSync, renameSync, symlinkSync } from 'node:fs';
+import { mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
@@ -17,6 +17,9 @@ import { startWatcher } from './watcher.js';
  * vault right before the watcher opens it, and swaps a regular file back
  * right after, so checks made on the path before and after the read both
  * see a regular file. Only binding the read to the checked file catches it.
+ * The second case swaps a parent folder instead, before the watcher's lstat,
+ * so lstat and open agree on the outside file; only re-checking the path
+ * after the read catches that one.
  */
 
 const race = vi.hoisted(() => ({
@@ -24,7 +27,23 @@ const race = vi.hoisted(() => ({
   target: '',
   swapIn: async () => {},
   swapBack: async () => {},
+  /** Runs synchronously inside the watcher's own lstat of the target. */
+  beforeLstat: undefined as (() => void) | undefined,
 }));
+
+vi.mock('node:fs', async (importOriginal) => {
+  const actual = await importOriginal<typeof import('node:fs')>();
+  const lstatSync = ((p: unknown, opts?: { bigint?: boolean }) => {
+    // Only the watcher's identity lstat asks for bigint stats.
+    if (race.beforeLstat && opts?.bigint === true && String(p) === race.target) {
+      const swap = race.beforeLstat;
+      race.beforeLstat = undefined;
+      swap();
+    }
+    return (actual.lstatSync as (...a: unknown[]) => unknown)(p, opts);
+  }) as typeof actual.lstatSync;
+  return { ...actual, lstatSync };
+});
 
 vi.mock('node:fs/promises', async (importOriginal) => {
   const actual = await importOriginal<typeof import('node:fs/promises')>();
@@ -63,6 +82,7 @@ beforeEach(async () => {
 
 afterEach(async () => {
   race.armed = false;
+  race.beforeLstat = undefined;
   await rm(vault, { recursive: true, force: true });
   await rm(outside, { recursive: true, force: true });
 });
@@ -83,15 +103,6 @@ describe('watcher read binding (SHA-575)', () => {
   it('never indexes bytes from a link swapped in around the read', async () => {
     const realVault = realpathSync(vault);
     const note = join(realVault, 'race.md');
-    let canLink = true;
-    try {
-      await symlink(join(outside, 'o.md'), join(vault, 'probe.md'), 'file');
-      await rm(join(vault, 'probe.md'));
-    } catch {
-      canLink = false; // Windows without the symlink privilege.
-    }
-    if (!canLink) return;
-
     const ctx = emptyCtx();
     let leaked = false;
     let updates = 0;
@@ -130,6 +141,60 @@ describe('watcher read binding (SHA-575)', () => {
       expect(leaked).toBe(false);
       expect(updates).toBeGreaterThan(0);
       expect(ctx.notes.get('race.md')?.raw).toContain('inside again');
+    } finally {
+      await stop();
+    }
+  });
+
+  it('never indexes bytes read through a parent folder swapped around the read', async () => {
+    const realVault = realpathSync(vault);
+    const notes = join(realVault, 'notes');
+    const note = join(notes, 'race.md');
+    await mkdir(notes);
+    await mkdir(join(outside, 'notes'));
+    await writeFile(join(outside, 'notes', 'race.md'), `# Out\n\n${OUT_TEXT}\n`, 'utf8');
+
+    const ctx = emptyCtx();
+    let leaked = false;
+    const log: Logger = {
+      level: 'debug',
+      error: () => {},
+      warn: () => {},
+      info: () => {},
+      debug: (msg: string) => {
+        if (msg === 'index updated' && ctx.notes.get('notes/race.md')?.raw.includes(OUT_TEXT)) {
+          leaked = true;
+        }
+      },
+    };
+    race.target = note;
+    race.beforeLstat = () => {
+      renameSync(notes, `${notes}-real`);
+      symlinkSync(join(outside, 'notes'), notes, process.platform === 'win32' ? 'junction' : 'dir');
+    };
+    race.swapIn = async () => {};
+    race.swapBack = async () => {
+      await rm(notes);
+      renameSync(`${notes}-real`, notes);
+    };
+
+    const { stop, ready } = startWatcher(ctx, log, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      race.armed = true;
+      await writeFile(note, '# Race\n\ninside\n', 'utf8');
+      const deadline = Date.now() + 60_000;
+      while (race.armed && Date.now() < deadline) {
+        await new Promise((r) => setTimeout(r, 20));
+      }
+      // Let any upsert that was in flight finish. Polling loses track of the
+      // renamed folder, so the note isn't re-indexed afterwards; what counts
+      // is that the outside bytes never reached the index.
+      await new Promise((r) => setTimeout(r, 500));
+      expect(race.armed).toBe(false);
+      expect(race.beforeLstat).toBeUndefined();
+      expect(leaked).toBe(false);
+      expect(ctx.notes.get('notes/race.md')?.raw ?? '').not.toContain(OUT_TEXT);
     } finally {
       await stop();
     }

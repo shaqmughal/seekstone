@@ -388,7 +388,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
         result.linksRewritten === 1 ? '' : 's'
       } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}.`;
       if (result.skipped?.length) {
-        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+        text += ` Skipped (not writable: outside SEEKSTONE_WRITE_PATHS, or through a symlink): ${result.skipped.join(', ')}.`;
       }
       return {
         content: [{ type: 'text', text }],
@@ -409,7 +409,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
         result.linksRewritten === 1 ? '' : 's'
       } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}. contentHash: ${result.contentHash}`;
       if (result.skipped?.length) {
-        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+        text += ` Skipped (not writable: outside SEEKSTONE_WRITE_PATHS, or through a symlink): ${result.skipped.join(', ')}.`;
       }
       return {
         content: [{ type: 'text', text }],

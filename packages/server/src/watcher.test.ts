@@ -440,6 +440,16 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('returns a stop function whose promise resolves once the watcher closes', async () => {
+    const ctx = freshCtx(tmpDir);
+    const { stop } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    await expect(stop()).resolves.toBeUndefined();
+  });
+});
+
+// Symlink handling (SHA-575). These run in the coverage pass too: each waits
+// up to a minute for its events, so a slow instrumented run still finishes.
+describe('startWatcher and symlinks (SHA-575)', () => {
   it('does not index files reached through a symlink, as the boot walk does (SHA-575)', async () => {
     const outside = await mkdtemp(join(tmpdir(), 'seekstone-watcher-outside-'));
     try {
@@ -455,19 +465,14 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       try {
         await ready;
         await writeFile(join(outside, 'leak.md'), '# Leak\n', 'utf8');
-        let fileLink = true;
-        try {
-          await symlink(join(outside, 'before.md'), join(tmpDir, 'link.md'), 'file');
-        } catch {
-          fileLink = false; // Windows without the symlink privilege.
-        }
+        await symlink(join(outside, 'before.md'), join(tmpDir, 'link.md'), 'file');
         await writeFile(join(tmpDir, 'real.md'), '# Real\n', 'utf8');
         await waitFor(() => ctx.notes.has('real.md'), { nudge: dirNudger(tmpDir) });
         // A few more poll rounds for any late event through the links.
         await new Promise((r) => setTimeout(r, 500));
         const keys = [...ctx.notes.keys()];
         expect(keys.filter((k) => k.startsWith('ext/'))).toEqual([]);
-        if (fileLink) expect(keys).not.toContain('link.md');
+        expect(keys).not.toContain('link.md');
         expect([...ctx.attachments.byPath.keys()].filter((k) => k.startsWith('ext'))).toEqual([]);
       } finally {
         await stop();
@@ -483,11 +488,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await writeFile(join(outside, 'o.md'), '# Outside\n', 'utf8');
       await writeFile(join(outside, 'o.png'), 'png', 'utf8');
       await writeFile(join(tmpDir, 'a.md'), '# A\n', 'utf8');
-      try {
-        await symlink(join(outside, 'o.png'), join(tmpDir, 'pic.png'), 'file');
-      } catch {
-        return; // Windows without the symlink privilege: file links can't be made.
-      }
+      await symlink(join(outside, 'o.png'), join(tmpDir, 'pic.png'), 'file');
       const built = await buildIndex(tmpDir);
       const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
       expect(ctx.attachments.byPath.has('pic.png')).toBe(false);
@@ -540,12 +541,6 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     } finally {
       await rm(outside, { recursive: true, force: true });
     }
-  });
-
-  it('returns a stop function whose promise resolves once the watcher closes', async () => {
-    const ctx = freshCtx(tmpDir);
-    const { stop } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
-    await expect(stop()).resolves.toBeUndefined();
   });
 });
 

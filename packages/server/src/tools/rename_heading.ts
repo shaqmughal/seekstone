@@ -9,7 +9,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { resolveLink } from '../index/resolve.js';
-import { assertWritable, isWritable } from '../policy.js';
+import { assertWritable, canWrite } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { mapUnfencedLines } from './rewrite_links.js';
 
@@ -170,9 +170,11 @@ export async function renameHeading(
       (target) => target !== '' && resolveLink(target, ctx.notes) === input.path,
     );
     if (count === 0) continue;
-    if (!isWritable(ctx.policy, path)) {
-      // Out of write scope: leave the note untouched but report it, so the
-      // caller knows which references were NOT updated.
+    // The same check as the tool's own path, symlinks included (SHA-575): a
+    // cached linker whose folder became a link must not be written through.
+    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
+      // Refused: leave the note untouched but report it, so the caller
+      // knows which references were NOT updated.
       skipped.push(path);
       continue;
     }
@@ -202,6 +204,12 @@ export async function renameHeading(
   let linksRewritten = selfRewrite.count;
 
   for (const { path, content, count } of rewrites) {
+    // Checked again here: the journal awaits above leave time for a folder
+    // to be swapped for a link since the plan was made.
+    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
+      skipped.push(path);
+      continue;
+    }
     await atomicWrite(join(ctx.vaultRoot, path), content);
     // Fragment rewrites change neither link resolution nor line numbers, so
     // the backlink index needs no refresh — only the notes/search entries.

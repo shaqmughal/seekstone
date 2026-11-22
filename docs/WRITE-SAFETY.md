@@ -77,7 +77,17 @@ Writes run the check on every call. Reads skip it for a note that is already
 in the index, because every indexed path crossed no link when it was
 indexed. If the user replaces an indexed note's folder with a link, reads of that note go through until the
 watcher sees the change and drops the note from the index. A link the user
-swaps in while a call is running can also race the check.
+swaps in while a call is running can also race the check. When `move_note`
+or `rename_heading` rewrites links in other notes, each of those notes gets
+the same check, just before it is written; a refused one is left alone and
+listed as skipped.
+
+One limit is known. The watcher reads a note only if the file it opened is
+the one its check approved, and checks the path again after the read. A local
+user who swaps a parent folder for a link and back, timed between those
+system calls, could still get a file from outside the vault indexed. Closing
+that needs each folder opened without following links (`openat` with
+`O_NOFOLLOW`), which Node doesn't offer.
 
 The check costs one `lstat` per path segment below the vault root, and a
 `realpath` only when one of those segments is a link: about 5 µs on a

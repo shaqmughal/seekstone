@@ -164,15 +164,25 @@ export function startWatcher(
     const checked = lstatSync(abs, { bigint: true });
     if (!checked.isFile()) return undefined;
     const fh = await open(abs, 'r');
+    let raw: string;
+    let opened: { dev: bigint; ino: bigint };
     try {
-      const opened = await fh.stat({ bigint: true });
-      if (!opened.isFile() || opened.dev !== checked.dev || opened.ino !== checked.ino) {
-        return undefined;
-      }
-      return await fh.readFile('utf8');
+      const st = await fh.stat({ bigint: true });
+      if (!st.isFile() || st.dev !== checked.dev || st.ino !== checked.ino) return undefined;
+      opened = st;
+      raw = await fh.readFile('utf8');
     } finally {
       await fh.close();
     }
+    // A parent folder swapped for a link before the lstat and back after the
+    // read would pass both checks above, since lstat and open both follow
+    // it. After the read, the path must still name the file that was read,
+    // with no link on the way. upsert commits right after this, synchronously.
+    const after = lstatSync(abs, { bigint: true, throwIfNoEntry: false });
+    if (after === undefined || after.dev !== opened.dev || after.ino !== opened.ino) {
+      return undefined;
+    }
+    return raw;
   }
 
   function remove(relPath: string): void {
