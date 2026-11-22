@@ -97,7 +97,7 @@ flowchart TD
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (26) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (26) → run() switch"]
     end
 
     subgraph tools["Tools layer — tools/ (26)"]
@@ -221,25 +221,27 @@ flowchart TD
    measurement, and uniform error-to-`isError` handling — tools signal typed
    failures by throwing JSON envelopes (`hash_conflict`,
    `semantic_unavailable`, `semantic_building` with progress) that dispatch
-   passes through as the error text. It is also the write
-   **policy enforcement seam**: calls to any of the 11 `WRITE_TOOLS` are rejected
-   in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
-   neutralized there too. `HANDLED_TOOLS` is the 25-name source of truth, kept
+   passes through as the error text. It is also where **read-only mode** is
+   enforced: calls to any of the 11 `WRITE_TOOLS` are rejected, and
+   `get_periodic_note`'s `createIfMissing` side effect is neutralized there too.
+   Write-path scope is not checked here; each write tool calls `assertWritable`.
+   `HANDLED_TOOLS` is the 26-name source of truth, kept
    in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
 (and read note bodies straight off disk when needed — semantic hits never do;
 their excerpts slice the in-memory body); write tools mutate the vault
 filesystem through a shared set of write primitives — path containment
-(`vault-path.ts`), a second per-handler `assertWritable` policy check
-(`policy.ts`), optional compare-and-swap via `prevHash` on **every** write
-tool including moves and deletes, with every mutating result returning a
-`contentHash` (`content-hash.ts`), a crash-safe temp-file+rename write
+(`vault-path.ts`), the per-handler `assertWritable` policy check
+(`policy.ts`; dispatch itself only enforces read-only mode), optional
+compare-and-swap via `prevHash` on every write tool except `undo_write`,
+moves and deletes included (`create_note` only with `overwrite: true`), with mutating results returning a
+`contentHash` (`content-hash.ts`; `move_note` and `delete_note` don't yet, SHA-581), a crash-safe temp-file+rename write
 (`atomic-write.ts`), and the write journal (`journal.ts`): before the first
 vault byte changes, every write tool stores the pre-image of each file it will
 touch (`journalWrite` for single-file tools; `ctx.journal.begin()` for
 multi-file ones, which compute every rewrite first and journal them under one
-`seq`), so `undo_write` can restore the whole operation byte-for-byte; and, when `SEEKSTONE_AUDIT_FILE` is set, the dispatcher — the single choke point every write call passes through — appends one JSONL audit record per call (ok or refused) from the tool's `audit` detail plus the journal's hash pair (`audit.ts`) —
+`seq`), so `undo_write` can restore every file of the operation byte-for-byte; and, when `SEEKSTONE_AUDIT_FILE` is set, the dispatcher — the single choke point every write call passes through — appends one JSONL audit record per call (ok or refused) from the tool's `audit` detail plus the journal's hash pair (`audit.ts`) —
 using `@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
 notes to the vault's `.trash/` folder rather than unlinking (unless
 `permanent: true`), and `move_note` and `rename_heading` rewrite inbound
@@ -492,7 +494,7 @@ are the receipts.
 | `replace_in_note` | write | Find/replace within a note |
 | `append_periodic_note` | write | Append to today's / a given date's periodic note |
 | `update_task` | write | Set one checkbox's state by path + line — a single-character rewrite, everything else byte-identical; `expectText` guard + optional `prevHash` CAS |
-| `undo_write` | write | Restore every file a journaled write touched to its pre-image (all-or-nothing, CAS against the journal, `force` to override); self-journaling so undo of an undo redoes |
+| `undo_write` | write | Restore every file a journaled write touched to its pre-image (checks every file against the journal before writing any, `force` to override); self-journaling so undo of an undo redoes |
 
 The list is mirrored in `dispatch.ts` (`HANDLED_TOOLS`) and the `ListTools`
 schemas in `tool-list.ts`; `docs/REGISTRIES.md` carries the same count and CI

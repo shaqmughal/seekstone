@@ -29,8 +29,8 @@
     "method": "Tool list as served over MCP stdio (tools/list, all pages), each tool compact-JSON serialized; totalBytes/totalTokens cover the whole tools array, perTool covers each tool on its own (per-tool tokens do not sum exactly to the total). prompts/list, resources/list and resources/templates/list are measured the same way when the server advertises them. Tokens: tiktoken cl100k_base.",
     "readWrite": {
       "toolCount": 26,
-      "bytes": 26464,
-      "tokens": 5821,
+      "bytes": 26219,
+      "tokens": 5770,
       "instructionsBytes": 0,
       "prompts": {
         "count": 0,
@@ -104,13 +104,13 @@
       ]
     },
     "readOnlySaving": {
-      "tokens": 2481,
-      "percent": 43
+      "tokens": 2430,
+      "percent": 42
     },
     "provenance": {
       "report": "packages/harness/fixtures/baseline-reports/schema-tax-seekstone.json",
       "capture": "auto",
-      "commit": "3575c7a6"
+      "commit": "76ddc0cf"
     }
   },
   "guarantees": {

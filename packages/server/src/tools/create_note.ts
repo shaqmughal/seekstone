@@ -32,7 +32,7 @@ export const CreateNoteInput = z
       .string()
       .optional()
       .describe(
-        'Optional compare-and-swap guard for overwrite: true — the contentHash of the note being replaced. Fails with hash_conflict if it changed since it was read.',
+        'Optional compare-and-swap guard for overwrite: true — the contentHash of the note being replaced. Fails with hash_conflict on mismatch.',
       ),
   })
   .refine((v) => v.prevHash === undefined || v.overwrite === true, {

@@ -32,7 +32,7 @@ export const MoveNoteInput = z.object({
     .string()
     .optional()
     .describe(
-      'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+      'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
     ),
 });
 export type MoveNoteInput = z.input<typeof MoveNoteInput>;
