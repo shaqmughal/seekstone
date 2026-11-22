@@ -153,8 +153,7 @@ export async function moveNote(
   removeDoc(ctx, input.from, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
   removeNoteBacklinks(ctx, input.to);
-  upsertDoc(ctx, buildDoc(input.to, raw));
-  addNoteBacklinks(ctx, input.to, raw);
+  if (upsertDoc(ctx, buildDoc(input.to, raw))) addNoteBacklinks(ctx, input.to, raw);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.

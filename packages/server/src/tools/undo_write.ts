@@ -156,8 +156,7 @@ export async function undoWrite(
       // and watcher leave it out.
       if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
         removeNoteBacklinks(ctx, f.path);
-        upsertDoc(ctx, buildDoc(f.path, pre));
-        addNoteBacklinks(ctx, f.path, pre);
+        if (upsertDoc(ctx, buildDoc(f.path, pre))) addNoteBacklinks(ctx, f.path, pre);
       }
       restored.push({ path: f.path, restoredHash: contentHash(pre) });
     }

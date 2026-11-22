@@ -45,7 +45,7 @@ export function upsertDoc(
     parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
-): void {
+): boolean {
   // The index holds only paths that cross no symlink, like the boot walk
   // (SHA-575). resolveVaultPath skips its symlink check for indexed notes,
   // so a write through a link (allowed when the link stays in the vault, or
@@ -54,12 +54,15 @@ export function upsertDoc(
     ctx.vaultRoot !== undefined &&
     symlinkTarget(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined
   ) {
-    if (ctx.notes.has(doc.id)) {
+    // A path that was indexed before its folder became a link leaves the
+    // usual way, so its outgoing refs are cleared and inbound ones parked.
+    if (ctx.backlinks !== undefined) removeDoc(ctx as ServerContext, doc.id);
+    else if (ctx.notes.has(doc.id)) {
       bumpGeneration(ctx);
       ctx.index.discard(doc.id);
       ctx.notes.delete(doc.id);
     }
-    return;
+    return false;
   }
   bumpGeneration(ctx);
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
@@ -67,6 +70,7 @@ export function upsertDoc(
     unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
+  return true;
 }
 
 /**
@@ -155,6 +159,5 @@ export function replaceDoc(ctx: ServerContext, path: string, raw: string): void 
   const prev = ctx.notes.get(path);
   const relink = prev !== undefined && dropsLinks(prev.raw, raw);
   if (relink) removeNoteBacklinks(ctx, path);
-  upsertDoc(ctx, buildDoc(path, raw));
-  if (relink) addNoteBacklinks(ctx, path, raw);
+  if (upsertDoc(ctx, buildDoc(path, raw)) && relink) addNoteBacklinks(ctx, path, raw);
 }

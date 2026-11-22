@@ -66,8 +66,9 @@ refused, and the path scopes and reserved folders in §8 still apply wherever
 a link lands inside the vault. The scope globs are vault-relative, so for a
 link that leaves the vault they are matched against the path as written. The
 index never holds a path that crosses a symlink, in either mode: the walk
-and the file watcher don't follow links, and a write through a link updates
-the file without indexing its linked path. So linked files never show up in
+and the file watcher don't follow links, the watcher indexes a note only if
+the file it opened is the one its check approved (same device and inode), and
+a write through a link updates the file without indexing its linked path. So linked files never show up in
 search, listings or backlinks. A write to an allowed symlinked file replaces
 the link with a regular file, because the atomic write renames over it. No
 tool can create a symlink.

@@ -498,6 +498,30 @@ describe('notes written through a link stay out of the index', () => {
   });
 });
 
+describe('an indexed note whose folder becomes an in-vault link', () => {
+  it('leaves the index with its backlinks when a write goes through the link', async () => {
+    await mkdir(join(vault, 'folder'));
+    await writeFile(join(vault, 'folder', 'src.md'), '# Src\n\nSee [[a]].\n');
+    const ctx = await makeCtx();
+    const before = await call(ctx, 'get_backlinks', { path: 'notes/a.md' });
+    expect(before.text).toContain('folder/src.md');
+    // Same content, now reached through a link that stays in the vault.
+    await mkdir(join(vault, 'other'));
+    await writeFile(join(vault, 'other', 'src.md'), '# Src\n\nSee [[a]].\n');
+    await rm(join(vault, 'folder'), { recursive: true });
+    linkDir(join(vault, 'other'), join(vault, 'folder'));
+    const w = await call(ctx, 'create_note', {
+      path: 'folder/src.md',
+      content: '# Src\n\nSee [[a]] again.\n',
+      overwrite: true,
+    });
+    expect(w.isError, w.text).toBe(false);
+    expect(ctx.notes.has('folder/src.md')).toBe(false);
+    const after = await call(ctx, 'get_backlinks', { path: 'notes/a.md' });
+    expect(after.text).not.toContain('folder/src.md');
+  });
+});
+
 describe('the index', () => {
   it('does not walk into links, in either mode', async () => {
     if (canLinkFiles) symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');

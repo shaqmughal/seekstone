@@ -196,8 +196,7 @@ export async function renameHeading(
   // Refresh the renamed note's index entry. removeNoteBacklinks reads the old
   // raw out of ctx.notes, so it must run before upsertDoc replaces the entry.
   removeNoteBacklinks(ctx, input.path);
-  upsertDoc(ctx, buildDoc(input.path, newRaw));
-  addNoteBacklinks(ctx, input.path, newRaw);
+  if (upsertDoc(ctx, buildDoc(input.path, newRaw))) addNoteBacklinks(ctx, input.path, newRaw);
 
   let notesRewritten = selfRewrite.count > 0 ? 1 : 0;
   let linksRewritten = selfRewrite.count;

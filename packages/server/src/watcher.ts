@@ -1,5 +1,5 @@
-import { realpathSync } from 'node:fs';
-import { readFile } from 'node:fs/promises';
+import { lstatSync, realpathSync } from 'node:fs';
+import { open } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
@@ -88,6 +88,9 @@ export function resolvePollInterval(
   return parsed;
 }
 
+/** readChecked's answer for a path that crosses a symlink. */
+const LINKED = Symbol('linked');
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -121,7 +124,13 @@ export function startWatcher(
 
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
-      const raw = await readFile(join(vaultRoot, relPath), 'utf8');
+      const raw = await readChecked(join(vaultRoot, relPath));
+      if (raw === LINKED) {
+        remove(relPath);
+        return;
+      }
+      // Replaced while we read: the event for the new file re-indexes it.
+      if (raw === undefined) return;
       // Check again after the await: the path may have become a link while
       // the read was pending, and its removal must not be undone here.
       // Nothing between this check and the commit below awaits.
@@ -138,6 +147,31 @@ export function startWatcher(
       log?.debug('index updated', { path: relPath, op });
     } catch {
       // File vanished between event and read — ignore; an unlink will follow.
+    }
+  }
+
+  /**
+   * Read a note only if the bytes come from the file the symlink check
+   * approved (SHA-575). The path is checked with lstat, then opened, and the
+   * open handle must be the same regular file (device and inode). Without
+   * this, a link swapped in just before the open and swapped back after the
+   * read would put a file from outside the vault into the index.
+   * LINKED when the path crosses a link; undefined when the file was
+   * replaced between the check and the open.
+   */
+  async function readChecked(abs: string): Promise<string | typeof LINKED | undefined> {
+    if (symlinkTarget(vaultRoot, abs) !== undefined) return LINKED;
+    const checked = lstatSync(abs, { bigint: true });
+    if (!checked.isFile()) return undefined;
+    const fh = await open(abs, 'r');
+    try {
+      const opened = await fh.stat({ bigint: true });
+      if (!opened.isFile() || opened.dev !== checked.dev || opened.ino !== checked.ino) {
+        return undefined;
+      }
+      return await fh.readFile('utf8');
+    } finally {
+      await fh.close();
     }
   }
 
