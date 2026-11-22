@@ -1,15 +1,20 @@
 name: Factory follow-up
 
-# Moves a factory PR along after CI (SHA-536). Each time a workflow that
-# reports a required check finishes on a `factory/` branch (or the CodSpeed
-# app completes its check), scripts/factory/followup.mjs decides:
+# Moves a factory PR along after CI and CodeRabbit (SHA-536, SHA-570). Each
+# time a workflow that reports a required check finishes on a `factory/`
+# branch, or an app (CodSpeed, CodeRabbit) completes its check,
+# scripts/factory/followup.mjs decides:
 #
-#   ready  every required check passed: mark the draft ready for review
-#          (Linear moves the ticket to In Review, CodeRabbit reviews it)
-#   fix    a required check failed: start factory.yml in fix mode
-#   block  out of fix attempts: label, comment, move the ticket to Blocked
-#   none   nothing to do; a PR labeled factory-blocked keeps its ticket in
-#          Blocked even if PR activity moved it
+#   wait    checks still running, or CodeRabbit hasn't reviewed the head
+#   fix     a required check failed: start factory.yml in fix mode
+#   review  CI green, CodeRabbit has open findings: start factory.yml in
+#           review mode. Runs once per PR; deliver posts the done marker.
+#   ready   CI green and CodeRabbit reviewed the head: mark the draft ready
+#           (Linear moves the ticket to In Review). Findings still open
+#           after the review round add the factory-review-open label.
+#   block   out of fix attempts: label, comment, move the ticket to Blocked
+#   none    nothing to do; a PR labeled factory-blocked keeps its ticket in
+#           Blocked even if PR activity moved it
 
 on:
   workflow_run:
@@ -82,12 +87,46 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/factory/followup.mjs "$BRANCH"
 
+      # Findings still open after the review round are for the maintainer:
+      # the PR goes ready with a label and a comment, and no second round.
       - name: Mark the PR ready for review
         if: steps.decide.outputs.action == 'ready'
         env:
           PR: ${{ steps.decide.outputs.pr }}
+          LABEL: ${{ steps.decide.outputs.label }}
+          REASON: ${{ steps.decide.outputs.reason }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
-        run: gh pr ready "$PR" --repo "$GITHUB_REPOSITORY"
+          LABEL_TOKEN: ${{ github.token }}
+        run: |
+          if [ -n "$LABEL" ]; then
+            GH_TOKEN="$LABEL_TOKEN" gh label create "$LABEL" --repo "$GITHUB_REPOSITORY" \
+              --color FBCA04 --description "CodeRabbit findings left open after the factory's review round" 2>/dev/null || true
+            gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-label "$LABEL"
+            echo "$REASON" | jq -r . > "$RUNNER_TEMP/open.md"
+            printf '\nThe factory runs one review round per PR, so these are left for a maintainer.\n' >> "$RUNNER_TEMP/open.md"
+            gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/open.md"
+          fi
+          gh pr ready "$PR" --repo "$GITHUB_REPOSITORY"
+
+      - name: Start the review round
+        if: steps.decide.outputs.action == 'review'
+        env:
+          PR: ${{ steps.decide.outputs.pr }}
+          TICKET: ${{ steps.decide.outputs.ticket }}
+          SHA: ${{ steps.decide.outputs.sha }}
+          REASON: ${{ steps.decide.outputs.reason }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          DISPATCH_TOKEN: ${{ github.token }}
+        run: |
+          # The marker means the round has started: it never starts again on
+          # this PR, and nothing else starts until deliver posts the done
+          # marker.
+          reason=$(echo "$REASON" | jq -r .)
+          printf '%s. Starting the factory review round.\n\n<!-- factory-review sha=%s -->\n' \
+            "$reason" "$SHA" > "$RUNNER_TEMP/marker.md"
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/marker.md"
+          GH_TOKEN="$DISPATCH_TOKEN" gh workflow run factory.yml --repo "$GITHUB_REPOSITORY" --ref main \
+            -f ticket="$TICKET" -f pr="$PR" -f round=review
 
       - name: Start a fix run
         if: steps.decide.outputs.action == 'fix'
@@ -136,10 +175,10 @@ jobs:
           LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
         run: node scripts/factory/factory.mjs ensure-blocked "$TICKET"
 
-      # The marker is already posted, so a failed dispatch would leave a red
+      # The marker is already posted, so a failed dispatch would leave a
       # draft that later events skip. Block it instead.
       - name: Block the ticket if the fix run could not be started
-        if: failure() && steps.decide.outputs.action == 'fix'
+        if: failure() && (steps.decide.outputs.action == 'fix' || steps.decide.outputs.action == 'review')
         env:
           PR: ${{ steps.decide.outputs.pr }}
           TICKET: ${{ steps.decide.outputs.ticket }}

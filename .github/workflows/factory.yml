@@ -1,19 +1,24 @@
 name: Factory
 
-# Turns one Linear ticket into a PR (SHA-524), and fixes that PR when CI
-# fails (SHA-536). Started by hand for a new ticket; factory-followup.yml
-# starts the fix runs.
+# Turns one Linear ticket into a PR (SHA-524), fixes that PR when CI fails
+# (SHA-536), and runs one round on CodeRabbit's findings (SHA-570). Started
+# by hand for a new ticket; factory-followup.yml starts the fix runs (pr
+# set) and the review round (pr set, round=review).
 #
 #   prepare  holds the Linear key: checks the ticket and writes ticket.md.
 #            New run: picks the model and branch, moves the ticket to In
-#            Progress. Fix run: also writes pr.md and ci-failure.md.
+#            Progress. Fix run: also writes pr.md and ci-failure.md, or for
+#            the review round pr.md and review-findings.md.
 #   work     runs Claude Code with the playbook (.claude/skills/factory). No
 #            Linear key, no write token: its only output is an artifact with
-#            pr.md or blocked.md and a git bundle.
+#            pr.md or blocked.md, a git bundle, and on the review round
+#            review-replies.json.
 #   deliver  holds the Linear key and the factory app token. New run: pushes
 #            the branch and opens a draft PR. Fix run: pushes to the PR branch
 #            and updates the description. Or comments and moves the ticket to
-#            Blocked.
+#            Blocked. Review round: also posts the agent's replies on
+#            CodeRabbit's threads, posts the done marker and asks
+#            factory-followup.yml to decide again.
 #
 # The off switch is the FACTORY_ENABLED repo variable ("true" to run).
 #
@@ -23,7 +28,7 @@ name: Factory
 # read/write, installed on this repo only).
 
 # The ticket in the run name lets the Factory log report read it back.
-run-name: Factory ${{ inputs.ticket }}${{ inputs.pr != '' && ' fix' || '' }}
+run-name: Factory ${{ inputs.ticket }}${{ inputs.pr != '' && (inputs.round == 'review' && ' review fix' || ' fix') || '' }}
 
 on:
   workflow_dispatch:
@@ -44,6 +49,11 @@ on:
         default: ''
       model:
         description: Fix run only. Model override (the final attempt for a Sonnet ticket uses opus).
+        required: false
+        type: string
+        default: ''
+      round:
+        description: Fix run only. "review" for the CodeRabbit review round; empty for a CI fix.
         required: false
         type: string
         default: ''
@@ -126,13 +136,19 @@ jobs:
             --jq '.[].ref' > "$RUNNER_TEMP/saved-refs.txt"
           node scripts/factory/factory.mjs saved-branch "$TICKET" "$RUNNER_TEMP/saved-refs.txt"
 
-      - name: Fix run - write pr.md and ci-failure.md
+      - name: Fix run - write pr.md and ci-failure.md or review-findings.md
         id: fix
         if: inputs.pr != '' && steps.prepare.outputs.run == 'true'
         env:
           FIX_PR: ${{ inputs.pr }}
+          ROUND: ${{ inputs.round }}
           GITHUB_TOKEN: ${{ github.token }}
-        run: node scripts/factory/ci-failure.mjs "$FIX_PR" "$RUNNER_TEMP/factory"
+        run: |
+          if [ "$ROUND" = review ]; then
+            node scripts/factory/review.mjs findings "$FIX_PR" "$RUNNER_TEMP/factory"
+          else
+            node scripts/factory/ci-failure.mjs "$FIX_PR" "$RUNNER_TEMP/factory"
+          fi
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: steps.prepare.outputs.run == 'true'
@@ -283,7 +299,12 @@ jobs:
           node -e 'const f=require("os").homedir()+"/.claude.json";
             require("fs").writeFileSync(f, JSON.stringify({projects:{[process.cwd()]:{hasTrustDialogAccepted:true}}}))'
           mkdir -p "$(dirname "$TRANSCRIPT")"
-          if [ -f "$FACTORY_DIR/ci-failure.md" ]; then
+          if [ -f "$FACTORY_DIR/review-findings.md" ]; then
+            prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
+          This is the review round on the existing branch ${BRANCH}, which is checked out.
+          The ticket is in ${FACTORY_DIR}/ticket.md, CodeRabbit's open findings in
+          ${FACTORY_DIR}/review-findings.md, and the current PR description in ${FACTORY_DIR}/pr.md."
+          elif [ -f "$FACTORY_DIR/ci-failure.md" ]; then
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           This is CI-fix attempt ${ATTEMPT} on the existing branch ${BRANCH}, which is checked out.
           The ticket is in ${FACTORY_DIR}/ticket.md, the failing checks in ${FACTORY_DIR}/ci-failure.md,
@@ -369,7 +390,10 @@ jobs:
           if [ ! -f "$FACTORY_DIR/pr.md" ]; then
             echo "::error::the agent left neither pr.md nor blocked.md"; exit 1
           fi
-          if [ "$ahead" -eq 0 ]; then echo "::error::pr.md but no new commits"; exit 1; fi
+          # The review round may only reply, with nothing to commit.
+          if [ "$ahead" -eq 0 ] && [ ! -f "$FACTORY_DIR/review-findings.md" ]; then
+            echo "::error::pr.md but no new commits"; exit 1
+          fi
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always()
@@ -388,6 +412,7 @@ jobs:
     permissions:
       contents: read
       pull-requests: read # check whether the PR was opened, on failure
+      actions: write # the review round asks factory-followup.yml to decide again
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
@@ -508,10 +533,13 @@ jobs:
           FACTORY_DIR: ${{ runner.temp }}/factory
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
-          git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$BRANCH"
-          # The token is passed to this one push, not stored in git config. A
-          # fix run's bundle builds on the PR head, so this is a fast-forward.
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$BRANCH"
+          # No bundle only on a review round that just replied.
+          if [ -f "$FACTORY_DIR/work.bundle" ]; then
+            git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$BRANCH"
+            # The token is passed to this one push, not stored in git config. A
+            # fix run's bundle builds on the PR head, so this is a fast-forward.
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$BRANCH"
+          fi
           title=$(head -n 1 "$FACTORY_DIR/pr.md")
           tail -n +2 "$FACTORY_DIR/pr.md" > "$FACTORY_DIR/body.md"
           # factory-followup.yml reads the model from here (a Sonnet ticket
@@ -526,6 +554,27 @@ jobs:
               --title "$title" --body-file "$FACTORY_DIR/body.md" \
               --label "$PR_LABELS" --reviewer "$GITHUB_REPOSITORY_OWNER"
           fi
+
+      # After the push, so the follow-up never sees the done marker on the
+      # old head. The agent has no GitHub token; its replies go out here, as
+      # the factory app, and only on CodeRabbit threads that are still open.
+      # A blocked round ends here too: the label stops the follow-up.
+      - name: Finish the review round
+        if: inputs.round == 'review' && steps.quota.outputs.done != 'true'
+        env:
+          FIX_PR: ${{ inputs.pr }}
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          DISPATCH_TOKEN: ${{ github.token }}
+        run: |
+          node scripts/factory/review.mjs replies "$FIX_PR" "$FACTORY_DIR/review-replies.json"
+          printf 'The factory review round finished.\n\n<!-- factory-review-done -->\n' > "$RUNNER_TEMP/done.md"
+          gh pr comment "$FIX_PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/done.md"
+          # With no new commit, no CI event would come to wake the follow-up.
+          GH_TOKEN="$DISPATCH_TOKEN" gh workflow run factory-followup.yml --repo "$GITHUB_REPOSITORY" \
+            --ref main -f branch="$BRANCH"
 
       # Any failure above would leave the ticket stuck: a new run's ticket in
       # In Progress (the Todo gate stops a retry), a fix run's PR red with
