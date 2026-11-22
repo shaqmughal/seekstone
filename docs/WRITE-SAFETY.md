@@ -158,7 +158,10 @@ in SHA-581), so re-read the note before a chained `prevHash` edit after a move.
 `undo_write` returns a `restoredHash` per file. This is conflict **detection**, not
 locking: the hash is checked against the bytes the tool reads just before it
 writes, and the note is not locked in between, so an outside edit that lands
-in that window is overwritten. For `move_note`, `prevHash` guards the source
+in that window is overwritten without a conflict. The journal holds the bytes
+read before the check, so `undo_write` can't bring that edit back. The window
+includes the journal write, which can wait up to 60 seconds for the journal
+lock when another server process holds it. For `move_note`, `prevHash` guards the source
 note only. With `overwrite: true`, an existing destination is replaced without
 a hash check; the journal keeps its old content, so `undo_write` can bring it
 back.
@@ -266,7 +269,9 @@ against the journal: before writing anything, it checks every file in the
 entry, and if any one changed after the journaled write, the whole undo is
 refused with a structured `undo_conflict` (expected/actual hashes and byte
 counts) unless `force: true` — and even then the clobbered state is journaled
-first. Only that check is all-or-nothing. The restore itself writes the files
+first. The check isn't a lock: an edit that lands after it and before that
+file is restored is overwritten without an `undo_conflict`. Only that check is
+all-or-nothing. The restore itself writes the files
 one at a time, so a failure partway through (a full disk, say) can leave some
 files restored and others not. The undo's own journal entry, which holds
 every file's state from before the undo, is committed before the first file is
