@@ -1,9 +1,10 @@
-import { posix, relative, resolve } from 'node:path';
+import { posix, relative, resolve, sep } from 'node:path';
 import picomatch from 'picomatch';
+import { realVaultTarget } from './symlinks.js';
 
 /**
- * Path policy: read-only mode plus read- and write-path scoping, parsed once
- * at boot. Three env vars:
+ * Path policy: read-only mode, read- and write-path scoping and symlink
+ * handling, parsed once at boot. Four env vars:
  *
  *   SEEKSTONE_READ_ONLY=1         — write tools are unregistered from
  *                                   tools/list AND rejected at dispatch.
@@ -14,6 +15,9 @@ import picomatch from 'picomatch';
  *   SEEKSTONE_WRITE_PATHS=<glob,> — comma-separated vault-relative globs;
  *                                   writes are permitted only under matching
  *                                   paths (e.g. "journal/**,inbox/*.md").
+ *   SEEKSTONE_FOLLOW_SYMLINKS=1   — allow reads and writes through a symlink
+ *                                   whose real target is outside the vault.
+ *                                   Off by default: such a path is refused.
  *
  * A path is writable only if it is also readable (SHA-291, decision D1), so
  * the write scope is the intersection of both glob sets; unset write paths
@@ -24,6 +28,10 @@ import picomatch from 'picomatch';
  * files never enter the index) and `resolveVaultPath` (every tool that reads
  * a file by path goes through it). Write scope is enforced at dispatch and in
  * every write handler via `assertWritable`.
+ *
+ * Both checks also run on the real path when a path crosses a symlink and
+ * lands inside the vault, so a link can't route around a scope or into a
+ * reserved folder (SHA-575).
  */
 export interface WritePolicy {
   readOnly: boolean;
@@ -31,6 +39,8 @@ export interface WritePolicy {
   writeGlobs?: string[];
   /** Vault-relative glob allowlist; undefined = whole vault readable. */
   readGlobs?: string[];
+  /** SEEKSTONE_FOLLOW_SYMLINKS: allow symlinks whose real target is outside the vault. */
+  followSymlinks?: boolean;
 }
 
 /** Default policy for contexts built without env config (tests, benches). */
@@ -65,6 +75,8 @@ export function parseWritePolicy(env: Record<string, string | undefined>): Write
   if (writeGlobs.length > 0) policy.writeGlobs = writeGlobs;
   const readGlobs = splitGlobs(env.SEEKSTONE_READ_PATHS);
   if (readGlobs.length > 0) policy.readGlobs = readGlobs;
+  const follow = (env.SEEKSTONE_FOLLOW_SYMLINKS ?? '').toLowerCase();
+  if (follow === '1' || follow === 'true') policy.followSymlinks = true;
   return policy;
 }
 
@@ -145,7 +157,8 @@ export type ReservedFolder = (typeof RESERVED_FOLDERS)[number];
  * The comparison ignores case, and trailing dots and spaces that Windows
  * drops from a folder name, because Windows and default macOS file systems
  * would put `.Trash./x` in the same folder as `.trash/x`. The check is on the
- * path as written: it does not follow symlinks, the same as `containVaultPath`.
+ * path as written; `assertWritable` repeats it on the real path when the path
+ * crosses a symlink.
  */
 export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedFolder | undefined {
   // Every write goes through here. Normalizing can only drop segments, never
@@ -186,20 +199,49 @@ export function assertWritable(
   if (policy.readOnly) {
     throw new Error('Server is read-only (SEEKSTONE_READ_ONLY=1); write tools are disabled.');
   }
+  assertInScope(policy, relPath, `"${relPath}"`, vaultRoot, allow);
+  if (vaultRoot === undefined) return;
+  // Through a symlink, the real path must be in the vault (unless
+  // SEEKSTONE_FOLLOW_SYMLINKS is on) and pass the same checks (SHA-575). A
+  // path that escapes as written is left to containVaultPath's error. No
+  // `allow` here: a link into a reserved folder is refused in every case.
+  const abs = resolve(vaultRoot, relPath);
+  if (!abs.startsWith(vaultRoot + sep)) return;
+  const real = realVaultTarget(vaultRoot, abs, relPath, policy.followSymlinks === true);
+  if (real !== undefined) {
+    assertInScope(
+      policy,
+      real,
+      // The real path isn't named: it may be in a folder the read scope hides.
+      `"${relPath}" goes through a symlink to a path that`,
+      undefined,
+      undefined,
+    );
+  }
+}
+
+/** The scope and reserved-folder checks; `label` names the path in the message. */
+function assertInScope(
+  policy: WritePolicy,
+  relPath: string,
+  label: string,
+  vaultRoot: string | undefined,
+  allow: ReservedFolder | undefined,
+): void {
   if (!isReadable(policy, relPath)) {
     throw new Error(
-      `Write not permitted: "${relPath}" is outside SEEKSTONE_READ_PATHS (${policy.readGlobs?.join(', ')}).`,
+      `Write not permitted: ${label} is outside SEEKSTONE_READ_PATHS (${policy.readGlobs?.join(', ')}).`,
     );
   }
   if (!isWritable(policy, relPath)) {
     throw new Error(
-      `Write not permitted: "${relPath}" is outside SEEKSTONE_WRITE_PATHS (${policy.writeGlobs?.join(', ')}).`,
+      `Write not permitted: ${label} is outside SEEKSTONE_WRITE_PATHS (${policy.writeGlobs?.join(', ')}).`,
     );
   }
   const reserved = reservedFolder(relPath, vaultRoot);
   if (reserved !== undefined && reserved !== allow) {
     throw new Error(
-      `Write not permitted: "${relPath}" is inside ${reserved}/, which Seekstone reserves for write history and deleted notes.`,
+      `Write not permitted: ${label} is inside ${reserved}/, which Seekstone reserves for write history and deleted notes.`,
     );
   }
 }

@@ -77,7 +77,7 @@ flowchart TD
         fetchm["semantic/fetch-model.ts<br/>pinned sha256 model download<br/>(CLI-only; exits before serving)"]
         guards["process-guards.ts"]
         log["log.ts<br/>structured logger<br/>SEEKSTONE_LOG_LEVEL · SEEKSTONE_LOG_FILE<br/>SEEKSTONE_LOG_MAX_SIZE"]
-        pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_READ_PATHS · SEEKSTONE_WRITE_PATHS globs"]
+        pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_READ_PATHS · SEEKSTONE_WRITE_PATHS globs<br/>SEEKSTONE_FOLLOW_SYMLINKS"]
         jrn["journal.ts<br/>Journal.open: pre-image blobs + JSONL manifest<br/>under .seekstone/history · SEEKSTONE_HISTORY<br/>SEEKSTONE_HISTORY_MAX_SIZE · SEEKSTONE_HISTORY_MAX_ENTRIES"]
         aud["audit.ts<br/>AuditLog.open: JSONL write receipts<br/>SEEKSTONE_AUDIT_FILE · SEEKSTONE_AUDIT_MAX_SIZE"]
         instr["instructions.ts<br/>resolveInstructions: SEEKSTONE_INSTRUCTIONS<br/>file → trimmed, ≤16 KB MCP instructions string"]
@@ -105,7 +105,7 @@ flowchart TD
         writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · update_task · undo_write"]
     end
 
-    prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>journal.ts journalWrite / begin() (pre-images before the first byte changes)<br/>tools/rewrite_links.ts (link-aware moves)"]
+    prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>symlinks.ts (real-path check, SEEKSTONE_FOLLOW_SYMLINKS)<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>journal.ts journalWrite / begin() (pre-images before the first byte changes)<br/>tools/rewrite_links.ts (link-aware moves)"]
 
     vault[("Obsidian vault<br/>(filesystem)")]
     core2["@seekstone/core<br/>frontmatter · extract · outline · tasks · walk · embed"]
@@ -140,7 +140,8 @@ flowchart TD
    starts), then for an MCP session: installs process guards first (a stray
    unhandled rejection must not kill a long-lived stdio session), requires
    `SEEKSTONE_VAULT`, parses the write policy (`policy.ts` —
-   `SEEKSTONE_READ_ONLY`, `SEEKSTONE_READ_PATHS`, `SEEKSTONE_WRITE_PATHS`),
+   `SEEKSTONE_READ_ONLY`, `SEEKSTONE_READ_PATHS`, `SEEKSTONE_WRITE_PATHS`,
+   `SEEKSTONE_FOLLOW_SYMLINKS`),
    builds the index (walking only the read scope, so hidden files are never
    read or indexed),
    constructs the `ServerContext`, opens the write journal (`journal.ts` —
@@ -231,7 +232,7 @@ The **tools** themselves are thin: read tools answer from `ServerContext`
 (and read note bodies straight off disk when needed — semantic hits never do;
 their excerpts slice the in-memory body); write tools mutate the vault
 filesystem through a shared set of write primitives — path containment
-(`vault-path.ts`), a second per-handler `assertWritable` policy check
+(`vault-path.ts`, with the symlink real-path check in `symlinks.ts`), a second per-handler `assertWritable` policy check
 (`policy.ts`), optional compare-and-swap via `prevHash` on **every** write
 tool including moves and deletes, with every mutating result returning a
 `contentHash` (`content-hash.ts`), a crash-safe temp-file+rename write

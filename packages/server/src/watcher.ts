@@ -1,4 +1,4 @@
-import { realpathSync } from 'node:fs';
+import { lstatSync, realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
@@ -87,6 +87,14 @@ export function resolvePollInterval(
   return parsed;
 }
 
+function isSymlink(abs: string): boolean {
+  try {
+    return lstatSync(abs).isSymbolicLink();
+  } catch {
+    return false;
+  }
+}
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -99,8 +107,10 @@ export function startWatcher(
     log,
   );
 
-  // chokidar's followSymlinks=true (the default) calls fs.realpath() on the
-  // watched path, so events arrive with the real (resolved) path. On Windows,
+  // With followSymlinks=true (chokidar's default, which this watcher used
+  // before SHA-575) chokidar calls fs.realpath() on the watched path, so
+  // events arrived with the real (resolved) path. Watching the resolved root
+  // keeps event paths and toRel() in the same form either way. On Windows,
   // os.tmpdir() can return 8.3 short paths (e.g. RUNNER~1) while realpath()
   // expands them to the long form. Without pre-resolving here, relative()
   // inside the ignored predicate and toRel() would produce ".." segments;
@@ -144,6 +154,9 @@ export function startWatcher(
     opts?.onRawEvent?.(op, abs, relPath);
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
+    // Neither do symlinks, the same as the boot walk (SHA-575): a link can
+    // point outside the vault or into a hidden folder.
+    if (isSymlink(abs)) return;
     if (relPath.endsWith('.md')) void upsert(relPath, op);
     // Attachments only track existence, so `change` is a no-op for them.
     else if (op === 'add') addAttachment(ctx.attachments, relPath);
@@ -152,6 +165,9 @@ export function startWatcher(
   const watcher = chokidar.watch(vaultRoot, {
     // The startup index build already covers existing files.
     ignoreInitial: true,
+    // Don't descend into symlinked folders: the boot walk doesn't either, and
+    // their files can live outside the vault (SHA-575).
+    followSymlinks: false,
     usePolling,
     interval: pollInterval,
     binaryInterval: pollInterval * 2,

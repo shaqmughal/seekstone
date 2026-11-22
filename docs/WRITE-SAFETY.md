@@ -52,10 +52,34 @@ derived vectors of your notes, on your machine, documented in the README's
 configuration table. No note content is written there in plain text, and no
 tool can be pointed at those paths.)
 
-- Enforced by: the path-containment guard in every tool handler.
+Symlinks are checked by where they really point. If a path goes through a
+symlink, the guard resolves its real path, and for a new file the real path
+of the folder it would land in. A real path outside the vault is refused for
+reads and writes, and so is a dangling or looping link. A symlink whose real
+target is inside the vault keeps working. To allow links that leave the
+vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1`. Even then, a dangling link is
+refused, and the path scopes and reserved folders in §8 still apply wherever
+a link lands inside the vault. The scope globs are vault-relative, so for a
+link that leaves the vault they are matched against the path as written. The
+index walk and the file watcher never
+follow symlinks in either mode, so linked files never show up in search,
+listings or backlinks. No tool can create a symlink. A link that the user
+swaps in while a call is running can still race the check.
+
+The check costs one `lstat` per path segment below the vault root on every
+read and write, and a `realpath` only when one of those segments is a link.
+For `read_note` on a three-segment path that is about 5 µs.
+
+- Enforced by: the path-containment guard in every tool handler, plus the
+  symlink check in `resolveVaultPath` and `assertWritable`
+  ([`symlinks.ts`](../packages/server/src/symlinks.ts)).
 - Proven by: per-tool traversal tests (e.g.
   [`create_note.test.ts`](../packages/server/src/tools/create_note.test.ts),
-  [`move_note.test.ts`](../packages/server/src/tools/move_note.test.ts)).
+  [`move_note.test.ts`](../packages/server/src/tools/move_note.test.ts)), and
+  [`tools/symlinks.test.ts`](../packages/server/src/tools/symlinks.test.ts)
+  for links out of the vault, inside it, dangling, relative, in an
+  intermediate folder and into the reserved folders, with the opt-in on and
+  off.
 
 ### 3. Frontmatter preserved byte-for-byte on body edits
 
@@ -165,10 +189,13 @@ destination may not be in `.trash/`, and neither end may be in `.seekstone/`.
 entry it is undoing, so undoing a restore puts the note back in `.trash/`. The
 caller never supplies those paths, and an entry that names `.seekstone/` is
 still refused. A refusal is audited as
-`policy_denied` with `policy: "reserved_path"`. The check reads the path as
-written and does not follow symlinks, like `containVaultPath`: a
-symlink the user creates inside the vault that points into `.seekstone/` is
-not caught. No tool can create a symlink.
+`policy_denied` with `policy: "reserved_path"`. When a path goes through a
+symlink, `assertWritable` runs these checks again on where the link really
+lands. A link into `.seekstone/` or `.trash/` is refused for every write
+tool, `move_note`'s source and `undo_write` included, with or without
+`SEEKSTONE_FOLLOW_SYMLINKS`. A link into a folder outside
+`SEEKSTONE_WRITE_PATHS` or `SEEKSTONE_READ_PATHS` is refused the same way, and
+reads through a link into a hidden folder get the not-found error.
 
 `SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
 excludes, so `!Journal/**` means everything except `Journal/`). Hidden files

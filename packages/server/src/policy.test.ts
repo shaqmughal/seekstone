@@ -78,6 +78,13 @@ describe('parseWritePolicy', () => {
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: '0' }).readOnly).toBe(false);
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: 'no' }).readOnly).toBe(false);
   });
+  it('parses SEEKSTONE_FOLLOW_SYMLINKS=1 and =true, and leaves it off otherwise (SHA-575)', () => {
+    expect(parseWritePolicy({ SEEKSTONE_FOLLOW_SYMLINKS: '1' }).followSymlinks).toBe(true);
+    expect(parseWritePolicy({ SEEKSTONE_FOLLOW_SYMLINKS: 'True' }).followSymlinks).toBe(true);
+    expect(parseWritePolicy({ SEEKSTONE_FOLLOW_SYMLINKS: '0' }).followSymlinks).toBeUndefined();
+    expect(parseWritePolicy({ SEEKSTONE_FOLLOW_SYMLINKS: 'yes' }).followSymlinks).toBeUndefined();
+    expect(parseWritePolicy({}).followSymlinks).toBeUndefined();
+  });
   it('splits SEEKSTONE_WRITE_PATHS on commas, trimming and dropping empties', () => {
     expect(
       parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'journal/**, inbox/*.md ,' }).writeGlobs,

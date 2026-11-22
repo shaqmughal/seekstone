@@ -87,6 +87,8 @@ const policy = parseWritePolicy(process.env);
 if (policy.readOnly) log.info('read-only mode', { env: 'SEEKSTONE_READ_ONLY' });
 if (policy.writeGlobs) log.info('write paths scoped', { globs: policy.writeGlobs });
 if (policy.readGlobs) log.info('read paths scoped', { globs: policy.readGlobs });
+if (policy.followSymlinks)
+  log.info('following symlinks out of the vault', { env: 'SEEKSTONE_FOLLOW_SYMLINKS' });
 
 log.info('building index', { vault: vaultRoot });
 const { index, notes, backlinks, attachments, buildMs } = await buildIndex(

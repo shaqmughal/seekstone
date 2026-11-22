@@ -141,7 +141,7 @@ export class AuditLog {
  */
 /** The fixed tail of `assertWritable`'s reserved-folder refusal (policy.ts). */
 const RESERVED_PATH_MESSAGE =
-  /" is inside \.(?:seekstone|trash)\/, which Seekstone reserves for write history and deleted notes\.$/;
+  /(?:"| goes through a symlink to a path that) is inside \.(?:seekstone|trash)\/, which Seekstone reserves for write history and deleted notes\.$/;
 
 export function classifyError(message: string): {
   outcome: AuditOutcome;

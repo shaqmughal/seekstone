@@ -135,6 +135,17 @@ describe('classifyError', () => {
         'Write not permitted: ".trash/a.md" is inside .trash/, which Seekstone reserves for write history and deleted notes.',
       ),
     ).toEqual({ outcome: 'policy_denied', policy: 'reserved_path', error: 'reserved_path' });
+    // Through a symlink (SHA-575): the real path isn't quoted.
+    expect(
+      classifyError(
+        'Write not permitted: "notes/link/a.md" goes through a symlink to a path that is inside .seekstone/, which Seekstone reserves for write history and deleted notes.',
+      ),
+    ).toEqual({ outcome: 'policy_denied', policy: 'reserved_path', error: 'reserved_path' });
+    expect(
+      classifyError(
+        'Write not permitted: "notes/link/a.md" goes through a symlink to a path that is outside SEEKSTONE_WRITE_PATHS (notes/**).',
+      ),
+    ).toEqual({ outcome: 'policy_denied', policy: 'write_paths', error: 'write_paths' });
     // The path is user text; a filename naming another policy must not win.
     expect(
       classifyError(

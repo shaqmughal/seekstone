@@ -1,4 +1,4 @@
-import { access, mkdir, readFile } from 'node:fs/promises';
+import { mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
@@ -7,8 +7,8 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, refreshCachedNote, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
-import { assertWritable, isReadable } from '../policy.js';
-import { containVaultPath, resolveVaultPath } from '../vault-path.js';
+import { assertWritable } from '../policy.js';
+import { containVaultPath, existsReadable, resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
 
@@ -168,17 +168,11 @@ export async function getPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  // A periodic note outside SEEKSTONE_READ_PATHS reports as missing — the
-  // access() probe below must not become an existence oracle for it.
+  // A periodic note outside SEEKSTONE_READ_PATHS, or behind a symlink the
+  // read path refuses, reports as missing, so the probe is not an existence
+  // oracle for it. A path that escapes as written still throws.
   const abs = containVaultPath(ctx.vaultRoot, path);
-
-  let existed = false;
-  if (isReadable(ctx.policy, path)) {
-    try {
-      await access(abs);
-      existed = true;
-    } catch {}
-  }
+  const existed = await existsReadable(ctx, path);
 
   if (existed) return { path, existed: true, created: false };
 

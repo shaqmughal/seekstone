@@ -1,4 +1,4 @@
-import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, sep } from 'node:path';
 import MiniSearch from 'minisearch';
@@ -436,6 +436,43 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       });
     } finally {
       await stop();
+    }
+  });
+
+  it('does not index files reached through a symlink, as the boot walk does (SHA-575)', async () => {
+    const outside = await mkdtemp(join(tmpdir(), 'seekstone-watcher-outside-'));
+    try {
+      await writeFile(join(outside, 'before.md'), '# Before\n', 'utf8');
+      // A junction on Windows needs no symlink privilege.
+      await symlink(
+        outside,
+        join(tmpDir, 'ext'),
+        process.platform === 'win32' ? 'junction' : 'dir',
+      );
+      const ctx = freshCtx(tmpDir);
+      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+      try {
+        await ready;
+        await writeFile(join(outside, 'leak.md'), '# Leak\n', 'utf8');
+        let fileLink = true;
+        try {
+          await symlink(join(outside, 'before.md'), join(tmpDir, 'link.md'), 'file');
+        } catch {
+          fileLink = false; // Windows without the symlink privilege.
+        }
+        await writeFile(join(tmpDir, 'real.md'), '# Real\n', 'utf8');
+        await waitFor(() => ctx.notes.has('real.md'), { nudge: dirNudger(tmpDir) });
+        // A few more poll rounds for any late event through the links.
+        await new Promise((r) => setTimeout(r, 500));
+        const keys = [...ctx.notes.keys()];
+        expect(keys.filter((k) => k.startsWith('ext/'))).toEqual([]);
+        if (fileLink) expect(keys).not.toContain('link.md');
+        expect([...ctx.attachments.byPath.keys()].filter((k) => k.startsWith('ext'))).toEqual([]);
+      } finally {
+        await stop();
+      }
+    } finally {
+      await rm(outside, { recursive: true, force: true });
     }
   });
 

@@ -92,6 +92,7 @@ Write:
 - `SEEKSTONE_READ_ONLY=1` — unregister and reject all 11 write tools
 - `SEEKSTONE_READ_PATHS` — comma-separated globs (a leading `!` excludes) hiding everything outside them from the agent; also limits writes
 - `SEEKSTONE_WRITE_PATHS` — comma-separated globs restricting where writes may land
+- `SEEKSTONE_FOLLOW_SYMLINKS=1` — allow reads and writes through a symlink in the vault that points outside it (refused by default)
 - `SEEKSTONE_SEMANTIC=1` — enable semantic/hybrid search modes (model must be fetched first)
 - `SEEKSTONE_MODEL_PATH` — override the embedding-model directory
 - `SEEKSTONE_CACHE_DIR` — cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`)
