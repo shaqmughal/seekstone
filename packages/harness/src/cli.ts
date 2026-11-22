@@ -34,7 +34,7 @@ import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { normalizeReportPath } from './report-paths.js';
 import { loadGoldenSet } from './retrieval/golden.js';
 import { renderRetrievalMarkdown } from './retrieval/report.js';
-import { runRetrievalEval } from './retrieval/runner.js';
+import { parseWeights, runRetrievalEval } from './retrieval/runner.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
 import { renderReadScopeMarkdown, runReadScopeCheck } from './safety/read-scope.js';
 import { collectSeekstone } from './schema-tax/collect.js';
@@ -493,8 +493,12 @@ cli
   .option('--split <split>', 'Golden-set split to evaluate: dev, holdout, or all (SHA-312).', {
     default: 'all',
   })
+  .option('--weights <format>', 'Model2Vec table format: int8 or f32 (SHA-552).', {
+    default: 'int8',
+  })
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
   .action(async (opts) => {
+    const weights = parseWeights(opts.weights);
     const split = String(opts.split);
     if (!['dev', 'holdout', 'all'].includes(split)) {
       throw new Error(`--split must be dev, holdout, or all (got "${split}")`);
@@ -515,6 +519,7 @@ cli
       shipped: Boolean(opts.shipped),
       competitors: Boolean(opts.competitors),
       split: split as 'dev' | 'holdout' | 'all',
+      weights,
       log: (m) => console.log(`retrieval: ${m}`),
     });
     const report = { ...summary, vaultRoot: normalizeReportPath(summary.vaultRoot) };
