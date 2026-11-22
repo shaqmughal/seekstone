@@ -300,7 +300,13 @@ following **that backend's own** hit ranking. Payload bytes and (encoder-approxi
 tiktoken `cl100k_base`) tokens are summed per task; latency is whole-task cold/warm.
 `--strategy multicall` forces a context_pack-capable backend down the multi-call path
 (reported as `<name>-multicall`) — the ablation that shows the win is `context_pack`
-itself, not the adapter. Committed baselines live in
+itself, not the adapter. `--strategy batch` (reported as `<name>-batch`) takes the
+same path but reads the top hits with one `read_notes` call at the server's default
+budget instead of one `read_note` per hit; it needs a backend with `readMany` and
+fails with an error otherwise. Comparing it with the `multicall` run on
+`volcano-top5-read` gives the round-trips and bytes `read_notes` saves. Both arms are
+measured as dispatch serializes them (`read_note` indented, `read_notes` minified).
+Committed baselines live in
 `fixtures/baseline-reports/scenarios-*.{json,md}` + `scenarios-comparison.md`.
 
 ### Schema tax (`schema-tax`)

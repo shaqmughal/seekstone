@@ -2,6 +2,11 @@ import { mkdir, mkdtemp, readFile, rm, utimes, writeFile } from 'node:fs/promise
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import type { ServerContext } from '../../../../server/src/context.js';
+import { dispatch } from '../../../../server/src/dispatch.js';
+import { buildIndex } from '../../../../server/src/index/build.js';
+import { createLogger } from '../../../../server/src/log.js';
+import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
 import { SeekstoneAdapter } from './seekstone.js';
 
 const NOTE1 = `---
@@ -82,6 +87,50 @@ describe('SeekstoneAdapter', () => {
     const { result, payloadBytes } = await adapter.read('note1.md');
     expect(result).toContain('alpha content');
     expect(payloadBytes).toBeGreaterThan(0);
+  });
+
+  it('read() and readMany() measure exactly what dispatch sends for read_note and read_notes', async () => {
+    const { index, notes, backlinks, attachments } = await buildIndex(vaultDir);
+    const ctx: ServerContext = {
+      vaultRoot: vaultDir,
+      index,
+      notes,
+      generation: 0,
+      backlinks,
+      attachments,
+      policy: PERMISSIVE_POLICY,
+    };
+    const log = createLogger({ env: {}, stderr: () => {} });
+    const paths = ['note1.md', 'note2.md', 'subdir/note3.md'];
+    const sentText = async (tool: string, args: unknown) =>
+      ((await dispatch(ctx, tool, args, log)).content[0] as { text: string }).text;
+
+    let singleBytes = 0;
+    const singleContents: string[] = [];
+    for (const path of paths) {
+      const r = await adapter.read(path);
+      expect(r.payloadText).toBe(await sentText('read_note', { path }));
+      expect(r.payloadBytes).toBe(Buffer.byteLength(r.payloadText ?? ''));
+      singleBytes += r.payloadBytes;
+      singleContents.push(r.result);
+    }
+
+    const batch = await adapter.readMany(paths);
+    const items = paths.map((path) => ({ path }));
+    expect(batch.payloadText).toBe(await sentText('read_notes', { items }));
+    expect(batch.payloadBytes).toBe(Buffer.byteLength(batch.payloadText ?? ''));
+    // Same notes, untruncated: the arms differ only in envelope, not content.
+    const batchNotes = (batch.result as { notes: { content: string; truncated?: true }[] }).notes;
+    expect(batchNotes.map((n) => n.content)).toEqual(singleContents);
+    expect(batchNotes.some((n) => n.truncated)).toBe(false);
+    expect(batch.payloadBytes).toBeLessThan(singleBytes);
+  });
+
+  it('readMany() passes the byte budget through and truncates to it', async () => {
+    const { result } = await adapter.readMany(['note1.md', 'note2.md'], 256);
+    const r = result as { budgetBytes: number; bytesUsed: number };
+    expect(r.budgetBytes).toBe(256);
+    expect(r.bytesUsed).toBeLessThanOrEqual(256);
   });
 
   it('write() persists content to the vault and reports bytes written', async () => {

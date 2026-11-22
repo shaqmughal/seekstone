@@ -361,7 +361,7 @@ flowchart TD
 
 - **`Backend` contract** (`bench/backend.ts`) — a tiny required core:
   `search`, `read`, `write`, `list`, plus optional extended tools
-  (`listTags`, `listTasks`, `contextPack`, `outline`, `getBacklinks`,
+  (`listTags`, `listTasks`, `contextPack`, `readMany`, `outline`, `getBacklinks`,
   `getLinks`, `getPeriodicNote`, `searchStream`, `close`) and optional
   write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`,
   `casMove`, `casDelete`, `undoLastWrite`, `updateTask` — declaring one claims

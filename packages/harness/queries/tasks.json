@@ -34,6 +34,15 @@
       "notes": "Wikilink-hub task: MOCs/ notes are link hubs. context_pack folds the link neighborhood in; the multi-call path needs read + get_backlinks. Zero hits from content-only searchers is a legitimate, reportable result."
     },
     {
+      "id": "volcano-top5-read",
+      "question": "What do the top five articles on volcanic eruptions say?",
+      "searchQuery": "volcano eruption lava",
+      "readTopK": 5,
+      "followBacklinks": false,
+      "budgetBytes": 4096,
+      "notes": "Read-the-top-5-hits task (SHA-339). --strategy batch reads all five hits in ONE read_notes call, --strategy multicall makes five read_note calls; no backlinks, so the arms differ only in the read step. read_notes runs at the server's default 16 KB budget, as an agent that passes none gets it. Two of these hits (Java, Iceland) are over 100 KB each, so the batch arm returns truncated text: most of its byte saving is the budget, not the saved round-trips."
+    },
+    {
       "id": "open-tasks-daily",
       "question": "Which tasks are still open from my daily notes this month?",
       "taskQuery": {

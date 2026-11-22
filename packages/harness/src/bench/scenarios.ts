@@ -17,6 +17,7 @@ import { countTokens, timed } from './timer.js';
 export type ScenarioStrategy =
   | 'context-pack'
   | 'search-read'
+  | 'search-batch'
   | 'list-tasks'
   | 'folder-read'
   | 'vault-stats'
@@ -27,6 +28,7 @@ export interface TaskStep {
     | 'context_pack'
     | 'search'
     | 'read'
+    | 'read_notes'
     | 'get_backlinks'
     | 'list_tasks'
     | 'list'
@@ -57,7 +59,7 @@ export interface ScenarioSummary {
   snapshotDate: string;
   machine: { platform: string; arch: string; node: string; cpus: number };
   backend: { name: string; description: string };
-  /** backend.name, or `${name}-multicall` for the forced-ablation run. */
+  /** backend.name, or `${name}-multicall` / `${name}-batch` for the forced runs. */
   label: string;
   runs: number;
   tasks: TaskResult[];
@@ -71,15 +73,28 @@ export interface ScenarioOptions {
    * The ablation row proves the win comes from context_pack, not the adapter.
    */
   forceMulticall?: boolean;
+  /**
+   * Like forceMulticall, but search tasks read their top hits with ONE
+   * read_notes call instead of read ×K (SHA-339). Requires backend.readMany.
+   */
+  forceBatch?: boolean;
 }
 
 export async function runScenarios(opts: ScenarioOptions): Promise<ScenarioSummary> {
-  const { backend, taskSet, forceMulticall = false } = opts;
-  const label = forceMulticall ? `${backend.name}-multicall` : backend.name;
+  const { backend, taskSet, forceBatch = false } = opts;
+  const forceMulticall = forceBatch || (opts.forceMulticall ?? false);
+  if (forceBatch && !backend.readMany) {
+    throw new Error(
+      `Backend ${backend.name} has no readMany (read_notes); --strategy batch needs it.`,
+    );
+  }
+  const suffix = forceBatch ? '-batch' : forceMulticall ? '-multicall' : '';
+  const label = `${backend.name}${suffix}`;
 
   const tasks: TaskResult[] = [];
   for (const task of taskSet.tasks) {
-    const strategy = pickStrategy(backend, task, forceMulticall);
+    let strategy = pickStrategy(backend, task, forceMulticall);
+    if (forceBatch && strategy === 'search-read') strategy = 'search-batch';
 
     const durations: number[] = [];
     const byteTotals: number[] = [];
@@ -232,9 +247,18 @@ async function executeTask(
   steps.push(step('search', searchQuery, search));
 
   const hits = search.result.slice(0, task.readTopK ?? 1);
-  for (const hit of hits) {
-    const r = await backend.read(hit.path);
-    steps.push(step('read', hit.path, r));
+  const readManyFn = backend.readMany?.bind(backend);
+  if (strategy === 'search-batch' && readManyFn) {
+    // One read_notes call at the server's default budget, as an agent would make it.
+    if (hits.length > 0) {
+      const paths = hits.map((h) => h.path);
+      steps.push(step('read_notes', paths.join(', '), await readManyFn(paths)));
+    }
+  } else {
+    for (const hit of hits) {
+      const r = await backend.read(hit.path);
+      steps.push(step('read', hit.path, r));
+    }
   }
 
   const getBacklinksFn = backend.getBacklinks?.bind(backend);
