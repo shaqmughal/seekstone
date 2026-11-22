@@ -145,8 +145,8 @@ write tools accept `prevHash`: `create_note`, `append_note`, `patch_note`,
 `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`,
 `delete_note`, `append_periodic_note` and `update_task`. When the note changed
 since it was read, they refuse with a structured `hash_conflict` error that
-carries the current hash, so a concurrent edit is never silently discarded,
-moved, or deleted. `create_note` takes `prevHash` only with `overwrite: true`,
+carries the current hash, so a concurrent edit the check detects is never
+silently discarded, moved, or deleted (see the window below). `create_note` takes `prevHash` only with `overwrite: true`,
 since a fresh create has no earlier version. Two writes have no `prevHash`:
 `undo_write`, which checks every file against the journal instead (see §9),
 and the note `get_periodic_note` creates when it is missing, which by

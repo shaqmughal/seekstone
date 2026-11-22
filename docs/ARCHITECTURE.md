@@ -241,7 +241,7 @@ moves and deletes included (`create_note` only with `overwrite: true`), with eve
 vault byte changes, every write tool stores the pre-image of each file it will
 touch (`journalWrite` for single-file tools; `ctx.journal.begin()` for
 multi-file ones, which compute every rewrite first and journal them under one
-`seq`), so `undo_write` can restore the whole operation byte-for-byte; and, when `SEEKSTONE_AUDIT_FILE` is set, the dispatcher — the single choke point every write call passes through — appends one JSONL audit record per call (ok or refused) from the tool's `audit` detail plus the journal's hash pair (`audit.ts`) —
+`seq`), so `undo_write` can restore every file of the operation byte-for-byte; and, when `SEEKSTONE_AUDIT_FILE` is set, the dispatcher — the single choke point every write call passes through — appends one JSONL audit record per call (ok or refused) from the tool's `audit` detail plus the journal's hash pair (`audit.ts`) —
 using `@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
 notes to the vault's `.trash/` folder rather than unlinking (unless
 `permanent: true`), and `move_note` and `rename_heading` rewrite inbound
