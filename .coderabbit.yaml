@@ -202,7 +202,9 @@ reviews:
         Conventional-commit style: `type(scope): summary` or `type: summary`.
         type is one of feat, fix, perf, refactor, docs, test, ci, build,
         chore or revert. The summary is imperative ("add", not "added" or
-        "adds"), lower case, with no trailing period. A Linear ticket ID such
+        "adds"), starts with a lower-case word, and has no trailing period.
+        Names, product names and code identifiers keep their own case
+        (CodeRabbit, PRs, atomicWrite, `vault_stats`). A Linear ticket ID such
         as (SHA-123) may follow the summary.
     description:
       mode: warning
