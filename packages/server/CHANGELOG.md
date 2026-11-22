@@ -1,5 +1,25 @@
 # seekstone
 
+## 0.26.0
+
+### Minor Changes
+
+- 7bc1c26: Add `vault_stats`, a read tool that reports the vault's size and shape in one call (230 bytes on the 10k-note benchmark vault): note, folder, tag and resolved-link counts, total, median and largest note size, and how many notes changed in the last 1, 7 and 30 days.
+
+### Patch Changes
+
+- 6bcb169: Note writes are synced to disk before they replace the old file, so a power loss right after a write can't leave an empty or partial note.
+- d92c6cf: Two writes to the same note at the same time no longer make each other fail. Each write now uses its own hidden temp file (`.<note>.<id>.seekstone-tmp`), and a failed write only removes the temp file it created. Notes with very long names can be written again.
+- 1e95d28: `get_links` now resolves embeds of attachments that exist in the vault, such as `![[diagram.png]]`, instead of reporting them as unresolved. It is also faster on large vaults: on a 10k-note vault, a note with 30 links returns about 30 times faster.
+- dd463e8: Repeat calls to `list_tags`, `vault_stats` and `get_links` are faster when the vault hasn't changed. The server keeps a counter that goes up on every index change, and these tools reuse their last whole-vault pass until it moves. On the 10k-note test vault, a repeat `list_tags` call takes about 3 µs instead of 1.4 ms, and `get_links` on a 30-link note about 0.08 ms instead of 3.7 ms.
+- a4c3000: Write history is safer when several clients share a vault. A server that pauses mid-write now keeps its history lock; before, another server took it after 30 seconds. Two servers recovering a crashed server's lock can no longer both take it. A short disk write can no longer leave a half-written history entry. `undo_write` returns `entry_evicted`, not a raw file error, when another server evicted the pre-image. Two servers storing the same history blob at once no longer break each other's temp file.
+- 8bd5439: Write history stays correct when more than one client uses the same vault: seq numbers no longer collide, `list_writes` and `undo_write` see the other client's writes, and eviction keeps its rows.
+- 4540625: The npm README now states the write-safety limits as the code has them. `SEEKSTONE_HISTORY_MAX_ENTRIES` deletes the oldest journal entries outright, while `SEEKSTONE_HISTORY_MAX_SIZE` keeps them listed with `undoable: false`. `undo_write` has no `prevHash` and checks against the journal instead. A relative `SEEKSTONE_AUDIT_FILE` path resolves against the server's working directory, so use an absolute one. A symlink inside the vault that points outside it is followed.
+  
+  The `undo_write` tool description no longer says a multi-file move is restored whole, which isn't true when a restore write fails partway. The `prevHash` description on the ten compare-and-swap tools now says the call fails with `hash_conflict` on a mismatch, rather than whenever the note changed since it was read. The read-write tool list is 51 tokens smaller (5,821 to 5,770); the read-only list is unchanged.
+- 0a09830: Write tools now refuse paths inside `.seekstone/` (the write history) and `.trash/` (deleted notes), so an agent can't overwrite or delete its own undo history. Restoring a deleted note by moving it out of `.trash/` with `move_note` still works, and `undo_write` can still undo both the delete and the restore.
+- 754b577: `vault_stats` and `get_backlinks` now match the files right after a write. Appends, patches, task toggles and frontmatter edits update the note's size, modified time, tags and frontmatter in the index straight away. A write that removes a link (`replace_in_note`, `patch_note`, `patch_frontmatter`, `create_note` with `overwrite`) no longer leaves the old backlink behind for good. Links to a deleted note stop counting in `links.resolved` and stop showing in `get_backlinks`, and come back if the note is restored. `move_note` keeps backlinks from notes it didn't rewrite when their links still resolve to the new path, and drops the backlinks of a note it overwrote.
+
 ## 0.25.0
 
 ### Minor Changes
