@@ -304,8 +304,12 @@ itself, not the adapter. `--strategy batch` (reported as `<name>-batch`) takes t
 same path but reads the top hits with one `read_notes` call at the server's default
 budget instead of one `read_note` per hit; it needs a backend with `readMany` and
 fails with an error otherwise. Comparing it with the `multicall` run on
-`volcano-top5-read` gives the round-trips and bytes `read_notes` saves. Both arms are
-measured as dispatch serializes them (`read_note` indented, `read_notes` minified).
+`volcano-top5-read` gives the round-trips `read_notes` saves. The byte comparison is
+budget-limited output: on the fixture vault the top five volcano hits exceed the
+16 KB default budget, so `read_notes` truncates and returns less note content than
+five `read_note` calls. Most of the byte reduction comes from that truncation, not
+from batching. Both arms are measured as dispatch serializes them (`read_note`
+indented, `read_notes` minified).
 Committed baselines live in
 `fixtures/baseline-reports/scenarios-*.{json,md}` + `scenarios-comparison.md`.
 
