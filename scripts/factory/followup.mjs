@@ -1,13 +1,23 @@
 #!/usr/bin/env node
-// Factory follow-up (SHA-536). Runs each time a CI workflow finishes on a
-// `factory/` branch and decides what the factory PR needs next:
+// Factory follow-up (SHA-536, SHA-570). Runs each time a CI workflow or a
+// check app finishes on a `factory/` branch and decides what the factory PR
+// needs next:
 //
-//   wait   a required check is still running or hasn't reported
-//   ready  every required check passed: mark the draft PR ready for review
-//   fix    a required check failed: start the factory again in fix mode
-//   block  out of fix attempts: comment, label `factory-blocked`, and move
-//          the ticket to Blocked
-//   none   nothing to do (not a draft, already handled, or blocked)
+//   wait    a required check is still running, or CodeRabbit hasn't
+//           reviewed the head commit yet
+//   fix     a required check failed: start the factory again in fix mode
+//   review  CI is green and CodeRabbit has open findings: start the one
+//           review round (a fix run that gets review-findings.md)
+//   ready   CI is green and CodeRabbit reviewed the head: mark the draft
+//           ready, labelled `factory-review-open` if findings are still
+//           open after the review round
+//   block   out of fix attempts: comment, label `factory-blocked`, and move
+//           the ticket to Blocked
+//   none    nothing to do (not a draft, a run is already going, or blocked)
+//
+// CI failures come first: they show up minutes before CodeRabbit finishes,
+// and the review round should start from a green branch. The review round
+// runs at most once per PR, whatever the CI-fix attempts do around it.
 //
 //   node scripts/factory/followup.mjs <branch>
 //
@@ -17,36 +27,21 @@
 import { appendFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { gh, requiredChecks } from './github.mjs';
+import { gh, ghAll, requiredChecks, requiredState } from './github.mjs';
+import { fetchReview, reviewStatus } from './review.mjs';
+
+export { requiredState };
 
 /** Fix attempts after the first run; Sonnet tickets get one more, on Opus. */
 export const MAX_FIXES = 2;
 export const BLOCKED_LABEL = 'factory-blocked';
+export const REVIEW_OPEN_LABEL = 'factory-review-open';
 export const MARKER_RE = /<!-- factory-fix sha=([0-9a-f]{7,40}) attempt=(\d+) -->/;
+/** Posted when the review round starts, and by deliver when it ends. */
+export const REVIEW_START_RE = /<!-- factory-review sha=([0-9a-f]{7,40}) -->/;
+export const REVIEW_DONE = '<!-- factory-review-done -->';
 
 export const MODEL_SONNET = /<!-- factory-model sonnet -->/;
-const PASS = new Set(['success', 'skipped', 'neutral']);
-
-/**
- * State of each required check on the head commit, using the newest check
- * run per name. A missing check counts as pending.
- * @returns {{ pending: string[], failed: string[] }}
- */
-export function requiredState(required, checkRuns) {
-  const latest = new Map();
-  for (const r of checkRuns) {
-    const prev = latest.get(r.name);
-    if (!prev || r.id > prev.id) latest.set(r.name, r);
-  }
-  const pending = [];
-  const failed = [];
-  for (const name of required) {
-    const r = latest.get(name);
-    if (r?.status !== 'completed') pending.push(name);
-    else if (!PASS.has(r.conclusion)) failed.push(name);
-  }
-  return { pending, failed };
-}
 
 /**
  * Fix attempts already started, from the marker comments, and whether one
@@ -66,6 +61,18 @@ export function fixHistory(comments, sha, bot) {
   return { attempts, forSha };
 }
 
+/**
+ * Whether the review round started and ended, from the factory app's
+ * markers, and the commit it started on.
+ */
+export function reviewRound(comments, bot) {
+  const mine = comments.filter((c) => c.user?.login === bot);
+  const sha = mine.map((c) => c.body?.match(REVIEW_START_RE)?.[1]).find(Boolean) ?? null;
+  return { started: sha !== null, sha, done: mine.some((c) => c.body?.includes(REVIEW_DONE)) };
+}
+
+const sameCommit = (a, b) => a.startsWith(b) || b.startsWith(a);
+
 export function markerFor(sha, attempt) {
   return `<!-- factory-fix sha=${sha} attempt=${attempt} -->`;
 }
@@ -75,17 +82,40 @@ export function ticketFromBranch(branch) {
   return branch.match(/^factory\/([A-Z][A-Z0-9]*-\d+)(?:-|$)/)?.[1] ?? null;
 }
 
+/** Once CI is green: wait for CodeRabbit, run the review round once, or mark ready. */
+function afterCi(review, round) {
+  if (!review.reviewed) {
+    return { action: 'wait', reason: 'waiting on the CodeRabbit review of this commit' };
+  }
+  if (!review.changesRequested && review.open === 0) return { action: 'ready' };
+  const findings = `${review.open} open finding(s)${review.changesRequested ? ', changes requested' : ''}`;
+  if (!round.started) return { action: 'review', reason: `CodeRabbit: ${findings}` };
+  return {
+    action: 'ready',
+    label: REVIEW_OPEN_LABEL,
+    reason: `CodeRabbit still has ${findings} after the factory's review round.`,
+  };
+}
+
 /**
  * What to do next. `sonnet` is whether the ticket's first runs used Sonnet,
- * which earns one final Opus attempt.
+ * which earns one final Opus attempt. `review` is reviewStatus() for the head.
  */
-export function decide({ pr, required, checkRuns, comments, sonnet, bot }) {
+export function decide({ pr, required, checkRuns, comments, sonnet, bot, review }) {
   if (pr.labels.includes(BLOCKED_LABEL)) return { action: 'none', reason: 'blocked' };
   if (!pr.draft) return { action: 'none', reason: 'already ready for review' };
+  // The review run pushes and then posts its done marker; until then its
+  // branch is in motion, so nothing else starts. Only on the commit the
+  // round started from: a round that died without its done marker (and got
+  // factory-blocked) mustn't hold the PR once someone pushes a fix.
+  const round = reviewRound(comments, bot);
+  if (round.started && !round.done && sameCommit(pr.headSha, round.sha)) {
+    return { action: 'none', reason: 'the review round is still running' };
+  }
   const { pending, failed } = requiredState(required, checkRuns);
   if (failed.length === 0) {
     return pending.length === 0
-      ? { action: 'ready' }
+      ? afterCi(review, round)
       : { action: 'wait', reason: `waiting on ${pending.join(', ')}` };
   }
   const { attempts, forSha } = fixHistory(comments, pr.headSha, bot);
@@ -137,11 +167,17 @@ async function main() {
     .check_runs;
   const bot = process.env.FACTORY_BOT_LOGIN;
   if (!bot) throw new Error('FACTORY_BOT_LOGIN is not set');
-  const comments = await gh(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
+  const comments = await ghAll(`repos/${repo}/issues/${pr.number}/comments?per_page=100`);
   // deliver writes the model into the PR body when it opens the PR.
   const sonnet = MODEL_SONNET.test(p.body ?? '');
+  const review = reviewStatus({
+    ...(await fetchReview(repo, pr.number)),
+    comments,
+    checkRuns,
+    headSha: pr.headSha,
+  });
 
-  const d = decide({ pr, required, checkRuns, comments, sonnet, bot });
+  const d = decide({ pr, required, checkRuns, comments, sonnet, bot, review });
   console.log(`PR #${pr.number} (${pr.headSha.slice(0, 7)}): ${d.action} ${d.reason ?? ''}`);
   out({
     action: d.action,
@@ -150,6 +186,7 @@ async function main() {
     sha: pr.headSha,
     attempt: d.attempt ?? '',
     model: d.model ?? '',
+    label: d.label ?? '',
     failed: JSON.stringify(d.failed ?? []),
     reason: JSON.stringify(d.reason ?? ''),
   });

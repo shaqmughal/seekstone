@@ -13,8 +13,7 @@
 import { appendFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { requiredState } from './followup.mjs';
-import { gh, ghAll, requiredChecks } from './github.mjs';
+import { gh, ghAll, requiredChecks, requiredState } from './github.mjs';
 
 export const LOG_LINES = 150;
 /** The most of a CodSpeed comment ci-failure.md quotes when it can't be parsed. */
