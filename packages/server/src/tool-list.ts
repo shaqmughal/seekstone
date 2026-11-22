@@ -374,7 +374,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path'],
@@ -396,7 +396,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since — so you never delete content you have not seen.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path'],
@@ -424,7 +424,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['from', 'to'],
@@ -455,7 +455,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'oldHeading', 'newHeading'],
@@ -474,7 +474,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'content'],
@@ -497,7 +497,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'patch'],
@@ -571,7 +571,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'target', 'operation', 'content'],
@@ -666,7 +666,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'find', 'replace'],
@@ -726,7 +726,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['content'],
@@ -757,7 +757,7 @@ export const ALL_TOOLS = [
         prevHash: {
           type: 'string',
           description:
-            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict on mismatch.',
         },
       },
       required: ['path', 'line', 'state'],
