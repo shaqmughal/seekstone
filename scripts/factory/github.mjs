@@ -21,10 +21,11 @@ export function apiUrl(path) {
   return url;
 }
 
-async function request(path, token) {
+async function request(path, token, init = {}) {
   // apiUrl() pins the origin to api.github.com and the path to repo endpoints.
   // nosemgrep: rules_lgpl_javascript_ssrf_rule-node-ssrf
   const res = await fetch(apiUrl(path), {
+    ...init,
     headers: {
       accept: 'application/vnd.github+json',
       authorization: `Bearer ${token}`,
@@ -35,9 +36,24 @@ async function request(path, token) {
   return res;
 }
 
-export async function gh(path, { raw = false, token = process.env.GITHUB_TOKEN } = {}) {
-  const res = await request(path, token);
+/** A GET, or a POST of `post` as JSON. */
+export async function gh(path, { raw = false, post, token = process.env.GITHUB_TOKEN } = {}) {
+  const init = post ? { method: 'POST', body: JSON.stringify(post) } : {};
+  const res = await request(path, token, init);
   return raw ? res.text() : res.json();
+}
+
+/** A GraphQL query. Throws on an HTTP error or a GraphQL error. */
+export async function graphql(query, variables, { token = process.env.GITHUB_TOKEN } = {}) {
+  const res = await fetch(`${API}/graphql`, {
+    method: 'POST',
+    headers: { authorization: `Bearer ${token}`, 'content-type': 'application/json' },
+    body: JSON.stringify({ query, variables }),
+  });
+  if (!res.ok) throw new Error(`GitHub GraphQL: HTTP ${res.status}`);
+  const json = await res.json();
+  if (json.errors?.length) throw new Error(`GitHub GraphQL: ${json.errors[0].message}`);
+  return json.data;
 }
 
 /** The `rel="next"` page of a Link header, as an API path, or null. */
@@ -71,4 +87,27 @@ export async function requiredChecks(repo) {
   // With no required checks every PR would look green; refuse instead.
   if (required.length === 0) throw new Error('no required status checks found for main');
   return required;
+}
+
+const PASS = new Set(['success', 'skipped', 'neutral']);
+
+/**
+ * State of each required check on the head commit, using the newest check
+ * run per name. A missing check counts as pending.
+ * @returns {{ pending: string[], failed: string[] }}
+ */
+export function requiredState(required, checkRuns) {
+  const latest = new Map();
+  for (const r of checkRuns) {
+    const prev = latest.get(r.name);
+    if (!prev || r.id > prev.id) latest.set(r.name, r);
+  }
+  const pending = [];
+  const failed = [];
+  for (const name of required) {
+    const r = latest.get(name);
+    if (r?.status !== 'completed') pending.push(name);
+    else if (!PASS.has(r.conclusion)) failed.push(name);
+  }
+  return { pending, failed };
 }
