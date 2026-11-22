@@ -473,6 +473,31 @@ describe('a folder swapped for a link after indexing', () => {
   });
 });
 
+describe('notes written through a link stay out of the index', () => {
+  it('does not index a linked path, so retargeting the link is caught on read', async () => {
+    const ctx = await makeCtx();
+    const c = await call(ctx, 'create_note', { path: 'inner/new.md', content: 'hello' });
+    expect(c.isError, c.text).toBe(false);
+    expect(ctx.notes.has('inner/new.md')).toBe(false);
+    await rm(join(vault, 'inner'));
+    await writeFile(join(outside, 'new.md'), OUT_TEXT);
+    linkDir(outside, join(vault, 'inner'));
+    const r = await call(ctx, 'read_note', { path: 'inner/new.md' });
+    expect(r.isError).toBe(true);
+    expect(r.text).toMatch(OUTSIDE_MSG);
+    expect(r.text).not.toContain(OUT_TEXT);
+  });
+
+  it('does not index a path written through a link out of the vault, with the opt-in', async () => {
+    const ctx = await makeCtx({ SEEKSTONE_FOLLOW_SYMLINKS: '1' });
+    const c = await call(ctx, 'create_note', { path: 'ext/new.md', content: 'made' });
+    expect(c.isError, c.text).toBe(false);
+    expect(ctx.notes.has('ext/new.md')).toBe(false);
+    const s = await call(ctx, 'search', { query: 'made' });
+    expect(s.text).not.toContain('ext/new.md');
+  });
+});
+
 describe('the index', () => {
   it('does not walk into links, in either mode', async () => {
     if (canLinkFiles) symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');

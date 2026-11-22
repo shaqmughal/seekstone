@@ -122,6 +122,13 @@ export function startWatcher(
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
       const raw = await readFile(join(vaultRoot, relPath), 'utf8');
+      // Check again after the await: the path may have become a link while
+      // the read was pending, and its removal must not be undone here.
+      // Nothing between this check and the commit below awaits.
+      if (symlinkTarget(vaultRoot, join(vaultRoot, relPath)) !== undefined) {
+        remove(relPath);
+        return;
+      }
       removeNoteBacklinks(ctx, relPath);
       upsertDoc(ctx, buildDoc(relPath, raw));
       addNoteBacklinks(ctx, relPath, raw);

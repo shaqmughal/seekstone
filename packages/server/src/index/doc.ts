@@ -1,8 +1,9 @@
-import { basename, extname } from 'node:path';
+import { basename, extname, join } from 'node:path';
 import { extractInlineTags, frontmatterAliases, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
+import { symlinkTarget } from '../symlinks.js';
 import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
 import { bumpGeneration } from './generation.js';
 import type { IndexedNote } from './types.js';
@@ -35,6 +36,8 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
  */
 export function upsertDoc(
   ctx: {
+    /** When set, a path that crosses a symlink is kept out of the index. */
+    vaultRoot?: string;
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
     generation: number;
@@ -43,6 +46,21 @@ export function upsertDoc(
   },
   doc: IndexedNote,
 ): void {
+  // The index holds only paths that cross no symlink, like the boot walk
+  // (SHA-575). resolveVaultPath skips its symlink check for indexed notes,
+  // so a write through a link (allowed when the link stays in the vault, or
+  // with SEEKSTONE_FOLLOW_SYMLINKS) must not add its linked path here.
+  if (
+    ctx.vaultRoot !== undefined &&
+    symlinkTarget(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined
+  ) {
+    if (ctx.notes.has(doc.id)) {
+      bumpGeneration(ctx);
+      ctx.index.discard(doc.id);
+      ctx.notes.delete(doc.id);
+    }
+    return;
+  }
   bumpGeneration(ctx);
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
   else if (ctx.backlinks !== undefined)

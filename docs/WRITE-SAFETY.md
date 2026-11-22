@@ -45,7 +45,9 @@ against the same pinned SHA-256 hashes.
 
 No tool can read or write **vault files** outside `SEEKSTONE_VAULT`, unless
 you set `SEEKSTONE_FOLLOW_SYMLINKS=1` and the vault holds a symlink that
-points outside it (below). Every tool resolves its path and refuses anything
+points outside it. One short window also exists without it: if you replace
+an indexed note's folder with a symlink, reads of that note can reach the
+link's target until the file watcher drops the note (below). Every tool resolves its path and refuses anything
 that escapes the vault root;
 traversal attempts (`../…`) are errors. (With semantic search enabled, the
 server also reads the local embedding model and maintains a per-vault
@@ -63,13 +65,14 @@ vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1`. Even then, a dangling link is
 refused, and the path scopes and reserved folders in §8 still apply wherever
 a link lands inside the vault. The scope globs are vault-relative, so for a
 link that leaves the vault they are matched against the path as written. The
-index walk and the file watcher never
-follow symlinks in either mode, so linked files never show up in search,
-listings or backlinks. No tool can create a symlink.
+index never holds a path that crosses a symlink, in either mode: the walk
+and the file watcher don't follow links, and a write through a link updates
+the file without indexing its linked path. So linked files never show up in
+search, listings or backlinks. No tool can create a symlink.
 
 Writes run the check on every call. Reads skip it for a note that is already
-in the index, because the walk and the watcher only index paths that cross
-no link, and a write only indexes a path it has checked. If the user replaces
+in the index, because every indexed path crossed no link when it was
+indexed. If the user replaces
 an indexed note's folder with a link, reads of that note go through until the
 watcher sees the change and drops the note from the index. A link the user
 swaps in while a call is running can also race the check.
