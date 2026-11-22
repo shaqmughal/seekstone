@@ -35,7 +35,7 @@ export async function scopeWarnings(vaultRoot: string, policy: WritePolicy): Pro
   }
 
   for (const period of PERIODS) {
-    const cfg = await resolveConfig(vaultRoot, period);
+    const cfg = await resolveConfig(vaultRoot, period, policy.followSymlinks === true);
     if (!cfg.template) continue;
     const template = cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`;
     if (!isReadable(policy, template)) {

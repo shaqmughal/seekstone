@@ -190,23 +190,35 @@ export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedF
  * `undo_write` passes it for the journal entry's paths, which come from
  * Seekstone's own history rather than the caller.
  */
+/**
+ * What `assertWritable` found about symlinks on the path, as of the check.
+ * Index updates take it (`upsertDoc`) so a write doesn't walk the path a
+ * second time to learn the same thing.
+ */
+export interface PathCheck {
+  readonly viaLink: boolean;
+}
+
+const NO_LINK: PathCheck = Object.freeze({ viaLink: false });
+const VIA_LINK: PathCheck = Object.freeze({ viaLink: true });
+
 export function assertWritable(
   policy: WritePolicy,
   relPath: string,
   vaultRoot?: string,
   allow?: ReservedFolder,
-): void {
+): PathCheck | undefined {
   if (policy.readOnly) {
     throw new Error('Server is read-only (SEEKSTONE_READ_ONLY=1); write tools are disabled.');
   }
   assertInScope(policy, relPath, `"${relPath}"`, vaultRoot, allow);
-  if (vaultRoot === undefined) return;
+  if (vaultRoot === undefined) return undefined;
   // Through a symlink, the real path must be in the vault (unless
   // SEEKSTONE_FOLLOW_SYMLINKS is on) and pass the same checks (SHA-575). A
   // path that escapes as written is left to containVaultPath's error. No
   // `allow` here: a link into a reserved folder is refused in every case.
   const abs = resolve(vaultRoot, relPath);
-  if (!abs.startsWith(vaultRoot + sep)) return;
+  if (!abs.startsWith(vaultRoot + sep)) return undefined;
   const real = realVaultTarget(vaultRoot, abs, relPath, policy.followSymlinks === true);
   if (real === OUTSIDE_VAULT) {
     // With SEEKSTONE_FOLLOW_SYMLINKS on: no vault-relative glob can match a
@@ -224,6 +236,7 @@ export function assertWritable(
       undefined,
     );
   }
+  return real === undefined ? NO_LINK : VIA_LINK;
 }
 
 /**

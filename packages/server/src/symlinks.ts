@@ -13,12 +13,22 @@ import { basename, dirname, join, sep } from 'node:path';
  *   vault-relative form, ready for the glob and reserved-folder checks.
  * - `outside`: the real path is outside the vault.
  * - `broken`: a link on the way is dangling or loops.
+ * - `unreadable`: resolving the link failed another way, such as a
+ *   permission error on a folder it points into.
  */
-export type LinkTarget = { kind: 'inside'; rel: string } | { kind: 'outside' } | { kind: 'broken' };
+export type LinkTarget =
+  | { kind: 'inside'; rel: string }
+  | { kind: 'outside' }
+  | { kind: 'broken' }
+  | { kind: 'unreadable'; code: string };
 
 /**
  * The real path of each vault root, resolved once. A root that doesn't
  * resolve (missing, unreadable) falls back to the path itself, uncached.
+ * The cache assumes a vault root doesn't move while the server runs: the
+ * server is started for one vault path, and moving that folder (or
+ * retargeting a link to it) needs a restart anyway, since the index and the
+ * watcher hold the old location too.
  */
 const realRoots = new Map<string, string>();
 
@@ -69,7 +79,8 @@ export function symlinkTarget(vaultRoot: string, abs: string): LinkTarget | unde
 /** Slow path, taken only once a link was seen: resolve and compare real paths. */
 function classify(vaultRoot: string, abs: string): LinkTarget {
   const real = realPathOfExisting(abs);
-  if (real === undefined) return { kind: 'broken' };
+  if (real === BROKEN) return { kind: 'broken' };
+  if (typeof real !== 'string') return { kind: 'unreadable', code: real.code };
   const root = realRoot(vaultRoot);
   if (real === root) return { kind: 'inside', rel: '' };
   if (!real.startsWith(root + sep)) return { kind: 'outside' };
@@ -82,13 +93,15 @@ function classify(vaultRoot: string, abs: string): LinkTarget {
   };
 }
 
+const BROKEN = Symbol('broken');
+
 /**
  * The real path of `abs`, or of its nearest existing ancestor with the
  * missing tail appended, so a new file is judged by the folder it would land
- * in. Undefined when a missing component is itself a link (dangling), or a
- * link loops.
+ * in. BROKEN when a missing component is itself a link (dangling) or a link
+ * loops; the error code when resolving failed another way (EACCES, EPERM).
  */
-function realPathOfExisting(abs: string): string | undefined {
+function realPathOfExisting(abs: string): string | typeof BROKEN | { code: string } {
   const tail: string[] = [];
   let p = abs;
   for (;;) {
@@ -96,15 +109,16 @@ function realPathOfExisting(abs: string): string | undefined {
       const real = realpathSync.native(p);
       return tail.length === 0 ? real : join(real, ...tail.reverse());
     } catch (err) {
-      const code = (err as NodeJS.ErrnoException).code;
-      if (code !== 'ENOENT' && code !== 'ENOTDIR') return undefined;
+      const code = (err as NodeJS.ErrnoException).code ?? 'UNKNOWN';
+      if (code === 'ELOOP') return BROKEN;
+      if (code !== 'ENOENT' && code !== 'ENOTDIR') return { code };
       try {
-        if (lstatSync(p, { throwIfNoEntry: false })?.isSymbolicLink()) return undefined;
+        if (lstatSync(p, { throwIfNoEntry: false })?.isSymbolicLink()) return BROKEN;
       } catch {
         // ENOTDIR on the lstat too: keep climbing.
       }
       const parent = dirname(p);
-      if (parent === p) return undefined;
+      if (parent === p) return BROKEN;
       tail.push(basename(p));
       p = parent;
     }
@@ -140,6 +154,11 @@ export function realVaultTarget(
   if (target.kind === 'broken') {
     throw new Error(
       `Path outside vault: ${inputPath} goes through a symlink that is dangling or loops.`,
+    );
+  }
+  if (target.kind === 'unreadable') {
+    throw new Error(
+      `Path not resolved: ${inputPath} goes through a symlink that can't be resolved (${target.code}).`,
     );
   }
   if (follow) return OUTSIDE_VAULT;

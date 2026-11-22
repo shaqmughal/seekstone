@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
+import { existsSync, lstatSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
@@ -537,13 +537,6 @@ describe('link rewrites in other notes (move_note, rename_heading)', () => {
     linkDir(join(outside, 'refs'), join(vault, 'refs'));
   }
 
-  /** Put the real refs/ folder back, with the linker unchanged. */
-  function swapRefsBack(body = BODY): void {
-    rmSync(join(vault, 'refs'));
-    mkdirSync(join(vault, 'refs'));
-    writeFileSync(join(vault, 'refs', 'r.md'), body);
-  }
-
   function lastEntryPaths(ctx: ServerContext): string[] {
     return (ctx.journal?.latestUndoable()?.files ?? []).map((f) => f.path).sort();
   }
@@ -571,37 +564,6 @@ describe('link rewrites in other notes (move_note, rename_heading)', () => {
     const u = await call(ctx, 'undo_write', {});
     expect(u.isError, u.text).toBe(false);
     expect(existsSync(join(vault, 'notes', 'a.md'))).toBe(true);
-  });
-
-  it('skips a linker refused between the journal commit and its write, and undo still works without force', async () => {
-    const ctx = await withLinker();
-    const journal = ctx.journal;
-    if (journal === undefined) throw new Error('journal expected');
-    // The folder is swapped while the journal commits, after the plan passed.
-    const begin = journal.begin.bind(journal);
-    journal.begin = (tool, undoOf) => {
-      const txn = begin(tool, undoOf);
-      return {
-        add: txn.add,
-        commit: async () => {
-          const entry = await txn.commit();
-          if (tool === 'move_note') swapRefsOut();
-          return entry;
-        },
-      };
-    };
-    const r = await call(ctx, 'move_note', { from: 'notes/a.md', to: 'notes/b.md' });
-    expect(r.isError, r.text).toBe(false);
-    expect(r.text).toContain('through a symlink): refs/r.md.');
-    expect(await readFile(join(outside, 'refs', 'r.md'), 'utf8')).toBe(BODY);
-    // The entry planned the rewrite, but r.md never got it: undo must accept
-    // a file that still holds its pre-image instead of reporting a conflict.
-    swapRefsBack();
-    const u = await call(ctx, 'undo_write', {});
-    expect(u.isError, u.text).toBe(false);
-    expect(await readFile(join(vault, 'refs', 'r.md'), 'utf8')).toBe(BODY);
-    expect(existsSync(join(vault, 'notes', 'a.md'))).toBe(true);
-    expect(existsSync(join(vault, 'notes', 'b.md'))).toBe(false);
   });
 
   it('rename_heading skips a linker refused when the rewrite is planned', async () => {
@@ -632,6 +594,119 @@ describe('link rewrites in other notes (move_note, rename_heading)', () => {
     expect(ctx.notes.has('refs/r.md')).toBe(false);
     const b = await call(ctx, 'get_backlinks', { path: 'notes/b.md' });
     expect(b.text).not.toContain('refs/r.md');
+  });
+});
+
+describe('Obsidian config reached through a symlink', () => {
+  it('ignores a daily-notes config linked from outside the vault unless opted in', async () => {
+    await mkdir(join(vault, '.obsidian'));
+    await writeFile(join(outside, 'daily.json'), JSON.stringify({ folder: 'from-outside' }));
+    symlinkSync(join(outside, 'daily.json'), join(vault, '.obsidian', 'daily-notes.json'), 'file');
+    const off = await call(await makeCtx(), 'get_periodic_note', {});
+    expect((JSON.parse(off.text) as { path: string }).path).not.toMatch(/^from-outside\//);
+    const on = await call(
+      await makeCtx({ SEEKSTONE_FOLLOW_SYMLINKS: '1' }),
+      'get_periodic_note',
+      {},
+    );
+    expect((JSON.parse(on.text) as { path: string }).path).toMatch(/^from-outside\//);
+  });
+});
+
+describe('delete_note with a symlinked .trash (B1)', () => {
+  it('refuses to trash a note through .trash linked out of the vault', async () => {
+    rmSync(join(vault, '.trash'), { recursive: true });
+    linkDir(outside, join(vault, '.trash'));
+    const ctx = await makeCtx();
+    const r = await call(ctx, 'delete_note', { path: 'notes/a.md' });
+    expect(r.isError).toBe(true);
+    expect(r.text).toContain('.trash/ is a symlink out of the vault');
+    expect(existsSync(join(vault, 'notes', 'a.md'))).toBe(true);
+    expect(existsSync(join(outside, 'a.md'))).toBe(false);
+    // Nothing was journaled for the refused delete.
+    expect(ctx.journal?.latestUndoable()).toBeUndefined();
+  });
+
+  it('refuses to trash a note through .trash linked to another vault folder', async () => {
+    rmSync(join(vault, '.trash'), { recursive: true });
+    mkdirSync(join(vault, 'bin'));
+    linkDir(join(vault, 'bin'), join(vault, '.trash'));
+    // Refused with the opt-in on too: a deleted note would be back in search.
+    const modes: Record<string, string>[] = [{}, { SEEKSTONE_FOLLOW_SYMLINKS: '1' }];
+    for (const env of modes) {
+      const ctx = await makeCtx(env);
+      const r = await call(ctx, 'delete_note', { path: 'notes/a.md' });
+      expect(r.isError).toBe(true);
+      expect(r.text).toContain('.trash/ is a symlink to another folder in the vault');
+      expect(existsSync(join(vault, 'bin', 'a.md'))).toBe(false);
+    }
+  });
+
+  it('allows .trash linked out of the vault with SEEKSTONE_FOLLOW_SYMLINKS, and a permanent delete', async () => {
+    rmSync(join(vault, '.trash'), { recursive: true });
+    linkDir(outside, join(vault, '.trash'));
+    const ctx = await makeCtx({ SEEKSTONE_FOLLOW_SYMLINKS: '1' });
+    const r = await call(ctx, 'delete_note', { path: 'notes/a.md' });
+    expect(r.isError, r.text).toBe(false);
+    expect(existsSync(join(outside, 'a.md'))).toBe(true);
+    await writeFile(join(vault, 'notes', 'b.md'), '# B\n');
+    const p = await call(await makeCtx(), 'delete_note', { path: 'notes/b.md', permanent: true });
+    expect(p.isError, p.text).toBe(false);
+  });
+});
+
+describe('writing to a note that is itself a symlink (S3)', () => {
+  it('writes through an in-vault file link: the target changes, the link stays', async () => {
+    symlinkSync(join(vault, 'notes', 'a.md'), join(vault, 'notes', 'alias.md'), 'file');
+    const ctx = await makeCtx();
+    const before = await readFile(join(vault, 'notes', 'a.md'), 'utf8');
+    const read = await call(ctx, 'read_note', { path: 'notes/alias.md' });
+    const hash = (JSON.parse(read.text) as { contentHash: string }).contentHash;
+    const w = await call(ctx, 'append_note', {
+      path: 'notes/alias.md',
+      content: 'through the link',
+      prevHash: hash,
+    });
+    expect(w.isError, w.text).toBe(false);
+    expect(lstatSync(join(vault, 'notes', 'alias.md')).isSymbolicLink()).toBe(true);
+    expect(await readFile(join(vault, 'notes', 'a.md'), 'utf8')).toContain('through the link');
+    // A stale prevHash is judged on the target's bytes too.
+    const stale = await call(ctx, 'append_note', {
+      path: 'notes/alias.md',
+      content: 'again',
+      prevHash: hash,
+    });
+    expect(stale.text).toMatch(/hash_conflict/);
+    // Undo puts the target's bytes back and leaves the link alone.
+    const u = await call(ctx, 'undo_write', {});
+    expect(u.isError, u.text).toBe(false);
+    expect(await readFile(join(vault, 'notes', 'a.md'), 'utf8')).toBe(before);
+    expect(lstatSync(join(vault, 'notes', 'alias.md')).isSymbolicLink()).toBe(true);
+    // The link path isn't indexed, as the boot walk leaves it out too.
+    expect(ctx.notes.has('notes/alias.md')).toBe(false);
+  });
+
+  it('writes through a file link out of the vault with SEEKSTONE_FOLLOW_SYMLINKS', async () => {
+    symlinkSync(join(outside, 'o.md'), join(vault, 'outfile.md'), 'file');
+    const ctx = await makeCtx({ SEEKSTONE_FOLLOW_SYMLINKS: '1' });
+    const w = await call(ctx, 'append_note', { path: 'outfile.md', content: 'appended outside' });
+    expect(w.isError, w.text).toBe(false);
+    expect(lstatSync(join(vault, 'outfile.md')).isSymbolicLink()).toBe(true);
+    expect(await readFile(join(outside, 'o.md'), 'utf8')).toContain('appended outside');
+  });
+
+  it('judges SEEKSTONE_WRITE_PATHS on the file the link points to', async () => {
+    symlinkSync(join(vault, 'private', 'secret.md'), join(vault, 'notes', 'plink.md'), 'file');
+    symlinkSync(join(vault, 'notes', 'a.md'), join(vault, 'notes', 'alias.md'), 'file');
+    const ctx = await makeCtx({ SEEKSTONE_WRITE_PATHS: 'notes/**' });
+    const refused = await call(ctx, 'append_note', { path: 'notes/plink.md', content: 'x' });
+    expect(refused.text).toContain('is outside SEEKSTONE_WRITE_PATHS');
+    expect(await readFile(join(vault, 'private', 'secret.md'), 'utf8')).toBe(
+      `# Secret\n\n${HIDDEN_TEXT}\n`,
+    );
+    const allowed = await call(ctx, 'append_note', { path: 'notes/alias.md', content: 'ok' });
+    expect(allowed.isError, allowed.text).toBe(false);
+    expect(await readFile(join(vault, 'notes', 'a.md'), 'utf8')).toContain('ok');
   });
 });
 

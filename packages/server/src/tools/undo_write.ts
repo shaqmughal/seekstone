@@ -7,7 +7,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
-import { assertWritable, isReadable, reservedFolder } from '../policy.js';
+import { assertWritable, isReadable, type PathCheck, reservedFolder } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
@@ -44,7 +44,13 @@ export interface UndoWriteResult {
   /** The journal entry recording this undo — undo it to redo. */
   undoSeq: number;
   tool: string;
-  restored: { path: string; restoredHash: string | null }[];
+  /**
+   * Every file of the entry with the hash it now has. `unchanged` marks a
+   * file that already held its pre-image, so nothing on disk changed for it.
+   */
+  restored: { path: string; restoredHash: string | null; unchanged?: true }[];
+  /** Present when any file is `unchanged`: says nothing on disk changed for those. */
+  note?: string;
   /** Conflicts overridden with force: true (their clobbered state is journaled under undoSeq). */
   overrode?: UndoConflict[];
 }
@@ -67,7 +73,11 @@ export async function undoWrite(
   const input = UndoWriteInput.parse(rawInput);
   const journal = ctx.journal;
   if (!journal) {
-    throw new Error('Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.');
+    throw new Error(
+      ctx.historyOffReason !== undefined
+        ? `Write history is off: ${ctx.historyOffReason}. Nothing to undo.`
+        : 'Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.',
+    );
   }
   // Another server process on this vault may have written since we last looked.
   await journal.refresh();
@@ -90,7 +100,10 @@ export async function undoWrite(
   // These paths come from the journal, not the caller, so `.trash/` is allowed:
   // undoing a restore puts Seekstone's own earlier state back, the same as
   // delete_note's move into `.trash/`. `.seekstone/` stays refused.
-  for (const f of entry.files) assertWritable(ctx.policy, f.path, ctx.vaultRoot, '.trash');
+  const checks = new Map<string, PathCheck | undefined>();
+  for (const f of entry.files) {
+    checks.set(f.path, assertWritable(ctx.policy, f.path, ctx.vaultRoot, '.trash'));
+  }
 
   // Current state vs. what the journal says the write left behind.
   const current = new Map<string, string | null>();
@@ -151,7 +164,11 @@ export async function undoWrite(
     const pre = preimages.get(f.path) ?? null;
     if (current.get(f.path) === pre) {
       // Already at its pre-image (the write never reached it): leave it be.
-      restored.push({ path: f.path, restoredHash: pre === null ? null : contentHash(pre) });
+      restored.push({
+        path: f.path,
+        restoredHash: pre === null ? null : contentHash(pre),
+        unchanged: true,
+      });
     } else if (pre === null) {
       await rm(abs, { force: true });
       removeDoc(ctx, f.path);
@@ -163,7 +180,9 @@ export async function undoWrite(
       // and watcher leave it out.
       if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
         removeNoteBacklinks(ctx, f.path);
-        if (upsertDoc(ctx, buildDoc(f.path, pre))) addNoteBacklinks(ctx, f.path, pre);
+        if (upsertDoc(ctx, buildDoc(f.path, pre), checks.get(f.path))) {
+          addNoteBacklinks(ctx, f.path, pre);
+        }
       }
       restored.push({ path: f.path, restoredHash: contentHash(pre) });
     }
@@ -176,6 +195,10 @@ export async function undoWrite(
     restored,
   };
   if (conflicts.length > 0) result.overrode = conflicts;
+  if (restored.some((r) => r.unchanged)) {
+    result.note =
+      'Files marked unchanged already held their pre-write content; nothing on disk changed for them.';
+  }
   return result;
 }
 

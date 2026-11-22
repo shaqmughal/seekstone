@@ -20,14 +20,20 @@ export interface ListWritesResult {
   writes: JournalListRow[];
   /** Total matching entries in the journal (before `limit`). */
   total: number;
-  /** Present (true) only when the journal is disabled via SEEKSTONE_HISTORY=0. */
+  /** Present (true) only when the journal is off: SEEKSTONE_HISTORY=0, or `reason`. */
   disabled?: true;
+  /** Why history is off when it isn't SEEKSTONE_HISTORY=0 (a symlinked .seekstone/). */
+  reason?: string;
 }
 
 /** Recent journal entries — what `undo_write` can revert. */
 export function listWrites(ctx: ServerContext, rawInput: ListWritesInput): ListWritesResult {
   const input = ListWritesInput.parse(rawInput);
-  if (!ctx.journal) return { writes: [], total: 0, disabled: true };
+  if (!ctx.journal) {
+    const off: ListWritesResult = { writes: [], total: 0, disabled: true };
+    if (ctx.historyOffReason !== undefined) off.reason = ctx.historyOffReason;
+    return off;
+  }
   const opts: { limit: number; path?: string; visible?: (path: string) => boolean } = {
     limit: input.limit,
   };

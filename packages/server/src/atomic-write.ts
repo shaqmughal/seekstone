@@ -1,4 +1,5 @@
 import { randomBytes } from 'node:crypto';
+import { lstatSync, realpathSync } from 'node:fs';
 import { type FileHandle, open, rename, rm } from 'node:fs/promises';
 
 /** Test seams for `atomicWrite`. Production callers pass nothing. */
@@ -20,6 +21,12 @@ export interface AtomicWriteDeps {
  * temp file (SHA-567). They still race on the final rename, and the last one
  * wins. CAS (content-hash.ts) is the conflict-detection layer above this.
  *
+ * A destination that is itself a symlink is written through: the temp file
+ * goes next to the link's target and replaces the target, so the link stays
+ * a link and the file it points to gets the new bytes (SHA-575). That is the
+ * file the path checks approved. Renaming over the link instead would turn
+ * it into a regular file and leave the target as it was.
+ *
  * Not guaranteed: the rename itself surviving a power loss. The directory is
  * not fsynced, so after a crash the note may still hold its old content. A
  * directory fsync costs real time on some file systems and is left out on
@@ -30,7 +37,10 @@ export async function atomicWrite(
   content: string,
   { openFn = open, renameFn }: AtomicWriteDeps = {},
 ): Promise<void> {
-  const tmpPath = tempPathFor(absPath);
+  const dest = lstatSync(absPath, { throwIfNoEntry: false })?.isSymbolicLink()
+    ? realpathSync.native(absPath)
+    : absPath;
+  const tmpPath = tempPathFor(dest);
   // A failed open created nothing, so it has nothing to clean up.
   const fh = await openFn(tmpPath, 'wx');
   try {
@@ -40,7 +50,7 @@ export async function atomicWrite(
     } finally {
       await fh.close();
     }
-    await renameWithRetry(tmpPath, absPath, { renameFn });
+    await renameWithRetry(tmpPath, dest, { renameFn });
   } catch (err) {
     // Don't leave the temp file in the vault when the write finally fails.
     await rm(tmpPath, { force: true }).catch(() => {});

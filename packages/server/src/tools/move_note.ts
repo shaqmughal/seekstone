@@ -60,7 +60,7 @@ export async function moveNote(
   // A source in .trash/ is a restore of a deleted note, so it is allowed; the
   // destination may not be in .trash/ and neither end may be in .seekstone/.
   assertWritable(ctx.policy, input.from, ctx.vaultRoot, '.trash');
-  assertWritable(ctx.policy, input.to, ctx.vaultRoot);
+  const toCheck = assertWritable(ctx.policy, input.to, ctx.vaultRoot);
   const absFrom = resolveVaultPath(ctx, input.from);
   const absTo = resolveVaultPath(ctx, input.to);
 
@@ -155,7 +155,7 @@ export async function moveNote(
   removeDoc(ctx, input.from, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
   removeNoteBacklinks(ctx, input.to);
-  if (upsertDoc(ctx, buildDoc(input.to, raw))) addNoteBacklinks(ctx, input.to, raw);
+  if (upsertDoc(ctx, buildDoc(input.to, raw), toCheck)) addNoteBacklinks(ctx, input.to, raw);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.
@@ -171,11 +171,7 @@ export async function moveNote(
     // when nothing was rewritten (basename links now resolve to the new
     // path); remove reads the old raw, so call it before updating the entry.
     removeNoteBacklinks(ctx, path, maps);
-    // Checked again here: the journal awaits above leave time for a folder
-    // to be swapped for a link since the plan was made.
-    const allowed = count > 0 && canWrite(ctx.policy, path, ctx.vaultRoot);
-    if (count > 0 && !allowed) skipped.push(path);
-    if (allowed) {
+    if (count > 0) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
       notesRewritten++;
       linksRewritten += count;

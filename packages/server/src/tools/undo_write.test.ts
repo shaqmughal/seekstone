@@ -282,6 +282,9 @@ describe('undo_write — semantics', () => {
     const undo = await undoWrite(ctx, {});
     expect(undo.seq).toBe(1);
     expect(undo.undoSeq).toBe(2);
+    // A real restore: not marked unchanged, and no note about unchanged files.
+    expect(undo.restored).toEqual([{ path: 'Alpha.md', restoredHash: contentHash(A) }]);
+    expect(undo.note).toBeUndefined();
     const rows = listWrites(ctx, {}).writes;
     expect(rows[0]).toMatchObject({ seq: 2, tool: 'undo_write', undoOf: 1, undoable: true });
 
@@ -368,10 +371,11 @@ describe('undo_write — semantics', () => {
     const r = await undoWrite(ctx, {});
     expect(r.overrode).toBeUndefined();
     expect(r.restored).toEqual([
-      { path: 'Alpha.md', restoredHash: contentHash(A) },
-      { path: 'Moved.md', restoredHash: null },
-      { path: 'Beta.md', restoredHash: contentHash(B) },
+      { path: 'Alpha.md', restoredHash: contentHash(A), unchanged: true },
+      { path: 'Moved.md', restoredHash: null, unchanged: true },
+      { path: 'Beta.md', restoredHash: contentHash(B), unchanged: true },
     ]);
+    expect(r.note).toContain('nothing on disk changed');
     expect(await disk('Alpha.md')).toBe(A);
     expect(await disk('Moved.md')).toBeNull();
     expect(await disk('Beta.md')).toBe(B);

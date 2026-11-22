@@ -58,6 +58,11 @@ export interface ServerContext {
    */
   journal?: Journal;
   /**
+   * Set when write history is off for a reason other than SEEKSTONE_HISTORY=0
+   * (a symlinked .seekstone/, SHA-575), so list_writes and undo_write can say why.
+   */
+  historyOffReason?: string;
+  /**
    * Structured audit log (SEEKSTONE_AUDIT_FILE). Dispatch appends one record
    * per write-tool call — ok or refused — after the call completes.
    */

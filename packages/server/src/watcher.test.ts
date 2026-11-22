@@ -1,3 +1,4 @@
+import { renameSync, symlinkSync } from 'node:fs';
 import { mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, sep } from 'node:path';
@@ -461,15 +462,25 @@ describe('startWatcher and symlinks (SHA-575)', () => {
         process.platform === 'win32' ? 'junction' : 'dir',
       );
       const ctx = freshCtx(tmpDir);
-      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+      const seen: string[] = [];
+      const { stop, ready } = startWatcher(ctx, undefined, {
+        usePolling: true,
+        pollInterval: 50,
+        onRawEvent: (_op, _abs, rel) => seen.push(rel),
+      });
       try {
         await ready;
         await writeFile(join(outside, 'leak.md'), '# Leak\n', 'utf8');
         await symlink(join(outside, 'before.md'), join(tmpDir, 'link.md'), 'file');
         await writeFile(join(tmpDir, 'real.md'), '# Real\n', 'utf8');
-        await waitFor(() => ctx.notes.has('real.md'), { nudge: dirNudger(tmpDir) });
-        // A few more poll rounds for any late event through the links.
-        await new Promise((r) => setTimeout(r, 500));
+        // The link's own event has arrived and been handled (the handler
+        // finishes within the tick), and real.md shows the watcher is live.
+        // ext/ is never descended into, so ext/leak.md has no event at all.
+        await waitFor(() => seen.includes('link.md') && ctx.notes.has('real.md'), {
+          nudge: dirNudger(tmpDir),
+        });
+        await new Promise((r) => setImmediate(r));
+        expect(seen.filter((k) => k.startsWith('ext/'))).toEqual([]);
         const keys = [...ctx.notes.keys()];
         expect(keys.filter((k) => k.startsWith('ext/'))).toEqual([]);
         expect(keys).not.toContain('link.md');
@@ -494,18 +505,28 @@ describe('startWatcher and symlinks (SHA-575)', () => {
       expect(ctx.attachments.byPath.has('pic.png')).toBe(false);
       // Native events: with polling, chokidar doesn't watch a symlink it
       // won't follow, so the link-to-file swap only shows up on restart.
-      const { stop, ready } = startWatcher(ctx, undefined, { usePolling: false });
+      const events: string[] = [];
+      const { stop, ready } = startWatcher(ctx, undefined, {
+        usePolling: false,
+        onRawEvent: (op, _abs, rel) => events.push(`${op} ${rel}`),
+      });
       try {
         await ready;
         await rm(join(tmpDir, 'a.md'));
         await symlink(join(outside, 'o.md'), join(tmpDir, 'a.md'), 'file');
         await rm(join(tmpDir, 'pic.png'));
         await writeFile(join(tmpDir, 'pic.png'), 'real png', 'utf8');
-        await waitFor(() => !ctx.notes.has('a.md') && ctx.attachments.byPath.has('pic.png'), {
+        // Wait for the event about the new link itself (after any unlink),
+        // so the assertion below sees it handled, not merely not yet arrived.
+        const linkEvent = () => {
+          const i = events.lastIndexOf('unlink a.md');
+          return events.slice(i + 1).some((e) => e === 'add a.md' || e === 'change a.md');
+        };
+        await waitFor(() => linkEvent() && ctx.attachments.byPath.has('pic.png'), {
           nudge: dirNudger(tmpDir),
         });
+        await new Promise((r) => setImmediate(r));
         // The link's target never enters the index.
-        await new Promise((r) => setTimeout(r, 300));
         expect(ctx.notes.has('a.md')).toBe(false);
       } finally {
         await stop();
@@ -527,8 +548,11 @@ describe('startWatcher and symlinks (SHA-575)', () => {
       const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
       try {
         await ready;
-        await rm(join(tmpDir, 'notes'), { recursive: true });
-        await symlink(
+        // Swap in one synchronous step, as a user's `mv` and `ln -s` would,
+        // so notes/a.md never goes missing and chokidar reports a change,
+        // not an unlink. Only the link check before the index commit drops it.
+        renameSync(join(tmpDir, 'notes'), join(tmpDir, 'notes-old'));
+        symlinkSync(
           outside,
           join(tmpDir, 'notes'),
           process.platform === 'win32' ? 'junction' : 'dir',

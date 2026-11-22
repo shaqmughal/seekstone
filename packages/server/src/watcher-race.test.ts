@@ -1,5 +1,5 @@
 import { realpathSync, renameSync, symlinkSync } from 'node:fs';
-import { mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
+import { type FileHandle, mkdir, mkdtemp, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
@@ -29,6 +29,8 @@ const race = vi.hoisted(() => ({
   swapBack: async () => {},
   /** Runs synchronously inside the watcher's own lstat of the target. */
   beforeLstat: undefined as (() => void) | undefined,
+  /** Resolves when the watcher closes the raced file handle. */
+  closed: undefined as Promise<void> | undefined,
 }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -63,10 +65,25 @@ vi.mock('node:fs/promises', async (importOriginal) => {
       raced(p, () =>
         (actual.readFile as (...a: unknown[]) => Promise<unknown>)(p, ...rest),
       )) as typeof actual.readFile,
-    open: ((p: Parameters<typeof actual.open>[0], ...rest: unknown[]) =>
-      raced(p, () =>
-        (actual.open as (...a: unknown[]) => Promise<unknown>)(p, ...rest),
-      )) as typeof actual.open,
+    open: (async (p: Parameters<typeof actual.open>[0], ...rest: unknown[]) => {
+      const isRace = race.armed && String(p) === race.target;
+      const fh = await raced(p, () =>
+        (actual.open as (...a: unknown[]) => Promise<FileHandle>)(p, ...rest),
+      );
+      if (isRace) {
+        // The watcher's checks after the read and its index commit run
+        // synchronously once the handle is closed, so this marks the end of
+        // the raced upsert.
+        const close = fh.close.bind(fh);
+        race.closed = new Promise<void>((resolve) => {
+          fh.close = async () => {
+            await close();
+            resolve();
+          };
+        });
+      }
+      return fh;
+    }) as typeof actual.open,
   };
 });
 
@@ -82,6 +99,7 @@ beforeEach(async () => {
 
 afterEach(async () => {
   race.armed = false;
+  race.closed = undefined;
   race.beforeLstat = undefined;
   await rm(vault, { recursive: true, force: true });
   await rm(outside, { recursive: true, force: true });
@@ -187,10 +205,11 @@ describe('watcher read binding (SHA-575)', () => {
       while (race.armed && Date.now() < deadline) {
         await new Promise((r) => setTimeout(r, 20));
       }
-      // Let any upsert that was in flight finish. Polling loses track of the
-      // renamed folder, so the note isn't re-indexed afterwards; what counts
-      // is that the outside bytes never reached the index.
-      await new Promise((r) => setTimeout(r, 500));
+      // Wait for the raced upsert itself to finish. Polling loses track of
+      // the renamed folder, so the note isn't re-indexed afterwards; what
+      // counts is that the outside bytes never reached the index.
+      await race.closed;
+      await new Promise((r) => setImmediate(r));
       expect(race.armed).toBe(false);
       expect(race.beforeLstat).toBeUndefined();
       expect(leaked).toBe(false);

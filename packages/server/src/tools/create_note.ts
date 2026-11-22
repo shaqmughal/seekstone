@@ -53,7 +53,7 @@ export async function createNote(
   rawInput: CreateNoteInput,
 ): Promise<CreateNoteResult> {
   const input = CreateNoteInput.parse(rawInput);
-  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
+  const check = assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   // Pre-image for the journal: the note being overwritten, or null for a
@@ -101,7 +101,7 @@ export async function createNote(
   await atomicWrite(absPath, raw);
 
   // Sync in-memory index so the new note is immediately searchable.
-  replaceDoc(ctx, input.path, raw);
+  replaceDoc(ctx, input.path, raw, check);
 
   return {
     path: input.path,

@@ -3,6 +3,7 @@ import { extractInlineTags, frontmatterAliases, frontmatterTags } from '@seeksto
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
+import type { PathCheck } from '../policy.js';
 import { symlinkTarget } from '../symlinks.js';
 import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
 import { bumpGeneration } from './generation.js';
@@ -45,15 +46,19 @@ export function upsertDoc(
     parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
+  check?: PathCheck,
 ): boolean {
   // The index holds only paths that cross no symlink, like the boot walk
   // (SHA-575). resolveVaultPath skips its symlink check for indexed notes,
   // so a write through a link (allowed when the link stays in the vault, or
-  // with SEEKSTONE_FOLLOW_SYMLINKS) must not add its linked path here.
-  if (
-    ctx.vaultRoot !== undefined &&
-    symlinkTarget(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined
-  ) {
+  // with SEEKSTONE_FOLLOW_SYMLINKS) must not add its linked path here. A
+  // write tool passes what assertWritable found; anyone else gets a walk.
+  const viaLink =
+    check !== undefined
+      ? check.viaLink
+      : ctx.vaultRoot !== undefined &&
+        symlinkTarget(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined;
+  if (viaLink) {
     // A path that was indexed before its folder became a link leaves the
     // usual way, so its outgoing refs are cleared and inbound ones parked.
     if (ctx.backlinks !== undefined) removeDoc(ctx as ServerContext, doc.id);
@@ -155,9 +160,9 @@ function aliasKey(fm: IndexedNote['fm']): string {
  * overwrite). Clears the old content's refs first when the new content drops
  * a link, for the same reason as refreshCachedNote.
  */
-export function replaceDoc(ctx: ServerContext, path: string, raw: string): void {
+export function replaceDoc(ctx: ServerContext, path: string, raw: string, check?: PathCheck): void {
   const prev = ctx.notes.get(path);
   const relink = prev !== undefined && dropsLinks(prev.raw, raw);
   if (relink) removeNoteBacklinks(ctx, path);
-  if (upsertDoc(ctx, buildDoc(path, raw)) && relink) addNoteBacklinks(ctx, path, raw);
+  if (upsertDoc(ctx, buildDoc(path, raw), check) && relink) addNoteBacklinks(ctx, path, raw);
 }

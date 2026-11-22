@@ -101,7 +101,7 @@ export async function renameHeading(
   // Parse here (not only in dispatch) so validation applies to direct callers
   // too — same pattern as move_note.
   const input = RenameHeadingInput.parse(rawInput);
-  assertWritable(ctx.policy, input.path, ctx.vaultRoot);
+  const check = assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
 
   let raw: string;
@@ -198,18 +198,14 @@ export async function renameHeading(
   // Refresh the renamed note's index entry. removeNoteBacklinks reads the old
   // raw out of ctx.notes, so it must run before upsertDoc replaces the entry.
   removeNoteBacklinks(ctx, input.path);
-  if (upsertDoc(ctx, buildDoc(input.path, newRaw))) addNoteBacklinks(ctx, input.path, newRaw);
+  if (upsertDoc(ctx, buildDoc(input.path, newRaw), check)) {
+    addNoteBacklinks(ctx, input.path, newRaw);
+  }
 
   let notesRewritten = selfRewrite.count > 0 ? 1 : 0;
   let linksRewritten = selfRewrite.count;
 
   for (const { path, content, count } of rewrites) {
-    // Checked again here: the journal awaits above leave time for a folder
-    // to be swapped for a link since the plan was made.
-    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
-      skipped.push(path);
-      continue;
-    }
     await atomicWrite(join(ctx.vaultRoot, path), content);
     // Fragment rewrites change neither link resolution nor line numbers, so
     // the backlink index needs no refresh — only the notes/search entries.

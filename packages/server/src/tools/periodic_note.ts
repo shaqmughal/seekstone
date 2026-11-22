@@ -8,6 +8,7 @@ import type { ServerContext } from '../context.js';
 import { buildDoc, refreshCachedNote, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
+import { symlinkTarget } from '../symlinks.js';
 import { containVaultPath, existsReadable, resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
@@ -41,7 +42,17 @@ const DEFAULTS: Record<Period, Required<PeriodicEntry>> = {
   yearly: { folder: '', format: 'YYYY', template: '' },
 };
 
-async function readJson<T>(absPath: string): Promise<T | null> {
+/**
+ * Read an Obsidian config file, or null. The config is Obsidian's, not the
+ * agent's, so the read scope doesn't apply, but the symlink rule does
+ * (SHA-575): a config reached through a link out of the vault is ignored
+ * unless SEEKSTONE_FOLLOW_SYMLINKS is on, and a dangling one is ignored.
+ */
+async function readJson<T>(vaultRoot: string, absPath: string, follow: boolean): Promise<T | null> {
+  const target = symlinkTarget(vaultRoot, absPath);
+  if (target !== undefined && target.kind !== 'inside' && !(target.kind === 'outside' && follow)) {
+    return null;
+  }
   try {
     return JSON.parse(await readFile(absPath, 'utf8')) as T;
   } catch {
@@ -52,11 +63,16 @@ async function readJson<T>(absPath: string): Promise<T | null> {
 export async function resolveConfig(
   vaultRoot: string,
   period: Period,
+  followSymlinks = false,
 ): Promise<Required<PeriodicEntry>> {
   const defaults = DEFAULTS[period];
 
   if (period === 'daily') {
-    const cfg = await readJson<DailyNotesJson>(join(vaultRoot, '.obsidian', 'daily-notes.json'));
+    const cfg = await readJson<DailyNotesJson>(
+      vaultRoot,
+      join(vaultRoot, '.obsidian', 'daily-notes.json'),
+      followSymlinks,
+    );
     return {
       folder: cfg?.folder ?? defaults.folder,
       format: cfg?.format ?? defaults.format,
@@ -65,7 +81,9 @@ export async function resolveConfig(
   }
 
   const cfg = await readJson<PeriodicNotesJson>(
+    vaultRoot,
     join(vaultRoot, '.obsidian', 'plugins', 'periodic-notes', 'data.json'),
+    followSymlinks,
   );
   const entry = cfg?.[period];
   return {
@@ -166,7 +184,7 @@ export async function getPeriodicNote(
 ): Promise<GetPeriodicNoteResult> {
   const input = GetPeriodicNoteInput.parse(rawInput);
   const date = input.date ? new Date(input.date) : new Date();
-  const cfg = await resolveConfig(ctx.vaultRoot, input.period);
+  const cfg = await resolveConfig(ctx.vaultRoot, input.period, ctx.policy.followSymlinks === true);
   const path = resolveNotePath(cfg, date);
   // A periodic note outside SEEKSTONE_READ_PATHS, or behind a symlink the
   // read path refuses, reports as missing, so the probe is not an existence
@@ -180,7 +198,7 @@ export async function getPeriodicNote(
 
   // About to write: this "read" tool creates the note here, so the write
   // policy applies (dispatch also strips createIfMissing in read-only mode).
-  assertWritable(ctx.policy, path, ctx.vaultRoot);
+  const check = assertWritable(ctx.policy, path, ctx.vaultRoot);
 
   // Read template if configured.
   let body = '';
@@ -198,7 +216,7 @@ export async function getPeriodicNote(
   await mkdir(dirname(abs), { recursive: true });
   await journalWrite(ctx, 'get_periodic_note', path, null, body);
   await atomicWrite(abs, body);
-  upsertDoc(ctx, buildDoc(path, body));
+  upsertDoc(ctx, buildDoc(path, body), check);
 
   return { path, existed: false, created: true, contentHash: contentHash(body) };
 }
@@ -238,9 +256,9 @@ export async function appendPeriodicNote(
 ): Promise<AppendPeriodicNoteResult> {
   const input = AppendPeriodicNoteInput.parse(rawInput);
   const date = input.date ? new Date(input.date) : new Date();
-  const cfg = await resolveConfig(ctx.vaultRoot, input.period);
+  const cfg = await resolveConfig(ctx.vaultRoot, input.period, ctx.policy.followSymlinks === true);
   const path = resolveNotePath(cfg, date);
-  assertWritable(ctx.policy, path, ctx.vaultRoot);
+  const check = assertWritable(ctx.policy, path, ctx.vaultRoot);
   const abs = resolveVaultPath(ctx, path);
 
   let original = '';
@@ -265,7 +283,7 @@ export async function appendPeriodicNote(
     await mkdir(dirname(abs), { recursive: true });
     await journalWrite(ctx, 'append_periodic_note', path, null, input.content);
     await atomicWrite(abs, input.content);
-    upsertDoc(ctx, buildDoc(path, input.content));
+    upsertDoc(ctx, buildDoc(path, input.content), check);
     return {
       path,
       bytesWritten: Buffer.byteLength(input.content, 'utf8'),

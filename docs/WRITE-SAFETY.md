@@ -59,39 +59,58 @@ tool can be pointed at those paths.)
 Symlinks are checked by where they really point. If a path goes through a
 symlink, the guard resolves its real path, and for a new file the real path
 of the folder it would land in. A real path outside the vault is refused for
-reads and writes, and so is a dangling or looping link. A symlink whose real
-target is inside the vault keeps working. To allow links that leave the
-vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1` (or `true`). Even then, a dangling link is
-refused, and the path scopes and reserved folders in §8 still apply wherever
-a link lands inside the vault. The scope globs only describe the vault, so a
-link that leaves it counts as outside any read or write scope that is set. The
-index never holds a path that crosses a symlink, in either mode: the walk
+reads and writes, and so is a dangling or looping link; a link that can't be
+resolved for another reason (a permission error, say) is refused with its
+own error. A symlink whose real target is inside the vault keeps working. To
+allow links that leave the vault, set `SEEKSTONE_FOLLOW_SYMLINKS=1` (or
+`true`). Even then, a dangling link is refused, and the path scopes and
+reserved folders in §8 still apply wherever a link lands inside the vault.
+The scope globs only describe the vault, so a link that leaves it counts as
+outside any read or write scope that is set. No tool can create a symlink.
+On Windows, a folder mounted as a volume mount point shows up as a junction
+to another volume, so it counts as a link out of the vault.
+
+A write to a note that is itself a symlink goes through to the file it points
+to: the link stays a link and the target gets the new bytes, which is the
+file the check approved. The atomic write's temp file sits next to the target
+so the rename stays atomic, and `prevHash`, the journal and `undo_write` all
+work on the target's bytes. Moving or deleting such a note moves the link.
+
+The index never holds a path that crosses a symlink, in either mode: the walk
 and the file watcher don't follow links, the watcher indexes a note only if
 the file it opened is the one its check approved (same device and inode), and
-a write through a link updates the file without indexing its linked path. So linked files never show up in
-search, listings or backlinks. A write to an allowed symlinked file replaces
-the link with a regular file, because the atomic write renames over it. No
-tool can create a symlink.
+a write through a link updates the file without indexing its linked path. So
+linked files never show up in search, listings or backlinks.
+
+Two folders get their own check. A recoverable `delete_note` refuses to run
+when `.trash` is a symlink to another vault folder (deleted notes would come
+back into search) or out of the vault (unless the opt-in is on); a
+`permanent: true` delete doesn't use `.trash` and still works. At boot, if
+`.seekstone/history` reaches through a symlink out of the vault without the
+opt-in, or anywhere else in the vault, write history is turned off rather
+than copying notes there (§9).
 
 Writes run the check on every call. Reads skip it for a note that is already
 in the index, because every indexed path crossed no link when it was
-indexed. If the user replaces an indexed note's folder with a link, reads of that note go through until the
-watcher sees the change and drops the note from the index. A link the user
-swaps in while a call is running can also race the check. When `move_note`
-or `rename_heading` rewrites links in other notes, each of those notes gets
-the same check, just before it is written; a refused one is left alone and
-listed as skipped.
+indexed. When `move_note` or `rename_heading` rewrites links in other notes,
+each of those notes gets the full check before the journal is written; a
+refused one is left alone and listed as skipped.
 
-One limit is known. The watcher reads a note only if the file it opened is
-the one its check approved, and checks the path again after the read. A local
-user who swaps a parent folder for a link and back, timed between those
-system calls, could still get a file from outside the vault indexed. Closing
-that needs each folder opened without following links (`openat` with
-`O_NOFOLLOW`), which Node doesn't offer.
+Known limits. Every check runs a moment before the file is used, so a local
+user who swaps a folder for a link in that moment can race it. That covers a
+link swapped in between a write's check and its write, and an indexed note
+whose folder is replaced by a link: reads of that note can reach the link's
+target until the watcher sees the change and drops the note. The watcher
+also reads a note only from the file its check approved and checks the path
+again afterwards, but a parent folder swapped for a link and back, timed
+between those system calls, could still get a file from outside the vault
+indexed. Closing these windows needs each folder opened without following
+links (`openat` with `O_NOFOLLOW`), which Node doesn't offer.
 
 The check costs one `lstat` per path segment below the vault root, and a
 `realpath` only when one of those segments is a link: about 5 µs on a
-three-segment path. Reads of indexed notes don't pay it.
+three-segment path. Reads of indexed notes don't pay it, and a write's index
+update reuses its check instead of walking the path again.
 
 - Enforced by: the path-containment guard in every tool handler, plus the
   symlink check in `resolveVaultPath` and `assertWritable`
@@ -171,7 +190,8 @@ destination the same way.
 reports where it went. `permanent: true` is the explicit opt-out. `move_note`
 accepts a source inside `.trash/` so the note can be moved back, even though
 `.trash/` is otherwise closed to write tools (see §8). `undo_write` can undo
-that restore, which puts the note back in `.trash/`.
+that restore, which puts the note back in `.trash/`. If `.trash` is a
+symlink, a recoverable delete is refused rather than following it (§2).
 
 - Proven by: [`delete_note.test.ts`](../packages/server/src/tools/delete_note.test.ts)
   and the harness `recoverable-delete` op — after a delete, a byte-identical
@@ -311,7 +331,8 @@ entry, and if any one changed after the journaled write, the whole undo is
 refused with a structured `undo_conflict` (expected/actual hashes and byte
 counts) unless `force: true` — and even then the clobbered state is journaled
 first. A file that already holds its pre-image isn't a conflict: there is
-nothing to restore, so it is left as it is. The check isn't a lock: an edit that lands after it and before that
+nothing to restore, so it is left as it is and listed with `unchanged: true`,
+with a note in the result that nothing on disk changed for it. The check isn't a lock: an edit that lands after it and before that
 file is restored is overwritten without an `undo_conflict`. Only that check is
 all-or-nothing. The restore itself writes the files
 one at a time, so a failure partway through (a full disk, say) can leave some
@@ -327,12 +348,19 @@ journaled, so `undo_write({ seq })` on an undo entry
 redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
 
+History behind a symlink: the journal keeps a full copy of every note it
+touches, so at boot the server checks `.seekstone/history` for symlinks. If it
+leads out of the vault and `SEEKSTONE_FOLLOW_SYMLINKS` is off, or into another
+vault folder, write history is turned off for the session: the server prints
+`WRITE HISTORY IS OFF` with the reason on stderr, writes still work but can't
+be undone, and `list_writes` and `undo_write` report history as disabled with
+that reason. With the opt-in on, a link out of the vault is used as is.
+
 Crash window: the blob **and** the manifest row are fsync'd before the vault
 write starts. A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk. The files still hold
 their pre-images, so `undo_write` finds nothing to restore in them rather than
-a conflict. A `move_note` or `rename_heading` that skips a linker at its last
-check, after the commit, leaves the same kind of entry for that file. A journal write failure
+a conflict, and marks them `unchanged`. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
 does not proceed. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest

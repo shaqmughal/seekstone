@@ -88,6 +88,9 @@ export function resolvePollInterval(
   return parsed;
 }
 
+/** readChecked's answer for a note that is itself a symlink. */
+const LINK = Symbol('symlink');
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -122,6 +125,10 @@ export function startWatcher(
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
       const raw = await readChecked(join(vaultRoot, relPath));
+      if (raw === LINK) {
+        remove(relPath);
+        return;
+      }
       // Replaced while we read: the event for the new file re-indexes it.
       if (raw === undefined) return;
       removeNoteBacklinks(ctx, relPath);
@@ -144,15 +151,17 @@ export function startWatcher(
 
   /**
    * Read a note only if the bytes come from the file the symlink check
-   * approved (SHA-575). The caller has just checked that no path segment is
-   * a link. The file is lstat'd, then opened, and the open handle must be the
-   * same regular file (device and inode). Without this, a link swapped in
+   * approved (SHA-575). The file is lstat'd, then opened, and the open handle
+   * must be the same regular file (device and inode); upsertDoc then checks
+   * that no path segment is a link. Without this, a link swapped in
    * just before the open and swapped back after the read would put a file
-   * from outside the vault into the index. Undefined when the file was
-   * replaced (or swapped) between the check and the read.
+   * from outside the vault into the index. LINK when the note itself is a
+   * symlink; undefined when the file was replaced (or swapped) between the
+   * check and the read.
    */
-  async function readChecked(abs: string): Promise<string | undefined> {
+  async function readChecked(abs: string): Promise<string | typeof LINK | undefined> {
     const checked = lstatSync(abs, { bigint: true });
+    if (checked.isSymbolicLink()) return LINK;
     if (!checked.isFile()) return undefined;
     const fh = await open(abs, 'r');
     let raw: string;
@@ -191,18 +200,21 @@ export function startWatcher(
     if (!isReadable(ctx.policy, relPath)) return;
     // Neither does anything reached through a symlink, the same as the boot
     // walk (SHA-575): a link can point outside the vault or into a hidden
-    // folder. A note whose folder was swapped for a link is dropped, which
-    // the read path's indexed-note shortcut relies on.
-    if (symlinkTarget(vaultRoot, abs) !== undefined) {
-      if (relPath.endsWith('.md')) remove(relPath);
-      else removeAttachment(ctx.attachments, relPath);
+    // folder. For a note, upsertDoc makes that check right before the commit
+    // and drops a note whose path became a link, which the read path's
+    // indexed-note shortcut relies on.
+    if (relPath.endsWith('.md')) {
+      void upsert(relPath, op);
       return;
     }
-    if (relPath.endsWith('.md')) void upsert(relPath, op);
+    if (symlinkTarget(vaultRoot, abs) !== undefined) {
+      removeAttachment(ctx.attachments, relPath);
+      return;
+    }
     // Attachments only track existence. A `change` can still be the first
     // event for one, when a skipped symlink is replaced by a regular file;
     // addAttachment ignores a path it already has.
-    else addAttachment(ctx.attachments, relPath);
+    addAttachment(ctx.attachments, relPath);
   };
 
   const watcher = chokidar.watch(vaultRoot, {

@@ -6,6 +6,7 @@ import type { ServerContext } from '../context.js';
 import { removeDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
+import { symlinkTarget } from '../symlinks.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const DeleteNoteInput = z.object({
@@ -50,6 +51,28 @@ async function freeTrashPath(vaultRoot: string, noteBase: string): Promise<strin
   }
 }
 
+/**
+ * A recoverable delete must land in the vault's own `.trash/` folder. If
+ * `.trash` is a symlink, the move would follow it: out of the vault, or into
+ * another vault folder where "deleted" notes show up in search again
+ * (SHA-575). A link out of the vault is allowed with SEEKSTONE_FOLLOW_SYMLINKS,
+ * like any other path; a link elsewhere into the vault never is.
+ */
+function assertTrashInVault(ctx: ServerContext): void {
+  const target = symlinkTarget(ctx.vaultRoot, join(ctx.vaultRoot, '.trash'));
+  if (target === undefined) return;
+  if (target.kind === 'outside' && ctx.policy.followSymlinks === true) return;
+  const where =
+    target.kind === 'inside'
+      ? 'to another folder in the vault, where deleted notes would show up again'
+      : target.kind === 'outside'
+        ? 'out of the vault (set SEEKSTONE_FOLLOW_SYMLINKS=1 to allow it)'
+        : 'that is dangling, loops or cannot be read';
+  throw new Error(
+    `Delete not permitted: .trash/ is a symlink ${where}. Make .trash/ a regular folder, or pass permanent: true.`,
+  );
+}
+
 export async function deleteNote(
   ctx: ServerContext,
   rawInput: DeleteNoteInput,
@@ -59,6 +82,7 @@ export async function deleteNote(
   // safety mechanism itself, not a user write.
   assertWritable(ctx.policy, input.path, ctx.vaultRoot);
   const absPath = resolveVaultPath(ctx, input.path);
+  if (!input.permanent) assertTrashInVault(ctx);
 
   // Read before deleting: ENOENT propagates for a missing note (same shape rm
   // gave), the bytes are the CAS identity, and the hash documents exactly

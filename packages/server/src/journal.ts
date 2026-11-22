@@ -21,6 +21,7 @@ import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
+import { symlinkTarget } from './symlinks.js';
 
 /**
  * Write journal — the pre-image store behind `list_writes` / `undo_write`.
@@ -96,6 +97,30 @@ const DEFAULT_MAX_ENTRIES = 1000;
 
 /** Vault-relative directory the journal lives in — excluded from indexing like `.trash/`. */
 export const HISTORY_DIR = '.seekstone/history';
+
+/**
+ * Why write history can't be kept in this vault, or undefined when it can
+ * (SHA-575). The journal stores a full copy of every note it touches, so its
+ * folder must not lead out of the vault through a symlink unless the user
+ * opted in with SEEKSTONE_FOLLOW_SYMLINKS, and must never lead into another
+ * vault folder, where the copies would be indexed and searched. Checked once
+ * at boot, before Journal.open creates anything.
+ */
+export function historyLinkProblem(vaultRoot: string, follow: boolean): string | undefined {
+  for (const rel of [`${HISTORY_DIR}/blobs`, `${HISTORY_DIR}/manifest.jsonl`]) {
+    const target = symlinkTarget(vaultRoot, join(vaultRoot, rel));
+    if (target === undefined) continue;
+    if (target.kind === 'outside' && follow) continue;
+    const where =
+      target.kind === 'inside'
+        ? 'to another folder in the vault, where copies of your notes would be indexed'
+        : target.kind === 'outside'
+          ? 'out of the vault (set SEEKSTONE_FOLLOW_SYMLINKS=1 to allow it)'
+          : 'that is dangling, loops or cannot be read';
+    return `${HISTORY_DIR} goes through a symlink ${where}`;
+  }
+  return undefined;
+}
 
 /**
  * A lock whose owner can't be checked (no body yet, or held from another
