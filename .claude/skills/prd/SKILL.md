@@ -120,6 +120,7 @@ both stopped for reasons these checks catch.
   dependent ticket out of Todo until the first one merges. Tickets that edit
   the same files need the relation too, or their PRs conflict.
 - **Is every acceptance criterion checkable by a test or a command?**
+- **Does it touch a write path or a safety guarantee?** Then the PR needs an independent review before merge (`docs/QUALITY-GATES.md`, "Independent review of safety-critical PRs"). Say so in the ticket so the maintainer plans for it.
 
 Fix the ticket for each check that fails. If a check needs a decision from
 Shaq, ask before labelling.

@@ -6,7 +6,7 @@ The server reads its own env vars; the README's Configuration table lists them.
 
 ## Write tools
 
-Every rule here protects someone's notes. Tests enforce most of them, but read them before you touch a write path.
+Every rule here protects someone's notes. Tests enforce most of them, but read them before you touch a write path. A PR that changes a write path also needs one independent review before merge; see "Independent review of safety-critical PRs" in [`docs/QUALITY-GATES.md`](../../docs/QUALITY-GATES.md).
 
 - **Check the policy first.** Call `assertWritable` (`policy.ts`) before resolving the path.
 - **Journal before the first byte changes.** One file: `journalWrite`. Several files: work out every rewrite first, journal them all under one `ctx.journal.begin()` `seq`, then write. A write that lands before its journal entry can't be undone by `undo_write`.
