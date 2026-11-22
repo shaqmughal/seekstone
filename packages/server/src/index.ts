@@ -12,7 +12,7 @@ import { AuditLog, resolveAuditConfig } from './audit.js';
 import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
-import { buildIndex } from './index/build.js';
+import { buildIndex, logBuildProgress } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
 import { resolveInstructions } from './instructions.js';
 import { Journal, resolveJournalConfig } from './journal.js';
@@ -92,6 +92,7 @@ log.info('building index', { vault: vaultRoot });
 const { index, notes, backlinks, attachments, buildMs } = await buildIndex(
   vaultRoot,
   readScopeWalk(policy),
+  (e) => logBuildProgress(log, e),
 );
 log.info('index ready', { notes: notes.size, buildMs });
 
