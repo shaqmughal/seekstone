@@ -15,7 +15,7 @@
     }
   },
   "release": {
-    "version": "0.25.0",
+    "version": "0.27.0",
     "source": "packages/server/package.json#version"
   },
   "tools": {
@@ -110,7 +110,7 @@
     "provenance": {
       "report": "packages/harness/fixtures/baseline-reports/schema-tax-seekstone.json",
       "capture": "auto",
-      "commit": "76ddc0cf"
+      "commit": "4540625e"
     }
   },
   "guarantees": {

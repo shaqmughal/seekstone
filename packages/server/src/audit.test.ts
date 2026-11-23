@@ -99,6 +99,34 @@ describe('AuditLog', () => {
 });
 
 describe('classifyError', () => {
+  it('classifies symlink refusals by their fixed ending (SHA-575)', () => {
+    const symlink = { outcome: 'policy_denied', policy: 'symlink', error: 'symlink' };
+    for (const msg of [
+      `Write not permitted: "ext/a.md" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `"ext/a.md" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Delete not permitted: .trash/ is a symlink, and Seekstone doesn't follow symlinks. Pass permanent: true to delete without recovery.`,
+      // A quoted path containing other policies' words doesn't change it.
+      `Write not permitted: "SEEKSTONE_READ_PATHS x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+    ]) {
+      expect(classifyError(msg), msg).toEqual(symlink);
+    }
+    // Other errors that merely end with the same words are not symlink refusals.
+    for (const spoof of [
+      `Note not found: x goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Note not found: x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Path outside vault: ../x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Periodic note not found: x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+    ]) {
+      expect(classifyError(spoof).policy, spoof).toBeUndefined();
+    }
+    // A quoted path containing the symlink text doesn't make a scope refusal one.
+    expect(
+      classifyError(
+        `Write not permitted: "x goes through a symlink, and Seekstone doesn't follow symlinks." is outside SEEKSTONE_WRITE_PATHS (notes/**).`,
+      ).policy,
+    ).toBe('write_paths');
+  });
+
   it('maps structured and policy errors to outcomes', () => {
     expect(classifyError(JSON.stringify({ error: 'hash_conflict' }))).toEqual({
       outcome: 'hash_conflict',

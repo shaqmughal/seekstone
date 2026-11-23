@@ -1,4 +1,4 @@
-import { realpathSync } from 'node:fs';
+import { lstatSync, realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
@@ -8,6 +8,7 @@ import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
 import { addAttachment, removeAttachment } from './index/resolve.js';
 import type { Logger } from './log.js';
 import { isReadable } from './policy.js';
+import { findLink } from './symlinks.js';
 
 /**
  * Watch the vault for .md changes and keep the in-memory index in sync.
@@ -52,7 +53,11 @@ export interface WatcherOptions {
    * computed by toRel(). Use in tests only to capture what chokidar actually
    * emits when a failure needs investigation.
    */
-  onRawEvent?: (event: 'add' | 'change' | 'unlink', absPath: string, relPath: string) => void;
+  onRawEvent?: (
+    event: 'add' | 'change' | 'unlink' | 'unlinkDir',
+    absPath: string,
+    relPath: string,
+  ) => void;
 }
 
 /**
@@ -87,6 +92,37 @@ export function resolvePollInterval(
   return parsed;
 }
 
+/**
+ * What the watcher does with an add/change event, by the symlink rule
+ * (SHA-575): `purge` everything indexed under a component that is a link,
+ * `ignore` an event whose `lstat` failed (a transient error is not a link, so
+ * nothing is indexed and nothing is purged), or `process` it as usual.
+ */
+export function linkEventAction(
+  vaultRoot: string,
+  abs: string,
+): { kind: 'process' } | { kind: 'ignore' } | { kind: 'purge'; at: string } {
+  const link = findLink(vaultRoot, abs);
+  if (link === undefined) return { kind: 'process' };
+  return link.error ? { kind: 'ignore' } : { kind: 'purge', at: link.at };
+}
+
+/**
+ * What the watcher does with an `unlinkDir` event: `purge` the folder's
+ * entries when it is confirmed gone (or no longer a real directory, such as a
+ * link put in its place), `keep` them when it is a real directory again (a
+ * git checkout that recreated it), and `skip` the event when the folder can't
+ * be inspected (EACCES, EPERM): an error proves nothing, so nothing is purged
+ * and the watcher keeps running.
+ */
+export function unlinkDirAction(abs: string): 'purge' | 'keep' | 'skip' {
+  try {
+    return lstatSync(abs, { throwIfNoEntry: false })?.isDirectory() === true ? 'keep' : 'purge';
+  } catch {
+    return 'skip';
+  }
+}
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -99,8 +135,10 @@ export function startWatcher(
     log,
   );
 
-  // chokidar's followSymlinks=true (the default) calls fs.realpath() on the
-  // watched path, so events arrive with the real (resolved) path. On Windows,
+  // With followSymlinks=true (chokidar's default, used before SHA-575)
+  // chokidar calls fs.realpath() on the watched path, so events arrived with
+  // the real (resolved) path. Watching the resolved root keeps event paths,
+  // toRel() and the symlink check on the same root either way. On Windows,
   // os.tmpdir() can return 8.3 short paths (e.g. RUNNER~1) while realpath()
   // expands them to the long form. Without pre-resolving here, relative()
   // inside the ignored predicate and toRel() would produce ".." segments;
@@ -118,9 +156,18 @@ export function startWatcher(
 
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
-      const raw = await readFile(join(vaultRoot, relPath), 'utf8');
+      // Only a regular file is read: the link check already ran, and this
+      // keeps a FIFO or device from being opened.
+      const abs = join(vaultRoot, relPath);
+      if (lstatSync(abs, { throwIfNoEntry: false })?.isFile() !== true) return;
+      const raw = await readFile(abs, 'utf8');
       removeNoteBacklinks(ctx, relPath);
-      upsertDoc(ctx, buildDoc(relPath, raw));
+      // upsertDoc checks for links again after the await, with none between
+      // that check and the commit; a path that became a link is dropped.
+      if (!upsertDoc(ctx, buildDoc(relPath, raw))) {
+        ctx.semantic?.noteRemoved(relPath);
+        return;
+      }
       addNoteBacklinks(ctx, relPath, raw);
       // Semantic re-embeds are debounced internally and read the fresh
       // ctx.notes entry — never the disk — so this stays off the hot path.
@@ -139,19 +186,46 @@ export function startWatcher(
     }
   }
 
+  /**
+   * Drop every note and attachment at or under `prefix` (a vault-relative
+   * path). Used when a folder is removed, or when a folder or note is
+   * replaced by a symlink: chokidar doesn't always send an unlink for each
+   * child, so the index is cleared by prefix.
+   */
+  function removeUnder(prefix: string): void {
+    const under = (p: string) => p === prefix || p.startsWith(`${prefix}/`);
+    for (const path of [...ctx.notes.keys()]) if (under(path)) remove(path);
+    const attachments: string[] = [];
+    for (const list of ctx.attachments.byPath.values()) {
+      for (const path of list) if (under(path)) attachments.push(path);
+    }
+    for (const path of attachments) removeAttachment(ctx.attachments, path);
+  }
+
   const onUpsert = (op: 'add' | 'change') => (abs: string) => {
     const relPath = toRel(abs);
     opts?.onRawEvent?.(op, abs, relPath);
+    // Seekstone doesn't follow symlinks (SHA-575). This runs before anything
+    // is read. With followSymlinks off, chokidar reports a folder or note
+    // replaced by a link as a `change` (or an `add` for a file inside the
+    // link's target), so whatever was indexed under the link goes.
+    const action = linkEventAction(vaultRoot, abs);
+    if (action.kind === 'purge') removeUnder(action.at);
+    if (action.kind !== 'process') return;
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
     if (relPath.endsWith('.md')) void upsert(relPath, op);
-    // Attachments only track existence, so `change` is a no-op for them.
-    else if (op === 'add') addAttachment(ctx.attachments, relPath);
+    // Attachments only track existence. A `change` can still be the first
+    // event for one, when a link is replaced by a regular file; addAttachment
+    // ignores a path it already has.
+    else addAttachment(ctx.attachments, relPath);
   };
 
   const watcher = chokidar.watch(vaultRoot, {
     // The startup index build already covers existing files.
     ignoreInitial: true,
+    // Don't descend into symlinks: the boot walk doesn't either (SHA-575).
+    followSymlinks: false,
     usePolling,
     interval: pollInterval,
     binaryInterval: pollInterval * 2,
@@ -177,9 +251,18 @@ export function startWatcher(
     .on('unlink', (abs: string) => {
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
-      if (!isReadable(ctx.policy, relPath)) return;
+      // Not filtered by the read scope: clearing entries is always safe.
       if (relPath.endsWith('.md')) remove(relPath);
       else removeAttachment(ctx.attachments, relPath);
+    })
+    .on('unlinkDir', (abs: string) => {
+      const relPath = toRel(abs);
+      opts?.onRawEvent?.('unlinkDir', abs, relPath);
+      // Not filtered by the read scope: clearing entries is always safe. If
+      // the folder is a real directory again by now (a git checkout that
+      // recreated it), its notes are still there, so keep them.
+      if (relPath === '') return;
+      if (unlinkDirAction(abs) === 'purge') removeUnder(relPath);
     });
 
   const ready = new Promise<void>((resolve) => {

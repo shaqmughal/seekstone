@@ -1,4 +1,4 @@
-import { access, mkdir, readFile } from 'node:fs/promises';
+import { mkdir, readFile, stat } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
@@ -7,8 +7,9 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, refreshCachedNote, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
-import { assertWritable, isReadable } from '../policy.js';
-import { containVaultPath, resolveVaultPath } from '../vault-path.js';
+import { assertWritable } from '../policy.js';
+import { isSymlinkRefusal } from '../symlinks.js';
+import { containVaultPath, existsReadable, resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
 
@@ -41,8 +42,19 @@ const DEFAULTS: Record<Period, Required<PeriodicEntry>> = {
   yearly: { folder: '', format: 'YYYY', template: '' },
 };
 
+/** Largest settings file read; anything bigger is treated as missing. */
+const MAX_SETTINGS_BYTES = 1024 * 1024;
+
+/**
+ * Read one of Obsidian's settings files. These are at fixed paths no tool
+ * input can name, so they may be symlinks (users share `.obsidian` across
+ * vaults; SHA-575 D1). Only a regular file of at most 1 MB is read, so a
+ * settings file linked to a device or a huge file can't hang the server.
+ */
 async function readJson<T>(absPath: string): Promise<T | null> {
   try {
+    const st = await stat(absPath);
+    if (!st.isFile() || st.size > MAX_SETTINGS_BYTES) return null;
     return JSON.parse(await readFile(absPath, 'utf8')) as T;
   } catch {
     return null;
@@ -158,6 +170,11 @@ export interface GetPeriodicNoteResult {
   created: boolean;
   /** sha-256 (hex) of the created content; only set when created is true. */
   contentHash?: string;
+  /**
+   * Set when the configured template was skipped because it goes through a
+   * symlink. Dispatch shows it as a final text line, not a result field.
+   */
+  warning?: string;
 }
 
 export async function getPeriodicNote(
@@ -168,17 +185,10 @@ export async function getPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  // A periodic note outside SEEKSTONE_READ_PATHS reports as missing — the
-  // access() probe below must not become an existence oracle for it.
   const abs = containVaultPath(ctx.vaultRoot, path);
-
-  let existed = false;
-  if (isReadable(ctx.policy, path)) {
-    try {
-      await access(abs);
-      existed = true;
-    } catch {}
-  }
+  // A periodic note outside SEEKSTONE_READ_PATHS, or behind a symlink,
+  // reports as missing, so the probe isn't an existence oracle for it.
+  const existed = await existsReadable(ctx, path);
 
   if (existed) return { path, existed: true, created: false };
 
@@ -190,15 +200,19 @@ export async function getPeriodicNote(
 
   // Read template if configured.
   let body = '';
+  let warning: string | undefined;
   if (cfg.template) {
+    const template = cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`;
     try {
       // Outside the read scope the template reads as missing (SHA-291 D4).
-      const templateAbs = resolveVaultPath(
-        ctx,
-        cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`,
-      );
-      body = await readFile(templateAbs, 'utf8');
-    } catch {}
+      body = await readFile(resolveVaultPath(ctx, template), 'utf8');
+    } catch (err) {
+      // Behind a symlink the note is still created, empty, and the result
+      // says why (SHA-575).
+      if (err instanceof Error && isSymlinkRefusal(err.message)) {
+        warning = `Template "${template}" was skipped because it goes through a symlink.`;
+      }
+    }
   }
 
   await mkdir(dirname(abs), { recursive: true });
@@ -206,7 +220,14 @@ export async function getPeriodicNote(
   await atomicWrite(abs, body);
   upsertDoc(ctx, buildDoc(path, body));
 
-  return { path, existed: false, created: true, contentHash: contentHash(body) };
+  const result: GetPeriodicNoteResult = {
+    path,
+    existed: false,
+    created: true,
+    contentHash: contentHash(body),
+  };
+  if (warning !== undefined) result.warning = warning;
+  return result;
 }
 
 // ── Tool: append_periodic_note ────────────────────────────────────────────────
