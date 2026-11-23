@@ -41,6 +41,29 @@ When the gate fails on a PR you expect to pass:
 
 `pr-autoupdate.yml` also reruns when the review gate finishes, so a PR it skipped for a failing gate goes back in line once CodeRabbit approves.
 
+### Review rounds
+
+A PR gets two CodeRabbit rounds. Fix every valid finding, with a test, in each. After the second round, put what's left on Linear tickets, reply in each finding's thread with its ticket link and resolve the thread, and a maintainer dismisses CodeRabbit's change request with a note that links them. Open threads block the merge even after a dismissal or an override, so none can be left unresolved. Dismissing clears the request but isn't an approval, so the gate still fails. Then comment `@coderabbitai review` so CodeRabbit reviews the latest commit and approves it; if it says it already reviewed that commit, use `@coderabbitai full review`. If it still won't approve, the maintainer adds `review:override`. A review requested only to get that approval doesn't count as a third round: anything new it raises goes on a ticket, unless it's a real Major or Critical bug. A Major or Critical finding that is a real bug is fixed or blocks the merge; it is never only ticketed. For a docs PR, search the repo for every copy of a claim before you push a correction, so the same claim isn't flagged again in another file.
+
+### Independent review of safety-critical PRs
+
+CodeRabbit reviews each push against the diff and the threads it has already opened. On SHA-575 (#494) that took five rounds and still missed a way out of the vault: `delete_note` followed a `.trash` symlink. A reviewer who hadn't seen the rounds read the whole diff, ran it, and found it in one pass.
+
+So a PR that touches any of these gets one independent review before merge:
+
+- a write tool, `dispatch.ts`, or the index helpers in `index/doc.ts` and `index/backlinks.ts`;
+- `journal.ts`, `atomic-write.ts`, `audit.ts`, `policy.ts`, `vault-path.ts`, `symlinks.ts` or `watcher.ts`;
+- any guarantee in `SECURITY.md` or `docs/WRITE-SAFETY.md`.
+
+The reviewer didn't write the PR and hasn't read its review threads. They get the PR, the ticket and the repo's rules, and they:
+
+- read the full diff against `main`, not only the latest commit;
+- check every place a path supplied by a user or an agent becomes a filesystem path, and every write against the ordering in `packages/server/CLAUDE.md`;
+- verify each finding by running it: a reproduction against the branch, or a mutation that removes the protection and shows which tests still pass;
+- post one PR comment with findings marked Blocker, Should fix or Nit, a concrete failure for each, and a verdict: merge, merge after fixes, or don't merge.
+
+Blockers are fixed before merge, and the same reviewer re-checks the fixes. Should-fix items are fixed or ticketed with the maintainer's agreement. Any change pushed after the review that touches the files or guarantees above, Should-fix corrections included, also gets the reviewer's re-check before merge. Don't turn on auto-merge until the independent review, and any re-check, is done: auto-merge is the approval, and the review gate doesn't know about this review. The factory can't run this review itself, so for factory PRs in scope the maintainer arranges it before merging.
+
 ### Merging several PRs: auto-merge and the update queue
 
 Because a branch must be up to date with `main`, each merge puts every other open PR behind. To merge a PR after reviewing it, turn on auto-merge (`gh pr merge <n> --auto --squash`, or "Enable auto-merge" on the PR). That is the approval. `pr-autoupdate.yml` does the rest, one PR at a time:
