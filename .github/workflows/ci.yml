@@ -66,10 +66,12 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/check-safety-baseline.mjs
 
-      # Guard: server.json (the MCP registry manifest) must match the package
-      # versions. A manual `mcp-publisher publish` reads this file as-is, so a
-      # stale version here would regress the registry. Runs once (Linux).
-      - name: server.json version sync
+      # Guard: server.json (the MCP registry manifest) and the MCPB manifest
+      # (packages/server/manifest.json) must match the package version. A
+      # manual `mcp-publisher publish` reads server.json as-is, and directories
+      # read manifest.json from the repo, so a stale version in either is
+      # visible to users (SHA-631). Runs once (Linux).
+      - name: server.json and manifest.json version sync
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/sync-server-json.mjs --check
 
