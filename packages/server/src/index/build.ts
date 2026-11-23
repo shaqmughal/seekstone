@@ -7,6 +7,7 @@ import { type WalkOptions, walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
 import type { Logger } from '../log.js';
+import { dropLinkedEntries } from '../symlinks.js';
 import {
   type AttachmentIndex,
   buildAttachmentIndex,
@@ -68,7 +69,10 @@ export async function buildIndex(
 ): Promise<BuildResult> {
   const t0 = Date.now();
 
-  const entries = await walkVault(vaultRoot, scope);
+  // A scoped walk can read through a linked starting folder; drop those
+  // entries (SHA-575). The unscoped walk already skips every link.
+  const walked = await walkVault(vaultRoot, scope);
+  const entries = scope?.include ? dropLinkedEntries(vaultRoot, walked) : walked;
   // Attachments in dot-folders stay out, as in Obsidian: the watcher ignores
   // dot-paths, so it could never keep them current.
   const attachmentPaths = entries

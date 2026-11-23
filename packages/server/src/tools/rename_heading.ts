@@ -9,7 +9,7 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { resolveLink } from '../index/resolve.js';
-import { assertWritable, isWritable } from '../policy.js';
+import { assertWritable, canWrite } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { mapUnfencedLines } from './rewrite_links.js';
 
@@ -170,9 +170,10 @@ export async function renameHeading(
       (target) => target !== '' && resolveLink(target, ctx.notes) === input.path,
     );
     if (count === 0) continue;
-    if (!isWritable(ctx.policy, path)) {
-      // Out of write scope: leave the note untouched but report it, so the
-      // caller knows which references were NOT updated.
+    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
+      // Not writable (out of write scope, or through a symlink): leave the
+      // note untouched but report it, so the caller knows which references
+      // were NOT updated.
       skipped.push(path);
       continue;
     }
@@ -196,8 +197,7 @@ export async function renameHeading(
   // Refresh the renamed note's index entry. removeNoteBacklinks reads the old
   // raw out of ctx.notes, so it must run before upsertDoc replaces the entry.
   removeNoteBacklinks(ctx, input.path);
-  upsertDoc(ctx, buildDoc(input.path, newRaw));
-  addNoteBacklinks(ctx, input.path, newRaw);
+  if (upsertDoc(ctx, buildDoc(input.path, newRaw))) addNoteBacklinks(ctx, input.path, newRaw);
 
   let notesRewritten = selfRewrite.count > 0 ? 1 : 0;
   let linksRewritten = selfRewrite.count;
