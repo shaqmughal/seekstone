@@ -8,7 +8,7 @@ import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
 import { addAttachment, removeAttachment } from './index/resolve.js';
 import type { Logger } from './log.js';
 import { isReadable } from './policy.js';
-import { crossesLink } from './symlinks.js';
+import { findLink } from './symlinks.js';
 
 /**
  * Watch the vault for .md changes and keep the in-memory index in sync.
@@ -90,6 +90,21 @@ export function resolvePollInterval(
     return DEFAULT_POLL_INTERVAL_MS;
   }
   return parsed;
+}
+
+/**
+ * What the watcher does with an add/change event, by the symlink rule
+ * (SHA-575): `purge` everything indexed under a component that is a link,
+ * `ignore` an event whose `lstat` failed (a transient error is not a link, so
+ * nothing is indexed and nothing is purged), or `process` it as usual.
+ */
+export function linkEventAction(
+  vaultRoot: string,
+  abs: string,
+): { kind: 'process' } | { kind: 'ignore' } | { kind: 'purge'; at: string } {
+  const link = findLink(vaultRoot, abs);
+  if (link === undefined) return { kind: 'process' };
+  return link.error ? { kind: 'ignore' } : { kind: 'purge', at: link.at };
 }
 
 export function startWatcher(
@@ -178,11 +193,9 @@ export function startWatcher(
     // is read. With followSymlinks off, chokidar reports a folder or note
     // replaced by a link as a `change` (or an `add` for a file inside the
     // link's target), so whatever was indexed under the link goes.
-    const link = crossesLink(vaultRoot, abs);
-    if (link !== undefined) {
-      removeUnder(link);
-      return;
-    }
+    const action = linkEventAction(vaultRoot, abs);
+    if (action.kind === 'purge') removeUnder(action.at);
+    if (action.kind !== 'process') return;
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
     if (relPath.endsWith('.md')) void upsert(relPath, op);
@@ -222,15 +235,19 @@ export function startWatcher(
     .on('unlink', (abs: string) => {
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
-      if (!isReadable(ctx.policy, relPath)) return;
+      // Not filtered by the read scope: clearing entries is always safe.
       if (relPath.endsWith('.md')) remove(relPath);
       else removeAttachment(ctx.attachments, relPath);
     })
     .on('unlinkDir', (abs: string) => {
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlinkDir', abs, relPath);
-      // Not filtered by the read scope: clearing entries is always safe.
-      if (relPath !== '') removeUnder(relPath);
+      // Not filtered by the read scope: clearing entries is always safe. If
+      // the folder is a real directory again by now (a git checkout that
+      // recreated it), its notes are still there, so keep them.
+      if (relPath === '') return;
+      if (lstatSync(abs, { throwIfNoEntry: false })?.isDirectory() === true) return;
+      removeUnder(relPath);
     });
 
   const ready = new Promise<void>((resolve) => {

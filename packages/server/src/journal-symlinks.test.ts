@@ -94,4 +94,21 @@ describe('write history linked after boot', () => {
     expect(w.content[0]?.text).toBe(MSG);
     expect(existsSync(join(vault, '.seekstone', 'history', 'blobs'))).toBe(true);
   });
+
+  it('refuses list_writes when manifest.jsonl becomes a link, and shows no rows from it', async () => {
+    const ctx = await makeCtx();
+    await dispatch(ctx, 'append_note', { path: 'notes/a.md', content: 'one' }, log);
+    const manifest = join(vault, '.seekstone', 'history', 'manifest.jsonl');
+    // An outside JSONL with a row that names a file the vault never had.
+    writeFileSync(
+      join(outside, 'm.jsonl'),
+      `${JSON.stringify({ seq: 99, ts: '2026-01-01T00:00:00Z', tool: 'create_note', files: [{ path: 'outside-only.md', preHash: null, postHash: 'x' }] })}\n`,
+    );
+    rmSync(manifest);
+    symlinkSync(join(outside, 'm.jsonl'), manifest, 'file');
+    const r = await dispatch(ctx, 'list_writes', {}, log);
+    expect(r.isError).toBe(true);
+    expect(r.content[0]?.text).toBe(MSG);
+    expect(r.content[0]?.text).not.toContain('outside-only.md');
+  });
 });

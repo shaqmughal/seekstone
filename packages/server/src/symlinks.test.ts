@@ -2,7 +2,15 @@ import { chmodSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync }
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
-import { crossesLink, dropLinkedEntries, hasDotSegment, historyCrossesLink } from './symlinks.js';
+import {
+  crossesLink,
+  dropLinkedEntries,
+  findLink,
+  hasDotSegment,
+  historyCrossesLink,
+  isSymlinkRefusal,
+} from './symlinks.js';
+import { linkEventAction } from './watcher.js';
 
 let base: string;
 let vault: string;
@@ -60,20 +68,42 @@ describe('crossesLink (SHA-575)', () => {
     expect(crossesLink(alias, join(alias, 'notes', 'a.md'))).toBeUndefined();
     expect(crossesLink(alias, join(alias, 'ext', 'x'))).toBe('ext');
   });
+});
 
-  it('fails closed when a folder cannot be read', () => {
-    if (process.platform === 'win32' || process.getuid?.() === 0) {
-      // Windows has no POSIX mode bits and root ignores them; the branch is the
-      // same catch as ENOENT, so assert the open case instead.
-      expect(crossesLink(vault, join(vault, 'notes', 'a.md'))).toBeUndefined();
-      return;
-    }
-    chmodSync(join(vault, 'notes'), 0o000);
-    try {
-      expect(crossesLink(vault, join(vault, 'notes', 'sub', 'x.md'))).toBe('notes/sub');
-    } finally {
-      chmodSync(join(vault, 'notes'), 0o755);
-    }
+describe('findLink and the watcher decision', () => {
+  it('reports a real link as a link, and the watcher purges under it', () => {
+    expect(findLink(vault, join(vault, 'ext', 'x.md'))).toEqual({ at: 'ext', error: false });
+    expect(linkEventAction(vault, join(vault, 'ext', 'x.md'))).toEqual({
+      kind: 'purge',
+      at: 'ext',
+    });
+    expect(linkEventAction(vault, join(vault, 'notes', 'a.md'))).toEqual({ kind: 'process' });
+  });
+
+  it.runIf(process.platform !== 'win32' && process.getuid?.() !== 0)(
+    'reports a failed lstat as an error: reads and writes fail closed, the watcher ignores it',
+    () => {
+      chmodSync(join(vault, 'notes'), 0o000);
+      try {
+        const abs = join(vault, 'notes', 'sub', 'x.md');
+        expect(findLink(vault, abs)).toEqual({ at: 'notes/sub', error: true });
+        expect(crossesLink(vault, abs)).toBe('notes/sub');
+        expect(linkEventAction(vault, abs)).toEqual({ kind: 'ignore' });
+      } finally {
+        chmodSync(join(vault, 'notes'), 0o755);
+      }
+    },
+  );
+});
+
+describe('isSymlinkRefusal', () => {
+  it('matches only the exact refusal shapes', () => {
+    const e = "goes through a symlink, and Seekstone doesn't follow symlinks.";
+    expect(isSymlinkRefusal(`"a/b.md" ${e}`)).toBe(true);
+    expect(isSymlinkRefusal(`Write not permitted: "a/b.md" ${e}`)).toBe(true);
+    expect(isSymlinkRefusal(`Note not found: x ${e}`)).toBe(false);
+    expect(isSymlinkRefusal(`Note not found: x" ${e}`)).toBe(false);
+    expect(isSymlinkRefusal(`Path outside vault: x" ${e}`)).toBe(false);
   });
 });
 

@@ -562,6 +562,8 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     }
     case 'list_writes': {
       const input = ListWritesInput.parse(args);
+      // Nothing is read from history through a symlink made after boot (SHA-575).
+      ctx.journal?.assertNotLinked();
       // Show writes other server processes made on this vault too.
       await ctx.journal?.refresh();
       const result = listWrites(ctx, input);

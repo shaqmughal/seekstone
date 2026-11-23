@@ -33,7 +33,7 @@ import { parseWritePolicy } from '../policy.js';
  * | link loop                                  | here  | here                          | here             | here           | N/A: nothing to read | N/A |
  * | link named x.md pointing at a folder       | here  | here                          | here             | here           | watcher.test | N/A |
  * | non-.md attachment link                    | N/A: read tools read notes | N/A: write tools write notes | N/A | here (attachments) | watcher.test | N/A |
- * | link to a FIFO                             | N/A: FIFOs can't be made on Windows; the read is guarded by lstat isFile and the link check | N/A | N/A | N/A | N/A | N/A |
+ * | link to a FIFO, and a real FIFO named x.md | N/A: the read tools reach it only through the link check | N/A: write tools refuse the link | N/A | watcher-symlinks.test (boot index) | watcher-symlinks.test (not on Windows, which has no FIFOs) | N/A |
  * | new file under a linked folder, missing subfolders | N/A | here                  | N/A              | N/A            | N/A     | N/A |
  * | rename destination that is a link          | N/A   | here (move_note to)           | here             | N/A            | N/A     | N/A |
  * | scoped read path whose base is a link      | N/A   | N/A                           | N/A              | index-symlinks.test | N/A | N/A |

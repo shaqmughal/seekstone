@@ -8,7 +8,7 @@ import type { ServerContext } from '../context.js';
 import { buildDoc, refreshCachedNote, upsertDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
-import { SYMLINK_ENDING } from '../symlinks.js';
+import { isSymlinkRefusal } from '../symlinks.js';
 import { containVaultPath, existsReadable, resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
@@ -209,7 +209,7 @@ export async function getPeriodicNote(
     } catch (err) {
       // Behind a symlink the note is still created, empty, and the result
       // says why (SHA-575).
-      if (err instanceof Error && err.message.endsWith(SYMLINK_ENDING)) {
+      if (err instanceof Error && isSymlinkRefusal(err.message)) {
         warning = `Template "${template}" was skipped because it goes through a symlink.`;
       }
     }

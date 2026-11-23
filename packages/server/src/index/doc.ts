@@ -42,8 +42,8 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
  */
 export function upsertDoc(
   ctx: {
-    /** When set, a path that crosses a symlink is kept out of the index. */
-    vaultRoot?: string;
+    /** A path that crosses a symlink below this root is kept out of the index. */
+    vaultRoot: string;
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
     generation: number;
@@ -52,7 +52,7 @@ export function upsertDoc(
   },
   doc: IndexedNote,
 ): boolean {
-  if (ctx.vaultRoot !== undefined && crossesLink(ctx.vaultRoot, join(ctx.vaultRoot, doc.id))) {
+  if (crossesLink(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined) {
     if (ctx.notes.has(doc.id)) {
       if (ctx.backlinks !== undefined) removeDoc(ctx as ServerContext, doc.id);
       else {

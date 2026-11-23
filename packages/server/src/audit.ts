@@ -8,7 +8,7 @@ import {
   writeSync,
 } from 'node:fs';
 import { parseSize } from './log.js';
-import { SYMLINK_ENDING, TRASH_LINK_MESSAGE } from './symlinks.js';
+import { isSymlinkRefusal } from './symlinks.js';
 
 /**
  * Structured audit log — an append-only JSONL trail of every write-tool
@@ -166,9 +166,9 @@ export function classifyError(message: string): {
   if (message.startsWith('Server is read-only')) {
     return { outcome: 'policy_denied', policy: 'read_only', error: 'read_only' };
   }
-  // Symlink refusals (SHA-575) end in fixed text; match the ending, before
-  // the scope checks, since the quoted path can contain any text.
-  if (message.endsWith(SYMLINK_ENDING) || message === TRASH_LINK_MESSAGE) {
+  // Symlink refusals (SHA-575) are matched by their exact shape, before the
+  // scope checks, since the quoted path can contain any text.
+  if (isSymlinkRefusal(message)) {
     return { outcome: 'policy_denied', policy: 'symlink', error: 'symlink' };
   }
   // Match the reserved-path message by its fixed ending, before the scope

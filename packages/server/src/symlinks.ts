@@ -25,6 +25,20 @@ import { join, sep } from 'node:path';
  *   itself reached through a link (an iCloud alias, `/tmp` on macOS) works.
  */
 export function crossesLink(vaultRoot: string, abs: string): string | undefined {
+  return findLink(vaultRoot, abs)?.at;
+}
+
+/**
+ * The walk behind `crossesLink`, telling a real link (`error: false`) from
+ * an `lstat` that failed (`error: true`). Reads and writes treat both as a
+ * link (fail closed). The watcher purges only on a real link and ignores an
+ * event whose `lstat` failed, so a transient error (a Windows delete-pending
+ * EPERM, a folder without search permission) can't wipe an indexed subtree.
+ */
+export function findLink(
+  vaultRoot: string,
+  abs: string,
+): { at: string; error: boolean } | undefined {
   const base = vaultRoot.endsWith(sep) ? vaultRoot : vaultRoot + sep;
   if (!abs.startsWith(base)) return undefined;
   const segments = abs
@@ -35,25 +49,33 @@ export function crossesLink(vaultRoot: string, abs: string): string | undefined 
   for (let i = 0; i < segments.length; i++) {
     p = p + sep + segments[i];
     const state = linkState(p);
-    if (state === 'link') return segments.slice(0, i + 1).join('/');
     if (state === 'missing') return undefined;
+    if (state !== 'other') {
+      return { at: segments.slice(0, i + 1).join('/'), error: state === 'error' };
+    }
   }
   return undefined;
 }
 
 /**
- * One `lstat`. `missing` for ENOENT and ENOTDIR (nothing below exists);
- * `link` for a symlink and, failing closed, for any other error.
+ * One `lstat`. `missing` for ENOENT and ENOTDIR (nothing below exists),
+ * `link` for a symlink, `error` for any other failure.
  */
-function linkState(p: string): 'link' | 'missing' | 'other' {
+function linkState(p: string): 'link' | 'missing' | 'error' | 'other' {
   try {
     const st = lstatSync(p, { throwIfNoEntry: false });
     if (st === undefined) return 'missing';
     return st.isSymbolicLink() ? 'link' : 'other';
   } catch (err) {
     const code = (err as NodeJS.ErrnoException).code;
-    return code === 'ENOENT' || code === 'ENOTDIR' ? 'missing' : 'link';
+    return code === 'ENOENT' || code === 'ENOTDIR' ? 'missing' : 'error';
   }
+}
+
+/** linkState for the fail-closed callers: an error counts as a link. */
+function isLinkOrError(p: string): boolean {
+  const state = linkState(p);
+  return state === 'link' || state === 'error';
 }
 
 /** The fixed ending of every "goes through a symlink" refusal (audit matches on it). */
@@ -67,6 +89,19 @@ export function symlinkReadError(inputPath: string): Error {
 /** Write refusal for a path that crosses a link. */
 export function symlinkWriteError(relPath: string): Error {
   return new Error(`Write not permitted: "${relPath}" ${SYMLINK_ENDING}`);
+}
+
+/**
+ * True when `message` is exactly one of the symlink refusals above. The read
+ * and write shapes are matched in full (opening text, closing quote, fixed
+ * ending), so another error that merely ends with the same words, such as
+ * `Note not found: <path>` with a path chosen to end that way, doesn't match.
+ */
+export function isSymlinkRefusal(message: string): boolean {
+  if (message === TRASH_LINK_MESSAGE || message === HISTORY_LINK_WRITE_MESSAGE) return true;
+  const tail = `" ${SYMLINK_ENDING}`;
+  if (!message.endsWith(tail)) return false;
+  return message.startsWith('"') || message.startsWith('Write not permitted: "');
 }
 
 /** `delete_note` refusal when `.trash` is a link (fixed text, no path). */
@@ -91,13 +126,10 @@ export function historyCrossesLink(vaultRoot: string): boolean {
   const history = join(seekstone, 'history');
   for (const p of [seekstone, history]) {
     const state = linkState(p);
-    if (state === 'link') return true;
+    if (state === 'link' || state === 'error') return true;
     if (state === 'missing') return false;
   }
-  return (
-    linkState(join(history, 'blobs')) === 'link' ||
-    linkState(join(history, 'manifest.jsonl')) === 'link'
-  );
+  return isLinkOrError(join(history, 'blobs')) || isLinkOrError(join(history, 'manifest.jsonl'));
 }
 
 /** True when any segment of a forward-slash vault-relative path starts with a dot. */
@@ -124,8 +156,7 @@ export function dropLinkedEntries<T extends { relPath: string }>(
     if (v !== undefined) return v;
     const slash = folder.lastIndexOf('/');
     v =
-      linked(slash === -1 ? '' : folder.slice(0, slash)) ||
-      linkState(join(vaultRoot, folder)) === 'link';
+      linked(slash === -1 ? '' : folder.slice(0, slash)) || isLinkOrError(join(vaultRoot, folder));
     seen.set(folder, v);
     return v;
   };

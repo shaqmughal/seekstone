@@ -111,6 +111,15 @@ describe('classifyError', () => {
     ]) {
       expect(classifyError(msg), msg).toEqual(symlink);
     }
+    // Other errors that merely end with the same words are not symlink refusals.
+    for (const spoof of [
+      `Note not found: x goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Note not found: x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Path outside vault: ../x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+      `Periodic note not found: x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
+    ]) {
+      expect(classifyError(spoof).policy, spoof).toBeUndefined();
+    }
     // A quoted path containing the symlink text doesn't make a scope refusal one.
     expect(
       classifyError(

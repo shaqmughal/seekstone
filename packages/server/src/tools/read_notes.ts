@@ -1,6 +1,6 @@
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
-import { SYMLINK_ENDING } from '../symlinks.js';
+import { isSymlinkRefusal } from '../symlinks.js';
 import { ReadNoteInput, type ReadNoteResult, readNote } from './read_note.js';
 
 export const DEFAULT_BUDGET_BYTES = 16384;
@@ -76,7 +76,7 @@ function toItemError(path: string, err: unknown): ReadNotesError {
   if (message.startsWith('{')) return { path, ...(JSON.parse(message) as { error: string }) };
   if (message.startsWith('Path outside vault')) return { path, error: 'outside_vault' };
   if (code === 'ENOENT') return { path, error: 'not_found' };
-  if (message.endsWith(SYMLINK_ENDING)) return { path, error: 'symlink' };
+  if (isSymlinkRefusal(message)) return { path, error: 'symlink' };
   return { path, error: 'read_failed', message };
 }
 

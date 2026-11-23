@@ -1,3 +1,4 @@
+import { execFileSync } from 'node:child_process';
 import { mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
 import { mkdtemp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
@@ -149,6 +150,82 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1').each([
       await stop();
     }
   }, 60_000);
+  it('indexes nothing when a folder link is retargeted to another outside folder', async () => {
+    mkdirSync(join(outside, 'a'));
+    mkdirSync(join(outside, 'b'));
+    writeFileSync(join(outside, 'b', 'later.md'), OUT);
+    linkDir(join(outside, 'a'), join(vault, 'ext'));
+    const ctx = await makeCtx();
+    const { stop, ready } = start(ctx);
+    try {
+      await ready;
+      // ln -sfn: a new link renamed over the old one.
+      linkDir(join(outside, 'b'), join(vault, 'ext-tmp'));
+      renameSync(join(vault, 'ext-tmp'), join(vault, 'ext'));
+      writeFileSync(join(outside, 'b', 'later2.md'), OUT);
+      await settle(ctx);
+      await settle(ctx);
+      for (const key of ctx.notes.keys()) expect(key.startsWith('ext'), key).toBe(false);
+      expect(noOutside(ctx)).toBe(true);
+    } finally {
+      await stop();
+    }
+  }, 60_000);
+
+  it('removing a link brings in no outside content', async () => {
+    linkDir(outside, join(vault, 'ext'));
+    const ctx = await makeCtx();
+    const { stop, ready } = start(ctx);
+    try {
+      await ready;
+      rmSync(join(vault, 'ext'));
+      mkdirSync(join(vault, 'ext'));
+      writeFileSync(join(vault, 'ext', 'real.md'), '# Real\n');
+      await settle(ctx);
+      expect(noOutside(ctx)).toBe(true);
+    } finally {
+      await stop();
+    }
+  }, 60_000);
+
+  it('keeps notes when a deleted folder is recreated before the event lands', async () => {
+    const ctx = await makeCtx();
+    const { stop, ready } = start(ctx);
+    try {
+      await ready;
+      rmSync(join(vault, 'proj'), { recursive: true });
+      mkdirSync(join(vault, 'proj', 'sub'), { recursive: true });
+      writeFileSync(join(vault, 'proj', 'n.md'), '# N\n');
+      writeFileSync(join(vault, 'proj', 'sub', 's.md'), '# S\n');
+      await settle(ctx);
+      await waitFor(() => ctx.notes.has('proj/n.md') && ctx.notes.has('proj/sub/s.md'), vault);
+    } finally {
+      await stop();
+    }
+  }, 60_000);
+
+  // FIFOs can't be made on Windows.
+  it.runIf(process.platform !== 'win32')(
+    'does not hang on a link to a FIFO or a real FIFO named x.md',
+    async () => {
+      execFileSync('mkfifo', [join(outside, 'pipe')]);
+      execFileSync('mkfifo', [join(vault, 'boot-fifo.md')]); // present at boot too
+      const ctx = await makeCtx();
+      expect(ctx.notes.has('boot-fifo.md')).toBe(false);
+      const { stop, ready } = start(ctx);
+      try {
+        await ready;
+        symlinkSync(join(outside, 'pipe'), join(vault, 'pipe-link.md'), 'file');
+        execFileSync('mkfifo', [join(vault, 'fifo.md')]);
+        await settle(ctx);
+        expect(ctx.notes.has('pipe-link.md')).toBe(false);
+        expect(ctx.notes.has('fifo.md')).toBe(false);
+      } finally {
+        await stop();
+      }
+    },
+    60_000,
+  );
 });
 
 // Native only: under SEEKSTONE_WATCH_POLL, chokidar doesn't start watching a
