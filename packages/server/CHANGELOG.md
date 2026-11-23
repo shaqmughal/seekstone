@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.27.1
+
+### Patch Changes
+
+- 74455e8: The server logs index build progress to stderr at startup, so a long first build on a large vault no longer looks like a hang. Every vault gets a line after the walk and one before parsing starts; vaults of 1,000 notes or more also get a line every 1,000 notes read.
+
 ## 0.27.0
 
 ### Minor Changes
