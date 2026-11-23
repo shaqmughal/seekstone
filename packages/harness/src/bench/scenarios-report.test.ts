@@ -121,6 +121,53 @@ describe('renderScenarioComparisonMarkdown', () => {
     );
   });
 
+  it('daggers a zero-hit search-batch task, but not one that made its read_notes call', () => {
+    const search = { op: 'search', target: 'phlogiston', payloadBytes: 56, payloadTokens: 17 };
+    const zeroHit = taskResult({
+      strategy: 'search-batch',
+      steps: [search] as TaskResult['steps'],
+      calls: 1,
+      totalPayloadTokens: 17,
+    });
+    const answered = taskResult({
+      id: 'answered',
+      strategy: 'search-batch',
+      steps: [
+        search,
+        { op: 'read_notes', target: 'a.md, b.md', payloadBytes: 900, payloadTokens: 200 },
+      ] as TaskResult['steps'],
+      calls: 2,
+      totalPayloadTokens: 217,
+    });
+    const md = renderScenarioMarkdown(summary('seekstone-batch', [zeroHit, answered]));
+    expect(md).toContain('| phlogiston-theory† | search-batch |');
+    expect(md).toContain('| answered | search-batch | 2 |');
+    expect(md).toContain('| 2 | `read_notes` | `a.md, b.md` |');
+  });
+
+  it('orders seekstone-batch after the multicall column and marks it as an ablation', () => {
+    const md = renderScenarioComparisonMarkdown([
+      summary('seekstone-batch', [taskResult()]),
+      summary('fs', [taskResult()]),
+      summary('seekstone-multicall', [taskResult()]),
+      summary('seekstone', [taskResult()]),
+    ]);
+    const headerLine = md.split('\n').find((l) => l.startsWith('| Task |')) as string;
+    expect(headerLine).toBe('| Task | seekstone | seekstone-multicall | seekstone-batch | fs |');
+    expect(md).toContain('top hits read with one read_notes call');
+  });
+
+  it('shows a task missing from older competitor reports as not measured in every table', () => {
+    const md = renderScenarioComparisonMarkdown([
+      summary('seekstone', [taskResult(), taskResult({ id: 'top5-batch-read' })]),
+      summary('obsidian-tc', [taskResult({ totalPayloadTokens: 1000 })]),
+    ]);
+    const rows = md.split('\n').filter((l) => l.startsWith('| top5-batch-read |'));
+    // tokens, bytes, calls, multiplier: the old report's column reads — in each.
+    expect(rows).toHaveLength(4);
+    for (const row of rows) expect(row.endsWith('| — |')).toBe(true);
+  });
+
   it('marks the multicall column as an ablation in the adapter list', () => {
     const md = renderScenarioComparisonMarkdown([
       summary('seekstone', [taskResult()]),

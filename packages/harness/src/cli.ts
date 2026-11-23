@@ -126,14 +126,16 @@ cli
   .option('--backend <name>', 'Adapter name (see bench).', { default: 'seekstone' })
   .option('--vault <path>', 'Vault root (or set SEEKSTONE_VAULT).')
   .option('--tasks <file>', 'Task set JSON.', { default: DEFAULT_TASKS })
-  .option('--strategy <mode>', '"auto" (context_pack when supported) or "multicall" (ablation).', {
-    default: 'auto',
-  })
+  .option(
+    '--strategy <mode>',
+    '"auto" (context_pack when supported), "multicall" (ablation) or "batch" (one read_notes per search).',
+    { default: 'auto' },
+  )
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
   .option('--runs <n>', 'Override runs-per-task.')
   .action(async (opts) => {
-    if (opts.strategy !== 'auto' && opts.strategy !== 'multicall') {
-      console.error(`Unknown --strategy: ${opts.strategy}. Known: auto, multicall.`);
+    if (!['auto', 'multicall', 'batch'].includes(opts.strategy)) {
+      console.error(`Unknown --strategy: ${opts.strategy}. Known: auto, multicall, batch.`);
       process.exit(2);
     }
     const outDir = resolve(opts.out);
@@ -147,6 +149,7 @@ cli
         backend,
         taskSet,
         forceMulticall: opts.strategy === 'multicall',
+        forceBatch: opts.strategy === 'batch',
       });
       await writeFile(
         join(outDir, `scenarios-${summary.label}.json`),

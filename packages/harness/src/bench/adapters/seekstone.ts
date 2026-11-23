@@ -15,6 +15,10 @@ import { listTasks as listTasksTool } from '../../../../server/src/tools/list_ta
 import { moveNote as moveNoteTool } from '../../../../server/src/tools/move_note.js';
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
+import {
+  DEFAULT_BUDGET_BYTES as READ_NOTES_DEFAULT_BUDGET,
+  readNotes as readNotesTool,
+} from '../../../../server/src/tools/read_notes.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
 import { undoWrite as undoWriteTool } from '../../../../server/src/tools/undo_write.js';
 import { updateTask as updateTaskTool } from '../../../../server/src/tools/update_task.js';
@@ -88,10 +92,28 @@ export class SeekstoneAdapter implements Backend {
 
   async read(path: string): Promise<BackendResponse<string>> {
     const result = await readNote(this.ctx, { path });
+    // Measured as dispatch sends read_note (indented JSON), so the read ×K
+    // arm and the read_notes arm count the same thing (SHA-339).
+    const payload = JSON.stringify(result, null, 2);
     return {
       result: result.content,
-      payloadBytes: result.bytesReturned,
-      payloadText: result.content,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
+    };
+  }
+
+  async readMany(paths: string[], budgetBytes?: number): Promise<BackendResponse<unknown>> {
+    // Direct fn call bypasses the zod schema, so apply its default here.
+    const result = await readNotesTool(this.ctx, {
+      items: paths.map((path) => ({ path })),
+      budgetBytes: budgetBytes ?? READ_NOTES_DEFAULT_BUDGET,
+    });
+    // Minified like the dispatch case.
+    const payload = JSON.stringify(result);
+    return {
+      result,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
     };
   }
 
