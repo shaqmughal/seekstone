@@ -8,6 +8,7 @@ import {
   writeSync,
 } from 'node:fs';
 import { parseSize } from './log.js';
+import { SYMLINK_ENDING, TRASH_LINK_MESSAGE } from './symlinks.js';
 
 /**
  * Structured audit log — an append-only JSONL trail of every write-tool
@@ -58,7 +59,7 @@ export interface AuditRecord {
   seq?: number;
   files?: AuditFile[];
   /** Which policy refused a `policy_denied` call. */
-  policy?: 'read_only' | 'read_paths' | 'write_paths' | 'reserved_path';
+  policy?: 'read_only' | 'read_paths' | 'write_paths' | 'reserved_path' | 'symlink';
   /**
    * Error CODE for non-ok outcomes (`hash_conflict`, `heading_not_found`,
    * `not_found`, `exists`, `invalid_input`, …) — never the message: tool
@@ -164,6 +165,11 @@ export function classifyError(message: string): {
   }
   if (message.startsWith('Server is read-only')) {
     return { outcome: 'policy_denied', policy: 'read_only', error: 'read_only' };
+  }
+  // Symlink refusals (SHA-575) end in fixed text; match the ending, before
+  // the scope checks, since the quoted path can contain any text.
+  if (message.endsWith(SYMLINK_ENDING) || message === TRASH_LINK_MESSAGE) {
+    return { outcome: 'policy_denied', policy: 'symlink', error: 'symlink' };
   }
   // Match the reserved-path message by its fixed ending, before the scope
   // checks: the quoted path can contain any text, `SEEKSTONE_READ_PATHS` included.

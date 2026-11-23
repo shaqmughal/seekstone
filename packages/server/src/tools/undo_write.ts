@@ -63,8 +63,14 @@ export async function undoWrite(
   const input = UndoWriteInput.parse(rawInput);
   const journal = ctx.journal;
   if (!journal) {
-    throw new Error('Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.');
+    throw new Error(
+      ctx.historyOffReason !== undefined
+        ? `${ctx.historyOffReason} Nothing to undo.`
+        : 'Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.',
+    );
   }
+  // Nothing is read from history through a symlink made after boot (SHA-575).
+  journal.assertNotLinked();
   // Another server process on this vault may have written since we last looked.
   await journal.refresh();
 
@@ -156,8 +162,7 @@ export async function undoWrite(
       // and watcher leave it out.
       if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
         removeNoteBacklinks(ctx, f.path);
-        upsertDoc(ctx, buildDoc(f.path, pre));
-        addNoteBacklinks(ctx, f.path, pre);
+        if (upsertDoc(ctx, buildDoc(f.path, pre))) addNoteBacklinks(ctx, f.path, pre);
       }
       restored.push({ path: f.path, restoredHash: contentHash(pre) });
     }

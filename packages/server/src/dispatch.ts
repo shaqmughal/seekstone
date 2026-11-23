@@ -190,7 +190,13 @@ export async function dispatch(
   const seqBefore = ctx.journal?.lastSeq ?? 0;
   const ts = new Date().toISOString();
   try {
-    const { audit: detail, ...result } = await run(ctx, name, args);
+    const { audit: detail, ...ran } = await run(ctx, name, args);
+    // History off because of a symlink (SHA-575): every write says so.
+    const result =
+      ctx.historyOffReason !== undefined &&
+      (WRITE_TOOLS.has(name) || (name === 'get_periodic_note' && detail !== undefined))
+        ? withWarning(ran, ctx.historyOffReason)
+        : ran;
     const durationMs = Math.round((performance.now() - start) * 100) / 100;
     log.info('tool ok', { tool: name, durationMs, resultBytes: resultBytes(result), ...meta });
     if (!isWrite || detail === undefined) return result;
@@ -227,6 +233,13 @@ export async function dispatch(
       ...pathMeta(meta),
     });
   }
+}
+
+/** Append a warning as the final line of a result's text. */
+function withWarning(result: ToolResult, line: string): ToolResult {
+  const [first, ...rest] = result.content;
+  if (first === undefined) return { ...result, content: [{ type: 'text', text: line }] };
+  return { ...result, content: [{ type: 'text', text: `${first.text}\n${line}` }, ...rest] };
 }
 
 /** Path-shaped metadata (path / from / to / seq) for records of calls that never reached a result. */
@@ -388,7 +401,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
         result.linksRewritten === 1 ? '' : 's'
       } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}.`;
       if (result.skipped?.length) {
-        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+        text += ` Skipped (not writable: outside SEEKSTONE_WRITE_PATHS or through a symlink): ${result.skipped.join(', ')}.`;
       }
       return {
         content: [{ type: 'text', text }],
@@ -409,7 +422,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
         result.linksRewritten === 1 ? '' : 's'
       } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}. contentHash: ${result.contentHash}`;
       if (result.skipped?.length) {
-        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+        text += ` Skipped (not writable: outside SEEKSTONE_WRITE_PATHS or through a symlink): ${result.skipped.join(', ')}.`;
       }
       return {
         content: [{ type: 'text', text }],
@@ -505,10 +518,11 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     }
     case 'get_periodic_note': {
       const input = GetPeriodicNoteInput.parse(args);
-      const result = await getPeriodicNote(ctx, input);
-      const out: ToolResult = {
+      const { warning, ...result } = await getPeriodicNote(ctx, input);
+      let out: ToolResult = {
         content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
       };
+      if (warning !== undefined) out = withWarning(out, warning);
       // Only the create side-effect is a write worth auditing.
       if (result.created) {
         out.audit = { path: result.path, contentHash: result.contentHash, created: true };
@@ -551,7 +565,10 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       // Show writes other server processes made on this vault too.
       await ctx.journal?.refresh();
       const result = listWrites(ctx, input);
-      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+      const out: ToolResult = {
+        content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
+      };
+      return ctx.historyOffReason !== undefined ? withWarning(out, ctx.historyOffReason) : out;
     }
     case 'undo_write': {
       const input = UndoWriteInput.parse(args);

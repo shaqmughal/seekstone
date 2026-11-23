@@ -21,6 +21,7 @@ import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
+import { HISTORY_LINK_WRITE_MESSAGE, historyCrossesLink } from './symlinks.js';
 
 /**
  * Write journal — the pre-image store behind `list_writes` / `undo_write`.
@@ -195,6 +196,7 @@ export interface JournalTxn {
 
 export class Journal {
   readonly config: JournalConfig;
+  private readonly vaultRoot: string;
   private readonly dir: string;
   private readonly blobDir: string;
   private readonly manifestPath: string;
@@ -220,6 +222,7 @@ export class Journal {
     log?: Logger,
   ) {
     this.config = config;
+    this.vaultRoot = vaultRoot;
     this.dir = join(vaultRoot, HISTORY_DIR);
     this.blobDir = join(this.dir, 'blobs');
     this.manifestPath = join(this.dir, 'manifest.jsonl');
@@ -336,7 +339,18 @@ export class Journal {
     this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
   }
 
+  /**
+   * Refuse when write history now goes through a symlink (SHA-575). Boot
+   * turns history off when it finds one; this catches a link made while the
+   * server runs, before anything is written to or read from history.
+   */
+  assertNotLinked(): void {
+    if (historyCrossesLink(this.vaultRoot)) throw new Error(HISTORY_LINK_WRITE_MESSAGE);
+  }
+
   begin(tool: string, undoOf?: number): JournalTxn {
+    // Before the first add: add writes a blob.
+    this.assertNotLinked();
     const files: JournalFile[] = [];
     const preimages = new Map<string, string>();
     let committed = false;

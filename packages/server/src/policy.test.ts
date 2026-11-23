@@ -11,9 +11,10 @@ import {
   splitGlobs,
 } from './policy.js';
 
-describe('reservedFolder (SHA-560)', () => {
-  const ROOT = resolve(tmpdir(), 'vault');
+// A vault path that doesn't exist, so the symlink check finds nothing.
+const ROOT = resolve(tmpdir(), 'seekstone-policy-test-vault');
 
+describe('reservedFolder (SHA-560)', () => {
   it.each([
     ['.seekstone/history/manifest.jsonl', '.seekstone'],
     ['.trash/a.md', '.trash'],
@@ -41,7 +42,7 @@ describe('reservedFolder (SHA-560)', () => {
   });
 
   it('assertWritable refuses after the policy checks pass', () => {
-    expect(() => assertWritable(PERMISSIVE_POLICY, './.Trash/a.md')).toThrow(
+    expect(() => assertWritable(PERMISSIVE_POLICY, './.Trash/a.md', ROOT)).toThrow(
       'Write not permitted: "./.Trash/a.md" is inside .trash/, which Seekstone reserves for write history and deleted notes.',
     );
     expect(() => assertWritable(PERMISSIVE_POLICY, join(ROOT, '.seekstone', 'x'), ROOT)).toThrow(
@@ -117,14 +118,14 @@ describe('isWritable', () => {
 
 describe('assertWritable', () => {
   it('passes silently when allowed', () => {
-    expect(() => assertWritable(PERMISSIVE_POLICY, 'a.md')).not.toThrow();
+    expect(() => assertWritable(PERMISSIVE_POLICY, 'a.md', ROOT)).not.toThrow();
   });
   it('throws the read-only message in read-only mode', () => {
-    expect(() => assertWritable({ readOnly: true }, 'a.md')).toThrow(/read-only/);
+    expect(() => assertWritable({ readOnly: true }, 'a.md', ROOT)).toThrow(/read-only/);
   });
   it('throws with the offending path and the globs when out of scope', () => {
     expect(() =>
-      assertWritable({ readOnly: false, writeGlobs: ['journal/**'] }, 'projects/x.md'),
+      assertWritable({ readOnly: false, writeGlobs: ['journal/**'] }, 'projects/x.md', ROOT),
     ).toThrow(/projects\/x\.md.*journal\/\*\*/);
   });
 });
@@ -168,7 +169,7 @@ describe('read scope (SEEKSTONE_READ_PATHS, SHA-291)', () => {
   it('read-only still wins over a read scope', () => {
     const p = parseWritePolicy({ SEEKSTONE_READ_ONLY: '1', SEEKSTONE_READ_PATHS: 'notes/**' });
     expect(isWritable(p, 'notes/a.md')).toBe(false);
-    expect(() => assertWritable(p, 'notes/a.md')).toThrow(/read-only/);
+    expect(() => assertWritable(p, 'notes/a.md', ROOT)).toThrow(/read-only/);
   });
 
   it('assertWritable names SEEKSTONE_READ_PATHS when the read scope refuses', () => {
@@ -176,10 +177,10 @@ describe('read scope (SEEKSTONE_READ_PATHS, SHA-291)', () => {
       SEEKSTONE_READ_PATHS: 'notes/**',
       SEEKSTONE_WRITE_PATHS: 'journal/**',
     });
-    expect(() => assertWritable(p, 'journal/a.md')).toThrow(
+    expect(() => assertWritable(p, 'journal/a.md', ROOT)).toThrow(
       'Write not permitted: "journal/a.md" is outside SEEKSTONE_READ_PATHS (notes/**).',
     );
-    expect(() => assertWritable(p, 'notes/a.md')).toThrow(/outside SEEKSTONE_WRITE_PATHS/);
+    expect(() => assertWritable(p, 'notes/a.md', ROOT)).toThrow(/outside SEEKSTONE_WRITE_PATHS/);
   });
 
   it('compiles each glob set once and reuses it', () => {
