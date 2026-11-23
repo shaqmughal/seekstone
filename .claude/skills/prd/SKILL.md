@@ -120,7 +120,7 @@ both stopped for reasons these checks catch.
   dependent ticket out of Todo until the first one merges. Tickets that edit
   the same files need the relation too, or their PRs conflict.
 - **Is every acceptance criterion checkable by a test or a command?**
-- **Does it touch a write path or a safety guarantee?** Then the PR needs an independent review before merge (`docs/QUALITY-GATES.md`, "Independent review of safety-critical PRs"). Say so in the ticket so the maintainer plans for it.
+- **Does it touch a file or guarantee the independent-review rule covers?** That is any write tool; `dispatch.ts`, including its read-only branches; `index/doc.ts` or `index/backlinks.ts`; `journal.ts`, `atomic-write.ts`, `audit.ts`, `policy.ts`, `vault-path.ts`, `symlinks.ts` or `watcher.ts`; or a guarantee in `SECURITY.md` or `docs/WRITE-SAFETY.md`. Then the PR needs an independent review before merge (`docs/QUALITY-GATES.md`, "Independent review of safety-critical PRs"). Say so in the ticket so the maintainer plans for it.
 
 Fix the ticket for each check that fails. If a check needs a decision from
 Shaq, ask before labelling.

@@ -43,7 +43,7 @@ When the gate fails on a PR you expect to pass:
 
 ### Review rounds
 
-A PR gets two CodeRabbit rounds. Fix every valid finding, with a test, in each. After the second round, put what's left on Linear tickets, and a maintainer dismisses CodeRabbit's change request with a note that links them. A Major finding that is a real bug is fixed or blocks the merge; it is never only ticketed. For a docs PR, search the repo for every copy of a claim before you push a correction, so the same claim isn't flagged again in another file.
+A PR gets two CodeRabbit rounds. Fix every valid finding, with a test, in each. After the second round, put what's left on Linear tickets, and a maintainer dismisses CodeRabbit's change request with a note that links them. Dismissing clears the request but isn't an approval, so the gate still fails. Then comment `@coderabbitai review` so CodeRabbit reviews the latest commit and approves it; if it says it already reviewed that commit, use `@coderabbitai full review`. If it still won't approve, the maintainer adds `review:override`. A Major finding that is a real bug is fixed or blocks the merge; it is never only ticketed. For a docs PR, search the repo for every copy of a claim before you push a correction, so the same claim isn't flagged again in another file.
 
 ### Independent review of safety-critical PRs
 
@@ -62,7 +62,7 @@ The reviewer didn't write the PR and hasn't read its review threads. They get th
 - verify each finding by running it: a reproduction against the branch, or a mutation that removes the protection and shows which tests still pass;
 - post one PR comment with findings marked Blocker, Should fix or Nit, a concrete failure for each, and a verdict: merge, merge after fixes, or don't merge.
 
-Blockers are fixed before merge, and the same reviewer re-checks the fixes. Should-fix items are fixed or ticketed with the maintainer's agreement. The factory can't run this review itself, so for factory PRs in scope the maintainer arranges it before merging.
+Blockers are fixed before merge, and the same reviewer re-checks the fixes. Should-fix items are fixed or ticketed with the maintainer's agreement. Any change pushed after the review that touches the files or guarantees above, Should-fix corrections included, also gets the reviewer's re-check before merge. The factory can't run this review itself, so for factory PRs in scope the maintainer arranges it before merging.
 
 ### Merging several PRs: auto-merge and the update queue
 
