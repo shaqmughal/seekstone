@@ -328,7 +328,7 @@ from the manifest along with their pre-images, so they no longer appear in
 disables the journal.
 
 Write history must be a real folder in the vault. If `.seekstone/`,
-`.seekstone/history/`, its `blobs/` folder or `manifest.jsonl` is a symlink at
+`.seekstone/history/`, its `blobs/` folder, `manifest.jsonl` or `manifest.lock` is a symlink at
 startup, history is off for the session before anything is created through the
 link: writes still work but can't be undone, and the server's log, every write
 result, `list_writes` and `undo_write` say why. That is the one exception to

@@ -126,14 +126,10 @@ describe('historyCrossesLink', () => {
     expect(historyCrossesLink(vault)).toBe(true);
   });
 
-  it('is true when manifest.jsonl is a link', () => {
+  it.each(['manifest.jsonl', 'manifest.lock'])('is true when %s is a link', (name) => {
     mkdirSync(join(vault, '.seekstone', 'history'), { recursive: true });
     writeFileSync(join(base, 'out', 'm'), '');
-    symlinkSync(
-      join(base, 'out', 'm'),
-      join(vault, '.seekstone', 'history', 'manifest.jsonl'),
-      'file',
-    );
+    symlinkSync(join(base, 'out', 'm'), join(vault, '.seekstone', 'history', name), 'file');
     expect(historyCrossesLink(vault)).toBe(true);
   });
 });

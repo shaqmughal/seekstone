@@ -117,9 +117,11 @@ export const HISTORY_OFF_MESSAGE =
 
 /**
  * True when any part of write history is a link: `.seekstone`,
- * `.seekstone/history`, `blobs/` or `manifest.jsonl`. Four `lstat`s. Lock,
- * claim and temp files are created with `wx` (O_EXCL), which fails on an
- * existing link, so they need no check.
+ * `.seekstone/history`, `blobs/`, `manifest.jsonl` or `manifest.lock`. Five
+ * `lstat`s. The lock is created with `wx` (O_EXCL), which fails on an existing
+ * link, but a lock that already exists is opened for reading to see who holds
+ * it, and that open would follow a link. Claim and temp files are only ever
+ * created with `wx`, so they need no check.
  */
 export function historyCrossesLink(vaultRoot: string): boolean {
   const seekstone = join(vaultRoot, '.seekstone');
@@ -129,7 +131,11 @@ export function historyCrossesLink(vaultRoot: string): boolean {
     if (state === 'link' || state === 'error') return true;
     if (state === 'missing') return false;
   }
-  return isLinkOrError(join(history, 'blobs')) || isLinkOrError(join(history, 'manifest.jsonl'));
+  return (
+    isLinkOrError(join(history, 'blobs')) ||
+    isLinkOrError(join(history, 'manifest.jsonl')) ||
+    isLinkOrError(join(history, 'manifest.lock'))
+  );
 }
 
 /** True when any segment of a forward-slash vault-relative path starts with a dot. */
