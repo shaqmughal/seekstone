@@ -150,6 +150,100 @@ describe('runScenarios', () => {
     expect(packCalls).toBe(0);
   });
 
+  describe('forceBatch (read_notes, SHA-339)', () => {
+    function batchBackend(
+      seen: Array<[string[], number | undefined]>,
+      extra: Partial<Backend> = {},
+    ) {
+      return multicallBackend({
+        contextPack: async () => resp({}),
+        readMany: async (paths: string[], budgetBytes?: number) => {
+          seen.push([paths, budgetBytes]);
+          return resp({ notes: paths.map((path) => ({ path })) });
+        },
+        ...extra,
+      });
+    }
+
+    it('reads the top K hits with one read_notes call and relabels the run', async () => {
+      const seen: Array<[string[], number | undefined]> = [];
+      let singleReads = 0;
+      const backend = batchBackend(seen, {
+        read: async (path: string) => {
+          singleReads += 1;
+          return resp(path);
+        },
+        getBacklinks: async (path: string) => resp({ target: path }),
+      });
+      const summary = await runScenarios({
+        backend,
+        taskSet: taskSet([task({ readTopK: 5, followBacklinks: false })], 1),
+        forceBatch: true,
+      });
+      const t = summary.tasks[0];
+      expect(summary.label).toBe('fake-batch');
+      expect(t?.strategy).toBe('search-batch');
+      expect(t?.steps.map((s) => [s.op, s.target])).toEqual([
+        ['search', 'alpha'],
+        ['read_notes', 'A/alpha.md, B/beta.md, C/gamma.md'],
+      ]);
+      expect(t?.calls).toBe(2);
+      // Clamped to the 3 available hits; the server's default budget applies.
+      expect(seen).toEqual([[['A/alpha.md', 'B/beta.md', 'C/gamma.md'], undefined]]);
+      expect(singleReads).toBe(0);
+    });
+
+    it('still follows backlinks unless the task opts out', async () => {
+      const backend = batchBackend([], {
+        getBacklinks: async (path: string) => resp({ target: path }),
+      });
+      const t = (await runScenarios({ backend, taskSet: taskSet([task()], 1), forceBatch: true }))
+        .tasks[0];
+      expect(t?.steps.map((s) => s.op)).toEqual(['search', 'read_notes', 'get_backlinks']);
+    });
+
+    it('makes no read_notes call on zero hits', async () => {
+      const seen: Array<[string[], number | undefined]> = [];
+      const backend = batchBackend(seen, { search: async () => resp([]) });
+      const t = (await runScenarios({ backend, taskSet: taskSet([task()], 1), forceBatch: true }))
+        .tasks[0];
+      expect(t?.steps.map((s) => s.op)).toEqual(['search']);
+      expect(seen).toEqual([]);
+    });
+
+    it('sends non-search tasks down the multi-call fallbacks', async () => {
+      const backend = batchBackend([], {
+        vaultStats: async () => resp({}),
+        list: async () => resp([{ path: 'a.md', isDirectory: false }]),
+      });
+      const statsTask = task({ searchQuery: undefined, readTopK: undefined, statsQuery: {} });
+      const t = (
+        await runScenarios({ backend, taskSet: taskSet([statsTask], 1), forceBatch: true })
+      ).tasks[0];
+      expect(t?.strategy).toBe('list-fallback');
+    });
+
+    it('fails with a clear message on a backend without readMany', async () => {
+      await expect(
+        runScenarios({ backend: multicallBackend(), taskSet: taskSet([task()]), forceBatch: true }),
+      ).rejects.toThrow(/fake has no readMany \(read_notes\); --strategy batch needs it/);
+    });
+
+    it('leaves auto and multicall runs on single reads even when readMany exists', async () => {
+      const seen: Array<[string[], number | undefined]> = [];
+      const backend = batchBackend(seen);
+      const auto = await runScenarios({ backend, taskSet: taskSet([task()], 1) });
+      expect(auto.tasks[0]?.strategy).toBe('context-pack');
+      const multi = await runScenarios({
+        backend,
+        taskSet: taskSet([task()], 1),
+        forceMulticall: true,
+      });
+      expect(multi.tasks[0]?.steps.map((s) => s.op)).toEqual(['search', 'read', 'read']);
+      expect(seen).toEqual([]);
+    });
+  });
+
   it('flags payloadStable=false when byte totals differ across runs', async () => {
     let call = 0;
     const backend = multicallBackend({

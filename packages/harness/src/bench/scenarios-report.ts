@@ -29,9 +29,12 @@ const ENCODER_FOOTNOTE =
 const NO_HITS_FOOTNOTE =
   '> † Search returned no hits — the task went unanswered. The payload is the cost of the failed attempt, not of an answer; a low number here is a retrieval failure, not a win.';
 
-/** A search-read sequence that never got to a read found nothing to answer with. */
+/** A search sequence that never got to a read (single or batch) found nothing to answer with. */
 function noHits(t: TaskResult): boolean {
-  return t.strategy === 'search-read' && !t.steps.some((s) => s.op === 'read');
+  return (
+    (t.strategy === 'search-read' || t.strategy === 'search-batch') &&
+    !t.steps.some((s) => s.op === 'read' || s.op === 'read_notes')
+  );
 }
 
 export function renderScenarioMarkdown(s: ScenarioSummary): string {
@@ -104,6 +107,7 @@ export function renderScenarioComparisonMarkdown(summaries: ScenarioSummary[]): 
   const order = [
     'seekstone',
     'seekstone-multicall',
+    'seekstone-batch',
     'fs',
     'mcpvault',
     'obsidian-mcp-pro',
@@ -215,7 +219,9 @@ export function renderScenarioComparisonMarkdown(summaries: ScenarioSummary[]): 
   for (const s of sorted) {
     const suffix = s.label.endsWith('-multicall')
       ? ' — ablation: context_pack disabled, forced down the search→read path'
-      : '';
+      : s.label.endsWith('-batch')
+        ? ' — ablation: context_pack disabled, top hits read with one read_notes call'
+        : '';
     L.push(`- **${s.label}**: ${s.backend.description}${suffix}`);
   }
   L.push('');
