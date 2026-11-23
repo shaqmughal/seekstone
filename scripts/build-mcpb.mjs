@@ -49,24 +49,19 @@ import { homedir } from 'node:os';
 import { dirname, join, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { MAX_FILE_BYTES, MAX_SHARD_BYTES, shard } from './shard.mjs';
+import { stampManifestVersion } from './version-sync.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const serverDir = join(root, 'packages', 'server');
 const manifestPath = join(serverDir, 'manifest.json');
 
-// 1 + 2. Stamp version into manifest.json — a surgical string replace, not a
-// re-serialize, so the committed file keeps its biome formatting (`biome
-// check .` in CI fails on a JSON.stringify-shaped rewrite).
+// 1 + 2. Stamp version into manifest.json. Version PRs already commit it
+// (sync-server-json.mjs, SHA-631); stamping again here keeps a local build
+// right even on a branch where the two have drifted.
 const { version } = JSON.parse(readFileSync(join(serverDir, 'package.json'), 'utf8'));
-const rawManifest = readFileSync(manifestPath, 'utf8').replace(
-  /"version":\s*"[^"]*"/,
-  `"version": "${version}"`,
-);
+const rawManifest = stampManifestVersion(readFileSync(manifestPath, 'utf8'), version);
 writeFileSync(manifestPath, rawManifest);
 const manifest = JSON.parse(rawManifest);
-if (manifest.version !== version) {
-  throw new Error(`mcpb: failed to stamp version ${version} into manifest.json`);
-}
 console.log(`Stamped manifest.json with version ${version}`);
 
 // 3. Build the fully-bundled server (all deps inlined — no node_modules at runtime).

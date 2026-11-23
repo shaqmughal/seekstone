@@ -1,4 +1,4 @@
-import { access, mkdir, readFile, rename, rm } from 'node:fs/promises';
+import { lstat, mkdir, readFile, rename, rm } from 'node:fs/promises';
 import { basename, extname, join } from 'node:path';
 import { z } from 'zod';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -6,6 +6,7 @@ import type { ServerContext } from '../context.js';
 import { removeDoc } from '../index/doc.js';
 import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
+import { crossesLink, TRASH_LINK_MESSAGE } from '../symlinks.js';
 import { resolveVaultPath } from '../vault-path.js';
 
 export const DeleteNoteInput = z.object({
@@ -40,8 +41,10 @@ async function freeTrashPath(vaultRoot: string, noteBase: string): Promise<strin
   const stem = noteBase.slice(0, noteBase.length - ext.length);
   let candidate = `.trash/${noteBase}`;
   for (;;) {
+    // lstat, not access: a symlink sitting at a candidate name counts as
+    // taken, so the rename never replaces it (SHA-575).
     try {
-      await access(join(vaultRoot, candidate));
+      await lstat(join(vaultRoot, candidate));
     } catch {
       return candidate;
     }
@@ -58,6 +61,11 @@ export async function deleteNote(
   // Policy applies to the note being deleted; the .trash/ destination is the
   // safety mechanism itself, not a user write.
   assertWritable(ctx.policy, input.path, ctx.vaultRoot);
+  // .trash must be a real folder (SHA-575): checked before anything is
+  // journaled or created, so a refused delete leaves no trace.
+  if (!input.permanent && crossesLink(ctx.vaultRoot, join(ctx.vaultRoot, '.trash')) !== undefined) {
+    throw new Error(TRASH_LINK_MESSAGE);
+  }
   const absPath = resolveVaultPath(ctx, input.path);
 
   // Read before deleting: ENOENT propagates for a missing note (same shape rm

@@ -1,5 +1,6 @@
 import { walkVault } from '@seekstone/core/walk';
 import { isReadable, splitGlobSet, type WritePolicy } from './policy.js';
+import { dropLinkedEntries } from './symlinks.js';
 import { type Period, resolveConfig } from './tools/periodic_note.js';
 
 const PERIODS: Period[] = ['daily', 'weekly', 'monthly', 'quarterly', 'yearly'];
@@ -23,7 +24,11 @@ export async function scopeWarnings(vaultRoot: string, policy: WritePolicy): Pro
   const warnings: string[] = [];
 
   if (policy.writeGlobs && !policy.readOnly) {
-    const entries = await walkVault(vaultRoot, splitGlobSet(policy.writeGlobs));
+    // Scoped walks can read through a linked starting folder (SHA-575).
+    const entries = dropLinkedEntries(
+      vaultRoot,
+      await walkVault(vaultRoot, splitGlobSet(policy.writeGlobs)),
+    );
     const blocked = entries.map((e) => e.relPath).filter((p) => !isReadable(policy, p));
     if (blocked.length > 0) {
       warnings.push(
