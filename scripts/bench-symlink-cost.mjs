@@ -3,30 +3,31 @@
 // disk-bound costs out of CodSpeed on purpose (SHA-532), so the lstat walks
 // are measured here instead.
 //
-// Run it against a checkout's server source and compare two checkouts:
+// It measures the checkout it sits in. To compare two checkouts, put a copy
+// of this file in the other one's scripts/ folder and run it there too:
 //
-//   node --import tsx scripts/bench-symlink-cost.mjs [repoRoot]
+//   node --import tsx scripts/bench-symlink-cost.mjs
 //
-// repoRoot defaults to this checkout. Each row is the median of 5 batches.
-// The script copies vault-1k to a temp folder for the write rows, so the
-// committed fixtures are never written.
+// Each row is the median of 5 batches. The script copies vault-1k to a temp
+// folder for the write rows, so the committed fixtures are never written.
+// Imports use fixed paths next to this file, so it only ever loads the
+// checkout it belongs to.
 
 import { cpSync, mkdtempSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
-import { join, resolve } from 'node:path';
-import { pathToFileURL } from 'node:url';
+import { join } from 'node:path';
 
-const root = resolve(process.argv[2] ?? join(import.meta.dirname, '..'));
-const src = join(root, 'packages', 'server', 'src');
-const load = (p) => import(pathToFileURL(join(src, p)).href);
+const root = join(import.meta.dirname, '..');
 
-const { buildIndex } = await load('index/build.ts');
-const { parseWritePolicy, readScopeWalk } = await load('policy.ts');
-const { resolveVaultPath } = await load('vault-path.ts');
-const { dispatch } = await load('dispatch.ts');
-const { Journal } = await load('journal.ts');
-const { createLogger } = await load('log.ts');
-const symlinks = await load('symlinks.ts').catch(() => undefined);
+const { buildIndex } = await import('../packages/server/src/index/build.ts');
+const policy = await import('../packages/server/src/policy.ts');
+const { parseWritePolicy, readScopeWalk } = policy;
+const { resolveVaultPath } = await import('../packages/server/src/vault-path.ts');
+const { dispatch } = await import('../packages/server/src/dispatch.ts');
+const { Journal } = await import('../packages/server/src/journal.ts');
+const { createLogger } = await import('../packages/server/src/log.ts');
+// Not on main before SHA-575, so a missing module is allowed.
+const symlinks = await import('../packages/server/src/symlinks.ts').catch(() => undefined);
 
 const BATCHES = 5;
 const FIXTURE_10K = join(root, 'packages', 'harness', 'fixtures', 'vault');
@@ -96,7 +97,7 @@ for (const [label, env] of [
 // move_note's added work per rewritten note: the write check on each
 // candidate (canWrite walks the path) plus upsertDoc's own walk after the
 // rewrite. Measured on the hub note's real linkers in vault-1k.
-const { canWrite } = await load('policy.ts');
+const { canWrite } = policy;
 if (canWrite && symlinks?.crossesLink) {
   const ctx1k = await ctxFor(FIXTURE_1K);
   const linkers = [...new Set((ctx1k.backlinks.get(HUB) ?? []).map((r) => r.path))];
