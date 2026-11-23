@@ -6,7 +6,7 @@
  * exercise the warm-cache load path).
  */
 import { basename } from 'node:path';
-import type { Embedder } from '@seekstone/core/embed';
+import type { Embedder, LoadModel2VecOptions, Model2VecWeights } from '@seekstone/core/embed';
 import type { ServerContext } from '../../../server/src/context.js';
 import { Semantic } from '../../../server/src/semantic/state.js';
 import { search as searchTool } from '../../../server/src/tools/search.js';
@@ -21,12 +21,13 @@ export async function buildShipped(
   ctx: ServerContext,
   modelDir: string,
   cacheDir: string,
-  loadModel?: (modelDir: string) => Promise<Embedder>,
+  loadModel?: (modelDir: string, opts?: LoadModel2VecOptions) => Promise<Embedder>,
+  weights?: Model2VecWeights,
 ): Promise<ShippedHandle> {
   const t0 = performance.now();
   const semantic = await Semantic.start(
     ctx,
-    { modelId: basename(modelDir), modelDir, cacheDir },
+    { modelId: basename(modelDir), modelDir, cacheDir, weights },
     { loadModel },
   );
   await semantic.ready();

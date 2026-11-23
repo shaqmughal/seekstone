@@ -14,7 +14,14 @@ const summary: RetrievalSummary = {
   runs: 20,
   lexicalBuildMs: 1234.5,
   models: [
-    { modelId: 'potion-base-8M', dim: 256, chunkCount: 20000, indexBuildMs: 9000, loadMs: 100 },
+    {
+      modelId: 'potion-base-8M',
+      dim: 256,
+      chunkCount: 20000,
+      indexBuildMs: 9000,
+      loadMs: 100,
+      weights: 'f32',
+    },
   ],
   conditions: [
     {
@@ -73,6 +80,10 @@ describe('renderRetrievalMarkdown', () => {
     expect(md).toContain('Pre-registered gate');
     expect(md).toContain('≥10 points hit@5');
     expect(md).toContain('**Overall: SHIP** — chosen model: potion-base-8M');
+  });
+
+  it('records the weight format next to the model load time', () => {
+    expect(md).toContain('model load 100.00 ms (f32 weights)');
   });
 
   it('renders metrics rows per condition and subset', () => {

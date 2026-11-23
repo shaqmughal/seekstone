@@ -15,9 +15,13 @@ import { cpus } from 'node:os';
 import { join } from 'node:path';
 import {
   type ChunkPooling,
+  DEFAULT_MODEL2VEC_WEIGHTS,
   type Embedder,
   isTokenEmbedder,
+  type LoadModel2VecOptions,
   loadModel2Vec,
+  MODEL2VEC_WEIGHTS,
+  type Model2VecWeights,
   poolingId,
 } from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
@@ -162,6 +166,8 @@ export interface ModelInfo {
   chunkCount: number;
   indexBuildMs: number;
   loadMs: number;
+  /** Table format the model was loaded with (SHA-552). */
+  weights: Model2VecWeights;
 }
 
 export interface QuerySetCounts {
@@ -222,8 +228,10 @@ export interface RetrievalEvalOptions {
   /** Timed executions per query for latency; run 1 is discarded as cold. */
   runs: number;
   log?: (msg: string) => void;
+  /** Model2Vec table format for every load, shipped conditions included (SHA-552). Default int8. */
+  weights?: Model2VecWeights;
   /** Test seam; defaults to loadModel2Vec. */
-  loadEmbedder?: (modelDir: string) => Promise<Embedder>;
+  loadEmbedder?: (modelDir: string, opts?: LoadModel2VecOptions) => Promise<Embedder>;
   /**
    * Also evaluate the SHA-307 fusion candidates (top2mean pooling, query
    * routing, score-weighted fusion) for the FIRST model. Experimental
@@ -274,11 +282,24 @@ async function resolveRank(
   return Array.isArray(out) ? { paths: out } : out;
 }
 
+/** Validate a `--weights` value before any model loads. */
+export function parseWeights(raw: unknown): Model2VecWeights {
+  if (raw === undefined || raw === '') return DEFAULT_MODEL2VEC_WEIGHTS;
+  const match = MODEL2VEC_WEIGHTS.find((w) => w === raw);
+  if (!match) {
+    throw new Error(
+      `--weights: unknown value "${String(raw)}", expected one of ${MODEL2VEC_WEIGHTS.join(', ')}`,
+    );
+  }
+  return match;
+}
+
 export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<RetrievalSummary> {
   const log = opts.log ?? (() => {});
   const split = opts.split ?? 'all';
   const queries = filterSplit(opts.goldenSet, split).queries;
   if (queries.length === 0) throw new Error(`golden set has no queries in split "${split}"`);
+  const weights = parseWeights(opts.weights);
   const loadEmbedder = opts.loadEmbedder ?? loadModel2Vec;
 
   const lexical = await buildLexicalContext(opts.vaultRoot);
@@ -288,7 +309,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   const embedders: Array<{ id: string; embedder: Embedder; index: SemanticIndex }> = [];
   for (const modelId of opts.modelIds) {
     const t0 = performance.now();
-    const embedder = await loadEmbedder(join(opts.modelsDir, modelId));
+    const embedder = await loadEmbedder(join(opts.modelsDir, modelId), { weights });
     const loadMs = performance.now() - t0;
     const index = await buildSemanticIndex(opts.vaultRoot, embedder, {
       // SHA-314: the MaxSim rerank conditions score pre-tokenized chunks.
@@ -303,6 +324,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
       chunkCount: index.chunkCount,
       indexBuildMs: index.buildMs,
       loadMs,
+      weights,
     });
     embedders.push({ id: modelId, embedder, index });
   }
@@ -431,6 +453,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
         join(opts.modelsDir, modelId),
         cacheDir,
         opts.loadEmbedder,
+        weights,
       );
       shippedStops.push(shipped.stop);
       log(
