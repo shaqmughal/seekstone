@@ -58,6 +58,11 @@ export interface ServerContext {
    */
   journal?: Journal;
   /**
+   * Set when write history is off because part of it is a symlink (SHA-575),
+   * so list_writes, undo_write and write results can say why.
+   */
+  historyOffReason?: string;
+  /**
    * Structured audit log (SEEKSTONE_AUDIT_FILE). Dispatch appends one record
    * per write-tool call — ok or refused — after the call completes.
    */

@@ -11,7 +11,7 @@ import {
 } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import { buildResolveMaps } from '../index/resolve.js';
-import { assertWritable, isWritable } from '../policy.js';
+import { assertWritable, canWrite } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 
@@ -119,9 +119,10 @@ export async function moveNote(
   for (const path of [...candidates].sort()) {
     const doc = preNotes.get(path);
     if (doc === undefined) continue;
-    if (!isWritable(ctx.policy, path)) {
-      // Out of write scope: leave the note untouched but report it, so the
-      // caller knows which references were NOT updated.
+    if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
+      // Not writable (out of write scope, or through a symlink): leave the
+      // note untouched but report it, so the caller knows which references
+      // were NOT updated.
       skipped.push(path);
       continue;
     }
@@ -153,8 +154,7 @@ export async function moveNote(
   removeDoc(ctx, input.from, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
   removeNoteBacklinks(ctx, input.to);
-  upsertDoc(ctx, buildDoc(input.to, raw));
-  addNoteBacklinks(ctx, input.to, raw);
+  if (upsertDoc(ctx, buildDoc(input.to, raw))) addNoteBacklinks(ctx, input.to, raw);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.
@@ -172,10 +172,10 @@ export async function moveNote(
     removeNoteBacklinks(ctx, path, maps);
     if (count > 0) {
       await atomicWrite(join(ctx.vaultRoot, path), content);
-      upsertDoc(ctx, buildDoc(path, content));
+      const admitted = upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;
       linksRewritten += count;
-      addNoteBacklinks(ctx, path, content, maps);
+      if (admitted) addNoteBacklinks(ctx, path, content, maps);
     } else {
       addNoteBacklinks(ctx, path, doc.raw, maps);
     }
