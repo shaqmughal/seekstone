@@ -1,8 +1,9 @@
-import { basename, extname } from 'node:path';
+import { basename, extname, join } from 'node:path';
 import { extractInlineTags, frontmatterAliases, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
+import { crossesLink } from '../symlinks.js';
 import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
 import { bumpGeneration } from './generation.js';
 import type { IndexedNote } from './types.js';
@@ -32,9 +33,17 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
 /**
  * Upsert a document into the context index. Discards any stale entry first.
  * A note that comes back after removeDoc gets its parked inbound refs back.
+ *
+ * Returns false, and keeps the path out of the index, when it crosses a
+ * symlink below the vault root (SHA-575). The check is synchronous, with no
+ * await between it and the commit, so no caller can hand in a stale answer.
+ * An entry already indexed under that path leaves the usual way. Callers
+ * register backlinks and semantic updates only when this returns true.
  */
 export function upsertDoc(
   ctx: {
+    /** A path that crosses a symlink below this root is kept out of the index. */
+    vaultRoot: string;
     index: { discard(id: string): void; add(doc: IndexedNote): void };
     notes: Map<string, IndexedNote>;
     generation: number;
@@ -42,13 +51,25 @@ export function upsertDoc(
     parkedBacklinks?: Map<string, BacklinkRef[]>;
   },
   doc: IndexedNote,
-): void {
+): boolean {
+  if (crossesLink(ctx.vaultRoot, join(ctx.vaultRoot, doc.id)) !== undefined) {
+    if (ctx.notes.has(doc.id)) {
+      if (ctx.backlinks !== undefined) removeDoc(ctx as ServerContext, doc.id);
+      else {
+        bumpGeneration(ctx);
+        ctx.index.discard(doc.id);
+        ctx.notes.delete(doc.id);
+      }
+    }
+    return false;
+  }
   bumpGeneration(ctx);
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
   else if (ctx.backlinks !== undefined)
     unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
+  return true;
 }
 
 /**
@@ -133,10 +154,11 @@ function aliasKey(fm: IndexedNote['fm']): string {
  * overwrite). Clears the old content's refs first when the new content drops
  * a link, for the same reason as refreshCachedNote.
  */
-export function replaceDoc(ctx: ServerContext, path: string, raw: string): void {
+export function replaceDoc(ctx: ServerContext, path: string, raw: string): boolean {
   const prev = ctx.notes.get(path);
   const relink = prev !== undefined && dropsLinks(prev.raw, raw);
   if (relink) removeNoteBacklinks(ctx, path);
-  upsertDoc(ctx, buildDoc(path, raw));
-  if (relink) addNoteBacklinks(ctx, path, raw);
+  const admitted = upsertDoc(ctx, buildDoc(path, raw));
+  if (relink && admitted) addNoteBacklinks(ctx, path, raw);
+  return admitted;
 }

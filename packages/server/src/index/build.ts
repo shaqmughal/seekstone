@@ -6,6 +6,8 @@ import { extractTasks } from '@seekstone/core/tasks';
 import { type WalkOptions, walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
+import type { Logger } from '../log.js';
+import { dropLinkedEntries } from '../symlinks.js';
 import {
   type AttachmentIndex,
   buildAttachmentIndex,
@@ -27,37 +29,83 @@ export interface BuildResult {
 }
 
 /**
+ * Progress through `buildIndex`'s async phases (SHA-265). `reading` fires
+ * every READ_PROGRESS_EVERY notes and once at the end, and only on vaults of
+ * at least that many notes. `read` counts finished reads, failed ones too, so
+ * the last event has `read === total`. There is no event inside the
+ * synchronous parse pass: a line logged there would only appear after it.
+ */
+export type BuildProgress =
+  | { phase: 'walked'; files: number; notes: number; ms: number }
+  | { phase: 'reading'; read: number; total: number }
+  | { phase: 'indexing'; notes: number };
+
+const READ_PROGRESS_EVERY = 1000;
+
+/** The boot log line for each progress event. Goes to stderr via the logger. */
+export function logBuildProgress(log: Pick<Logger, 'info'>, e: BuildProgress): void {
+  switch (e.phase) {
+    case 'walked':
+      log.info('indexing: walked vault', { files: e.files, notes: e.notes, ms: e.ms });
+      return;
+    case 'reading':
+      log.info(`indexing: read ${e.read}/${e.total} notes`);
+      return;
+    case 'indexing':
+      log.info(`indexing: parsing ${e.notes} notes`);
+      return;
+  }
+}
+
+/**
  * Build the in-memory index. `scope` narrows the walk to the read scope
  * (SEEKSTONE_READ_PATHS): files outside it are never read, parsed or indexed,
  * so every index-backed tool is scoped by construction.
  */
-export async function buildIndex(vaultRoot: string, scope?: WalkOptions): Promise<BuildResult> {
+export async function buildIndex(
+  vaultRoot: string,
+  scope?: WalkOptions,
+  onProgress?: (e: BuildProgress) => void,
+): Promise<BuildResult> {
   const t0 = Date.now();
 
-  const entries = await walkVault(vaultRoot, scope);
+  // A scoped walk can read through a linked starting folder; drop those
+  // entries (SHA-575). The unscoped walk already skips every link.
+  const walked = await walkVault(vaultRoot, scope);
+  const entries = scope?.include ? dropLinkedEntries(vaultRoot, walked) : walked;
   // Attachments in dot-folders stay out, as in Obsidian: the watcher ignores
   // dot-paths, so it could never keep them current.
   const attachmentPaths = entries
     .filter((e) => e.kind !== 'note' && !e.relPath.split('/').some((seg) => seg.startsWith('.')))
     .map((e) => e.relPath);
+  const noteEntries = entries.filter((e) => e.kind === 'note');
+  const total = noteEntries.length;
+  onProgress?.({ phase: 'walked', files: entries.length, notes: total, ms: Date.now() - t0 });
+  const reportReads = onProgress !== undefined && total >= READ_PROGRESS_EVERY;
+  let read = 0;
   const files: NoteFile[] = [];
   await Promise.all(
-    entries
-      .filter((e) => e.kind === 'note')
-      .map(async (entry) => {
-        try {
-          const raw = await readFile(entry.absPath, 'utf8');
-          files.push({
-            relPath: entry.relPath,
-            raw,
-            sizeBytes: entry.sizeBytes,
-            mtimeMs: entry.mtimeMs,
-          });
-        } catch {
-          // Unreadable note — skip silently; index what we can.
+    noteEntries.map(async (entry) => {
+      try {
+        const raw = await readFile(entry.absPath, 'utf8');
+        files.push({
+          relPath: entry.relPath,
+          raw,
+          sizeBytes: entry.sizeBytes,
+          mtimeMs: entry.mtimeMs,
+        });
+      } catch {
+        // Unreadable note — skip silently; index what we can.
+      }
+      if (reportReads) {
+        read++;
+        if (read % READ_PROGRESS_EVERY === 0 || read === total) {
+          onProgress?.({ phase: 'reading', read, total });
         }
-      }),
+      }
+    }),
   );
+  onProgress?.({ phase: 'indexing', notes: files.length });
 
   return {
     ...indexNotes(files),

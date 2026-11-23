@@ -12,7 +12,7 @@ import { AuditLog, resolveAuditConfig } from './audit.js';
 import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
-import { buildIndex } from './index/build.js';
+import { buildIndex, logBuildProgress } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
 import { resolveInstructions } from './instructions.js';
 import { Journal, resolveJournalConfig } from './journal.js';
@@ -23,6 +23,7 @@ import { scopeWarnings } from './scope-warnings.js';
 import { materializeBundledModel } from './semantic/bundled-model.js';
 import { resolveSemanticConfig } from './semantic/config.js';
 import { Semantic } from './semantic/state.js';
+import { HISTORY_OFF_MESSAGE, historyCrossesLink } from './symlinks.js';
 import { visibleTools } from './tool-list.js';
 import { startWatcher } from './watcher.js';
 
@@ -92,6 +93,7 @@ log.info('building index', { vault: vaultRoot });
 const { index, notes, backlinks, attachments, buildMs } = await buildIndex(
   vaultRoot,
   readScopeWalk(policy),
+  (e) => logBuildProgress(log, e),
 );
 log.info('index ready', { notes: notes.size, buildMs });
 
@@ -109,7 +111,14 @@ const ctx: ServerContext = {
 // is reversible via undo_write. Read-only mode never writes, so it never
 // journals either — the journal is only opened when writes are possible.
 const journalCfg = resolveJournalConfig(process.env);
-if (journalCfg && !policy.readOnly) {
+// Write history must be a real folder in the vault: if any part of it is a
+// symlink, history is off for the session, loudly, before anything is created
+// through the link (SHA-575). Writes still work but can't be undone.
+const historyLinked = Boolean(journalCfg) && !policy.readOnly && historyCrossesLink(vaultRoot);
+if (historyLinked) {
+  ctx.historyOffReason = HISTORY_OFF_MESSAGE;
+  log.error(HISTORY_OFF_MESSAGE);
+} else if (journalCfg && !policy.readOnly) {
   try {
     ctx.journal = await Journal.open(vaultRoot, journalCfg, { log });
     log.info('write journal ready', {

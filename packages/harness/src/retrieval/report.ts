@@ -32,7 +32,7 @@ export function renderRetrievalMarkdown(s: RetrievalSummary): string {
   lines.push(`- **Lexical index build:** ${ms(s.lexicalBuildMs)}`);
   for (const m of s.models) {
     lines.push(
-      `- **${m.modelId}:** dim ${m.dim}, ${m.chunkCount} chunks, index build ${ms(m.indexBuildMs)}, model load ${ms(m.loadMs)}`,
+      `- **${m.modelId}:** dim ${m.dim}, ${m.chunkCount} chunks, index build ${ms(m.indexBuildMs)}, model load ${ms(m.loadMs)} (${m.weights} weights)`,
     );
   }
   lines.push('');

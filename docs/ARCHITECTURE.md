@@ -232,7 +232,8 @@ The **tools** themselves are thin: read tools answer from `ServerContext`
 (and read note bodies straight off disk when needed — semantic hits never do;
 their excerpts slice the in-memory body); write tools mutate the vault
 filesystem through a shared set of write primitives — path containment
-(`vault-path.ts`), the per-handler `assertWritable` policy check
+(`vault-path.ts`), the symlink check (`symlinks.ts` `crossesLink`: no path
+that crosses a symlink below the vault root is read, written or indexed), the per-handler `assertWritable` policy check
 (`policy.ts`; dispatch itself only enforces read-only mode), optional
 compare-and-swap via `prevHash` on every write tool except `undo_write`,
 moves and deletes included (`create_note` only with `overwrite: true`), with mutating results returning a

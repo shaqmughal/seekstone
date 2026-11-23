@@ -1,5 +1,6 @@
 import { posix, relative, resolve } from 'node:path';
 import picomatch from 'picomatch';
+import { crossesLink, symlinkWriteError } from './symlinks.js';
 
 /**
  * Path policy: read-only mode plus read- and write-path scoping, parsed once
@@ -145,7 +146,8 @@ export type ReservedFolder = (typeof RESERVED_FOLDERS)[number];
  * The comparison ignores case, and trailing dots and spaces that Windows
  * drops from a folder name, because Windows and default macOS file systems
  * would put `.Trash./x` in the same folder as `.trash/x`. The check is on the
- * path as written: it does not follow symlinks, the same as `containVaultPath`.
+ * path as written. `assertWritable` refuses any path that crosses a symlink,
+ * so a link can't lead a write into a reserved folder either (SHA-575).
  */
 export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedFolder | undefined {
   // Every write goes through here. Normalizing can only drop segments, never
@@ -176,11 +178,16 @@ export function reservedFolder(inputPath: string, vaultRoot?: string): ReservedF
  * source, because moving a trashed note back out is how it is restored, and
  * `undo_write` passes it for the journal entry's paths, which come from
  * Seekstone's own history rather than the caller.
+ *
+ * Last, a path that crosses a symlink below the vault root is refused:
+ * Seekstone doesn't follow symlinks (SHA-575). For a new file the check stops
+ * at the first folder that doesn't exist yet. A path that escapes the vault
+ * as written is left to `containVaultPath`'s error.
  */
 export function assertWritable(
   policy: WritePolicy,
   relPath: string,
-  vaultRoot?: string,
+  vaultRoot: string,
   allow?: ReservedFolder,
 ): void {
   if (policy.readOnly) {
@@ -201,6 +208,23 @@ export function assertWritable(
     throw new Error(
       `Write not permitted: "${relPath}" is inside ${reserved}/, which Seekstone reserves for write history and deleted notes.`,
     );
+  }
+  if (crossesLink(vaultRoot, resolve(vaultRoot, relPath)) !== undefined) {
+    throw symlinkWriteError(relPath);
+  }
+}
+
+/**
+ * True when `assertWritable` would let `relPath` be written. For paths a tool
+ * picks itself (the notes a move or heading rename rewrites), which it skips
+ * and reports instead of failing the whole call.
+ */
+export function canWrite(policy: WritePolicy, relPath: string, vaultRoot: string): boolean {
+  try {
+    assertWritable(policy, relPath, vaultRoot);
+    return true;
+  } catch {
+    return false;
   }
 }
 
