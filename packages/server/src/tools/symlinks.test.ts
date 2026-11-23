@@ -415,12 +415,14 @@ describe('.trash as a link', () => {
   });
 
   it('never overwrites a link sitting at a .trash candidate name', async () => {
-    symlinkSync(join(outside, 'o.md'), join(vault, '.trash', 'b.md'), 'file');
+    // Dangling: `access` (which follows links) reports the name as free, so a
+    // rename would replace the link. `lstat` sees it as taken.
+    symlinkSync(join(outside, 'gone.md'), join(vault, '.trash', 'b.md'), 'file');
     const ctx = await makeCtx();
     const r = await call(ctx, 'delete_note', { path: 'notes/b.md' });
     expect(r.isError, r.text).toBe(false);
     expect(lstatSync(join(vault, '.trash', 'b.md')).isSymbolicLink()).toBe(true);
-    expect(await readFile(join(outside, 'o.md'), 'utf8')).toContain(OUT_TEXT);
+    expect(existsSync(join(outside, 'gone.md'))).toBe(false);
   });
 });
 
