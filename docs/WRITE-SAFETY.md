@@ -52,15 +52,37 @@ derived vectors of your notes, on your machine, documented in the README's
 configuration table. No note content is written there in plain text, and no
 tool can be pointed at those paths.)
 
-Not guaranteed: the guard checks the path as written and does not resolve
-symlinks. If you put a symlink inside the vault that points outside it, a
-tool given a path through it reaches the target: reads see the target file,
-and a write through a symlinked folder lands outside the vault. (A write to a
-symlinked file replaces the link with a regular file in the vault, because
-the atomic write renames over it.) The index walk doesn't follow symlinks, and
-no tool can create one. (Tracked as SHA-575.)
+Seekstone doesn't follow symlinks below the vault root (SHA-575). A read or
+write whose path goes through a symlink (or a Windows junction) is refused,
+the link itself included, so no tool moves, deletes or writes over a link.
+Notes and attachments behind a link are never indexed, at boot (scoped by
+`SEEKSTONE_READ_PATHS` or not) or by the file watcher, which also drops what
+was indexed under a folder or note that becomes a link. The vault folder and
+its parents may be links. The two Obsidian settings files periodic notes read
+(`.obsidian/daily-notes.json` and the periodic-notes plugin's `data.json`)
+may be links too: no tool input can name them, only a regular file of at most
+1 MB is read, and the folder and template paths they produce go through the
+same rule.
 
-- Enforced by: the path-containment guard in every tool handler.
+The threat model: this stops an agent using Seekstone's tools to reach files
+through links you made. No Seekstone tool can create a link. It does not
+defend against another program on your machine swapping a folder for a link
+while an operation is running; that program can already read and write those
+files directly, and Node has no way to open a file while refusing links in its
+parent folders. Reads of a note already in the index skip the link check, so
+they are as current as the index: a folder swapped for a link stays readable
+for its indexed notes from startup until the watcher is ready, and after that
+until the watcher reports the change (normally well under a second, up to the
+poll interval with `SEEKSTONE_WATCH_POLL=1`). Paths with a dot folder in them
+always get the full check, since the watcher doesn't watch dot folders.
+Writes are always checked.
+
+- Enforced by: the path-containment guard in every tool handler, and
+  `crossesLink` (`symlinks.ts`), the one implementation of the link check.
+- Proven by: [`tools/symlinks.test.ts`](../packages/server/src/tools/symlinks.test.ts)
+  (every read and write tool against every kind of link), plus
+  `watcher-symlinks.test.ts`, `index/build-symlinks.test.ts`,
+  `journal-symlinks.test.ts` and `boot-history.test.ts`.
 - Proven by: per-tool traversal tests (e.g.
   [`create_note.test.ts`](../packages/server/src/tools/create_note.test.ts),
   [`move_note.test.ts`](../packages/server/src/tools/move_note.test.ts)).
@@ -133,6 +155,11 @@ reports where it went. `permanent: true` is the explicit opt-out. `move_note`
 accepts a source inside `.trash/` so the note can be moved back, even though
 `.trash/` is otherwise closed to write tools (see §8). `undo_write` can undo
 that restore, which puts the note back in `.trash/`.
+
+`.trash/` must be a real folder in the vault: if it is a symlink, a
+recoverable delete is refused before anything is journaled or moved, and
+`permanent: true` still works. A symlink sitting at a name inside `.trash/` is
+never overwritten.
 
 - Proven by: [`delete_note.test.ts`](../packages/server/src/tools/delete_note.test.ts)
   and the harness `recoverable-delete` op — after a delete, a byte-identical
@@ -212,11 +239,10 @@ entry it is undoing, so undoing a restore puts the note back in `.trash/`. The
 caller never supplies those paths, and an entry that names `.seekstone/` is
 still refused. A refusal is audited as
 `policy_denied` with `policy: "reserved_path"`. The check reads the path as
-written and does not follow symlinks, like `containVaultPath`: a
-symlink the user creates inside the vault that points into `.seekstone/` is
-not caught. The `SEEKSTONE_WRITE_PATHS` and `SEEKSTONE_READ_PATHS` globs are
-matched the same way, so a symlink inside an allowed folder can route a write
-to a folder the globs exclude. No tool can create a symlink. (Tracked as SHA-575.)
+written; because no path that goes through a symlink is written (§2), a link
+can't lead a write into `.seekstone/` or `.trash/`, or past the
+`SEEKSTONE_WRITE_PATHS` and `SEEKSTONE_READ_PATHS` globs. Those refusals are
+audited as `policy_denied` with `policy: "symlink"`.
 
 `SEEKSTONE_READ_PATHS` hides everything outside its globs (a leading `!`
 excludes, so `!Journal/**` means everything except `Journal/`). Hidden files
@@ -297,7 +323,16 @@ entries' pre-images are deleted but their rows stay, listed with
 `SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
 from the manifest along with their pre-images, so they no longer appear in
 `list_writes` and `undo_write` reports them as not found. `SEEKSTONE_HISTORY=0`
-disables the journal. `.seekstone/` is excluded from indexing and search like
+disables the journal.
+
+Write history must be a real folder in the vault. If `.seekstone/`,
+`.seekstone/history/`, its `blobs/` folder or `manifest.jsonl` is a symlink at
+startup, history is off for the session before anything is created through the
+link: writes still work but can't be undone, and the server's log, every write
+result, `list_writes` and `undo_write` say why. That is the one exception to
+"journaled before the first byte". A link made while the server runs is caught
+when a write starts its journal entry and before `undo_write` reads history:
+the call is refused before anything is written or read through it. `.seekstone/` is excluded from indexing and search like
 `.trash/`. Several server processes can share one journal: each manifest change
 holds `.seekstone/history/manifest.lock`, and a waiting process removes that
 lock only when its owner's pid on the same host has exited (or, where that

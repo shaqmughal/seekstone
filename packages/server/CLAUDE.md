@@ -16,11 +16,15 @@ Every rule here protects someone's notes. Tests enforce most of them, but read t
 - **Update the index through the helpers.** `upsertDoc`, `removeDoc`, `replaceDoc` and `refreshCachedNote` in `index/doc.ts`, and the `index/backlinks.ts` helpers, bump `ctx.generation`, which `list_tags`, `vault_stats` and `get_links` cache by. A direct `ctx.notes`/`ctx.backlinks` `set` or `delete` elsewhere serves stale results, and `index/index-guard.test.ts` fails on it.
 - **Audit.** A write tool's dispatch case in `dispatch.ts` returns an `audit` detail object with paths and counts only, never note content. Without it, calls aren't recorded when `SEEKSTONE_AUDIT_FILE` is set. See `docs/ARCHITECTURE.md` §2.
 - `.seekstone/` and `.trash/` are excluded from the walker.
-- **Reserved folders.** `assertWritable` refuses any path whose first segment is `.seekstone` or `.trash` (case-insensitive, after normalization). Pass `ctx.vaultRoot` as its third argument so absolute paths are caught too. Two callers pass `'.trash'` as the `allow` argument: `move_note` for its source, so a deleted note can be restored by moving it back, and `undo_write` for the journal entry's paths, so a restore can be undone. Don't pass it for any other agent-supplied path. `delete_note`'s internal move into `.trash/` doesn't go through the check.
+- **Reserved folders.** `assertWritable` refuses any path whose first segment is `.seekstone` or `.trash` (case-insensitive, after normalization). `ctx.vaultRoot` is its required third argument, so absolute paths are caught too. Two callers pass `'.trash'` as the `allow` argument: `move_note` for its source, so a deleted note can be restored by moving it back, and `undo_write` for the journal entry's paths, so a restore can be undone. Don't pass it for any other agent-supplied path. `delete_note`'s internal move into `.trash/` doesn't go through the check.
 
 ## Reads
 
 - Every tool that reads a file by path goes through `resolveVaultPath` (`vault-path.ts`). That is how `SEEKSTONE_READ_PATHS` hides files consistently; the index hides them too. `tools/path-guard.test.ts` enforces it.
+
+## Symlinks
+
+Seekstone doesn't follow symlinks below the vault root (SHA-575; the PRD is the SHA-575 issue). `crossesLink` (`symlinks.ts`) is the only implementation of the check; don't write another. `resolveVaultPath` and `assertWritable` refuse a path that crosses a link, `upsertDoc` keeps one out of the index (callers register backlinks only when it returns true), the watcher drops what was indexed under a folder that becomes a link, and a scoped boot walk filters its entries. Reads of an indexed path without a dot segment skip the check, which is safe only because nothing else admits a linked path into `ctx.notes`. Judge symlink findings against the threat model in WRITE-SAFETY §2: an agent using links the user made is in scope; another process racing the server is not.
 
 ## Adding a tool, prompt or resource
 
