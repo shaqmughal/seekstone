@@ -69,8 +69,6 @@ export async function undoWrite(
         : 'Write journal is disabled (SEEKSTONE_HISTORY=0); nothing to undo.',
     );
   }
-  // Nothing is read from history through a symlink made after boot (SHA-575).
-  journal.assertNotLinked();
   // Another server process on this vault may have written since we last looked.
   await journal.refresh();
 

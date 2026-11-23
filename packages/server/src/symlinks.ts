@@ -98,7 +98,7 @@ export function symlinkWriteError(relPath: string): Error {
  * `Note not found: <path>` with a path chosen to end that way, doesn't match.
  */
 export function isSymlinkRefusal(message: string): boolean {
-  if (message === TRASH_LINK_MESSAGE || message === HISTORY_LINK_WRITE_MESSAGE) return true;
+  if (message === TRASH_LINK_MESSAGE) return true;
   const tail = `" ${SYMLINK_ENDING}`;
   if (!message.endsWith(tail)) return false;
   return message.startsWith('"') || message.startsWith('Write not permitted: "');
@@ -107,9 +107,6 @@ export function isSymlinkRefusal(message: string): boolean {
 /** `delete_note` refusal when `.trash` is a link (fixed text, no path). */
 export const TRASH_LINK_MESSAGE =
   "Delete not permitted: .trash/ is a symlink, and Seekstone doesn't follow symlinks. Pass permanent: true to delete without recovery.";
-
-/** Write refusal when write history turns out to go through a link mid-session. */
-export const HISTORY_LINK_WRITE_MESSAGE = `Write not permitted: write history (.seekstone/history) ${SYMLINK_ENDING}`;
 
 /** Why write history is off for the session, when a link was found at boot. */
 export const HISTORY_OFF_MESSAGE =

@@ -77,7 +77,10 @@ poll interval with `SEEKSTONE_WATCH_POLL=1`). If the watcher stops watching
 part of the vault (on Linux, when the inotify watch limit runs out with
 ENOSPC or EMFILE), indexed reads there stay unchecked until a restart. Paths with a dot folder in them
 always get the full check, since the watcher doesn't watch dot folders.
-Writes are always checked.
+Writes are always checked. Write history is checked for links at startup
+only (§9): a link made inside `.seekstone/` while the server runs is caught
+at the next restart, the same kind of window as indexed reads, and outside
+this threat model, since only you or another program can make one.
 
 - Enforced by: the path-containment guard in every tool handler, and
   `crossesLink` (`symlinks.ts`), the one implementation of the link check.
@@ -332,10 +335,12 @@ Write history must be a real folder in the vault. If `.seekstone/`,
 startup, history is off for the session before anything is created through the
 link: writes still work but can't be undone, and the server's log, every write
 result, `list_writes` and `undo_write` say why. That is the one exception to
-"journaled before the first byte". A link made while the server runs is caught
-when a write starts its journal entry, and before `undo_write` and
-`list_writes` read history: the call is refused before anything is written
-or read through it. `.seekstone/` is excluded from indexing and search like
+"journaled before the first byte". The check runs at startup only: a link
+made inside `.seekstone/` while the server runs isn't detected until the next
+restart, and until then history is written and read through it. That is the
+same kind of window as indexed reads (§2), and outside the threat model: no
+Seekstone tool creates links, so only you or another program on your machine
+can make one. `.seekstone/` is excluded from indexing and search like
 `.trash/`. Several server processes can share one journal: each manifest change
 holds `.seekstone/history/manifest.lock`, and a waiting process removes that
 lock only when its owner's pid on the same host has exited (or, where that

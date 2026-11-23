@@ -104,7 +104,6 @@ describe('classifyError', () => {
     for (const msg of [
       `Write not permitted: "ext/a.md" goes through a symlink, and Seekstone doesn't follow symlinks.`,
       `"ext/a.md" goes through a symlink, and Seekstone doesn't follow symlinks.`,
-      `Write not permitted: write history (.seekstone/history) goes through a symlink, and Seekstone doesn't follow symlinks.`,
       `Delete not permitted: .trash/ is a symlink, and Seekstone doesn't follow symlinks. Pass permanent: true to delete without recovery.`,
       // A quoted path containing other policies' words doesn't change it.
       `Write not permitted: "SEEKSTONE_READ_PATHS x" goes through a symlink, and Seekstone doesn't follow symlinks.`,
