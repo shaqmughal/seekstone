@@ -1,5 +1,5 @@
 import { execFileSync } from 'node:child_process';
-import { mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
+import { chmodSync, mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from 'node:fs';
 import { mkdtemp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -159,9 +159,16 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1').each([
     const { stop, ready } = start(ctx);
     try {
       await ready;
-      // ln -sfn: a new link renamed over the old one.
-      linkDir(join(outside, 'b'), join(vault, 'ext-tmp'));
-      renameSync(join(vault, 'ext-tmp'), join(vault, 'ext'));
+      if (process.platform === 'win32') {
+        // Windows can't rename a junction over another, so retarget the way
+        // Windows tools do: remove the old link, then make the new one.
+        rmSync(join(vault, 'ext'));
+        linkDir(join(outside, 'b'), join(vault, 'ext'));
+      } else {
+        // ln -sfn: a new link renamed over the old one.
+        linkDir(join(outside, 'b'), join(vault, 'ext-tmp'));
+        renameSync(join(vault, 'ext-tmp'), join(vault, 'ext'));
+      }
       writeFileSync(join(outside, 'b', 'later2.md'), OUT);
       await settle(ctx);
       await settle(ctx);
@@ -249,3 +256,34 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('watcher after a link is
     }
   }, 60_000);
 });
+
+// POSIX only (Windows has no search bit), and not as root, which ignores it.
+describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')(
+  'watcher when a folder cannot be inspected',
+  () => {
+    it.runIf(process.platform !== 'win32' && process.getuid?.() !== 0)(
+      'skips an unlinkDir it cannot check, without throwing, and keeps running',
+      async () => {
+        const ctx = await makeCtx();
+        const { stop, ready } = startWatcher(ctx, undefined, {
+          usePolling: true,
+          pollInterval: 50,
+        });
+        try {
+          await ready;
+          rmSync(join(vault, 'proj', 'sub'), { recursive: true });
+          // Readable but not searchable: the poll sees sub gone, lstat fails.
+          chmodSync(join(vault, 'proj'), 0o600);
+          await new Promise((r) => setTimeout(r, 500));
+          chmodSync(join(vault, 'proj'), 0o755);
+          await settle(ctx);
+          expect(ctx.notes.has('proj/n.md')).toBe(true);
+        } finally {
+          chmodSync(join(vault, 'proj'), 0o755);
+          await stop();
+        }
+      },
+      60_000,
+    );
+  },
+);

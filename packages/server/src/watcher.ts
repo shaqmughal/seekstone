@@ -107,6 +107,22 @@ export function linkEventAction(
   return link.error ? { kind: 'ignore' } : { kind: 'purge', at: link.at };
 }
 
+/**
+ * What the watcher does with an `unlinkDir` event: `purge` the folder's
+ * entries when it is confirmed gone (or no longer a real directory, such as a
+ * link put in its place), `keep` them when it is a real directory again (a
+ * git checkout that recreated it), and `skip` the event when the folder can't
+ * be inspected (EACCES, EPERM): an error proves nothing, so nothing is purged
+ * and the watcher keeps running.
+ */
+export function unlinkDirAction(abs: string): 'purge' | 'keep' | 'skip' {
+  try {
+    return lstatSync(abs, { throwIfNoEntry: false })?.isDirectory() === true ? 'keep' : 'purge';
+  } catch {
+    return 'skip';
+  }
+}
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -246,8 +262,7 @@ export function startWatcher(
       // the folder is a real directory again by now (a git checkout that
       // recreated it), its notes are still there, so keep them.
       if (relPath === '') return;
-      if (lstatSync(abs, { throwIfNoEntry: false })?.isDirectory() === true) return;
-      removeUnder(relPath);
+      if (unlinkDirAction(abs) === 'purge') removeUnder(relPath);
     });
 
   const ready = new Promise<void>((resolve) => {

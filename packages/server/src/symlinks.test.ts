@@ -10,7 +10,7 @@ import {
   historyCrossesLink,
   isSymlinkRefusal,
 } from './symlinks.js';
-import { linkEventAction } from './watcher.js';
+import { linkEventAction, unlinkDirAction } from './watcher.js';
 
 let base: string;
 let vault: string;
@@ -89,6 +89,27 @@ describe('findLink and the watcher decision', () => {
         expect(findLink(vault, abs)).toEqual({ at: 'notes/sub', error: true });
         expect(crossesLink(vault, abs)).toBe('notes/sub');
         expect(linkEventAction(vault, abs)).toEqual({ kind: 'ignore' });
+      } finally {
+        chmodSync(join(vault, 'notes'), 0o755);
+      }
+    },
+  );
+});
+
+describe('unlinkDirAction', () => {
+  it('purges a folder that is gone or replaced by a link, keeps a recreated one', () => {
+    expect(unlinkDirAction(join(vault, 'gone'))).toBe('purge');
+    expect(unlinkDirAction(join(vault, 'ext'))).toBe('purge');
+    expect(unlinkDirAction(join(vault, 'notes'))).toBe('keep');
+  });
+
+  it.runIf(process.platform !== 'win32' && process.getuid?.() !== 0)(
+    'skips the event, without throwing, when the folder cannot be inspected',
+    () => {
+      chmodSync(join(vault, 'notes'), 0o000);
+      try {
+        expect(() => unlinkDirAction(join(vault, 'notes', 'sub'))).not.toThrow();
+        expect(unlinkDirAction(join(vault, 'notes', 'sub'))).toBe('skip');
       } finally {
         chmodSync(join(vault, 'notes'), 0o755);
       }
