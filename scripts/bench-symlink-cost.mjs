@@ -93,6 +93,23 @@ for (const [label, env] of [
   rows[label] = median(runs);
 }
 
+// move_note's added work per rewritten note: the write check on each
+// candidate (canWrite walks the path) plus upsertDoc's own walk after the
+// rewrite. Measured on the hub note's real linkers in vault-1k.
+const { canWrite } = await load('policy.ts');
+if (canWrite && symlinks?.crossesLink) {
+  const ctx1k = await ctxFor(FIXTURE_1K);
+  const linkers = [...new Set((ctx1k.backlinks.get(HUB) ?? []).map((r) => r.path))];
+  rows['move_note candidates (hub linkers)'] = linkers.length;
+  rows['move_note per candidate: canWrite + upsertDoc walk (µs)'] =
+    (await perCall(200, () => {
+      for (const path of linkers) {
+        canWrite(ctx1k.policy, path, FIXTURE_1K);
+        symlinks.crossesLink(FIXTURE_1K, join(FIXTURE_1K, path));
+      }
+    })) / linkers.length;
+}
+
 // Writes on a scratch copy of vault-1k.
 const scratch = mkdtempSync(join(tmpdir(), 'seekstone-symlink-cost-'));
 try {

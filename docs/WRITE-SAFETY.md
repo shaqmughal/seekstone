@@ -73,7 +73,9 @@ parent folders. Reads of a note already in the index skip the link check, so
 they are as current as the index: a folder swapped for a link stays readable
 for its indexed notes from startup until the watcher is ready, and after that
 until the watcher reports the change (normally well under a second, up to the
-poll interval with `SEEKSTONE_WATCH_POLL=1`). Paths with a dot folder in them
+poll interval with `SEEKSTONE_WATCH_POLL=1`). If the watcher stops watching
+part of the vault (on Linux, when the inotify watch limit runs out with
+ENOSPC or EMFILE), indexed reads there stay unchecked until a restart. Paths with a dot folder in them
 always get the full check, since the watcher doesn't watch dot folders.
 Writes are always checked.
 
@@ -331,8 +333,9 @@ startup, history is off for the session before anything is created through the
 link: writes still work but can't be undone, and the server's log, every write
 result, `list_writes` and `undo_write` say why. That is the one exception to
 "journaled before the first byte". A link made while the server runs is caught
-when a write starts its journal entry and before `undo_write` reads history:
-the call is refused before anything is written or read through it. `.seekstone/` is excluded from indexing and search like
+when a write starts its journal entry, and before `undo_write` and
+`list_writes` read history: the call is refused before anything is written
+or read through it. `.seekstone/` is excluded from indexing and search like
 `.trash/`. Several server processes can share one journal: each manifest change
 holds `.seekstone/history/manifest.lock`, and a waiting process removes that
 lock only when its owner's pid on the same host has exited (or, where that
