@@ -18,12 +18,17 @@
 // The logic lives in version-sync.mjs, which has the tests.
 
 import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { stampManifestVersion, syncServerJson } from './version-sync.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
+// fileURLToPath, not the URL's pathname, which gives /D:/... on Windows.
+const repoRoot = fileURLToPath(new URL('..', import.meta.url));
 const check = process.argv.includes('--check');
 
-const { version } = JSON.parse(readFileSync(`${repoRoot}packages/server/package.json`, 'utf8'));
+const { version } = JSON.parse(
+  readFileSync(join(repoRoot, 'packages/server/package.json'), 'utf8'),
+);
 
 const files = [
   ['server.json', syncServerJson],
@@ -32,7 +37,7 @@ const files = [
 
 let drifted = 0;
 for (const [path, sync] of files) {
-  const raw = readFileSync(`${repoRoot}${path}`, 'utf8');
+  const raw = readFileSync(join(repoRoot, path), 'utf8');
   const next = sync(raw, version);
   if (next === raw) {
     console.log(`${path} already in sync (version ${version}).`);
@@ -46,7 +51,7 @@ for (const [path, sync] of files) {
     );
     continue;
   }
-  writeFileSync(`${repoRoot}${path}`, next);
+  writeFileSync(join(repoRoot, path), next);
   console.log(`${path} synced to version ${version}.`);
 }
 
