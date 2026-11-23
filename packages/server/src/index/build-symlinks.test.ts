@@ -4,7 +4,7 @@ import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { parseWritePolicy, readScopeWalk } from '../policy.js';
 import { scopeWarnings } from '../scope-warnings.js';
-import { buildIndex } from './build.js';
+import { type BuildProgress, buildIndex } from './build.js';
 
 /**
  * SHA-575: fast-glob reads from the fixed base of each include glob even
@@ -47,6 +47,19 @@ describe('scoped boot walk through a linked starting folder', () => {
       expect([...built.attachments.byPath.keys()].some((k) => k.startsWith('notes/'))).toBe(false);
     },
   );
+
+  it('reports progress for the filtered entries only (SHA-265 with SHA-575)', async () => {
+    const events: BuildProgress[] = [];
+    await buildIndex(
+      vault,
+      readScopeWalk(parseWritePolicy({ SEEKSTONE_READ_PATHS: '{Notes,Real}/**' })),
+      (e) => events.push(e),
+    );
+    // Only Real/r.md survives the filter; secret.md, deep.md and pic.png
+    // behind the Notes link are never counted.
+    expect(events.find((e) => e.phase === 'walked')).toMatchObject({ files: 1, notes: 1 });
+    expect(events.find((e) => e.phase === 'indexing')).toMatchObject({ notes: 1 });
+  });
 
   it('still indexes the real folder in the same scope', async () => {
     const built = await buildIndex(

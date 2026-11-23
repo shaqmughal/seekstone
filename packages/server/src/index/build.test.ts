@@ -1,8 +1,15 @@
 import { chmod, mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
-import { buildIndex, indexNotes, type NoteFile } from './build.js';
+import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
+import { createLogger } from '../log.js';
+import {
+  type BuildProgress,
+  buildIndex,
+  indexNotes,
+  logBuildProgress,
+  type NoteFile,
+} from './build.js';
 
 let vaultRoot: string;
 
@@ -250,5 +257,99 @@ describe('indexNotes (SHA-532)', () => {
     expect(notes.get('c/d.md')?.tags).toBe('fruit');
     expect(notes.get('c/d.md')?.tasks).toHaveLength(1);
     expect(backlinks.get('a.md')?.map((b) => b.path)).toEqual(['b.md']);
+  });
+});
+
+describe('buildIndex onProgress (SHA-265)', () => {
+  async function vaultOf(n: number): Promise<string> {
+    const root = await mkdtemp(join(tmpdir(), 'seekstone-build-progress-'));
+    await mkdir(join(root, 'notes'));
+    await Promise.all(
+      Array.from({ length: n }, (_, i) =>
+        writeFile(join(root, 'notes', `n${i}.md`), `# Note ${i}\n`, 'utf8'),
+      ),
+    );
+    // An attachment counts as a walked file but not as a note.
+    await writeFile(join(root, 'pic.png'), 'png', 'utf8');
+    return root;
+  }
+
+  async function progressOf(root: string): Promise<BuildProgress[]> {
+    const events: BuildProgress[] = [];
+    await buildIndex(root, undefined, (e) => events.push(e));
+    return events;
+  }
+
+  it('reports walked, reading every 1,000 notes and at the end, then indexing', async () => {
+    const root = await vaultOf(2500);
+    try {
+      const events = await progressOf(root);
+      expect(events.map((e) => e.phase)).toEqual([
+        'walked',
+        'reading',
+        'reading',
+        'reading',
+        'indexing',
+      ]);
+      expect(events[0]).toMatchObject({ phase: 'walked', files: 2501, notes: 2500 });
+      expect(events[0]?.phase === 'walked' && events[0].ms).toBeGreaterThanOrEqual(0);
+      expect(events.slice(1, 4)).toEqual([
+        { phase: 'reading', read: 1000, total: 2500 },
+        { phase: 'reading', read: 2000, total: 2500 },
+        { phase: 'reading', read: 2500, total: 2500 },
+      ]);
+      expect(events[4]).toEqual({ phase: 'indexing', notes: 2500 });
+    } finally {
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
+  it('a vault under 1,000 notes gets only walked and indexing', async () => {
+    const root = await vaultOf(999);
+    try {
+      const events = await progressOf(root);
+      expect(events.map((e) => e.phase)).toEqual(['walked', 'indexing']);
+      expect(events[0]).toMatchObject({ phase: 'walked', files: 1000, notes: 999 });
+      expect(events[1]).toEqual({ phase: 'indexing', notes: 999 });
+    } finally {
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
+  it('a vault of exactly 2,000 notes does not repeat the last reading event', async () => {
+    const root = await vaultOf(2000);
+    try {
+      const events = await progressOf(root);
+      expect(events.filter((e) => e.phase === 'reading')).toEqual([
+        { phase: 'reading', read: 1000, total: 2000 },
+        { phase: 'reading', read: 2000, total: 2000 },
+      ]);
+    } finally {
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+});
+
+describe('logBuildProgress (SHA-265)', () => {
+  const NOW = new Date('2026-11-22T00:00:00.000Z');
+
+  it('logs each event as one info line on stderr, never stdout', () => {
+    const lines: string[] = [];
+    const stdout = vi.spyOn(process.stdout, 'write');
+    try {
+      const log = createLogger({ env: {}, stderr: (l) => void lines.push(l), now: () => NOW });
+      logBuildProgress(log, { phase: 'walked', files: 10001, notes: 10000, ms: 42 });
+      logBuildProgress(log, { phase: 'reading', read: 4000, total: 10000 });
+      logBuildProgress(log, { phase: 'indexing', notes: 9999 });
+      expect(stdout).not.toHaveBeenCalled();
+    } finally {
+      stdout.mockRestore();
+    }
+    const ts = NOW.toISOString();
+    expect(lines).toEqual([
+      `INFO  ${ts} indexing: walked vault files=10001 notes=10000 ms=42\n`,
+      `INFO  ${ts} indexing: read 4000/10000 notes\n`,
+      `INFO  ${ts} indexing: parsing 9999 notes\n`,
+    ]);
   });
 });
