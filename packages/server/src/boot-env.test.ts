@@ -39,24 +39,33 @@ function bootLog(env: Record<string, string>): Promise<string> {
       stdio: ['pipe', 'ignore', 'pipe'],
     });
     let err = '';
-    const timer = setTimeout(() => {
-      child.kill();
-      reject(new Error(`server did not finish indexing:\n${err}`));
-    }, 15_000);
-    const fail = (why: string): void => {
+    // How the test ends once the child has fully closed. Settling only on
+    // `close` keeps afterEach from deleting the vault while the server is
+    // still creating .seekstone/history in it.
+    let settle: (() => void) | undefined;
+    const stop = (then: () => void): void => {
+      if (settle) return;
       clearTimeout(timer);
-      reject(new Error(`server ${why} before indexing:\n${err}`));
+      settle = then;
+      child.kill();
     };
-    child.on('error', (e) => fail(`failed to start (${e.message})`));
-    child.on('exit', (code) => {
-      if (!err.includes('index ready')) fail(`exited with code ${code}`);
+    const timer = setTimeout(() => {
+      stop(() => reject(new Error(`server did not finish indexing:\n${err}`)));
+    }, 15_000);
+    child.on('error', (e) => {
+      clearTimeout(timer);
+      reject(new Error(`server failed to start (${e.message}):\n${err}`));
+    });
+    child.on('close', (code) => {
+      clearTimeout(timer);
+      if (settle) settle();
+      else reject(new Error(`server exited with code ${code} before indexing:\n${err}`));
     });
     child.stderr.on('data', (d: Buffer) => {
       err += d.toString();
       if (err.includes('index ready')) {
-        clearTimeout(timer);
-        child.kill();
-        resolve(err);
+        const log = err;
+        stop(() => resolve(log));
       }
     });
   });
