@@ -12,7 +12,7 @@ import { AuditLog, resolveAuditConfig } from './audit.js';
 import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
-import { normalizeEnv } from './env.js';
+import { flagWarnings, normalizeEnv } from './env.js';
 import { buildIndex, logBuildProgress } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
 import { resolveInstructions } from './instructions.js';
@@ -70,8 +70,9 @@ if (intent === 'fetch-model') {
 }
 
 // Drop unfilled `${user_config.*}` placeholders from a .mcpb install before
-// anything reads the environment, the logger included (SHA-633).
-const envWarnings = normalizeEnv(process.env);
+// anything reads the environment, the logger included (SHA-633). Then flag
+// any on/off setting with a value we don't recognize.
+const envWarnings = [...normalizeEnv(process.env), ...flagWarnings(process.env)];
 const log = createLogger();
 for (const w of envWarnings) log.warn(w);
 

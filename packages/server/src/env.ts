@@ -43,3 +43,28 @@ export function envFlag(value: string | undefined, fallback: boolean): boolean {
   if (OFF.has(v)) return false;
   return fallback;
 }
+
+/** Every on/off setting the server reads, with the default `envFlag` falls back to. */
+const FLAG_DEFAULTS: Readonly<Record<string, boolean>> = {
+  SEEKSTONE_READ_ONLY: false,
+  SEEKSTONE_HISTORY: true,
+  SEEKSTONE_WATCH_POLL: false,
+  SEEKSTONE_SEMANTIC: false,
+};
+
+/**
+ * One warning per on/off setting whose value `envFlag` doesn't recognize, so
+ * a typo like `SEEKSTONE_READ_ONLY=y` is visible instead of silently leaving
+ * writes on. Blank values count as unset and don't warn.
+ */
+export function flagWarnings(env: Record<string, string | undefined>): string[] {
+  const warnings: string[] = [];
+  for (const [name, fallback] of Object.entries(FLAG_DEFAULTS)) {
+    const v = (env[name] ?? '').trim().toLowerCase();
+    if (v === '' || ON.has(v) || OFF.has(v)) continue;
+    warnings.push(
+      `${name}=${JSON.stringify(env[name])} is not an on/off value (1/0, true/false, yes/no, on/off); using the default, ${fallback ? 'on' : 'off'}`,
+    );
+  }
+  return warnings;
+}

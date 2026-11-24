@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { envFlag, normalizeEnv } from './env.js';
+import { envFlag, flagWarnings, normalizeEnv } from './env.js';
 import { parseWritePolicy } from './policy.js';
 
 describe('envFlag', () => {
@@ -55,5 +55,37 @@ describe('normalizeEnv', () => {
     const before = { ...env };
     expect(normalizeEnv(env)).toEqual([]);
     expect(env).toEqual(before);
+  });
+});
+
+describe('flagWarnings', () => {
+  it('warns once per unrecognized on/off value and names the default', () => {
+    const warnings = flagWarnings({
+      SEEKSTONE_READ_ONLY: 'y',
+      SEEKSTONE_HISTORY: 'enabled',
+      SEEKSTONE_WATCH_POLL: '2',
+      SEEKSTONE_SEMANTIC: 'truee',
+    });
+    expect(warnings).toEqual([
+      expect.stringMatching(/^SEEKSTONE_READ_ONLY="y" .*using the default, off$/),
+      expect.stringMatching(/^SEEKSTONE_HISTORY="enabled" .*using the default, on$/),
+      expect.stringMatching(/^SEEKSTONE_WATCH_POLL="2" .*using the default, off$/),
+      expect.stringMatching(/^SEEKSTONE_SEMANTIC="truee" .*using the default, off$/),
+    ]);
+  });
+
+  it.each([undefined, '', '  ', '1', 'TRUE', ' off ', 'No'])('%j does not warn', (v) => {
+    expect(
+      flagWarnings({
+        SEEKSTONE_READ_ONLY: v,
+        SEEKSTONE_HISTORY: v,
+        SEEKSTONE_WATCH_POLL: v,
+        SEEKSTONE_SEMANTIC: v,
+      }),
+    ).toEqual([]);
+  });
+
+  it('ignores settings that are not on/off flags', () => {
+    expect(flagWarnings({ SEEKSTONE_LOG_LEVEL: 'loud', SEEKSTONE_VAULT: 'y' })).toEqual([]);
   });
 });
