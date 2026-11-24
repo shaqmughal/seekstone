@@ -27,10 +27,15 @@ afterEach(() => {
 
 /** Boot the server, wait for the index, and return everything it logged. */
 function bootLog(env: Record<string, string>): Promise<string> {
+  // Drop any SEEKSTONE_* the developer has exported so only this test's
+  // settings reach the server.
+  const inherited = Object.fromEntries(
+    Object.entries(process.env).filter(([k]) => !k.startsWith('SEEKSTONE_')),
+  );
   return new Promise((resolve, reject) => {
     const child = spawn(process.execPath, ['--import', 'tsx', 'src/index.ts'], {
       cwd: serverDir,
-      env: { ...process.env, SEEKSTONE_VAULT: vault, SEEKSTONE_LOG_LEVEL: 'info', ...env },
+      env: { ...inherited, SEEKSTONE_VAULT: vault, SEEKSTONE_LOG_LEVEL: 'info', ...env },
       stdio: ['pipe', 'ignore', 'pipe'],
     });
     let err = '';
@@ -38,6 +43,14 @@ function bootLog(env: Record<string, string>): Promise<string> {
       child.kill();
       reject(new Error(`server did not finish indexing:\n${err}`));
     }, 15_000);
+    const fail = (why: string): void => {
+      clearTimeout(timer);
+      reject(new Error(`server ${why} before indexing:\n${err}`));
+    };
+    child.on('error', (e) => fail(`failed to start (${e.message})`));
+    child.on('exit', (code) => {
+      if (!err.includes('index ready')) fail(`exited with code ${code}`);
+    });
     child.stderr.on('data', (d: Buffer) => {
       err += d.toString();
       if (err.includes('index ready')) {
