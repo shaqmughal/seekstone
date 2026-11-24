@@ -4,12 +4,14 @@ import {
   MODEL2VEC_WEIGHTS,
   type Model2VecWeights,
 } from '@seekstone/core/embed';
+import { envFlag } from '../env.js';
 import { DEFAULT_MODEL, findModel, MODEL_IDS, type ModelManifest } from './model-manifest.js';
 
 /**
  * Semantic-search configuration, resolved from env at boot.
  *
- * - `SEEKSTONE_SEMANTIC=1` enables the feature (off by default).
+ * - `SEEKSTONE_SEMANTIC=1` (or `true`, `yes`, `on`) enables the feature (off
+ *   by default).
  * - `SEEKSTONE_SEMANTIC_MODEL` picks which fetched model to load
  *   (`potion-base-8M` default, or the opt-in `potion-retrieval-32M`).
  * - `SEEKSTONE_SEMANTIC_WEIGHTS` picks how the embedding table is held in
@@ -88,7 +90,7 @@ export function resolveSemanticConfig(
   env: NodeJS.ProcessEnv,
   homedir: string,
 ): SemanticConfig | undefined {
-  if (env.SEEKSTONE_SEMANTIC !== '1') return undefined;
+  if (!envFlag(env.SEEKSTONE_SEMANTIC, false)) return undefined;
   const modelId = resolveModelId(env.SEEKSTONE_SEMANTIC_MODEL);
   const weights = resolveWeights(env.SEEKSTONE_SEMANTIC_WEIGHTS);
   const cacheDir = defaultCacheDir(env, homedir);

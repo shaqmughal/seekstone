@@ -3,6 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
+import { envFlag } from './env.js';
 import { addNoteBacklinks, removeNoteBacklinks } from './index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from './index/doc.js';
 import { addAttachment, removeAttachment } from './index/resolve.js';
@@ -92,6 +93,14 @@ export function resolvePollInterval(
   return parsed;
 }
 
+/** Polling: explicit option → SEEKSTONE_WATCH_POLL (on/off, see `envFlag`) → off. */
+export function resolveUsePolling(
+  optValue: boolean | undefined,
+  envValue: string | undefined,
+): boolean {
+  return optValue ?? envFlag(envValue, false);
+}
+
 /**
  * What the watcher does with an add/change event, by the symlink rule
  * (SHA-575): `purge` everything indexed under a component that is a link,
@@ -128,7 +137,7 @@ export function startWatcher(
   log?: Logger,
   opts?: WatcherOptions,
 ): WatcherHandle {
-  const usePolling = opts?.usePolling ?? process.env.SEEKSTONE_WATCH_POLL === '1';
+  const usePolling = resolveUsePolling(opts?.usePolling, process.env.SEEKSTONE_WATCH_POLL);
   const pollInterval = resolvePollInterval(
     opts?.pollInterval,
     process.env.SEEKSTONE_WATCH_POLL_INTERVAL,

@@ -1,5 +1,6 @@
 import { posix, relative, resolve } from 'node:path';
 import picomatch from 'picomatch';
+import { envFlag } from './env.js';
 import { crossesLink, symlinkWriteError } from './symlinks.js';
 
 /**
@@ -60,8 +61,7 @@ export function splitGlobs(raw: string | undefined): string[] {
 }
 
 export function parseWritePolicy(env: Record<string, string | undefined>): WritePolicy {
-  const ro = (env.SEEKSTONE_READ_ONLY ?? '').toLowerCase();
-  const policy: WritePolicy = { readOnly: ro === '1' || ro === 'true' };
+  const policy: WritePolicy = { readOnly: envFlag(env.SEEKSTONE_READ_ONLY, false) };
   const writeGlobs = splitGlobs(env.SEEKSTONE_WRITE_PATHS);
   if (writeGlobs.length > 0) policy.writeGlobs = writeGlobs;
   const readGlobs = splitGlobs(env.SEEKSTONE_READ_PATHS);
