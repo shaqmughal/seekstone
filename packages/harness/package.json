@@ -15,11 +15,11 @@
   },
   "dependencies": {
     "@seekstone/core": "*",
-    "cac": "^7.0.1",
+    "cac": "^7.1.1",
     "fast-glob": "^3.3.2",
     "minisearch": "^7.1.1",
     "tiktoken": "^1.0.22",
-    "undici": "^8.12.4",
+    "undici": "^8.13.0",
     "yaml": "^2.9.1"
   }
 }
