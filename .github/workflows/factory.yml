@@ -13,6 +13,12 @@ name: Factory
 #            Linear key, no write token: its only output is an artifact with
 #            pr.md or blocked.md, a git bundle, and on the review round
 #            review-replies.json.
+#   local-review  new runs that end in pr.md: runs the CodeRabbit CLI on the
+#            branch, on its own runner, and adds the result to pr.md (SHA-659).
+#            The only job that holds the CodeRabbit key; it never runs the agent.
+#   review-fix    when the local review found anything at Minor or above: one
+#            more agent pass with local-review.md, then the outcome replaces
+#            the work job's.
 #   deliver  holds the Linear key and the factory app token. New run: pushes
 #            the branch and opens a draft PR. Fix run: pushes to the PR branch
 #            and updates the description. Or comments and moves the ticket to
@@ -23,7 +29,7 @@ name: Factory
 # The off switch is the FACTORY_ENABLED repo variable ("true" to run).
 #
 # Setup: the `factory` environment (main only) holds CLAUDE_CODE_OAUTH_TOKEN,
-# LINEAR_API_KEY and FACTORY_APP_PRIVATE_KEY. Repo variables FACTORY_APP_CLIENT_ID
+# LINEAR_API_KEY, FACTORY_APP_PRIVATE_KEY and CODERABBIT_API_KEY. Repo variables FACTORY_APP_CLIENT_ID
 # and FACTORY_APP_SLUG name the factory GitHub App (contents and pull requests
 # read/write, installed on this repo only).
 
@@ -70,6 +76,10 @@ concurrency:
 
 env:
   CLAUDE_CODE_VERSION: 2.1.316
+  # The local review's CLI, pinned with the SHA-256 of its linux-x64 zip
+  # (from the release's SHA256SUMS). Update both together.
+  CODERABBIT_VERSION: 0.9.7
+  CODERABBIT_SHA256: 1382d81b6b98bfbde6e7afbd529c3ab1f3154cbb6cbdf5d8beb388318ab59c5c
 
 jobs:
   prepare:
@@ -213,6 +223,9 @@ jobs:
     timeout-minutes: 60
     permissions:
       contents: read
+    outputs:
+      base: ${{ steps.base.outputs.sha }}
+      deliver: ${{ steps.package.outputs.deliver }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
@@ -227,6 +240,11 @@ jobs:
           ref: ${{ inputs.pr != '' && needs.prepare.outputs.branch || 'main' }}
           fetch-depth: 0
           persist-credentials: false
+
+      # Recorded before the agent runs, for the local review and its fix pass.
+      - name: Record the base commit
+        id: base
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
@@ -281,8 +299,11 @@ jobs:
           echo "::notice::resuming from $RESUME"
 
       # Under the job's 60 minutes, so the packaging steps below still run
-      # and save the work when the agent runs long.
-      - name: Run the playbook
+      # and save the work when the agent runs long. review-fix runs this same
+      # step (a YAML alias), so the two passes can't drift apart.
+      - &run-playbook
+        name: Run the playbook
+        id: agent
         timeout-minutes: 50
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -309,6 +330,11 @@ jobs:
           This is CI-fix attempt ${ATTEMPT} on the existing branch ${BRANCH}, which is checked out.
           The ticket is in ${FACTORY_DIR}/ticket.md, the failing checks in ${FACTORY_DIR}/ci-failure.md,
           and the current PR description in ${FACTORY_DIR}/pr.md."
+          elif [ -f "$FACTORY_DIR/local-review.md" ]; then
+            prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
+          This is the local review pass on the branch ${BRANCH}, which is checked out.
+          The ticket is in ${FACTORY_DIR}/ticket.md, CodeRabbit's local findings in
+          ${FACTORY_DIR}/local-review.md, and the PR description you wrote in ${FACTORY_DIR}/pr.md."
           else
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           The ticket is in ${FACTORY_DIR}/ticket.md. Use the branch name ${BRANCH}."
@@ -354,6 +380,7 @@ jobs:
       # deliver can save it to a branch when no PR comes out of the run: a
       # block, the allowance running out, a timeout or a crash.
       - name: Package the result
+        id: package
         if: always()
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
@@ -394,6 +421,7 @@ jobs:
           if [ "$ahead" -eq 0 ] && [ ! -f "$FACTORY_DIR/review-findings.md" ]; then
             echo "::error::pr.md but no new commits"; exit 1
           fi
+          echo "deliver=true" >> "$GITHUB_OUTPUT"
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always()
@@ -403,8 +431,225 @@ jobs:
           path: ${{ runner.temp }}/factory/
           retention-days: 7
 
-  deliver:
+  # The CodeRabbit CLI reviews the branch before the PR opens. This job holds
+  # the CodeRabbit key and runs on its own runner: the agent can run any code
+  # in the work job (npm scripts, tests), and a process it leaves behind would
+  # outlive its step, so no step of the work job can hold a key the agent
+  # mustn't see. Nothing here runs code from the agent's branch: the scripts
+  # come from the base commit, and the CLI only reads the branch.
+  local-review:
     needs: [prepare, work]
+    if: inputs.pr == '' && needs.work.outputs.deliver == 'true'
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 25
+    permissions:
+      contents: read
+    outputs:
+      fix: ${{ steps.report.outputs.fix }}
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ needs.work.outputs.base }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory
+
+      # In a separate worktree, so this checkout (and the script that reads
+      # the review) stays at the base commit.
+      - name: Check out the branch to review
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+        run: |
+          git branch main HEAD
+          git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$BRANCH"
+          git worktree add "$RUNNER_TEMP/review-src" "$BRANCH"
+
+      - name: Install the CodeRabbit CLI
+        id: install
+        continue-on-error: true
+        working-directory: ${{ runner.temp }}
+        run: |
+          mkdir coderabbit && cd coderabbit
+          curl -fsSL --retry 3 -o cli.zip \
+            "https://cli.coderabbit.ai/releases/${CODERABBIT_VERSION}/coderabbit-linux-x64.zip"
+          echo "${CODERABBIT_SHA256}  cli.zip" | sha256sum --check --strict
+          unzip -q cli.zip coderabbit
+          ./coderabbit --version
+
+      # The key goes on the command line (the CLI doesn't store a key given
+      # that way) and HOME is a scratch directory, removed afterwards. One
+      # review per run, never --use-credits: when the included allowance is
+      # used up the CLI refuses, and the run goes on without the review.
+      - name: Review the branch
+        id: review
+        if: steps.install.outcome == 'success'
+        working-directory: ${{ runner.temp }}/review-src
+        env:
+          CODERABBIT_API_KEY: ${{ secrets.CODERABBIT_API_KEY }}
+          HOME: ${{ runner.temp }}/coderabbit-home
+        run: |
+          if [ -z "$CODERABBIT_API_KEY" ]; then
+            echo "status=nokey" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          mkdir -p "$HOME"
+          out="$RUNNER_TEMP/local-review.jsonl"
+          status=0
+          timeout 15m "$RUNNER_TEMP/coderabbit/coderabbit" review --agent --deep --base main \
+            --api-key "$CODERABBIT_API_KEY" > "$out" || status=$?
+          rm -rf "$HOME"
+          # The review text goes into pr.md and an artifact, which are public.
+          if grep -qF "$CODERABBIT_API_KEY" "$out"; then
+            : > "$out"
+            status=leak
+          fi
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+
+      - name: Add the review to pr.md
+        id: report
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          INSTALLED: ${{ steps.install.outcome }}
+          STATUS: ${{ steps.review.outputs.status }}
+        run: |
+          skip() { node scripts/factory/local-review.mjs skip "$FACTORY_DIR" "$1"; }
+          if [ "$INSTALLED" != success ]; then
+            skip "could not install CodeRabbit CLI $CODERABBIT_VERSION (download or checksum failed)"
+          elif [ "$STATUS" = nokey ]; then
+            skip "the CODERABBIT_API_KEY secret is not set"
+          elif [ "$STATUS" = leak ]; then
+            skip "the CLI output contained the API key, so it was thrown away"
+          elif [ -z "$STATUS" ]; then
+            skip "the review step failed"
+          else
+            node scripts/factory/local-review.mjs report "$FACTORY_DIR" "$RUNNER_TEMP/local-review.jsonl" "$STATUS"
+          fi
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory/
+          retention-days: 7
+          overwrite: true
+
+  # The agent's pass over the local review's findings, on a fresh runner
+  # without the CodeRabbit key. Its outcome replaces the work job's only when
+  # the pass ends in pr.md or blocked.md; otherwise (a timeout, a crash, the
+  # allowance running out) the first pass is delivered, and pr.md already
+  # lists the findings as not addressed.
+  review-fix:
+    needs: [prepare, work, local-review]
+    if: needs.local-review.outputs.fix == 'true'
+    runs-on: ubuntu-latest
+    environment: factory
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ needs.work.outputs.base }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory
+
+      - name: Check out the branch
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          BRANCH: ${{ needs.prepare.outputs.branch }}
+        run: |
+          git branch main HEAD
+          git fetch "$FACTORY_DIR/work.bundle" "HEAD:refs/heads/$BRANCH"
+          git switch "$BRANCH"
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install and build
+        run: |
+          npm ci
+          npm run build -w seekstone
+          npm install --global "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}"
+
+      - name: Set the commit identity
+        env:
+          GH_TOKEN: ${{ github.token }}
+          APP_SLUG: ${{ vars.FACTORY_APP_SLUG }}
+        run: |
+          id=$(gh api "users/${APP_SLUG}%5Bbot%5D" --jq .id)
+          git config user.name "${APP_SLUG}[bot]"
+          git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
+
+      - *run-playbook
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: factory-transcript-local-review
+          path: ${{ runner.temp }}/transcript/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Package the result
+        id: package
+        if: steps.agent.outcome == 'success'
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          BASE: ${{ needs.work.outputs.base }}
+        run: |
+          if [ -f "$FACTORY_DIR/quota.md" ]; then
+            echo "::warning::the Max allowance ran out in the fix pass; delivering the first pass"
+            exit 0
+          fi
+          if [ -f "$FACTORY_DIR/blocked.md" ]; then
+            rm -f "$FACTORY_DIR/pr.md"
+            if [ -n "$(git status --porcelain)" ]; then
+              git add -A
+              git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
+                echo "::warning::could not commit the uncommitted changes"
+            fi
+          elif [ ! -f "$FACTORY_DIR/pr.md" ]; then
+            echo "::warning::the fix pass left neither pr.md nor blocked.md; delivering the first pass"
+            exit 0
+          fi
+          git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
+          echo "upload=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: steps.package.outputs.upload == 'true'
+        with:
+          name: factory-outcome
+          path: ${{ runner.temp }}/factory/
+          retention-days: 7
+          overwrite: true
+
+  deliver:
+    needs: [prepare, work, local-review, review-fix]
     if: always() && needs.prepare.outputs.run == 'true'
     runs-on: ubuntu-latest
     environment: factory

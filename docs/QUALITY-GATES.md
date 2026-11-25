@@ -164,6 +164,15 @@ The model comes from the ticket's Linear labels: `factory:opus` always gets Opus
 
 `factory.yml` opens every PR as a draft. `factory-followup.yml` runs `scripts/factory/followup.mjs` each time CI, CodeQL, CodSpeed or Quality rules finishes on a `factory/` branch, and when CodeRabbit's check finishes. The PR stays a draft until every required check has passed on the head commit and CodeRabbit has reviewed that commit. Skipped and neutral results count as passing. A CodeRabbit review counts when it is on the head commit (an approval, a request for changes or a plain comment review), or when its check on the head finished `success`, or `skipped` with "No files to review". Ready for review is also what moves the ticket to In Review. The review gate passes on a draft, so it doesn't hold the draft step up.
 
+### The local CodeRabbit review
+
+A new run that ends in `pr.md` gets a CodeRabbit review before the PR opens (SHA-659). The `local-review` job runs the pinned CodeRabbit CLI (`coderabbit review --agent --deep --base main`, the same policy as the PR review) on the agent's branch and adds a `## Local CodeRabbit review` section to `pr.md`. When it finds anything at Minor or above, the `review-fix` job gives the agent one more pass with the findings in `local-review.md`: it fixes the ones that hold up, explains the rest in that section, and must fix or block on Major and Critical findings. The PR then opens with the fixes in it, and the PR review and the review round follow as usual.
+
+- **The key stays away from the agent.** `CODERABBIT_API_KEY` is used only in `local-review`, which runs on its own runner. The agent can run arbitrary code in its job (tests, npm scripts), and a process it leaves running would outlast its step, so a key in any later step of that job would be within its reach. `local-review` runs scripts from the base commit, never from the branch, and discards the CLI output if it contains the key.
+- **Budget.** One local review per run. CodeRabbit includes 10 reviews per rolling hour for this repo, and the factory never passes `--use-credits`. When the allowance is used up, or the CLI fails or times out (15 minutes), the section says the review was skipped and why, and the PR opens without it.
+- **Pinned CLI.** `factory.yml` pins the CLI version and the SHA-256 of its download. To update it, take both from the release's `SHA256SUMS`.
+- **When the fix pass doesn't finish** (a timeout, a crash, the Max allowance), the first pass is delivered, and the section lists the findings as not addressed.
+
 ### The review round
 
 When CI is green and CodeRabbit has open findings, the follow-up starts one review round before it marks the PR ready. Open findings are any of: CodeRabbit's latest approval or request for changes asks for changes, an unresolved CodeRabbit thread, a finding in its summary comment, or a comment its latest review left outside the diff. The round is a fix run (`factory.yml` with `round=review`) whose input is `review-findings.md`: each finding with its severity and place, quoted as data. The agent fixes the findings that hold up, each with a failing test first, and for the rest writes a reason. Deliver posts reasons for threads as replies from the factory app, only on threads that are still open. Major and Critical findings must be fixed or blocked on.
@@ -198,6 +207,8 @@ Tickets run one after another, each as its own `factory.yml` run, and the job wa
 | --- | --- | --- |
 | `prepare` | Linear key | Runs the gate, writes `ticket.md`, moves the ticket. |
 | `work` | Claude Code token only | Runs the playbook. No Linear key, no write token, no web access, no `git push`. Its only output is an artifact with `pr.md` or `blocked.md` and a git bundle. The transcript is kept as an artifact for 14 days. |
+| `local-review` | CodeRabbit key | Runs the CodeRabbit CLI on the agent's branch and adds the result to `pr.md`. Runs no agent and no code from the branch. |
+| `review-fix` | Claude Code token only | The agent's pass over the local review's findings, with the same limits as `work`. |
 | `deliver` | Linear key, factory app token | Pushes the branch and opens a draft PR as the factory GitHub App (on a fix run, pushes to the PR branch), or comments the agent's questions on the ticket and moves it to Blocked. |
 
 ### Saved work
@@ -208,7 +219,7 @@ The next new run of that ticket starts from its newest saved branch, with `main`
 
 ### Setup
 
-- A `factory` environment, limited to `main`, with secrets `CLAUDE_CODE_OAUTH_TOKEN`, `LINEAR_API_KEY` and `FACTORY_APP_PRIVATE_KEY`.
+- A `factory` environment, limited to `main`, with secrets `CLAUDE_CODE_OAUTH_TOKEN`, `LINEAR_API_KEY`, `FACTORY_APP_PRIVATE_KEY` and `CODERABBIT_API_KEY` (a CodeRabbit API key; without it the local review is skipped).
 - Repo variables `FACTORY_APP_CLIENT_ID` and `FACTORY_APP_SLUG` for the factory GitHub App, which has contents and pull-request read/write on this repo only. PRs are opened as the App because PRs opened with the default token don't trigger CI.
 - The repo variable `FACTORY_ENABLED`.
 - In Linear: the `factory` label, the Todo, In Progress and Blocked statuses, and the "Factory Ticket" template (SHA-514).

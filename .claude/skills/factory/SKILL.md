@@ -14,7 +14,7 @@ The repo rules in `CLAUDE.md` and the package `CLAUDE.md` you're working in appl
 
 `FACTORY_DIR` (an env var) names a directory outside the repo.
 
-- In: `$FACTORY_DIR/ticket.md` holds the ticket ID, title, labels and description. On a CI-fix run, `$FACTORY_DIR/ci-failure.md` holds the failing checks and their logs. On the review round, `$FACTORY_DIR/review-findings.md` holds CodeRabbit's open findings.
+- In: `$FACTORY_DIR/ticket.md` holds the ticket ID, title, labels and description. On a CI-fix run, `$FACTORY_DIR/ci-failure.md` holds the failing checks and their logs. On the review round, `$FACTORY_DIR/review-findings.md` holds CodeRabbit's open findings. On the local review pass, `$FACTORY_DIR/local-review.md` holds the findings from CodeRabbit's CLI.
 - Out: one of the two files below. If both exist when you finish, `blocked.md` wins and `pr.md` is ignored, so you never need to delete `pr.md`. Before you write `blocked.md`, commit what you have on the branch. The workflow saves a blocked run's commits to a `factory-saved/` branch and links it on the ticket, so the next run or a maintainer can pick it up.
   - `$FACTORY_DIR/pr.md`: first line is the PR title, the rest is the PR body (format below). Your work is committed on the branch.
   - `$FACTORY_DIR/blocked.md`: why you stopped, as numbered questions the maintainer can answer in the ticket.
@@ -87,6 +87,14 @@ For each finding, in order of severity:
 4. **Major or Critical:** fix it, or write `blocked.md` with the finding and the question that stops you. A reply alone never closes one.
 
 Then repeat steps 5, 7 and 8, and in `pr.md` list each finding with what you did: fixed (and the test), or replied (and why). A round where you only reply leaves the branch as it is; write `pr.md` anyway.
+
+## Local review pass
+
+After you hand off a new ticket, the workflow runs CodeRabbit's CLI on your branch before the PR opens. When it finds anything at Minor or above, you get one more pass: `local-review.md` exists, your branch is checked out with your commits, and `pr.md` is the one you wrote, with a `## Local CodeRabbit review` section the workflow added. There is no second local review, so the PR's own CodeRabbit review is the next check.
+
+Work through the findings as in the review round: verify each one against the code, fix the ones that hold up with a failing test first where the fix changes behaviour, and say specifically why for each one you leave. A Major or Critical finding must be fixed, or stop with `blocked.md`. There are no threads here, so no `review-replies.json`.
+
+Then repeat steps 5, 7 and 8, and replace the `## Local CodeRabbit review` section of `pr.md` with what you did: how many findings, and for each one, fixed (and the test) or not fixed (and why). Keep the rest of `pr.md` up to date, including "Checks run". A pass where every finding is left with a reason changes no code; write `pr.md` anyway.
 
 ## CI-fix runs
 
