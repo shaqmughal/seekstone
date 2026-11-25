@@ -1,14 +1,7 @@
-import {
-  appendFileSync,
-  closeSync,
-  fsyncSync,
-  openSync,
-  renameSync,
-  statSync,
-  writeSync,
-} from 'node:fs';
+import { appendFileSync, closeSync, fsyncSync, openSync, renameSync, statSync } from 'node:fs';
 import { parseSize } from './log.js';
 import { isSymlinkRefusal } from './symlinks.js';
+import { writeAll } from './write-all.js';
 
 /**
  * Structured audit log — an append-only JSONL trail of every write-tool
@@ -113,7 +106,10 @@ export class AuditLog {
     return new AuditLog(config.path, config.maxBytes, bytes);
   }
 
-  /** Append one record durably. Throws if the append or fsync fails. */
+  /**
+   * Append one record durably. Throws if the append or fsync fails, or a
+   * write makes no progress; a short write is retried until the line is out.
+   */
   record(rec: AuditRecord): void {
     const line = `${JSON.stringify(rec)}\n`;
     const len = Buffer.byteLength(line);
@@ -123,7 +119,7 @@ export class AuditLog {
     }
     const fd = openSync(this.path, 'a');
     try {
-      writeSync(fd, line);
+      writeAll(fd, line);
       fsyncSync(fd);
     } finally {
       closeSync(fd);
