@@ -84,6 +84,10 @@ export function parseReview(text) {
  * unreviewed (exit code 1), still counts: see partialReview.
  */
 export function skipReason({ complete, error }, exitCode) {
+  if (complete?.status === 'review_skipped' && !error) {
+    const msg = oneLine(complete.message);
+    return `CodeRabbit skipped the review${msg ? `: ${msg}` : ''}`;
+  }
   if (complete && complete.outcome !== 'failed' && !error) return null;
   if (error) {
     const msg = oneLine(error.message);

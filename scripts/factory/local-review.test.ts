@@ -92,14 +92,21 @@ describe('skipReason', () => {
     expect(skipReason(r, 1)).toBe('the review ended with outcome failed');
   });
 
-  it('counts a review that completed with warnings, or that had no changes', () => {
+  it('reports a review CodeRabbit skipped as skipped', () => {
+    const r = parseReview(event({ type: 'complete', status: 'review_skipped', findings: 0 }));
+    expect(skipReason(r, 0)).toBe('CodeRabbit skipped the review');
+    const said = parseReview(
+      event({ type: 'complete', status: 'review_skipped', message: 'No files to review' }),
+    );
+    expect(skipReason(said, 0)).toBe('CodeRabbit skipped the review: No files to review');
+  });
+
+  it('counts a review that completed with warnings', () => {
     const warned = parseReview(
       `${finding('major')}\n${event({ type: 'complete', outcome: 'completed_with_warnings', unreviewedFileCount: 0 })}`,
     );
     expect(skipReason(warned, 0)).toBeNull();
     expect(partialReview(warned, 0)).toBe(false);
-    const none = parseReview(event({ type: 'complete', status: 'review_skipped', findings: 0 }));
-    expect(skipReason(none, 0)).toBeNull();
   });
 
   it('counts a review that left files unreviewed, and marks it partial', () => {
