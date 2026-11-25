@@ -124,9 +124,11 @@ function resolved(env: Env) {
     journal: resolveJournalConfig(env),
     audit: resolveAuditConfig(env),
     instructions: resolveInstructions(env, '/vault', quiet),
-    logLevel: createLogger({ env, stderr: () => {} }).level,
-    // Read the way createLogger does (log.ts), without building a logger
-    // that would open the file.
+    // Build the logger without the file setting: createLogger creates the log
+    // file, and only the level is wanted here.
+    logLevel: createLogger({ env: { ...env, SEEKSTONE_LOG_FILE: undefined }, stderr: () => {} })
+      .level,
+    // Read the way createLogger does (log.ts).
     logFile: env.SEEKSTONE_LOG_FILE || undefined,
     logMaxSize: parseSize(env.SEEKSTONE_LOG_MAX_SIZE),
     usePolling: resolveUsePolling(undefined, env.SEEKSTONE_WATCH_POLL),
