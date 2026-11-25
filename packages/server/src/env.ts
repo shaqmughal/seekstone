@@ -53,17 +53,26 @@ const FLAG_DEFAULTS: Readonly<Record<string, boolean>> = {
 };
 
 /**
+ * Settings where an unrecognized value doesn't fall back to the default.
+ * `parseWritePolicy` turns read-only on for one (SHA-635).
+ */
+const UNRECOGNIZED_OUTCOME: Readonly<Record<string, string>> = {
+  SEEKSTONE_READ_ONLY: 'turning read-only on to be safe',
+};
+
+/**
  * One warning per on/off setting whose value `envFlag` doesn't recognize, so
- * a typo like `SEEKSTONE_READ_ONLY=y` is visible instead of silently leaving
- * writes on. Blank values count as unset and don't warn.
+ * a typo like `SEEKSTONE_READ_ONLY=y` is visible at boot. Blank values count
+ * as unset and don't warn.
  */
 export function flagWarnings(env: Record<string, string | undefined>): string[] {
   const warnings: string[] = [];
   for (const [name, fallback] of Object.entries(FLAG_DEFAULTS)) {
     const v = (env[name] ?? '').trim().toLowerCase();
     if (v === '' || ON.has(v) || OFF.has(v)) continue;
+    const outcome = UNRECOGNIZED_OUTCOME[name] ?? `using the default, ${fallback ? 'on' : 'off'}`;
     warnings.push(
-      `${name}=${JSON.stringify(env[name])} is not an on/off value (1/0, true/false, yes/no, on/off); using the default, ${fallback ? 'on' : 'off'}`,
+      `${name}=${JSON.stringify(env[name])} is not an on/off value (1/0, true/false, yes/no, on/off); ${outcome}`,
     );
   }
   return warnings;
