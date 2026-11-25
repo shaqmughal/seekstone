@@ -612,7 +612,9 @@ jobs:
         id: first
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
-        run: echo "sha=$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+        run: |
+          echo "sha=$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+          echo "head=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - *run-playbook
 
@@ -658,6 +660,33 @@ jobs:
           path: ${{ runner.temp }}/factory/
           retention-days: 7
           overwrite: true
+
+      # When the first pass is delivered instead (the fix pass failed, ran
+      # out of allowance or didn't rewrite pr.md), keep what the fix pass
+      # did. Deliver pushes it to its own saved branch.
+      - name: Keep the unfinished fix pass
+        id: unfinished
+        if: always() && steps.first.outcome == 'success' && steps.package.outputs.upload != 'true'
+        env:
+          BASE: ${{ needs.work.outputs.base }}
+          FIRST_HEAD: ${{ steps.first.outputs.head }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -q --no-verify -m "wip(factory): uncommitted changes when the fix pass stopped" ||
+              echo "::warning::could not commit the fix pass's uncommitted changes"
+          fi
+          if [ "$(git rev-parse HEAD)" = "$FIRST_HEAD" ]; then exit 0; fi
+          mkdir -p "$RUNNER_TEMP/fix-pass"
+          git bundle create "$RUNNER_TEMP/fix-pass/fix-pass.bundle" "$BASE..HEAD"
+          echo "saved=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always() && steps.unfinished.outputs.saved == 'true'
+        with:
+          name: factory-fix-pass
+          path: ${{ runner.temp }}/fix-pass/
+          retention-days: 7
 
   deliver:
     needs: [prepare, work, local-review, review-fix]
@@ -723,6 +752,31 @@ jobs:
           printf '\nThe work from this run is saved on the branch [`%s`](%s/%s/tree/%s).\n' \
             "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" > "$FACTORY_DIR/saved.md"
           echo "::notice::saved the run's work to $saved"
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        if: needs.review-fix.result != 'skipped'
+        continue-on-error: true
+        with:
+          name: factory-fix-pass
+          path: ${{ runner.temp }}/fix-pass
+
+      # The fix pass's commits when the first pass was delivered instead.
+      - name: Save the unfinished fix pass to a branch
+        env:
+          TICKET: ${{ inputs.ticket }}
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          bundle="$RUNNER_TEMP/fix-pass/fix-pass.bundle"
+          if [ ! -f "$bundle" ]; then exit 0; fi
+          saved="factory-saved/${TICKET}-${GITHUB_RUN_ID}-fix-pass"
+          git fetch "$bundle" "HEAD:refs/heads/$saved"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$saved"
+          if [ -f "$FACTORY_DIR/pr.md" ]; then
+            printf '\nThe unfinished fix pass is saved on the branch [`%s`](%s/%s/tree/%s).\n' \
+              "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" >> "$FACTORY_DIR/pr.md"
+          fi
+          echo "::notice::saved the unfinished fix pass to $saved"
 
       - name: The work job failed
         if: needs.work.result != 'success'
