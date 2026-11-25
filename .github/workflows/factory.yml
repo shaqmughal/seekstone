@@ -656,7 +656,8 @@ jobs:
           git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
           echo "upload=true" >> "$GITHUB_OUTPUT"
 
-      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+      - id: fixed-upload
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: steps.package.outputs.upload == 'true'
         with:
           name: factory-outcome-fixed
@@ -665,11 +666,12 @@ jobs:
           overwrite: true
 
       # When the first pass is delivered instead (the fix pass failed, ran
-      # out of allowance or didn't rewrite pr.md), keep what the fix pass
-      # did. Deliver pushes it to its own saved branch.
+      # out of allowance, didn't rewrite pr.md, or its outcome didn't
+      # upload), keep what the fix pass did. Deliver pushes it to its own
+      # saved branch.
       - name: Keep the unfinished fix pass
         id: unfinished
-        if: always() && steps.first.outcome == 'success' && steps.package.outputs.upload != 'true'
+        if: always() && steps.first.outcome == 'success' && steps.fixed-upload.outcome != 'success'
         env:
           BASE: ${{ needs.work.outputs.base }}
           FIRST_HEAD: ${{ steps.first.outputs.head }}
