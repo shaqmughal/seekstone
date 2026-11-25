@@ -9,6 +9,7 @@ import {
   needsFix,
   oneLine,
   parseReview,
+  partialReview,
   prSection,
   SECTION,
   skipReason,
@@ -86,9 +87,30 @@ describe('skipReason', () => {
     );
   });
 
-  it('does not count a review that completed with another outcome', () => {
-    const r = parseReview(event({ type: 'complete', outcome: 'cancelled' }));
-    expect(skipReason(r, 0)).toBe('the review ended with outcome cancelled');
+  it('does not count a failed review', () => {
+    const r = parseReview(event({ type: 'complete', outcome: 'failed' }));
+    expect(skipReason(r, 1)).toBe('the review ended with outcome failed');
+  });
+
+  it('counts a review that completed with warnings, or that had no changes', () => {
+    const warned = parseReview(
+      `${finding('major')}\n${event({ type: 'complete', outcome: 'completed_with_warnings', unreviewedFileCount: 0 })}`,
+    );
+    expect(skipReason(warned, 0)).toBeNull();
+    expect(partialReview(warned, 0)).toBe(false);
+    const none = parseReview(event({ type: 'complete', status: 'review_skipped', findings: 0 }));
+    expect(skipReason(none, 0)).toBeNull();
+  });
+
+  it('counts a review that left files unreviewed, and marks it partial', () => {
+    const r = parseReview(
+      `${finding('major')}\n${event({ type: 'complete', outcome: 'completed_with_warnings', unreviewedFileCount: 2 })}`,
+    );
+    expect(skipReason(r, 1)).toBeNull();
+    expect(partialReview(r, 1)).toBe(true);
+    expect(prSection({ findings: r.findings, partial: true })).toContain(
+      'The review did not cover every file.',
+    );
   });
 });
 
@@ -100,7 +122,7 @@ describe('needsFix', () => {
       true,
       true,
     ]);
-    expect(['trivial', 'info'].map(needsFix)).toEqual([false, false]);
+    expect(['trivial', 'info', 'none'].map(needsFix)).toEqual([false, false, false]);
   });
 });
 

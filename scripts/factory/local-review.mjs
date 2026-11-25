@@ -22,7 +22,8 @@ import { fileURLToPath } from 'node:url';
 
 export const SECTION = '## Local CodeRabbit review';
 
-const SEVERITIES = ['critical', 'major', 'minor', 'trivial', 'info'];
+// From CodeRabbit's agent-mode docs, most severe first.
+const SEVERITIES = ['critical', 'major', 'minor', 'trivial', 'info', 'none'];
 
 /** True for Minor, Major and Critical. An unknown severity counts as Minor. */
 export function needsFix(severity) {
@@ -77,9 +78,13 @@ export function parseReview(text) {
   return { findings, complete, error };
 }
 
-/** Why the review didn't count, or null when it finished. */
+/**
+ * Why the review didn't count, or null when its findings can be used. A
+ * review with outcome `completed_with_warnings`, or one that left files
+ * unreviewed (exit code 1), still counts: see partialReview.
+ */
 export function skipReason({ complete, error }, exitCode) {
-  if (complete && complete.outcome === 'completed' && !error) return null;
+  if (complete && complete.outcome !== 'failed' && !error) return null;
   if (error) {
     const msg = oneLine(error.message);
     if (/limit|quota|allowance|credit|usage/i.test(`${error.type} ${error.message}`)) {
@@ -90,6 +95,11 @@ export function skipReason({ complete, error }, exitCode) {
   if (complete) return `the review ended with outcome ${oneLine(complete.outcome, 40)}`;
   if (Number(exitCode) === 124) return 'the review timed out';
   return `the CodeRabbit CLI exited with code ${oneLine(exitCode, 10)} before finishing`;
+}
+
+/** True when a review that counts didn't cover every file. */
+export function partialReview({ complete }, exitCode) {
+  return Number(exitCode) !== 0 || Number(complete?.unreviewedFileCount ?? 0) > 0;
 }
 
 const where = (f) => (f.file ? `${f.file}${f.line ? `:${f.line}` : ''}` : 'no file');
@@ -122,7 +132,7 @@ const counts = (findings) => {
 };
 
 /** The pr.md section. The fix pass replaces it with what it did. */
-export function prSection({ findings = [], skipped = null }) {
+export function prSection({ findings = [], skipped = null, partial = false }) {
   const lines = [SECTION, ''];
   if (skipped) {
     lines.push(`Skipped: ${skipped}.`);
@@ -130,7 +140,8 @@ export function prSection({ findings = [], skipped = null }) {
   }
   const fix = findings.filter((f) => needsFix(f.severity));
   const minor = findings.length - fix.length;
-  const rest = minor > 0 ? ` It also raised ${minor} below Minor, left for the PR review.` : '';
+  let rest = minor > 0 ? ` It also raised ${minor} below Minor, left for the PR review.` : '';
+  if (partial) rest += ' The review did not cover every file.';
   if (fix.length === 0) {
     lines.push(`CodeRabbit's CLI found nothing at Minor or above.${rest}`);
     return lines.join('\n');
@@ -152,12 +163,12 @@ export function withSection(pr, section) {
   return `${pr.slice(0, start).replace(/\s*$/, '')}\n\n${section}\n${tail}`;
 }
 
-function finish(dir, { findings, skipped }) {
+function finish(dir, { findings, skipped, partial = false }) {
   const prPath = join(dir, 'pr.md');
   if (!existsSync(prPath)) throw new Error(`no pr.md in ${dir}`);
   writeFileSync(
     prPath,
-    withSection(readFileSync(prPath, 'utf8'), prSection({ findings, skipped })),
+    withSection(readFileSync(prPath, 'utf8'), prSection({ findings, skipped, partial })),
   );
   const fix = skipped ? [] : findings.filter((f) => needsFix(f.severity));
   if (fix.length > 0) writeFileSync(join(dir, 'local-review.md'), formatLocalReview(fix));
@@ -174,7 +185,7 @@ function main() {
   const text = existsSync(arg) ? readFileSync(arg, 'utf8') : '';
   const parsed = parseReview(text);
   const skipped = skipReason(parsed, exitCode);
-  finish(dir, { findings: parsed.findings, skipped });
+  finish(dir, { findings: parsed.findings, skipped, partial: partialReview(parsed, exitCode) });
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
