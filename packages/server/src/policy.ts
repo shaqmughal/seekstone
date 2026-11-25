@@ -61,7 +61,12 @@ export function splitGlobs(raw: string | undefined): string[] {
 }
 
 export function parseWritePolicy(env: Record<string, string | undefined>): WritePolicy {
-  const policy: WritePolicy = { readOnly: envFlag(env.SEEKSTONE_READ_ONLY, false) };
+  // Fail closed (SHA-635): blank means off, but a value we don't recognize
+  // turns read-only on, since whoever set it most likely meant read-only.
+  const rawReadOnly = env.SEEKSTONE_READ_ONLY ?? '';
+  const policy: WritePolicy = {
+    readOnly: rawReadOnly.trim() === '' ? false : envFlag(rawReadOnly, true),
+  };
   const writeGlobs = splitGlobs(env.SEEKSTONE_WRITE_PATHS);
   if (writeGlobs.length > 0) policy.writeGlobs = writeGlobs;
   const readGlobs = splitGlobs(env.SEEKSTONE_READ_PATHS);
