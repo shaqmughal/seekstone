@@ -3,7 +3,10 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { Client } from '@modelcontextprotocol/sdk/client/index.js';
+import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
+import { WRITE_TOOLS } from './dispatch.js';
 
 /**
  * SHA-633: boots the real entry point to check that index.ts runs
@@ -86,6 +89,44 @@ describe('boot-time env handling (SHA-633)', () => {
   it('warns about an unrecognized SEEKSTONE_READ_ONLY value', async () => {
     const log = await bootLog({ SEEKSTONE_READ_ONLY: 'y' });
     expect(log).toContain('SEEKSTONE_READ_ONLY="y" is not an on/off value');
-    expect(log).not.toContain('read-only mode');
+    expect(log).toContain('read-only mode');
+  }, 20_000);
+
+  it('fails closed: SEEKSTONE_READ_ONLY=y boots read-only without write tools (SHA-635)', async () => {
+    const { log, tools } = await bootTools({ SEEKSTONE_READ_ONLY: 'y' });
+    expect(log).toContain(
+      'SEEKSTONE_READ_ONLY="y" is not an on/off value (1/0, true/false, yes/no, on/off); turning read-only on to be safe',
+    );
+    expect(log).toContain('read-only mode');
+    expect(tools).toContain('vault_stats');
+    for (const name of WRITE_TOOLS) expect(tools).not.toContain(name);
   }, 20_000);
 });
+
+/** Boot the server as an MCP client would, and return its log and tool names. */
+async function bootTools(env: Record<string, string>): Promise<{ log: string; tools: string[] }> {
+  const inherited = Object.fromEntries(
+    Object.entries(process.env).filter(
+      (e): e is [string, string] => !e[0].startsWith('SEEKSTONE_') && e[1] !== undefined,
+    ),
+  );
+  const transport = new StdioClientTransport({
+    command: process.execPath,
+    args: ['--import', 'tsx', 'src/index.ts'],
+    cwd: serverDir,
+    env: { ...inherited, SEEKSTONE_VAULT: vault, SEEKSTONE_LOG_LEVEL: 'info', ...env },
+    stderr: 'pipe',
+  });
+  let log = '';
+  transport.stderr?.on('data', (d: Buffer) => {
+    log += d.toString();
+  });
+  const client = new Client({ name: 'boot-env-test', version: '0.0.0' });
+  try {
+    await client.connect(transport);
+    const { tools } = await client.listTools();
+    return { log, tools: tools.map((t) => t.name) };
+  } finally {
+    await client.close();
+  }
+}

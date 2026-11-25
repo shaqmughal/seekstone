@@ -67,7 +67,7 @@ describe('flagWarnings', () => {
       SEEKSTONE_SEMANTIC: 'truee',
     });
     expect(warnings).toEqual([
-      expect.stringMatching(/^SEEKSTONE_READ_ONLY="y" .*using the default, off$/),
+      'SEEKSTONE_READ_ONLY="y" is not an on/off value (1/0, true/false, yes/no, on/off); turning read-only on to be safe',
       expect.stringMatching(/^SEEKSTONE_HISTORY="enabled" .*using the default, on$/),
       expect.stringMatching(/^SEEKSTONE_WATCH_POLL="2" .*using the default, off$/),
       expect.stringMatching(/^SEEKSTONE_SEMANTIC="truee" .*using the default, off$/),
