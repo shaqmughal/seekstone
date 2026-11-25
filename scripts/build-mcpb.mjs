@@ -48,6 +48,7 @@ import {
 import { homedir } from 'node:os';
 import { dirname, join, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { semanticManifest } from './lib/mcpb-manifest.mjs';
 import { MAX_FILE_BYTES, MAX_SHARD_BYTES, shard } from './shard.mjs';
 import { stampManifestVersion } from './version-sync.mjs';
 
@@ -138,24 +139,6 @@ function buildVariant(outputName, variantManifest, modelManifest) {
   execSync(`npx @anthropic-ai/mcpb pack "${stage}" "${output}"`, { stdio: 'inherit', cwd: root });
   rmSync(stage, { recursive: true, force: true });
   console.log(`Built: ${outputName} (v${version}) — sharded, every file < ${MAX_FILE_BYTES} bytes`);
-}
-
-/** The semantic variant's manifest: separate identity, feature hardwired on. */
-function semanticManifest(base) {
-  const m = structuredClone(base);
-  m.name = 'seekstone-semantic';
-  m.display_name = 'Seekstone (Semantic Search)';
-  m.description =
-    'Obsidian MCP server — filesystem-direct vault access, low context-tax. ' +
-    'This variant ships the local embedding model inside the bundle: semantic ' +
-    'search works out of the box, no terminal, no downloads at runtime.';
-  m.server.mcp_config.env = {
-    ...m.server.mcp_config.env,
-    SEEKSTONE_SEMANTIC: '1',
-    // biome-ignore lint/suspicious/noTemplateCurlyInString: ${__dirname} is an mcpb manifest placeholder Claude Desktop substitutes at install, not a JS template.
-    SEEKSTONE_BUNDLED_MODEL_DIR: '${__dirname}/model',
-  };
-  return m;
 }
 
 /**

@@ -136,7 +136,7 @@ If you use Claude Code, Cursor, or another coding agent, you don't need to follo
 2. Open it with Claude Desktop — double-click in Finder, or right-click → Open With → Claude Desktop
 3. Pick your Obsidian vault folder when prompted
 
-You'll know it worked when seekstone appears in Claude's toolbar. No JSON editing, no terminal, no Node.js required.
+You'll know it worked when seekstone appears in Claude's toolbar. No JSON editing, no terminal, no Node.js required. To change a setting later, such as read-only mode or write scopes, open Claude Desktop's Settings → Extensions → seekstone → Configure.
 
 Want semantic search? Grab [**`seekstone-semantic.mcpb`**](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone-semantic.mcpb) instead — same server with the local embedding model shipped inside the bundle (~28 MB bigger), so meaning-based search works out of the box: still no terminal, and nothing is downloaded at runtime.
 
@@ -360,6 +360,8 @@ jq -c 'select(.ts > "2026-08-29T21:00:00Z" and .outcome == "ok")' audit.jsonl   
 ---
 
 ## Configuration
+
+If you installed the `.mcpb`, the same settings appear in Claude Desktop under Settings → Extensions → seekstone → Configure.
 
 | Variable | Required | Description |
 |---|---|---|

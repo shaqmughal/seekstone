@@ -20,7 +20,21 @@
       "command": "node",
       "args": ["${__dirname}/dist/index.js"],
       "env": {
-        "SEEKSTONE_VAULT": "${user_config.vault}"
+        "SEEKSTONE_VAULT": "${user_config.vault}",
+        "SEEKSTONE_READ_ONLY": "${user_config.read_only}",
+        "SEEKSTONE_READ_PATHS": "${user_config.read_paths}",
+        "SEEKSTONE_WRITE_PATHS": "${user_config.write_paths}",
+        "SEEKSTONE_HISTORY": "${user_config.history}",
+        "SEEKSTONE_HISTORY_MAX_SIZE": "${user_config.history_max_size}",
+        "SEEKSTONE_HISTORY_MAX_ENTRIES": "${user_config.history_max_entries}",
+        "SEEKSTONE_LOG_LEVEL": "${user_config.log_level}",
+        "SEEKSTONE_LOG_FILE": "${user_config.log_file}",
+        "SEEKSTONE_LOG_MAX_SIZE": "${user_config.log_max_size}",
+        "SEEKSTONE_AUDIT_FILE": "${user_config.audit_file}",
+        "SEEKSTONE_AUDIT_MAX_SIZE": "${user_config.audit_max_size}",
+        "SEEKSTONE_INSTRUCTIONS": "${user_config.instructions}",
+        "SEEKSTONE_WATCH_POLL": "${user_config.watch_poll}",
+        "SEEKSTONE_WATCH_POLL_INTERVAL": "${user_config.watch_poll_interval}"
       }
     }
   },
@@ -30,6 +44,92 @@
       "title": "Obsidian vault",
       "description": "Your Obsidian vault folder. To find it: open Obsidian → click the vault icon (bottom-left) → Manage vaults, or go to Settings → About. On macOS, vaults are typically in ~/Documents, ~/Desktop, or ~/Obsidian. On Windows, usually in C:\\Users\\<you>\\Documents.",
       "required": true
+    },
+    "read_only": {
+      "type": "boolean",
+      "title": "Read-only",
+      "description": "Remove the write tools so the session can't change your vault. Default: off.",
+      "default": false
+    },
+    "read_paths": {
+      "type": "string",
+      "title": "Read paths",
+      "description": "Comma-separated vault-relative globs the agent may see, e.g. Projects/** or !Journal/**. Writes are limited to them too. Default: blank, the whole vault.",
+      "default": ""
+    },
+    "write_paths": {
+      "type": "string",
+      "title": "Write paths",
+      "description": "Comma-separated vault-relative globs where writes are allowed, e.g. journal/**,inbox/*.md. Default: blank, writes allowed anywhere.",
+      "default": ""
+    },
+    "history": {
+      "type": "boolean",
+      "title": "Write history",
+      "description": "Keep a copy of each file before a write so undo_write can restore it. Default: on.",
+      "default": true
+    },
+    "history_max_size": {
+      "type": "string",
+      "title": "History size cap",
+      "description": "Cap on stored pre-write copies, e.g. 100mb. Past it the oldest copies are deleted. Default: blank, 50 MB.",
+      "default": ""
+    },
+    "history_max_entries": {
+      "type": "number",
+      "title": "History entry cap",
+      "description": "Most write-history entries to keep. Past it the oldest are deleted and can't be undone. Default: 1000.",
+      "default": 1000,
+      "min": 1
+    },
+    "log_level": {
+      "type": "string",
+      "title": "Log level",
+      "description": "error, warn, info or debug. Default: info.",
+      "default": "info"
+    },
+    "log_file": {
+      "type": "string",
+      "title": "Log file",
+      "description": "Absolute path of a file to append JSON-line logs to. Default: blank, logs go to Claude Desktop's log only.",
+      "default": ""
+    },
+    "log_max_size": {
+      "type": "string",
+      "title": "Log size cap",
+      "description": "Rotate the log file past this size, e.g. 10mb. Default: blank, 5 MB.",
+      "default": ""
+    },
+    "audit_file": {
+      "type": "string",
+      "title": "Audit file",
+      "description": "Absolute path of a file that gets one JSON line per write-tool call, never note content. Default: blank, no audit file.",
+      "default": ""
+    },
+    "audit_max_size": {
+      "type": "string",
+      "title": "Audit size cap",
+      "description": "Rotate the audit file past this size, e.g. 10mb. Default: blank, 10 MB.",
+      "default": ""
+    },
+    "instructions": {
+      "type": "file",
+      "title": "Instructions file",
+      "description": "A file whose text is sent to Claude as the server's instructions, up to 16 KB. Default: none.",
+      "default": ""
+    },
+    "watch_poll": {
+      "type": "boolean",
+      "title": "Poll for changes",
+      "description": "Check files on a timer instead of OS change events. Turn on for network drives or WSL. Default: off.",
+      "default": false
+    },
+    "watch_poll_interval": {
+      "type": "number",
+      "title": "Poll interval (ms)",
+      "description": "How often to check files when polling is on, in milliseconds. Default: 10000.",
+      "default": 10000,
+      "min": 1
     }
   }
 }
