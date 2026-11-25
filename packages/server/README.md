@@ -26,6 +26,8 @@ If you use Claude Code, Cursor, or another coding agent, paste this prompt and t
 
 Download [`seekstone.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone.mcpb), double-click it in Claude Desktop, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required. Want semantic search out of the box? Grab [`seekstone-semantic.mcpb`](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone-semantic.mcpb) instead — the local embedding model ships inside the bundle, and nothing is downloaded at runtime.
 
+To change a setting after installing, such as read-only mode or write scopes, open Claude Desktop's Settings → Extensions → seekstone → Configure.
+
 ### Option 2 — Guided setup (recommended for CLI users)
 
 Run the setup helper and let Seekstone find your vault automatically:
@@ -147,6 +149,8 @@ Ten write tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_n
 ---
 
 ## Configuration
+
+If you installed the `.mcpb`, the same settings appear in Claude Desktop under Settings → Extensions → seekstone → Configure.
 
 | Env var | Required | Description |
 |---|---|---|
