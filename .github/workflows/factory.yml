@@ -732,7 +732,8 @@ jobs:
           node-version: '22'
 
       # Fetched even when the work job failed, so its work can be saved.
-      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+      - id: download-outcome
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         continue-on-error: true
         with:
           name: factory-outcome
@@ -761,7 +762,9 @@ jobs:
         env:
           FIXED: ${{ steps.download-fixed.outcome }}
           REVIEWED: ${{ steps.download-reviewed.outcome }}
+          FIRST: ${{ steps.download-outcome.outcome }}
         run: |
+          if [ "$FIRST" != success ]; then rm -rf "$RUNNER_TEMP/factory"; fi
           for d in outcome-fixed outcome-reviewed; do
             ok="$REVIEWED"
             if [ "$d" = outcome-fixed ]; then ok="$FIXED"; fi
