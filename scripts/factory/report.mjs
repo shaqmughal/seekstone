@@ -198,7 +198,7 @@ const MAX_QUESTION = 200;
 /**
  * What a factory comment asks, one entry per question: the numbered items
  * (`1.` or `1)`), else the `- ` bullets, else the first paragraph after the
- * comment's first line that isn't a heading. Only an item's first line is
+ * comment's first line, with heading lines left out. Only an item's first line is
  * kept, cut to 200 characters.
  */
 export function questions(body) {
@@ -207,12 +207,19 @@ export function questions(body) {
   let found = items(/^\s{0,3}\d+[.)]\s+(.*)$/);
   if (found.length === 0) found = items(/^\s{0,3}- (.*)$/);
   if (found.length === 0) {
+    // Heading lines go; text right under a heading in the same block stays.
     const para = lines
       .join('\n')
       .split(/\n\s*\n/)
-      .map((p) => p.trim())
-      .find((p) => p && !p.startsWith('#'));
-    found = para ? [para.replace(/\s*\n\s*/g, ' ')] : [];
+      .map((p) =>
+        p
+          .split('\n')
+          .map((l) => l.trim())
+          .filter((l) => l && !l.startsWith('#'))
+          .join(' '),
+      )
+      .find(Boolean);
+    found = para ? [para] : [];
   }
   return found.map((q) => (q.length > MAX_QUESTION ? `${q.slice(0, MAX_QUESTION - 1)}…` : q));
 }

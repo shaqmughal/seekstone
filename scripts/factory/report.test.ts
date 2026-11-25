@@ -209,6 +209,13 @@ describe('blockedTickets', () => {
     ]);
   });
 
+  it('keeps a paragraph that starts right under its heading', () => {
+    expect(questions(`${STOPPED}\n\n## Why\nWhich timeout should we use?`)).toEqual([
+      'Which timeout should we use?',
+    ]);
+    expect(questions(`${STOPPED}\n\n# A\n## B\n\nThe real text.`)).toEqual(['The real text.']);
+  });
+
   it('cuts a long question to 200 characters', async () => {
     const body = `${STOPPED}\n\n1. ${'x'.repeat(250)}\n2. Short?`;
     const [long, short] = (await run([{ body, createdAt: '2026-11-24T00:00:00Z' }])).questions;
