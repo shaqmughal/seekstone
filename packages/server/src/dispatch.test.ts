@@ -1,7 +1,8 @@
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
+import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from './context.js';
 import { dispatch, HANDLED_TOOLS, WRITE_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
@@ -223,5 +224,81 @@ describe('rename_heading dispatch text', () => {
     } finally {
       await rm(scopedVault, { recursive: true, force: true });
     }
+  });
+});
+
+describe('move_note and delete_note return contentHash to the client (SHA-581)', () => {
+  let hashVault: string;
+  let hashCtx: ServerContext;
+  const sha256 = (raw: Buffer): string => createHash('sha256').update(raw).digest('hex');
+  const endingHash = (text: string): string | undefined =>
+    /contentHash: ([0-9a-f]{64})$/.exec(text)?.[1];
+
+  beforeEach(async () => {
+    hashVault = await mkdtemp(join(tmpdir(), 'seekstone-dispatch-hash-'));
+    await writeFile(join(hashVault, 'subject.md'), '# Subject\n\nbody\n', 'utf8');
+    await writeFile(join(hashVault, 'linker.md'), 'See [[subject]].\n', 'utf8');
+    const built = await buildIndex(hashVault);
+    hashCtx = {
+      vaultRoot: hashVault,
+      index: built.index,
+      notes: built.notes,
+      generation: 0,
+      backlinks: built.backlinks,
+      attachments: built.attachments,
+      policy: PERMISSIVE_POLICY,
+    };
+  });
+
+  afterEach(async () => {
+    await rm(hashVault, { recursive: true, force: true });
+  });
+
+  it('move_note ends its text with the hash of the note at its new path', async () => {
+    const { logger } = recordingLogger();
+    const res = await dispatch(
+      hashCtx,
+      'move_note',
+      { from: 'subject.md', to: 'sub/moved.md' },
+      logger,
+    );
+    expect(res.isError).toBeUndefined();
+    const hash = endingHash(res.content[0]?.text ?? '');
+    expect(hash).toBe(sha256(await readFile(join(hashVault, 'sub', 'moved.md'))));
+
+    // The returned hash chains straight into a prevHash edit without a re-read.
+    const append = await dispatch(
+      hashCtx,
+      'append_note',
+      { path: 'sub/moved.md', content: 'more\n', prevHash: hash },
+      logger,
+    );
+    expect(append.isError).toBeUndefined();
+  });
+
+  it('move_note still ends with the hash when it reports skipped notes', async () => {
+    hashCtx.policy = parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'subject.md,moved.md' });
+    const { logger } = recordingLogger();
+    const res = await dispatch(
+      hashCtx,
+      'move_note',
+      { from: 'subject.md', to: 'moved.md' },
+      logger,
+    );
+    expect(res.isError).toBeUndefined();
+    const text = res.content[0]?.text ?? '';
+    expect(text).toContain(
+      'Skipped (not writable: outside SEEKSTONE_WRITE_PATHS or through a symlink): linker.md.',
+    );
+    expect(endingHash(text)).toBe(sha256(await readFile(join(hashVault, 'moved.md'))));
+  });
+
+  it('delete_note ends its text with the hash of the note as moved into .trash/', async () => {
+    const { logger } = recordingLogger();
+    const res = await dispatch(hashCtx, 'delete_note', { path: 'subject.md' }, logger);
+    expect(res.isError).toBeUndefined();
+    const text = res.content[0]?.text ?? '';
+    expect(text).toContain('Moved subject.md to .trash/subject.md');
+    expect(endingHash(text)).toBe(sha256(await readFile(join(hashVault, '.trash', 'subject.md'))));
   });
 });
