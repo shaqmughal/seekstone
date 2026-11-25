@@ -162,8 +162,8 @@ function writeDurable(dest: string, content: string): void {
 }
 
 /** `writeSync` may write fewer bytes than asked; loop until all of `data` is out. */
-function writeAll(fd: number, data: string): void {
-  const buf = Buffer.from(data, 'utf8');
+function writeAll(fd: number, data: string | Buffer): void {
+  const buf = typeof data === 'string' ? Buffer.from(data, 'utf8') : data;
   for (let off = 0; off < buf.length; ) {
     const n = writeSync(fd, buf, off, buf.length - off);
     if (n <= 0) throw new Error('journal: write made no progress');
@@ -172,7 +172,7 @@ function writeAll(fd: number, data: string): void {
 }
 
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
-function appendDurable(dest: string, data: string): void {
+function appendDurable(dest: string, data: Buffer): void {
   const fd = openSync(dest, 'a');
   try {
     writeAll(fd, data);
@@ -207,6 +207,12 @@ export class Journal {
   private manifestOffset = 0;
   /** Bytes after the last newline: an append in flight, or torn by a crash. */
   private tailBytes = 0;
+  /**
+   * The last complete line we read, ending at `manifestOffset`. A rolled-back
+   * row can be replaced by one of the same length and seq, so inode and size
+   * don't prove our cache is current; these bytes still being there does.
+   */
+  private lastLine: Buffer = Buffer.alloc(0);
   /** Blob hash → byte size, for every blob currently on disk. */
   private readonly blobSizes: Map<string, number>;
   private totalBytes: number;
@@ -286,22 +292,66 @@ export class Journal {
     let start: number;
     try {
       const st = await fh.stat();
-      const replaced = st.ino !== this.manifestIno || st.size < this.manifestOffset;
-      start = replaced ? 0 : this.manifestOffset;
-      buf = Buffer.alloc(st.size - start);
-      buf = buf.subarray(0, (await fh.read(buf, 0, buf.length, start)).bytesRead);
+      const read = async (from: number): Promise<Buffer> => {
+        const b = Buffer.alloc(st.size - from);
+        return b.subarray(0, (await fh.read(b, 0, b.length, from)).bytesRead);
+      };
+      let replaced = st.ino !== this.manifestIno || st.size < this.manifestOffset;
+      start = replaced ? 0 : this.manifestOffset - this.lastLine.length;
+      buf = await read(start);
+      if (!replaced) {
+        // Our last line must still be there, or the rows after it were rolled
+        // back and rewritten: read from the start, or we'd read mid-row.
+        const n = this.lastLine.length;
+        if (buf.subarray(0, n).equals(this.lastLine)) {
+          buf = buf.subarray(n);
+          start += n;
+        } else {
+          replaced = true;
+          start = 0;
+          buf = await read(0);
+        }
+      }
       if (replaced) {
         this.entries = [];
         this.manifestIno = st.ino;
+        this.lastLine = Buffer.alloc(0);
       }
     } finally {
       await fh.close();
     }
     const end = buf.lastIndexOf(0x0a) + 1;
+    if (end > 0) {
+      // (A negative offset would count from the end of the buffer.)
+      const from = end > 1 ? buf.lastIndexOf(0x0a, end - 2) + 1 : 0;
+      this.lastLine = Buffer.from(buf.subarray(from, end));
+    }
     this.manifestOffset = start + end;
     this.tailBytes = buf.length - end;
     await this.ingest(buf.subarray(0, end).toString('utf8'), start === 0);
     return true;
+  }
+
+  /**
+   * Under the lock, before trusting the cache: is our last line still on
+   * disk where we read it? The size check in `load` can't see a rolled-back
+   * row replaced by one of the same length.
+   */
+  private lastLineOnDisk(): boolean {
+    const n = this.lastLine.length;
+    if (n === 0) return true;
+    let fd: number;
+    try {
+      fd = openSync(this.manifestPath, 'r');
+    } catch {
+      return false;
+    }
+    try {
+      const buf = Buffer.alloc(n);
+      return readSync(fd, buf, 0, n, this.manifestOffset - n) === n && buf.equals(this.lastLine);
+    } finally {
+      closeSync(fd);
+    }
   }
 
   /** Parse complete manifest lines and add their entries (and their blobs' sizes). */
@@ -518,7 +568,9 @@ export class Journal {
   ): Promise<JournalEntry> {
     // With a torn tail on record, reread past the last complete line rather
     // than trust the size: another process may have cut it off and appended
-    // a whole row of exactly the same length.
+    // a whole row of exactly the same length. The same goes for a row another
+    // process rolled back and replaced: then reread from the start.
+    if (!this.lastLineOnDisk()) this.manifestIno = -1;
     await this.load(this.tailBytes > 0);
     // A blob stored before the lock may have been evicted since by another
     // process (shared with an old entry). Our cache can't tell: a refresh may
@@ -546,7 +598,7 @@ export class Journal {
       truncateSync(this.manifestPath, this.manifestOffset);
       this.tailBytes = 0;
     }
-    const line = `${JSON.stringify(entry)}\n`;
+    const line = Buffer.from(`${JSON.stringify(entry)}\n`, 'utf8');
     try {
       appendDurable(this.manifestPath, line);
     } catch (err) {
@@ -555,7 +607,8 @@ export class Journal {
       this.rollBackAppend();
       throw err;
     }
-    this.manifestOffset += Buffer.byteLength(line, 'utf8');
+    this.manifestOffset += line.length;
+    this.lastLine = line;
     this.nextSeq++;
     this.entries.push(entry);
     try {
@@ -692,10 +745,12 @@ export class Journal {
       await dropBlobs(this.entries[i] as JournalEntry);
     }
     if (rewrite) {
-      writeDurable(this.manifestPath, this.entries.map((e) => `${JSON.stringify(e)}\n`).join(''));
+      const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);
+      writeDurable(this.manifestPath, lines.join(''));
       const st = statSync(this.manifestPath);
       this.manifestIno = st.ino;
       this.manifestOffset = st.size;
+      this.lastLine = Buffer.from(lines.at(-1) ?? '', 'utf8');
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
     }
   }

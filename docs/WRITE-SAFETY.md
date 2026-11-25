@@ -375,8 +375,9 @@ agent itself can drive.
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
   (short and failed manifest writes),
   [`journal-rollback.test.ts`](../packages/server/src/journal-rollback.test.ts)
-  (a failed append leaves no row, a failed compaction doesn't fail the
-  write), and the harness `undo-roundtrip` op — a
+  (a failed append leaves no row, another process that read the row
+  rereads the manifest before it writes, a failed compaction doesn't fail
+  the write), and the harness `undo-roundtrip` op — a
   write through the server, then `undo_write`, must leave the note
   byte-identical to its original. `journal.test.ts` covers both caps: the
   byte cap marks rows `undoable: false`, and the entry cap drops rows and

@@ -1,4 +1,4 @@
-import { mkdtemp, readFile, rm } from 'node:fs/promises';
+import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
@@ -9,13 +9,15 @@ import { HISTORY_DIR, Journal, journalWrite } from './journal.js';
 
 /** One-shot failures, armed by a test and cleared when they fire. */
 const fail = vi.hoisted(() => ({ manifestFsync: false, manifestRename: false, truncate: false }));
+/** The manifest as it was when the failing fsync ran: the row is on disk. */
+const seen = vi.hoisted(() => ({ manifest: '' }));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
-  const manifestFds = new Set<number>();
+  const manifestFds = new Map<number, string>();
   const openSync = (path: string, flags: string, ...rest: unknown[]): number => {
     const fd = (fs.openSync as (...a: unknown[]) => number)(path, flags, ...rest);
-    if (String(path).endsWith('manifest.jsonl') && flags === 'a') manifestFds.add(fd);
+    if (String(path).endsWith('manifest.jsonl') && flags === 'a') manifestFds.set(fd, path);
     return fd;
   };
   const closeSync = (fd: number): void => {
@@ -24,8 +26,10 @@ vi.mock('node:fs', async (importOriginal) => {
   };
   // The row is written in full; only the fsync after it fails.
   const fsyncSync = (fd: number): void => {
-    if (fail.manifestFsync && manifestFds.has(fd)) {
+    const path = manifestFds.get(fd);
+    if (fail.manifestFsync && path !== undefined) {
       fail.manifestFsync = false;
+      seen.manifest = fs.readFileSync(path, 'utf8');
       throw Object.assign(new Error('EIO: i/o error, fsync'), { code: 'EIO' });
     }
     fs.fsyncSync(fd);
@@ -113,6 +117,48 @@ describe('Journal: a failed append', () => {
     // The row stayed on disk, so it loads as committed; the next seq follows it.
     await write(j, 'b');
     expect(tools(j)).toEqual(['2b', '1a']);
+  });
+});
+
+describe('Journal: another process saw the rolled-back row', () => {
+  const CAP = { maxBytes: 1e9, maxEntries: 2 };
+  const manifest = () => join(vault, HISTORY_DIR, 'manifest.jsonl');
+
+  /**
+   * A appends row b and its fsync fails. B refreshes while b is on disk
+   * (replayed here in place, same inode), then A rolls b back. Returns B,
+   * which has b cached.
+   */
+  async function staleAfterRollback(config: typeof CAP) {
+    const a = await Journal.open(vault, config, { log });
+    const b = await Journal.open(vault, config, { log });
+    await write(a, 'a');
+    fail.manifestFsync = true;
+    await expect(write(a, 'b')).rejects.toThrow(/EIO/);
+    const rolledBack = await readFile(manifest(), 'utf8');
+    await writeFile(manifest(), seen.manifest);
+    await b.refresh();
+    expect(tools(b)).toEqual(['2b', '1a']);
+    await writeFile(manifest(), rolledBack);
+    return { a, b };
+  }
+
+  it('a locked commit notices a same-length row in place of the cached one', async () => {
+    const { a, b } = await staleAfterRollback(CAP);
+    // Same length as b, and the same seq: B's size check can't tell them apart.
+    await write(a, 'c');
+    await write(b, 'd');
+    expect(await manifestRows()).toEqual(['c', 'd']);
+    expect(tools(b)).toEqual(tools(await Journal.open(vault, CAP)));
+    expect(tools(b).map((t) => t.slice(-1))).toEqual(['d', 'c']);
+  });
+
+  it('a refresh rereads from the start when the cached last row changed', async () => {
+    const { a, b } = await staleAfterRollback({ maxBytes: 1e9, maxEntries: 100 });
+    // Longer than b: a reread from B's old offset would start mid-row.
+    await write(a, 'longer-c');
+    await b.refresh();
+    expect(tools(b)).toEqual(['2longer-c', '1a']);
   });
 });
 
