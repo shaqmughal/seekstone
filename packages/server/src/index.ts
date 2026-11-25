@@ -12,6 +12,7 @@ import { AuditLog, resolveAuditConfig } from './audit.js';
 import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
+import { flagWarnings, normalizeEnv } from './env.js';
 import { buildIndex, logBuildProgress } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
 import { resolveInstructions } from './instructions.js';
@@ -68,7 +69,12 @@ if (intent === 'fetch-model') {
   process.exit(result.exitCode);
 }
 
+// Drop unfilled `${user_config.*}` placeholders from a .mcpb install before
+// anything reads the environment, the logger included (SHA-633). Then flag
+// any on/off setting with a value we don't recognize.
+const envWarnings = [...normalizeEnv(process.env), ...flagWarnings(process.env)];
 const log = createLogger();
+for (const w of envWarnings) log.warn(w);
 
 // Long-lived stdio session: keep the server alive (and its in-memory index)
 // on a stray unhandled rejection rather than crashing the user's session.

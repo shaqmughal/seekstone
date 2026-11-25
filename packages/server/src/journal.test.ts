@@ -27,6 +27,12 @@ describe('resolveJournalConfig', () => {
     }
     expect(resolveJournalConfig({ SEEKSTONE_HISTORY: '1' })).toBeDefined();
   });
+  it('SEEKSTONE_HISTORY=true|yes|on keeps it on, and no disables (SHA-633)', () => {
+    for (const v of ['true', 'TRUE', 'yes', 'on', '']) {
+      expect(resolveJournalConfig({ SEEKSTONE_HISTORY: v })).toBeDefined();
+    }
+    expect(resolveJournalConfig({ SEEKSTONE_HISTORY: 'no' })).toBeUndefined();
+  });
   it('reads size and entry caps', () => {
     expect(
       resolveJournalConfig({

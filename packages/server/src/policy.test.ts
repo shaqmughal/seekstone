@@ -79,6 +79,11 @@ describe('parseWritePolicy', () => {
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: '0' }).readOnly).toBe(false);
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: 'no' }).readOnly).toBe(false);
   });
+  it('also accepts yes and on for SEEKSTONE_READ_ONLY (SHA-633)', () => {
+    expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: 'yes' }).readOnly).toBe(true);
+    expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: ' On ' }).readOnly).toBe(true);
+    expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: '' }).readOnly).toBe(false);
+  });
   it('splits SEEKSTONE_WRITE_PATHS on commas, trimming and dropping empties', () => {
     expect(
       parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'journal/**, inbox/*.md ,' }).writeGlobs,

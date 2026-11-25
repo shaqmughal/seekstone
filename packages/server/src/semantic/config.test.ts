@@ -10,10 +10,18 @@ import {
 } from './config.js';
 
 describe('resolveSemanticConfig', () => {
-  it('is disabled unless SEEKSTONE_SEMANTIC=1', () => {
+  it('is disabled unless SEEKSTONE_SEMANTIC is on', () => {
     expect(resolveSemanticConfig({}, '/home/u')).toBeUndefined();
     expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: '0' }, '/home/u')).toBeUndefined();
-    expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: 'true' }, '/home/u')).toBeUndefined();
+    expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: 'false' }, '/home/u')).toBeUndefined();
+    expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: '' }, '/home/u')).toBeUndefined();
+    expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: 'maybe' }, '/home/u')).toBeUndefined();
+  });
+
+  it('accepts true, yes and on as well as 1 (SHA-633)', () => {
+    for (const v of ['1', 'true', 'TRUE', ' yes ', 'on']) {
+      expect(resolveSemanticConfig({ SEEKSTONE_SEMANTIC: v }, '/home/u')).toBeDefined();
+    }
   });
 
   it('defaults the model dir under the cache dir', () => {

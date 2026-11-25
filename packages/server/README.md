@@ -172,6 +172,8 @@ Ten write tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_n
 | `SEEKSTONE_BUNDLED_MODEL_DIR` | no | Set by the `seekstone-semantic.mcpb` bundle's manifest — sharded model files shipped inside the extension, reassembled into the model directory at boot (disk-only, hash-verified). Not usually set by hand. |
 | `SEEKSTONE_INSTRUCTIONS` | no | Path to a file whose contents become the MCP server's `instructions` string (surfaced to clients alongside the tool list). A relative path resolves against the vault root. Read once at boot, trimmed, capped at 16 KB (truncated with a warning past that). Missing, unreadable, or empty after trim means no instructions — never a boot failure. |
 
+On/off settings (`SEEKSTONE_READ_ONLY`, `SEEKSTONE_HISTORY`, `SEEKSTONE_WATCH_POLL`, `SEEKSTONE_SEMANTIC`) accept `1`/`0`, `true`/`false`, `yes`/`no` and `on`/`off`, in any case. Any other value leaves the setting at its default and logs a warning at boot.
+
 ---
 
 ## Write safety

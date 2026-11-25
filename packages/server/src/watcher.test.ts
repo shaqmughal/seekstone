@@ -11,7 +11,12 @@ import { PERMISSIVE_POLICY } from './policy.js';
 import { getLinks } from './tools/get_links.js';
 import { listTags } from './tools/list_tags.js';
 import { vaultStats } from './tools/vault_stats.js';
-import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
+import {
+  DEFAULT_POLL_INTERVAL_MS,
+  resolvePollInterval,
+  resolveUsePolling,
+  startWatcher,
+} from './watcher.js';
 
 // Each test gets its own vault dir. We await the watcher's `ready` promise
 // before mutating files, so events are deterministic (no retries needed).
@@ -447,6 +452,21 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
 });
 
 // Pure interval resolution — no watcher spun up, so no coverage-gate skip.
+describe('resolveUsePolling', () => {
+  it('is off by default and on for 1, true, yes and on (SHA-633)', () => {
+    expect(resolveUsePolling(undefined, undefined)).toBe(false);
+    expect(resolveUsePolling(undefined, '')).toBe(false);
+    expect(resolveUsePolling(undefined, 'false')).toBe(false);
+    for (const v of ['1', 'true', 'TRUE', 'yes', ' on ']) {
+      expect(resolveUsePolling(undefined, v)).toBe(true);
+    }
+  });
+  it('lets the explicit option win over the env', () => {
+    expect(resolveUsePolling(false, 'true')).toBe(false);
+    expect(resolveUsePolling(true, '0')).toBe(true);
+  });
+});
+
 describe('resolvePollInterval', () => {
   const warns: { msg: string; fields?: Record<string, unknown> }[] = [];
   const noop = () => {};

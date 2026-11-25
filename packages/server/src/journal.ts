@@ -19,6 +19,7 @@ import { hostname } from 'node:os';
 import { basename, dirname, join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
+import { envFlag } from './env.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
 
@@ -119,13 +120,12 @@ const abandoned = new Set<string>();
 
 /**
  * Read the journal settings from env. Returns undefined when the journal is
- * disabled (`SEEKSTONE_HISTORY=0|false`).
+ * disabled (`SEEKSTONE_HISTORY=0|false|no|off`).
  */
 export function resolveJournalConfig(
   env: Record<string, string | undefined>,
 ): JournalConfig | undefined {
-  const flag = (env.SEEKSTONE_HISTORY ?? '').trim().toLowerCase();
-  if (flag === '0' || flag === 'false' || flag === 'off') return undefined;
+  if (!envFlag(env.SEEKSTONE_HISTORY, true)) return undefined;
   const maxEntriesRaw = Number.parseInt(env.SEEKSTONE_HISTORY_MAX_ENTRIES ?? '', 10);
   return {
     maxBytes: parseSize(env.SEEKSTONE_HISTORY_MAX_SIZE, DEFAULT_MAX_BYTES),
