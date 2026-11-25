@@ -8,8 +8,8 @@ import { execFileSync, spawn } from 'node:child_process';
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { repoRoot } from './lib/repo-root.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
 const cleanup = [];
 const tmp = (p) => {
   const d = mkdtempSync(join(tmpdir(), p));
