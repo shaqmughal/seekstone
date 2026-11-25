@@ -605,6 +605,15 @@ jobs:
           git config user.name "${APP_SLUG}[bot]"
           git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
 
+      # The fix pass must rewrite pr.md (or write blocked.md) to count. Without
+      # this, the first pass's pr.md would satisfy the check below even when
+      # the agent committed half a fix and stopped.
+      - name: Record the first pass's pr.md
+        id: first
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+        run: echo "sha=$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
       - *run-playbook
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
@@ -621,6 +630,7 @@ jobs:
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
           BASE: ${{ needs.work.outputs.base }}
+          FIRST_SHA: ${{ steps.first.outputs.sha }}
         run: |
           if [ -f "$FACTORY_DIR/quota.md" ]; then
             echo "::warning::the Max allowance ran out in the fix pass; delivering the first pass"
@@ -633,8 +643,9 @@ jobs:
               git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
                 echo "::warning::could not commit the uncommitted changes"
             fi
-          elif [ ! -f "$FACTORY_DIR/pr.md" ]; then
-            echo "::warning::the fix pass left neither pr.md nor blocked.md; delivering the first pass"
+          elif [ ! -f "$FACTORY_DIR/pr.md" ] ||
+            [ "$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" = "$FIRST_SHA" ]; then
+            echo "::warning::the fix pass did not rewrite pr.md or write blocked.md; delivering the first pass"
             exit 0
           fi
           git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"

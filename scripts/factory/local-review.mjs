@@ -156,11 +156,14 @@ export function prSection({ findings = [], skipped = null, partial = false }) {
 
 /** pr.md with the section added, replacing an earlier one. */
 export function withSection(pr, section) {
-  const start = pr.indexOf(`\n${SECTION}\n`);
+  // The leading newline lets a section on the first line match too.
+  const text = `\n${pr}`;
+  const start = text.indexOf(`\n${SECTION}\n`);
   if (start === -1) return `${pr.replace(/\s*$/, '')}\n\n${section}\n`;
-  const next = pr.indexOf('\n## ', start + 1);
-  const tail = next === -1 ? '' : `\n${pr.slice(next + 1)}`;
-  return `${pr.slice(0, start).replace(/\s*$/, '')}\n\n${section}\n${tail}`;
+  const next = text.indexOf('\n## ', start + 1);
+  const tail = next === -1 ? '' : `\n${text.slice(next + 1)}`;
+  const head = text.slice(1, start).replace(/\s*$/, '');
+  return `${head ? `${head}\n\n` : ''}${section}\n${tail}`;
 }
 
 function finish(dir, { findings, skipped, partial = false }) {

@@ -197,6 +197,13 @@ describe('withSection', () => {
       `Title\n\nBody\n\n${SECTION}\n\nNew\n\n## Checks run\n\nnpm test: pass\n`,
     );
   });
+
+  it('replaces a section at the very start of pr.md', () => {
+    const pr = `${SECTION}\n\nOld\n\n## Checks run\n\nnpm test: pass\n`;
+    expect(withSection(pr, `${SECTION}\n\nNew`)).toBe(
+      `${SECTION}\n\nNew\n\n## Checks run\n\nnpm test: pass\n`,
+    );
+  });
 });
 
 describe('the command', () => {
