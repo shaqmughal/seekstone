@@ -203,6 +203,52 @@ describe('the index matches a cold rebuild right after each write', () => {
     ]);
   });
 
+  it('a link removed while its target is deleted stays gone after undo_write (SHA-572)', async () => {
+    await deleteNote(ctx, { path: 'Gamma.md' });
+    await replaceInNote(ctx, {
+      path: 'Home.md',
+      find: '[[Gamma]]',
+      replace: 'nothing',
+      regex: false,
+      caseSensitive: false,
+      wholeWord: false,
+      dryRun: false,
+    });
+    const [del] = listWrites(ctx, { path: 'Gamma.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
+      'A/Beta.md',
+    ]);
+  });
+
+  it('a link added while its target is deleted counts once create_note brings it back (SHA-572)', async () => {
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'Gamma.md' });
+    await appendNote(ctx, { path: 'C.md', content: 'now [[Gamma]]' });
+    await createNote(ctx, { path: 'Gamma.md', content: '# Gamma\n', overwrite: false });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
+      'A/Beta.md',
+      'C.md',
+      'Home.md',
+    ]);
+  });
+
+  it('a note nobody linked to when it was deleted gets links added since (SHA-572)', async () => {
+    await createNote(ctx, { path: 'Lone.md', content: 'alone', overwrite: false });
+    await deleteNote(ctx, { path: 'Lone.md' });
+    await appendNote(ctx, { path: 'Home.md', content: 'see [[Lone]]' });
+    const [del] = listWrites(ctx, { path: 'Lone.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Lone.md' }).backlinks.map((b) => b.path)).toEqual([
+      'Home.md',
+    ]);
+  });
+
   it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {
     const live = () => [...ctx.notes.keys()].filter((p) => p.toLowerCase().startsWith('.trash'));
     await deleteNote(ctx, { path: 'Gamma.md' });

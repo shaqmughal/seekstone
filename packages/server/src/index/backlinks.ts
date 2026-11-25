@@ -2,6 +2,7 @@ import { extractLinksWithLines } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { bumpGeneration } from './generation.js';
 import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
+import type { IndexedNote } from './types.js';
 
 /**
  * Incremental backlink-index maintenance, shared by the watcher and the
@@ -57,6 +58,25 @@ export function addNoteBacklinks(
     arr.push(ref);
     arr.sort((a, b) => a.path.localeCompare(b.path));
   }
+}
+
+/**
+ * Every other note's ref to `path`, read from the notes' current text, as a
+ * cold build would list them. Reads every note, so it runs only when a deleted
+ * note comes back: links may have been added or removed while it was gone.
+ * The note's links to itself are left to its caller's addNoteBacklinks.
+ */
+export function inboundRefs(notes: Map<string, IndexedNote>, path: string): BacklinkRef[] {
+  const maps = buildResolveMaps(notes);
+  const refs: BacklinkRef[] = [];
+  for (const [src, doc] of notes) {
+    if (src === path) continue;
+    const link = extractLinksWithLines(doc.raw).find(
+      (l) => resolveLink(l.target, notes, maps) === path,
+    );
+    if (link !== undefined) refs.push({ path: src, line: link.line, linkType: link.linkType });
+  }
+  return refs.sort((a, b) => a.path.localeCompare(b.path));
 }
 
 /** Drop every ref that points at `path` (nothing resolves to it anymore). */

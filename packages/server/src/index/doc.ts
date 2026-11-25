@@ -4,7 +4,7 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { crossesLink } from '../symlinks.js';
-import { addNoteBacklinks, dropsLinks, removeNoteBacklinks } from './backlinks.js';
+import { addNoteBacklinks, dropsLinks, inboundRefs, removeNoteBacklinks } from './backlinks.js';
 import { bumpGeneration } from './generation.js';
 import type { IndexedNote } from './types.js';
 
@@ -32,7 +32,8 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
 
 /**
  * Upsert a document into the context index. Discards any stale entry first.
- * A note that comes back after removeDoc gets its parked inbound refs back.
+ * A note that comes back after removeDoc gets its inbound refs back, read
+ * from the linking notes as they are now.
  *
  * Returns false, and keeps the path out of the index, when it crosses a
  * symlink below the vault root (SHA-575). The check is synchronous, with no
@@ -64,11 +65,18 @@ export function upsertDoc(
     return false;
   }
   bumpGeneration(ctx);
-  if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);
-  else if (ctx.backlinks !== undefined)
-    unparkBacklinks(ctx.backlinks, ctx.parkedBacklinks, doc.id, ctx.notes);
+  const indexed = ctx.notes.has(doc.id);
+  const returning = !indexed && ctx.parkedBacklinks?.delete(doc.id) === true;
+  if (indexed) ctx.index.discard(doc.id);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
+  // Links to the note may have changed while it was gone, so the parked refs
+  // are re-read from the linking notes' current text instead of put back.
+  if (returning && ctx.backlinks !== undefined) {
+    const refs = inboundRefs(ctx.notes, doc.id);
+    if (refs.length > 0) ctx.backlinks.set(doc.id, refs);
+    else ctx.backlinks.delete(doc.id);
+  }
   return true;
 }
 
@@ -90,30 +98,12 @@ export function removeDoc(
   ctx.index.discard(path);
   ctx.notes.delete(path);
   if (opts.parkInbound === false) return;
-  const inbound = ctx.backlinks.get(path);
-  if (inbound === undefined) return;
+  // Parked even with no inbound refs: a link added while the note is gone
+  // must count when it comes back.
+  const inbound = ctx.backlinks.get(path) ?? [];
   ctx.backlinks.delete(path);
-  if (inbound.length === 0) return;
   ctx.parkedBacklinks ??= new Map();
   ctx.parkedBacklinks.set(path, inbound);
-}
-
-function unparkBacklinks(
-  backlinks: Map<string, BacklinkRef[]>,
-  parked: Map<string, BacklinkRef[]> | undefined,
-  path: string,
-  notes: Map<string, IndexedNote>,
-): void {
-  const refs = parked?.get(path);
-  if (refs === undefined) return;
-  parked?.delete(path);
-  // A source deleted while this note was gone couldn't clear its ref.
-  const merged = refs.filter((r) => notes.has(r.path));
-  for (const r of backlinks.get(path) ?? []) {
-    if (!merged.some((m) => m.path === r.path)) merged.push(r);
-  }
-  merged.sort((a, b) => a.path.localeCompare(b.path));
-  if (merged.length > 0) backlinks.set(path, merged);
 }
 
 /**

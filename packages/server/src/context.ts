@@ -39,8 +39,10 @@ export interface ServerContext {
   attachments: AttachmentIndex;
   /**
    * Inbound refs of deleted notes, set aside by removeDoc so they don't count
-   * while the note is gone, and put back by upsertDoc if the note returns
-   * (undo_write, a re-create). Created on first delete.
+   * while the note is gone. Every deleted path gets an entry, even with no
+   * refs. If the note returns (undo_write, a re-create), upsertDoc drops the
+   * entry and re-reads the refs from the linking notes' current text.
+   * Created on first delete.
    */
   parkedBacklinks?: Map<string, BacklinkRef[]>;
   /** Read-only / write-path-scoping policy, parsed from env at boot. */
