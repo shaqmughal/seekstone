@@ -41,6 +41,8 @@ When the gate fails on a PR you expect to pass:
 
 `pr-autoupdate.yml` also reruns when the review gate finishes, so a PR it skipped for a failing gate goes back in line once CodeRabbit approves.
 
+A push runs the gate before CodeRabbit has reviewed the new commit, so that run fails. When CodeRabbit approves the commit and the gate passes, the `re-run stale review gate` job re-runs the failed gate runs on the same commit, so they don't leave the PR looking red. It needs `actions: write` and is skipped for PRs from forks; there, re-run the failed job by hand.
+
 ### Review rounds
 
 A PR gets two CodeRabbit rounds. Fix every valid finding, with a test, in each. After the second round, put what's left on Linear tickets, reply in each finding's thread with its ticket link and resolve the thread, and a maintainer dismisses CodeRabbit's change request with a note that links them. Open threads block the merge even after a dismissal or an override, so none can be left unresolved. Dismissing clears the request but isn't an approval, so the gate still fails. Then comment `@coderabbitai review` so CodeRabbit reviews the latest commit and approves it; if it says it already reviewed that commit, use `@coderabbitai full review`. If it still won't approve, the maintainer adds `review:override`. A review requested only to get that approval doesn't count as a third round: anything new it raises goes on a ticket, unless it's a real Major or Critical bug. A Major or Critical finding that is a real bug is fixed or blocks the merge; it is never only ticketed. For a docs PR, search the repo for every copy of a claim before you push a correction, so the same claim isn't flagged again in another file.
