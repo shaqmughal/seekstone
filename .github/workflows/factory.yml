@@ -803,8 +803,12 @@ jobs:
           bundle="$RUNNER_TEMP/fix-pass/fix-pass.bundle"
           if [ ! -f "$bundle" ]; then exit 0; fi
           saved="factory-saved/${TICKET}-${GITHUB_RUN_ID}-fix-pass"
-          git fetch "$bundle" "HEAD:refs/heads/$saved"
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$saved"
+          # Best effort: a failed save must not stop the first pass's PR.
+          if ! { git fetch "$bundle" "HEAD:refs/heads/$saved" &&
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "refs/heads/$saved"; }; then
+            echo "::warning::could not save the unfinished fix pass; its bundle is in the factory-fix-pass artifact for 7 days"
+            exit 0
+          fi
           if [ -f "$FACTORY_DIR/pr.md" ]; then
             printf '\nThe unfinished fix pass is saved on the branch [`%s`](%s/%s/tree/%s).\n' \
               "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" >> "$FACTORY_DIR/pr.md"
