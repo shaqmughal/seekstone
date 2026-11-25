@@ -23,7 +23,7 @@ const chunk = vi.hoisted(() => ({
   failWith: 'throw' as 'throw' | 'zero',
   /** When true, fsyncSync on the audit file throws. */
   fsyncFails: false,
-  /** When true, ftruncateSync on the audit file throws. */
+  /** When true, truncateSync on the audit file throws. */
   truncateFails: false,
 }));
 
@@ -60,9 +60,11 @@ vi.mock('node:fs', async (importOriginal) => {
     if (chunk.fsyncFails && auditFds.has(fd)) throw new Error('EIO: i/o error, fsync');
     fs.fsyncSync(fd);
   };
-  const ftruncateSync = (fd: number, len?: number): void => {
-    if (chunk.truncateFails && auditFds.has(fd)) throw new Error('EIO: i/o error, ftruncate');
-    fs.ftruncateSync(fd, len);
+  const truncateSync = (path: string, len?: number): void => {
+    if (chunk.truncateFails && chunk.path !== '' && String(path) === chunk.path) {
+      throw new Error('EIO: i/o error, truncate');
+    }
+    fs.truncateSync(path, len);
   };
   return {
     ...fs,
@@ -70,8 +72,8 @@ vi.mock('node:fs', async (importOriginal) => {
     closeSync,
     writeSync,
     fsyncSync,
-    ftruncateSync,
-    default: { ...fs, openSync, closeSync, writeSync, fsyncSync, ftruncateSync },
+    truncateSync,
+    default: { ...fs, openSync, closeSync, writeSync, fsyncSync, truncateSync },
   };
 });
 

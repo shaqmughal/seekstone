@@ -3,10 +3,10 @@ import {
   closeSync,
   fstatSync,
   fsyncSync,
-  ftruncateSync,
   openSync,
   renameSync,
   statSync,
+  truncateSync,
 } from 'node:fs';
 import { parseSize } from './log.js';
 import { isSymlinkRefusal } from './symlinks.js';
@@ -138,8 +138,10 @@ export class AuditLog {
         // Part of the line may be out. Cut the file back to where this
         // record started so the next record begins on a clean line. If the
         // truncate fails too, report the write error, which is the cause.
+        // Truncate by path: on Windows an append-mode fd has no write-data
+        // access, so ftruncate on it fails with EPERM.
         try {
-          ftruncateSync(fd, start);
+          truncateSync(this.path, start);
           this.bytes = start;
         } catch {
           // The partial line stays; count it at most as the whole line.
