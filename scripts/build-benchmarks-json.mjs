@@ -30,9 +30,9 @@ import { execFileSync } from 'node:child_process';
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, posix } from 'node:path';
 
+import { repoRoot as root } from './lib/repo-root.mjs';
 import { readGuaranteeCount, readServerVersion, readToolCounts } from './lib/source-of-truth.mjs';
 
-const root = new URL('..', import.meta.url).pathname;
 const check = process.argv.includes('--check');
 const OUT = 'benchmarks.json';
 const REPORTS = 'packages/harness/fixtures/baseline-reports';

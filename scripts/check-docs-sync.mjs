@@ -27,9 +27,9 @@ import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 import { checkNumbers, figureCount } from './benchmarks-guard.mjs';
+import { repoRoot as root } from './lib/repo-root.mjs';
 import { readGuaranteeCount, readToolCounts, readToolNames } from './lib/source-of-truth.mjs';
 
-const root = new URL('..', import.meta.url).pathname;
 const read = (p) => readFileSync(join(root, p), 'utf8');
 const errors = [];
 
