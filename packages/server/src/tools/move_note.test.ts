@@ -135,6 +135,34 @@ describe('moveNote', () => {
     expect(await readFile(join(tmpDir, 'over-dst.md'), 'utf8')).toBe('new');
   });
 
+  it.each([
+    ['a wikilink', 'See [[ow-link-src]].'],
+    ['a markdown link', 'See [it](ow-link-src.md).'],
+  ])(
+    'keeps the moved bytes when the overwritten destination had %s to the source',
+    async (_, dstRaw) => {
+      const local = freshCtx();
+      const srcRaw = 'the moved note';
+      await writeFile(join(tmpDir, 'ow-link-src.md'), srcRaw, 'utf8');
+      await writeFile(join(tmpDir, 'ow-link-dst.md'), dstRaw, 'utf8');
+      seedInto(local, 'ow-link-src.md', srcRaw);
+      seedInto(local, 'ow-link-dst.md', dstRaw);
+      addNoteBacklinks(local, 'ow-link-dst.md', dstRaw);
+
+      const result = await moveNote(local, {
+        from: 'ow-link-src.md',
+        to: 'ow-link-dst.md',
+        overwrite: true,
+      });
+
+      // The old destination is discarded by the overwrite, so it is not a link
+      // to rewrite; rewriting it would put its stale bytes back over the move.
+      expect(await readFile(join(tmpDir, 'ow-link-dst.md'), 'utf8')).toBe(srcRaw);
+      expect(local.notes.get('ow-link-dst.md')?.raw).toBe(srcRaw);
+      expect(result.notesRewritten).toBe(0);
+    },
+  );
+
   it('throws on path traversal in from', async () => {
     await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(
       'Path outside vault',

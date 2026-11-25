@@ -105,6 +105,9 @@ export async function moveNote(
       if (hasMarkdownLinkTo(doc.raw, path, input.from)) candidates.add(path);
     }
     candidates.delete(input.from);
+    // With overwrite, the old destination is discarded. Rewriting its links
+    // would write its stale bytes back over the moved note.
+    candidates.delete(input.to);
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE
