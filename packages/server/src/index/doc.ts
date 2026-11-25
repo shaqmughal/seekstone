@@ -4,7 +4,12 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { crossesLink } from '../symlinks.js';
-import { addNoteBacklinks, dropsLinks, inboundRefs, removeNoteBacklinks } from './backlinks.js';
+import {
+  addNoteBacklinks,
+  dropsLinks,
+  removeNoteBacklinks,
+  restoreInboundRefs,
+} from './backlinks.js';
 import { bumpGeneration } from './generation.js';
 import type { IndexedNote } from './types.js';
 
@@ -72,11 +77,8 @@ export function upsertDoc(
   ctx.index.add(doc);
   // Links to the note may have changed while it was gone, so the parked refs
   // are re-read from the linking notes' current text instead of put back.
-  if (returning && ctx.backlinks !== undefined) {
-    const refs = inboundRefs(ctx.notes, doc.id);
-    if (refs.length > 0) ctx.backlinks.set(doc.id, refs);
-    else ctx.backlinks.delete(doc.id);
-  }
+  if (returning && ctx.backlinks !== undefined)
+    restoreInboundRefs(ctx.backlinks, ctx.notes, doc.id);
   return true;
 }
 

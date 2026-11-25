@@ -14,6 +14,7 @@ import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
 import { afterAll, beforeAll, describe, test, vi } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { restoreInboundRefs } from '../index/backlinks.js';
 import { buildIndex, indexNotes, type NoteFile } from '../index/build.js';
 import { buildResolveMaps, resolveLink } from '../index/resolve.js';
 import { Journal } from '../journal.js';
@@ -124,6 +125,19 @@ describe('links', () => {
         resolveLink('Kalinjar', ctx.notes, maps);
       }),
     );
+  });
+});
+
+// A deleted note coming back re-reads every note's links (SHA-572). The cost
+// is per note, so it runs on the index-build slice to keep simulation time
+// down. The rebuilt bucket is the same each iteration.
+describe('restore', () => {
+  test('restoreInboundRefs', async ({ bench }) => {
+    const { notes, backlinks } = indexNotes(slice);
+    const path = slice[0]?.relPath ?? '';
+    await bench(`restoreInboundRefs (${SLICE} notes)`, () => {
+      restoreInboundRefs(backlinks, notes, path);
+    }).run();
   });
 });
 

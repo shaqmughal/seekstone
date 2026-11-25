@@ -3,7 +3,9 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { addNoteBacklinks } from '../index/backlinks.js';
 import { buildIndex } from '../index/build.js';
+import { replaceDoc } from '../index/doc.js';
 import { Journal } from '../journal.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from './append_note.js';
@@ -247,6 +249,30 @@ describe('the index matches a cold rebuild right after each write', () => {
     expect(getBacklinks(ctx, { path: 'Lone.md' }).backlinks.map((b) => b.path)).toEqual([
       'Home.md',
     ]);
+  });
+
+  it('a returning note takes a link back from a note with the same basename (SHA-572)', async () => {
+    await mkdir(join(root, 'B'));
+    await writeFile(join(root, 'A/Delta.md'), '# A Delta\n');
+    await writeFile(join(root, 'B/Delta.md'), '# B Delta\n');
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'A/Delta.md' });
+    // With A/Delta.md gone, [[Delta]] resolves to B/Delta.md, as the watcher would register it.
+    await writeFile(join(root, 'C.md'), 'now [[Delta]]\n');
+    replaceDoc(ctx, 'C.md', 'now [[Delta]]\n');
+    addNoteBacklinks(ctx, 'C.md', 'now [[Delta]]\n');
+    expect(getBacklinks(ctx, { path: 'B/Delta.md' }).backlinks.map((b) => b.path)).toEqual([
+      'C.md',
+    ]);
+    const [del] = listWrites(ctx, { path: 'A/Delta.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'A/Delta.md' }).backlinks.map((b) => b.path)).toEqual([
+      'C.md',
+    ]);
+    expect(getBacklinks(ctx, { path: 'B/Delta.md' }).total).toBe(0);
   });
 
   it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {
