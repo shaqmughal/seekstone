@@ -24,7 +24,7 @@ export function semanticManifest(base) {
       type: 'string',
       title: 'Model weights',
       description:
-        'int8 uses about a quarter of the memory; f32 keeps the full table. Switching re-embeds the vault once. Default: int8.',
+        'int8 or f32; any other value stops the server. int8 uses about a quarter of the memory; f32 keeps the full table. Switching re-embeds the vault once. Default: int8.',
       default: 'int8',
     },
   };
