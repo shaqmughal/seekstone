@@ -19,11 +19,9 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { repoRoot } from './lib/repo-root.mjs';
 import { stampManifestVersion, syncServerJson } from './version-sync.mjs';
 
-// fileURLToPath, not the URL's pathname, which gives /D:/... on Windows.
-const repoRoot = fileURLToPath(new URL('..', import.meta.url));
 const check = process.argv.includes('--check');
 
 const { version } = JSON.parse(

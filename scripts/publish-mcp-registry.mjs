@@ -8,10 +8,11 @@
 
 import { spawnSync } from 'node:child_process';
 import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { repoRoot } from './lib/repo-root.mjs';
 import { classifyPublishResult } from './mcp-registry-guard.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
-const { name, version } = JSON.parse(readFileSync(`${repoRoot}server.json`, 'utf8'));
+const { name, version } = JSON.parse(readFileSync(join(repoRoot, 'server.json'), 'utf8'));
 
 const run = spawnSync('./mcp-publisher', ['publish'], { cwd: repoRoot, encoding: 'utf8' });
 process.stdout.write(run.stdout ?? '');
