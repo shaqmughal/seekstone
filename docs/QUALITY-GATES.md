@@ -215,7 +215,7 @@ Tickets run one after another, each as its own `factory.yml` run, and the job wa
 
 A run never throws its work away. When a run opens or updates no PR (the agent blocked, the allowance ran out, the agent timed out or the run failed), deliver pushes its commits to `factory-saved/<ticket>-<run id>`, including anything the agent left uncommitted. The comment on the Linear ticket links the branch. If the agent leaves both `pr.md` and `blocked.md`, `blocked.md` wins.
 
-The local review's fix pass replaces the first pass only when it rewrites `pr.md` or writes `blocked.md`. When the PR opens with the first pass instead (the fix pass failed, ran out of allowance or left `pr.md` as it was), whatever the fix pass committed or left uncommitted goes to `factory-saved/<ticket>-<run id>-fix-pass`, and the PR description links it.
+The local review's fix pass replaces the first pass only when it rewrites `pr.md` or writes `blocked.md`. When the PR opens with the first pass instead (the fix pass failed, ran out of allowance or left `pr.md` as it was), whatever the fix pass committed or left uncommitted goes to `factory-saved/<ticket>-<run id>-fix-pass`, and the PR description links it. That push is best effort, so it can't hold up the PR. If it fails, the run logs a warning and the work is in the run's `factory-fix-pass` artifact for 7 days.
 
 The next new run of that ticket starts from its newest saved branch, with `main` merged in, and the agent reviews that work against the ticket as it reads then. Fix runs and unfinished fix passes don't resume; their saved branches are for a maintainer to pick up. The nightly run deletes saved branches once their ticket is Done. Branches of open or canceled tickets stay until someone deletes them.
 

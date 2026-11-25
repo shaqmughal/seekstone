@@ -94,7 +94,7 @@ After you hand off a new ticket, the workflow runs CodeRabbit's CLI on your bran
 
 Work through the findings as in the review round: verify each one against the code, fix the ones that hold up with a failing test first where the fix changes behaviour, and say specifically why for each one you leave. A Major or Critical finding must be fixed, or stop with `blocked.md`. There are no threads here, so no `review-replies.json`.
 
-Then repeat steps 5, 7 and 8, and replace the `## Local CodeRabbit review` section of `pr.md` with what you did: how many findings, and for each one, fixed (and the test) or not fixed (and why). Keep the rest of `pr.md` up to date, including "Checks run". A pass where every finding is left with a reason changes no code; write `pr.md` anyway.
+Then repeat steps 5, 7 and 8, and replace the `## Local CodeRabbit review` section of `pr.md` with what you did: how many findings, and for each one, fixed (and the test) or not fixed (and why). Keep the rest of `pr.md` up to date, including "Checks run". A pass where every finding is left with a reason changes no code: skip the commit in step 8 when `git diff --staged` is empty, and rewrite `pr.md` anyway. The workflow keeps your pass only if `pr.md` changed.
 
 ## CI-fix runs
 

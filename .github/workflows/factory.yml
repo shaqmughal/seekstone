@@ -471,6 +471,8 @@ jobs:
       # In a separate worktree, so this checkout (and the script that reads
       # the review) stays at the base commit.
       - name: Check out the branch to review
+        id: src
+        continue-on-error: true
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
           BRANCH: ${{ needs.prepare.outputs.branch }}
@@ -481,6 +483,7 @@ jobs:
 
       - name: Install the CodeRabbit CLI
         id: install
+        if: steps.src.outcome == 'success'
         continue-on-error: true
         working-directory: ${{ runner.temp }}
         run: |
@@ -523,11 +526,14 @@ jobs:
         id: report
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
+          SRC: ${{ steps.src.outcome }}
           INSTALLED: ${{ steps.install.outcome }}
           STATUS: ${{ steps.review.outputs.status }}
         run: |
           skip() { node scripts/factory/local-review.mjs skip "$FACTORY_DIR" "$1"; }
-          if [ "$INSTALLED" != success ]; then
+          if [ "$SRC" != success ]; then
+            skip "could not check out the branch to review"
+          elif [ "$INSTALLED" != success ]; then
             skip "could not install CodeRabbit CLI $CODERABBIT_VERSION (download or checksum failed)"
           elif [ "$STATUS" = nokey ]; then
             skip "the CODERABBIT_API_KEY secret is not set"
@@ -559,9 +565,15 @@ jobs:
     if: needs.local-review.result == 'success' && needs.local-review.outputs.fix == 'true'
     runs-on: ubuntu-latest
     environment: factory
-    timeout-minutes: 60
+    # The agent step's own 50 minutes, plus setup and the steps that keep an
+    # unfinished pass.
+    timeout-minutes: 75
     permissions:
       contents: read
+    # Job outputs come from the latest attempt, so a re-run that didn't
+    # upload never delivers an earlier attempt's factory-outcome-fixed.
+    outputs:
+      fixed: ${{ steps.fixed-upload.outcome }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
@@ -726,15 +738,17 @@ jobs:
           name: factory-outcome
           path: ${{ runner.temp }}/factory
 
-      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+      - id: download-reviewed
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         if: needs.local-review.result == 'success'
         continue-on-error: true
         with:
           name: factory-outcome-reviewed
           path: ${{ runner.temp }}/outcome-reviewed
 
-      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
-        if: needs.review-fix.result == 'success'
+      - id: download-fixed
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        if: needs.review-fix.result == 'success' && needs.review-fix.outputs.fixed == 'success'
         continue-on-error: true
         with:
           name: factory-outcome-fixed
@@ -742,9 +756,16 @@ jobs:
 
       # The newest complete outcome wins: the fix pass's, then the local
       # review's, then the work job's.
+      # Only a download that succeeded counts: a failed one can leave files.
       - name: Use the newest outcome
+        env:
+          FIXED: ${{ steps.download-fixed.outcome }}
+          REVIEWED: ${{ steps.download-reviewed.outcome }}
         run: |
           for d in outcome-fixed outcome-reviewed; do
+            ok="$REVIEWED"
+            if [ "$d" = outcome-fixed ]; then ok="$FIXED"; fi
+            if [ "$ok" != success ]; then continue; fi
             dir="$RUNNER_TEMP/$d"
             if [ -f "$dir/work.bundle" ] && { [ -f "$dir/pr.md" ] || [ -f "$dir/blocked.md" ]; }; then
               rm -rf "$RUNNER_TEMP/factory"
@@ -786,7 +807,8 @@ jobs:
             "$saved" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$saved" > "$FACTORY_DIR/saved.md"
           echo "::notice::saved the run's work to $saved"
 
-      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+      - id: download-fix-pass
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         if: needs.review-fix.result != 'skipped'
         continue-on-error: true
         with:
@@ -796,12 +818,13 @@ jobs:
       # The fix pass's commits when the first pass was delivered instead.
       - name: Save the unfinished fix pass to a branch
         env:
+          DOWNLOADED: ${{ steps.download-fix-pass.outcome }}
           TICKET: ${{ inputs.ticket }}
           FACTORY_DIR: ${{ runner.temp }}/factory
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           bundle="$RUNNER_TEMP/fix-pass/fix-pass.bundle"
-          if [ ! -f "$bundle" ]; then exit 0; fi
+          if [ "$DOWNLOADED" != success ] || [ ! -f "$bundle" ]; then exit 0; fi
           saved="factory-saved/${TICKET}-${GITHUB_RUN_ID}-fix-pass"
           # Best effort: a failed save must not stop the first pass's PR.
           if ! { git fetch "$bundle" "HEAD:refs/heads/$saved" &&
