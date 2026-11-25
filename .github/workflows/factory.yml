@@ -539,9 +539,12 @@ jobs:
             node scripts/factory/local-review.mjs report "$FACTORY_DIR" "$RUNNER_TEMP/local-review.jsonl" "$STATUS"
           fi
 
+      # Each pass uploads under its own name, so a failed upload never removes
+      # the work job's factory-outcome. Deliver takes the newest that arrived.
+      # overwrite only replaces this same name from an earlier attempt.
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: factory-outcome
+          name: factory-outcome-reviewed
           path: ${{ runner.temp }}/factory/
           retention-days: 7
           overwrite: true
@@ -553,7 +556,7 @@ jobs:
   # lists the findings as not addressed.
   review-fix:
     needs: [prepare, work, local-review]
-    if: needs.local-review.outputs.fix == 'true'
+    if: needs.local-review.result == 'success' && needs.local-review.outputs.fix == 'true'
     runs-on: ubuntu-latest
     environment: factory
     timeout-minutes: 60
@@ -573,7 +576,7 @@ jobs:
 
       - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
-          name: factory-outcome
+          name: factory-outcome-reviewed
           path: ${{ runner.temp }}/factory
 
       - name: Check out the branch
@@ -656,7 +659,7 @@ jobs:
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: steps.package.outputs.upload == 'true'
         with:
-          name: factory-outcome
+          name: factory-outcome-fixed
           path: ${{ runner.temp }}/factory/
           retention-days: 7
           overwrite: true
@@ -720,6 +723,34 @@ jobs:
         with:
           name: factory-outcome
           path: ${{ runner.temp }}/factory
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        if: needs.local-review.result == 'success'
+        continue-on-error: true
+        with:
+          name: factory-outcome-reviewed
+          path: ${{ runner.temp }}/outcome-reviewed
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        if: needs.review-fix.result == 'success'
+        continue-on-error: true
+        with:
+          name: factory-outcome-fixed
+          path: ${{ runner.temp }}/outcome-fixed
+
+      # The newest complete outcome wins: the fix pass's, then the local
+      # review's, then the work job's.
+      - name: Use the newest outcome
+        run: |
+          for d in outcome-fixed outcome-reviewed; do
+            dir="$RUNNER_TEMP/$d"
+            if [ -f "$dir/work.bundle" ] && { [ -f "$dir/pr.md" ] || [ -f "$dir/blocked.md" ]; }; then
+              rm -rf "$RUNNER_TEMP/factory"
+              mv "$dir" "$RUNNER_TEMP/factory"
+              echo "::notice::delivering $d"
+              break
+            fi
+          done
 
       # PRs opened with the default token don't trigger CI, so the factory
       # pushes and opens PRs as its own GitHub App (contents and pull
