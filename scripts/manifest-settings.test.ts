@@ -16,7 +16,7 @@ import { resolveAuditConfig } from '../packages/server/src/audit.js';
 import { normalizeEnv } from '../packages/server/src/env.js';
 import { resolveInstructions } from '../packages/server/src/instructions.js';
 import { resolveJournalConfig } from '../packages/server/src/journal.js';
-import { createLogger } from '../packages/server/src/log.js';
+import { createLogger, parseSize } from '../packages/server/src/log.js';
 import { parseWritePolicy } from '../packages/server/src/policy.js';
 import { resolveSemanticConfig } from '../packages/server/src/semantic/config.js';
 import { resolvePollInterval, resolveUsePolling } from '../packages/server/src/watcher.js';
@@ -125,6 +125,10 @@ function resolved(env: Env) {
     audit: resolveAuditConfig(env),
     instructions: resolveInstructions(env, '/vault', quiet),
     logLevel: createLogger({ env, stderr: () => {} }).level,
+    // Read the way createLogger does (log.ts), without building a logger
+    // that would open the file.
+    logFile: env.SEEKSTONE_LOG_FILE || undefined,
+    logMaxSize: parseSize(env.SEEKSTONE_LOG_MAX_SIZE),
     usePolling: resolveUsePolling(undefined, env.SEEKSTONE_WATCH_POLL),
     pollInterval: resolvePollInterval(undefined, env.SEEKSTONE_WATCH_POLL_INTERVAL),
     semantic: resolveSemanticConfig(env as NodeJS.ProcessEnv, '/home'),
@@ -218,6 +222,15 @@ describe('a blank .mcpb install behaves like an empty env', () => {
     const got = resolved(await launchEnv(semantic, {}));
     expect(got.semantic).toBeDefined();
     expect(got).toEqual(resolved(hardwired));
+  });
+
+  it.each([
+    ['log_file', '/tmp/seekstone.log'],
+    ['log_max_size', '1mb'],
+  ])('catches a non-blank %s default', async (key, value) => {
+    const m = structuredClone(base);
+    m.user_config[key].default = value;
+    expect(resolved(await launchEnv(m, {}))).not.toEqual(resolved({}));
   });
 });
 
