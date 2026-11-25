@@ -550,16 +550,39 @@ export class Journal {
     try {
       appendDurable(this.manifestPath, line);
     } catch (err) {
-      // Part of the line, or all of it, may be on disk. Reread the manifest
-      // from the start next time instead of trusting our offsets.
-      this.manifestIno = -1;
+      // Part of the line, or all of it, may be on disk, and the caller won't
+      // write the note. Cut it off so it never loads as committed.
+      this.rollBackAppend();
       throw err;
     }
     this.manifestOffset += Buffer.byteLength(line, 'utf8');
     this.nextSeq++;
     this.entries.push(entry);
-    await this.evict();
+    try {
+      await this.evict();
+    } catch (err) {
+      // The entry is committed, so the write goes ahead. The old rows are
+      // still in the manifest: reread it, and the next commit compacts again.
+      this.manifestIno = -1;
+      this.log?.warn('journal: manifest compaction failed; retrying on the next write', {
+        error: String(err),
+      });
+    }
     return entry;
+  }
+
+  /** Called with the lock held, after a failed append. */
+  private rollBackAppend(): void {
+    try {
+      truncateSync(this.manifestPath, this.manifestOffset);
+    } catch (err) {
+      // The row may stay. Reread the manifest from the start next time
+      // instead of trusting our offsets.
+      this.manifestIno = -1;
+      this.log?.warn('journal: could not roll back a failed manifest append', {
+        error: String(err),
+      });
+    }
   }
 
   /**

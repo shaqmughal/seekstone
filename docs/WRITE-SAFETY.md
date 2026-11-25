@@ -321,14 +321,20 @@ write starts. A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
-does not proceed. Retention has two caps, and they evict differently. Over
+does not proceed. A write whose journal row can't be recorded fails and
+leaves no row: a failed append is cut back off the manifest before the error
+is returned. If even that cut fails, the row may stay, and the server logs a
+warning. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest
 entries' pre-images are deleted but their rows stay, listed with
 `undoable: false`; the entry just committed is never evicted this way. Over
 `SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
 from the manifest along with their pre-images, so they no longer appear in
-`list_writes` and `undo_write` reports them as not found. `SEEKSTONE_HISTORY=0`
-disables the journal.
+`list_writes` and `undo_write` reports them as not found. A failed compaction
+(Windows can refuse the rewrite while another process has the manifest open)
+doesn't fail the write: the server logs a warning, and the compaction is
+retried on the next write, so old rows can stay past the cap until then.
+`SEEKSTONE_HISTORY=0` disables the journal.
 
 Write history must be a real folder in the vault. If `.seekstone/`,
 `.seekstone/history/`, its `blobs/` folder, `manifest.jsonl` or `manifest.lock` is a symlink at
@@ -367,7 +373,10 @@ agent itself can drive.
   [`journal-multiprocess.test.ts`](../packages/server/src/journal-multiprocess.test.ts)
   (shared journal, lock takeover and waiting) and
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
-  (short and failed manifest writes), and the harness `undo-roundtrip` op — a
+  (short and failed manifest writes),
+  [`journal-rollback.test.ts`](../packages/server/src/journal-rollback.test.ts)
+  (a failed append leaves no row, a failed compaction doesn't fail the
+  write), and the harness `undo-roundtrip` op — a
   write through the server, then `undo_write`, must leave the note
   byte-identical to its original. `journal.test.ts` covers both caps: the
   byte cap marks rows `undoable: false`, and the entry cap drops rows and
