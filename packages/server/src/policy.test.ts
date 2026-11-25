@@ -1,6 +1,7 @@
 import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
+import { normalizeEnv } from './env.js';
 import {
   assertWritable,
   isReadable,
@@ -83,6 +84,25 @@ describe('parseWritePolicy', () => {
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: 'yes' }).readOnly).toBe(true);
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: ' On ' }).readOnly).toBe(true);
     expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: '' }).readOnly).toBe(false);
+  });
+  it.each(['y', 'enabled', '2', 'truee', 'maybe'])(
+    'fails closed: an unrecognized SEEKSTONE_READ_ONLY=%j turns read-only on (SHA-635)',
+    (value) => {
+      expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: value }).readOnly).toBe(true);
+    },
+  );
+  it.each([undefined, '', '  '])(
+    'treats a blank SEEKSTONE_READ_ONLY=%j as off (SHA-635)',
+    (value) => {
+      expect(parseWritePolicy({ SEEKSTONE_READ_ONLY: value }).readOnly).toBe(false);
+    },
+  );
+  it('treats an unfilled read_only placeholder as unset, so off (SHA-635)', () => {
+    const env: Record<string, string | undefined> = {
+      SEEKSTONE_READ_ONLY: `\${user_config.read_only}`,
+    };
+    normalizeEnv(env);
+    expect(parseWritePolicy(env).readOnly).toBe(false);
   });
   it('splits SEEKSTONE_WRITE_PATHS on commas, trimming and dropping empties', () => {
     expect(

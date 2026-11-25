@@ -19,8 +19,8 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { Client } from '@modelcontextprotocol/sdk/client/index.js';
 import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js';
+import { repoRoot } from './lib/repo-root.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
 const serverEntry = join(repoRoot, 'packages/server/dist/index.js');
 
 // Source of truth for the expected tool surface — same extraction as

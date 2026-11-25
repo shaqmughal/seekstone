@@ -12,9 +12,9 @@
 import { execFileSync } from 'node:child_process';
 import { mkdtempSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
-import { join, resolve } from 'node:path';
+import { join } from 'node:path';
+import { repoRoot } from './lib/repo-root.mjs';
 
-const repoRoot = resolve(new URL('..', import.meta.url).pathname);
 const vault = join(repoRoot, 'packages/harness/fixtures/vault');
 const baselinePath = join(repoRoot, 'packages/harness/fixtures/baseline-reports/safety-fs.json');
 const outDir = mkdtempSync(join(tmpdir(), 'seekstone-safety-ci-'));

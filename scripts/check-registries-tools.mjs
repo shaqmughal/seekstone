@@ -12,9 +12,10 @@
 // split, so this fails CI on drift rather than rewriting the file.
 
 import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { repoRoot } from './lib/repo-root.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
-const read = (p) => readFileSync(`${repoRoot}${p}`, 'utf8');
+const read = (p) => readFileSync(join(repoRoot, p), 'utf8');
 
 // --- source of truth: HANDLED_TOOLS ---
 const dispatch = read('packages/server/src/dispatch.ts');
