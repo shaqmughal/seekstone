@@ -116,6 +116,17 @@ export async function linearAuth(env, fetchImpl = fetch) {
   throw new Error('set LINEAR_CLIENT_ID and LINEAR_CLIENT_SECRET (or LINEAR_API_KEY)');
 }
 
+/**
+ * Who to assign a ticket to when it moves to Blocked, or null to leave the
+ * assignee alone. Factory tickets are often unassigned and the Factory app's
+ * comment notifies nobody, so the creator gets it, unless the creator is an
+ * app or integration (`User.app`) or someone already owns the ticket.
+ */
+export function blockedAssignee(issue) {
+  if (issue.assignee || !issue.creator || issue.creator.app) return null;
+  return issue.creator.id;
+}
+
 export function linear(apiKey, fetchImpl = fetch) {
   async function gql(query, variables) {
     const res = await fetchImpl(LINEAR_URL, {
@@ -136,6 +147,8 @@ export function linear(apiKey, fetchImpl = fetch) {
         `query($id: String!) { issue(id: $id) {
           id identifier title description url
           state { name type }
+          assignee { id }
+          creator { id app }
           labels { nodes { name } }
           team { states { nodes { id name } } }
           inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
@@ -171,9 +184,13 @@ export function linear(apiKey, fetchImpl = fetch) {
     async moveTo(issue, stateName) {
       const state = issue.team.states.nodes.find((s) => s.name === stateName);
       if (!state) throw new Error(`Linear: team has no "${stateName}" status`);
+      // A blocked ticket goes to someone who will see it, in the same update.
+      const a = stateName === 'Blocked' ? blockedAssignee(issue) : null;
       await gql(
-        'mutation($id: String!, $s: String!) { issueUpdate(id: $id, input: { stateId: $s }) { success } }',
-        { id: issue.id, s: state.id },
+        a
+          ? 'mutation($id: String!, $s: String!, $a: String!) { issueUpdate(id: $id, input: { stateId: $s, assigneeId: $a }) { success } }'
+          : 'mutation($id: String!, $s: String!) { issueUpdate(id: $id, input: { stateId: $s }) { success } }',
+        a ? { id: issue.id, s: state.id, a } : { id: issue.id, s: state.id },
       );
     },
     async comment(issue, body) {

@@ -63,7 +63,12 @@ export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
   };
   section('Waiting on you', [
     ...waiting.map((pr) => `Review ${link(pr)} (CodeRabbit: ${pr.coderabbit ?? 'not started'})`),
-    ...blocked.map((t) => `Answer [${t.identifier}](${t.url}) ${t.title}: ${t.why}`),
+    ...blocked.map((t) => {
+      const head = `Answer [${t.identifier}](${t.url}) ${t.title}`;
+      if (!t.questions?.length) return `${head}: see ticket`;
+      const subs = [...t.questions, `[Reply on ${t.identifier}](${t.url})`];
+      return `${head}:\n${subs.map((q) => `  - ${q}`).join('\n')}`;
+    }),
   ]);
   section('PRs opened', opened.map(link));
   section('Merged', merged.map(link));
@@ -188,22 +193,46 @@ async function factoryRuns(repo, since) {
   return workflow_runs;
 }
 
-async function blockedTickets(api) {
+const MAX_QUESTION = 200;
+
+/**
+ * What a factory comment asks, one entry per question: the numbered items
+ * (`1.` or `1)`), else the `- ` bullets, else the first paragraph after the
+ * comment's first line that isn't a heading. Only an item's first line is
+ * kept, cut to 200 characters.
+ */
+export function questions(body) {
+  const lines = body.split('\n').slice(1);
+  const items = (re) => lines.flatMap((l) => re.exec(l)?.[1].trim() || []);
+  let found = items(/^\s{0,3}\d+[.)]\s+(.*)$/);
+  if (found.length === 0) found = items(/^\s{0,3}- (.*)$/);
+  if (found.length === 0) {
+    const para = lines
+      .join('\n')
+      .split(/\n\s*\n/)
+      .map((p) => p.trim())
+      .find((p) => p && !p.startsWith('#'));
+    found = para ? [para.replace(/\s*\n\s*/g, ' ')] : [];
+  }
+  return found.map((q) => (q.length > MAX_QUESTION ? `${q.slice(0, MAX_QUESTION - 1)}…` : q));
+}
+
+/** Blocked factory tickets, each with the questions from its latest factory comment. */
+export async function blockedTickets(api) {
   const data = await api.query(
     `query { issues(filter: { labels: { name: { eqIgnoreCase: "factory" } }, state: { name: { eq: "Blocked" } } }) {
       nodes { identifier title url comments(first: 20) { nodes { body createdAt } } }
     } }`,
   );
   return data.issues.nodes.map((i) => {
-    const why = i.comments.nodes
+    const latest = i.comments.nodes
       .filter((c) => /^The factory/.test(c.body))
       .sort((a, b) => b.createdAt.localeCompare(a.createdAt))[0];
-    const firstLine = why?.body.split('\n').find((l, n) => n > 0 && l.trim()) ?? '';
     return {
       identifier: i.identifier,
       title: i.title,
       url: i.url,
-      why: firstLine.trim() || 'see ticket',
+      questions: latest ? questions(latest.body) : [],
     };
   });
 }

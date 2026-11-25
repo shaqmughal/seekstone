@@ -1,5 +1,13 @@
 import { describe, expect, it } from 'vitest';
-import { classifyRun, renderDaily, renderWeekly, revertedSha, weeklyMetrics } from './report.mjs';
+import {
+  blockedTickets,
+  classifyRun,
+  questions,
+  renderDaily,
+  renderWeekly,
+  revertedSha,
+  weeklyMetrics,
+} from './report.mjs';
 
 const job = (name: string, conclusion: string) => ({ name, conclusion });
 const run = (title: string, conclusion: string, jobs: ReturnType<typeof job>[], extra = {}) => ({
@@ -99,13 +107,29 @@ describe('renderDaily', () => {
       opened: [pr(10)],
       merged: [pr(9)],
       waiting: [pr(10, { coderabbit: 'success' })],
-      blocked: [{ identifier: 'SHA-5', title: 'Thing', url: 'https://l/5', why: 'Which timeout?' }],
+      blocked: [
+        {
+          identifier: 'SHA-5',
+          title: 'Thing',
+          url: 'https://l/5',
+          questions: ['Which timeout?', 'Which file?'],
+        },
+        { identifier: 'SHA-6', title: 'Other', url: 'https://l/6', questions: [] },
+      ],
     });
     expect(md).toContain('since 2026-11-15 12:00 UTC');
     expect(md).toContain('Runs: 3 (1 delivered, 1 skipped, 1 failed)');
     expect(md.indexOf('Waiting on you')).toBeLessThan(md.indexOf('PRs opened'));
     expect(md).toContain('Review [#10](https://gh/pr/10) fix thing 10 (CodeRabbit: success)');
-    expect(md).toContain('Answer [SHA-5](https://l/5) Thing: Which timeout?');
+    expect(md).toContain(
+      [
+        '- Answer [SHA-5](https://l/5) Thing:',
+        '  - Which timeout?',
+        '  - Which file?',
+        '  - [Reply on SHA-5](https://l/5)',
+      ].join('\n'),
+    );
+    expect(md).toContain('- Answer [SHA-6](https://l/6) Other: see ticket');
     expect(md).toContain('SHA-2: SHA-2 is in Backlog');
     expect(md).toContain('SHA-3 (fix): [run](https://x/Factory SHA-3 fix)');
   });
@@ -121,6 +145,81 @@ describe('renderDaily', () => {
     });
     expect(md).toContain('Nothing ran and nothing is waiting on you.');
     expect(md).not.toContain('**PRs opened**');
+  });
+});
+
+describe('blockedTickets', () => {
+  const STOPPED = 'The factory stopped and needs an answer.';
+  const ticket = (comments: { body: string; createdAt: string }[]) => ({
+    identifier: 'SHA-560',
+    title: 'Refuse writes',
+    url: 'https://l/560',
+    comments: { nodes: comments },
+  });
+  const run = async (comments: { body: string; createdAt: string }[]) => {
+    const api = { query: async () => ({ issues: { nodes: [ticket(comments)] } }) };
+    return (await blockedTickets(api))[0];
+  };
+
+  it('lists numbered questions from the latest factory comment, skipping a heading', async () => {
+    const body = [
+      STOPPED,
+      '',
+      '## Blocked: the scope is unclear',
+      '',
+      '1. Should `.trash` be refused too?',
+      '   It is where Obsidian keeps deleted notes.',
+      '2) Which error code do refused writes return?',
+      '3. Does the check apply to moves?',
+    ].join('\n');
+    const t = await run([
+      { body: `${STOPPED}\n\n1. An older question`, createdAt: '2026-11-20T00:00:00Z' },
+      { body, createdAt: '2026-11-21T00:00:00Z' },
+      { body: 'A person replied.\n\n1. Not a factory comment', createdAt: '2026-11-22T00:00:00Z' },
+    ]);
+    expect(t).toEqual({
+      identifier: 'SHA-560',
+      title: 'Refuse writes',
+      url: 'https://l/560',
+      questions: [
+        'Should `.trash` be refused too?',
+        'Which error code do refused writes return?',
+        'Does the check apply to moves?',
+      ],
+    });
+  });
+
+  it('falls back to the bullets of a readiness comment', async () => {
+    const body = [
+      "The factory didn't start: this ticket isn't ready.",
+      '',
+      '- missing "## Acceptance criteria" section',
+      '- no checkbox items under it',
+    ].join('\n');
+    expect((await run([{ body, createdAt: '2026-11-24T00:00:00Z' }])).questions).toEqual([
+      'missing "## Acceptance criteria" section',
+      'no checkbox items under it',
+    ]);
+  });
+
+  it('falls back to the first paragraph that is not a heading', async () => {
+    const body = `${STOPPED}\n\n# Why\n\nThe benchmark\nregressed twice.\n\nSecond paragraph.`;
+    expect((await run([{ body, createdAt: '2026-11-24T00:00:00Z' }])).questions).toEqual([
+      'The benchmark regressed twice.',
+    ]);
+  });
+
+  it('cuts a long question to 200 characters', async () => {
+    const body = `${STOPPED}\n\n1. ${'x'.repeat(250)}\n2. Short?`;
+    const [long, short] = (await run([{ body, createdAt: '2026-11-24T00:00:00Z' }])).questions;
+    expect(long).toHaveLength(200);
+    expect(long).toBe(`${'x'.repeat(199)}…`);
+    expect(short).toBe('Short?');
+  });
+
+  it('has no questions when only ensureBlocked moved the ticket', async () => {
+    expect((await run([])).questions).toEqual([]);
+    expect(questions(STOPPED)).toEqual([]);
   });
 });
 
