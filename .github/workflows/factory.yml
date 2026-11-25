@@ -639,6 +639,7 @@ jobs:
           name: factory-transcript-local-review
           path: ${{ runner.temp }}/transcript/
           retention-days: 14
+          overwrite: true
           if-no-files-found: ignore
 
       - name: Package the result
@@ -704,6 +705,7 @@ jobs:
           name: factory-fix-pass
           path: ${{ runner.temp }}/fix-pass/
           retention-days: 7
+          overwrite: true
 
   deliver:
     needs: [prepare, work, local-review, review-fix]
