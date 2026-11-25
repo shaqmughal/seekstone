@@ -8,7 +8,9 @@ name: Review gate
 # scripts/review-gate.mjs (tested); docs/QUALITY-GATES.md explains them.
 #
 # A CodeRabbit review comes from a GitHub App, so it triggers this workflow.
-# Everything here is a read, which keeps fork PRs (read-only token) working.
+# The gate job only reads, which keeps fork PRs (read-only token) working.
+# `clear-stale` is the one job that writes (it re-runs workflow runs), and it
+# skips forks.
 
 on:
   pull_request:
@@ -70,3 +72,40 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           BASE_REF: origin/${{ github.event.pull_request.base.ref }}
         run: node scripts/review-gate.mjs
+
+  # A push runs the gate before CodeRabbit has reviewed the new head, so that
+  # run fails, as it should. When CodeRabbit approves, the review-event run
+  # above passes, but the failed run stays on the commit and GitHub reports
+  # the PR as failing until someone re-runs it (SHA-658). Re-run those failed
+  # runs here: on the same head they now pass. A re-run keeps its original
+  # pull_request event, so it never reaches this job and can't loop.
+  clear-stale:
+    name: re-run stale review gate
+    needs: gate
+    if: >-
+      github.event_name == 'pull_request_review' &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write
+    steps:
+      - name: Harden runner (audit network egress, SHA-517)
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
+        with:
+          egress-policy: audit
+
+      - name: Re-run failed gate runs on this head
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          CURRENT_RUN: ${{ github.run_id }}
+        run: |
+          ids=$(gh run list --workflow review-gate.yml --commit "$HEAD_SHA" \
+            --status failure --limit 20 --json databaseId --jq '.[].databaseId')
+          for id in $ids; do
+            [ "$id" = "$CURRENT_RUN" ] && continue
+            echo "re-running failed review gate run $id"
+            gh run rerun "$id" --failed || echo "::warning::could not re-run review gate run $id"
+          done

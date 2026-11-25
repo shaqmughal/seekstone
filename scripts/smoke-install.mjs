@@ -8,8 +8,8 @@ import { execFileSync, spawn } from 'node:child_process';
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { repoRoot } from './lib/repo-root.mjs';
 
-const repoRoot = new URL('..', import.meta.url).pathname;
 const cleanup = [];
 const tmp = (p) => {
   const d = mkdtempSync(join(tmpdir(), p));
@@ -17,8 +17,20 @@ const tmp = (p) => {
   return d;
 };
 
-function run(cmd, args, cwd) {
-  return execFileSync(cmd, args, { cwd, encoding: 'utf8', stdio: ['ignore', 'pipe', 'inherit'] });
+// On Windows npm is npm.cmd, which execFile can't start without a shell.
+// Under `npm run smoke`, npm_execpath is npm's own CLI script, so run it with
+// this node instead: no shell on any OS.
+function npm(args, opts) {
+  const cli = process.env.npm_execpath;
+  if (cli) return execFileSync(process.execPath, [cli, ...args], opts);
+  if (process.platform === 'win32') {
+    throw new Error('on Windows, run this as `npm run smoke` so npm_execpath is set');
+  }
+  return execFileSync('npm', args, opts);
+}
+
+function run(args, cwd) {
+  return npm(args, { cwd, encoding: 'utf8', stdio: ['ignore', 'pipe', 'inherit'] });
 }
 
 let ok = false;
@@ -28,11 +40,10 @@ try {
   //    JSON is clean and the already-built dist/ is used.
   const packDir = tmp('seekstone-smoke-pack-');
   console.log('• building seekstone…');
-  execFileSync('npm', ['run', 'build', '-w', 'seekstone'], { cwd: repoRoot, stdio: 'inherit' });
+  npm(['run', 'build', '-w', 'seekstone'], { cwd: repoRoot, stdio: 'inherit' });
   console.log('• packing seekstone…');
   const packedSeekstone = JSON.parse(
     run(
-      'npm',
       ['pack', '-w', 'seekstone', '--ignore-scripts', '--json', '--pack-destination', packDir],
       repoRoot,
     ),
@@ -42,8 +53,8 @@ try {
   // 2. Clean-install the tarball into a fresh project (no repo, no tsx/typescript).
   const proj = tmp('seekstone-smoke-proj-');
   console.log('• installing the seekstone tarball into a clean project…');
-  run('npm', ['init', '-y'], proj);
-  run('npm', ['install', tgz], proj);
+  run(['init', '-y'], proj);
+  run(['install', tgz], proj);
 
   // 3. A throwaway vault.
   const vault = join(tmp('seekstone-smoke-vault-'), 'vault');
