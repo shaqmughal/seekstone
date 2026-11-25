@@ -571,9 +571,11 @@ jobs:
     permissions:
       contents: read
     # Job outputs come from the latest attempt, so a re-run that didn't
-    # upload never delivers an earlier attempt's factory-outcome-fixed.
+    # upload never delivers an earlier attempt's factory-outcome-fixed or
+    # factory-fix-pass.
     outputs:
       fixed: ${{ steps.fixed-upload.outcome }}
+      fix-pass: ${{ steps.fix-pass-upload.outcome }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
@@ -699,7 +701,8 @@ jobs:
           git bundle create "$RUNNER_TEMP/fix-pass/fix-pass.bundle" "$BASE..HEAD"
           echo "saved=true" >> "$GITHUB_OUTPUT"
 
-      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+      - id: fix-pass-upload
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always() && steps.unfinished.outputs.saved == 'true'
         with:
           name: factory-fix-pass
@@ -814,7 +817,7 @@ jobs:
 
       - id: download-fix-pass
         uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
-        if: needs.review-fix.result != 'skipped'
+        if: needs.review-fix.result != 'skipped' && needs.review-fix.outputs.fix-pass == 'success'
         continue-on-error: true
         with:
           name: factory-fix-pass
