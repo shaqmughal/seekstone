@@ -398,9 +398,12 @@ Durability: each record is appended and fsync'd **after** the vault write
 commits, so a crash loses at most the in-flight record and never touches
 earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. A short
 write is retried until the whole line is out, and a write that makes no
-progress fails the call with `audit_failed`. So a call that returns
-`audit_failed` may still have a complete record (if fsync failed after the
-write), but never a partial one from a short write. The file rotates to
+progress fails the call with `audit_failed`. If a write fails after part of
+the line is out, the file is truncated back to where that record started. So
+a call that returns `audit_failed` may still have a complete record (if fsync
+failed after the write), but never a partial one from a short write. The one
+exception is a truncate that fails as well: then the partial line stays. The
+file rotates to
 `<file>.1` when the next record would exceed `SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB). The path is used as given: a
 relative path resolves against the server's working directory, which the MCP
 client chooses, so use an absolute path. An unwritable audit path fails

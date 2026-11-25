@@ -1,4 +1,13 @@
-import { appendFileSync, closeSync, fsyncSync, openSync, renameSync, statSync } from 'node:fs';
+import {
+  appendFileSync,
+  closeSync,
+  fstatSync,
+  fsyncSync,
+  ftruncateSync,
+  openSync,
+  renameSync,
+  statSync,
+} from 'node:fs';
 import { parseSize } from './log.js';
 import { isSymlinkRefusal } from './symlinks.js';
 import { writeAll } from './write-all.js';
@@ -109,6 +118,9 @@ export class AuditLog {
   /**
    * Append one record durably. Throws if the append or fsync fails, or a
    * write makes no progress; a short write is retried until the line is out.
+   * If the write fails partway, the file is truncated back to its size before
+   * this record, so no partial line is left for the next record to join
+   * (unless the truncate fails as well).
    */
   record(rec: AuditRecord): void {
     const line = `${JSON.stringify(rec)}\n`;
@@ -119,12 +131,28 @@ export class AuditLog {
     }
     const fd = openSync(this.path, 'a');
     try {
-      writeAll(fd, line);
+      const start = fstatSync(fd).size;
+      try {
+        writeAll(fd, line);
+      } catch (err) {
+        // Part of the line may be out. Cut the file back to where this
+        // record started so the next record begins on a clean line. If the
+        // truncate fails too, report the write error, which is the cause.
+        try {
+          ftruncateSync(fd, start);
+          this.bytes = start;
+        } catch {
+          // The partial line stays; count it at most as the whole line.
+          this.bytes = start + len;
+        }
+        throw err;
+      }
+      // The whole line is in the file now, so count it even if fsync fails.
+      this.bytes = start + len;
       fsyncSync(fd);
     } finally {
       closeSync(fd);
     }
-    this.bytes += len;
   }
 }
 
