@@ -56,8 +56,9 @@ mkdir -p "$WORK/ws" "$WORK/factory"
 git -C "$WORK/ws" init -q -b main
 git -C "$WORK/ws" config user.name test
 git -C "$WORK/ws" config user.email test@example.com
-printf '{ "name": "sbtest", "version": "1.0.0", "lockfileVersion": 3, "packages": { "": { "name": "sbtest", "version": "1.0.0" } } }\n' >"$WORK/ws/package-lock.json"
 printf '{ "name": "sbtest", "version": "1.0.0", "scripts": { "postinstall": "touch /tmp/sbtest-postinstall-ran" } }\n' >"$WORK/ws/package.json"
+# One real dependency, so there is a node_modules to move into the checkout.
+(cd "$WORK/ws" && npm install --package-lock-only --ignore-scripts --no-audit --no-fund is-number@7.0.0 >/dev/null)
 echo base >"$WORK/ws/README.md"
 git -C "$WORK/ws" add -A
 git -C "$WORK/ws" commit -q -m base
@@ -103,13 +104,16 @@ if [ "$leaks" = 0 ]; then pass "no process environment with the token is readabl
 
 if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can sudo"; else pass "no sudo"; fi
 
-# Everything the agent's user can write, anywhere. Only its own folders and
+# Everything the agent's user can write, anywhere. In /srv/factory/git it may
+# add objects, refs and an index; the checks further down cover the parts it
+# mustn't touch there. Only its own folders and
 # the shared temp folders may show up; a sticky world-writable folder (like
 # /tmp) lets it add files but not replace anyone else's. System sockets under
 # /run (D-Bus, journald, systemd) are open to every user, so they are checked
 # below by what they would let it do.
 writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -path /tmp -o -path /var/tmp \
-  -o -path /srv/factory/repo -o -path /srv/factory/io -o -path /srv/factory/tmp -o -path /home/factory-agent \) -prune \
+  -o -path /srv/factory/repo -o -path /srv/factory/git -o -path /srv/factory/io -o -path /srv/factory/tmp \
+  -o -path /home/factory-agent \) -prune \
   -o -writable ! -type l ! -type s ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
 if [ -n "$writable" ]; then
   fail "the agent's user can write outside its own folders:"
@@ -191,7 +195,7 @@ refused "delete the git config file" 'rm -f /srv/factory/git/config && test ! -e
 refused "move the git directory" 'mv /srv/factory/git /srv/factory/tmp/g'
 refused "add a git hook" 'cp /srv/factory/tmp/evil.sh /srv/factory/git/hooks/post-commit'
 refused "add git info attributes" 'echo "* filter=evil" >/srv/factory/git/info/attributes'
-refused "change the global git config"'echo "[core] fsmonitor = x" >>"$GIT_CONFIG_GLOBAL"'
+refused "change the global git config" 'echo "[core] fsmonitor = x" >>"$GIT_CONFIG_GLOBAL"'
 
 # What the agent can do: plant a repo of its own next to the real one, point
 # commondir at it, add a .git folder in the checkout, and ask for a filter.
