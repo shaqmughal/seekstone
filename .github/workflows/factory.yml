@@ -225,7 +225,9 @@ jobs:
     if: needs.prepare.outputs.run == 'true'
     runs-on: ubuntu-latest
     environment: factory
-    timeout-minutes: 60
+    # The agent step's own 50 minutes, plus setup and the steps that check
+    # and upload its work.
+    timeout-minutes: 70
     permissions:
       contents: read
     outputs:
@@ -553,6 +555,15 @@ jobs:
           # instead, so deliver saves the work.
           if [ "$builds" != yes ] && [ ! -f "$FACTORY_DIR/blocked.md" ]; then
             printf '%s\n' "The branch doesn't build on its base commit (for example, merging main didn't finish), so no PR was opened. The work is saved on the branch linked below." \
+              > "$FACTORY_DIR/blocked.md"
+          fi
+          # pr.md with nothing committed: package committed the edits as
+          # leftovers, which never become a PR. Block, so they're saved.
+          wip=$(GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null \
+            git -C "$RUNNER_TEMP/mirror" log -1 --format=%s refs/factory/head 2>/dev/null || true)
+          if [ -f "$FACTORY_DIR/pr.md" ] && [ ! -f "$FACTORY_DIR/blocked.md" ] &&
+            [ "$wip" = "wip(factory): uncommitted changes when the run stopped" ]; then
+            printf '%s\n' "The agent wrote pr.md but committed nothing, so no PR was opened. Its uncommitted changes are saved on the branch linked below." \
               > "$FACTORY_DIR/blocked.md"
           fi
           # blocked.md wins over pr.md. A fix run starts with pr.md already

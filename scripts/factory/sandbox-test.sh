@@ -315,12 +315,19 @@ done
 # What Claude Code runs while it holds the token: its own git, both ways,
 # from the checkout and from inside the planted submodule. None of it may run
 # anything the agent planted.
+# Each command must succeed, so a clean marker means git looked and ran
+# nothing, not that it gave up early.
 for g in asgit cgit; do
-  $g 'git --no-optional-locks status --short >/dev/null; git status >/dev/null; git diff >/dev/null
+  if $g 'set -e
+    git --no-optional-locks status --short >/dev/null; git status >/dev/null; git diff >/dev/null
     git diff HEAD >/dev/null; git log -1 >/dev/null
     git --no-optional-locks status --porcelain --untracked-files=normal --ignore-submodules=dirty >/dev/null
     git -c core.quotepath=false ls-files --recurse-submodules >/dev/null
-    git config user.name >/dev/null; cd sub && git status >/dev/null' || true
+    git config user.name >/dev/null; cd sub && git status >/dev/null'; then
+    pass "Claude Code's git commands all run ($g)"
+  else
+    fail "a git command failed ($g), so the check below proves less"
+  fi
 done
 # Without the wrapper too: plain /usr/bin/git with no git environment, from
 # the checkout, finds the real repository through root's .git file.

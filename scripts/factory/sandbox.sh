@@ -297,6 +297,12 @@ cmd_package() {
     if ! git merge-base --is-ancestor "$BASE" HEAD 2>/dev/null; then
       delivering=false
     fi
+    # No new commits: there's nothing to deliver (except a review round's
+    # replies), so keep the edits. The workflow blocks on the leftover commit.
+    if [ "$(git rev-parse HEAD 2>/dev/null)" = "$(git rev-parse "$BASE" 2>/dev/null)" ] &&
+      [ ! -f "$IO/review-findings.md" ]; then
+      delivering=false
+    fi
   fi
   # If the leftovers can't be committed (an empty repository planted in the
   # checkout makes git add fail), still bundle what was committed.

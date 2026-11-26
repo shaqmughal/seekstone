@@ -15,8 +15,7 @@ on:
       - scripts/factory/secret-scan.mjs
   workflow_dispatch:
 
-permissions:
-  contents: read
+permissions: {}
 
 concurrency:
   group: factory-sandbox-${{ github.ref }}
@@ -25,6 +24,8 @@ concurrency:
 jobs:
   sandbox:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     timeout-minutes: 15
     steps:
       - name: Harden runner (audit network egress, SHA-517)
