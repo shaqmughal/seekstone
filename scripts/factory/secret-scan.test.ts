@@ -131,6 +131,14 @@ describe('scanning files', () => {
     expect(hits.join('')).not.toContain(TOKEN);
   });
 
+  it('finds the token in a file name without printing the name', () => {
+    mkdirSync(join(dir, 'out'));
+    writeFileSync(join(dir, 'out', `${TOKEN}.txt`), '');
+    const { hits } = scan([join(dir, 'out')], fp);
+    expect(hits).toEqual([`a file name under ${join(dir, 'out')}`]);
+    expect(hits.join('')).not.toContain(TOKEN);
+  });
+
   it('scans stdin', () => {
     expect(scan([], { ...fp, stdin: Buffer.from(`commit body ${TOKEN}`) }).hits).toEqual([
       'stdin at byte 12',

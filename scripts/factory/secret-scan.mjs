@@ -106,7 +106,14 @@ export function scan(paths, { sha256, length, prefix = '', stdin }) {
   for (const p of paths) {
     const listed = listFiles(p);
     problems.push(...listed.problems);
-    for (const f of listed.files) check(f, readFileSync(f));
+    for (const f of listed.files) {
+      check(f, readFileSync(f));
+      // Uploads keep file names, so a name can carry the token too. Never
+      // print a name that does.
+      if (findFingerprint(Buffer.from(f), sha256, length, prefix).length > 0) {
+        hits.push(`a file name under ${p}`);
+      }
+    }
   }
   if (stdin) check('stdin', stdin);
   return { hits, problems };

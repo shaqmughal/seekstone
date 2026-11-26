@@ -32,7 +32,7 @@
 #   sandbox.sh stop <user>                    kill every process of the user
 #   sandbox.sh package                        as factory-agent: commit leftovers,
 #                                             write a candidate bundle
-#   sandbox.sh collect <out>                  copy the agent's outputs back
+#   sandbox.sh collect <out> <candidate>      copy the agent's outputs back
 #   sandbox.sh mirror <workspace> <mirror>    before the agent: trusted mirror
 #   sandbox.sh verify-bundle <mirror> <base> <in> <out>
 #                                             re-create the bundle; prints the
@@ -51,6 +51,9 @@ GITDIR=$ROOT/git
 IO=$ROOT/io
 AGENT_TMP=$ROOT/tmp
 INSTALL=$ROOT/install
+# The files collect brings back from the agent's $FACTORY_DIR: its answers,
+# and the inputs the workflow gave it (later jobs read those too).
+OUTPUT_FILES="pr.md blocked.md review-replies.json ticket.md ci-failure.md review-findings.md local-review.md resume.md"
 GITCONFIG=$ROOT/gitconfig
 BIN=$ROOT/bin
 
@@ -89,12 +92,13 @@ cmd_run_agent() {
         exec "$@" </dev/null' factory-agent "$@"
 }
 
-# package (below) as factory-agent. Env: BASE, QUOTA, FIRST_SHA.
+# package (below) as factory-agent. Env: BASE, AGENT_OUTCOME, QUOTA, FIRST_SHA.
 cmd_package_as_agent() {
   local env=()
   mapfile -t env < <(agent_git_env)
   sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" PATH="$BIN:$PATH" LANG=C.UTF-8 \
-    BASE="${BASE:?}" QUOTA="${QUOTA:-false}" FIRST_SHA="${FIRST_SHA:-}" "${env[@]}" \
+    BASE="${BASE:?}" QUOTA="${QUOTA:-false}" FIRST_SHA="${FIRST_SHA:-}" \
+    AGENT_OUTCOME="${AGENT_OUTCOME:-}" "${env[@]}" \
     bash "$ROOT/trusted/scripts/factory/sandbox.sh" package
 }
 
@@ -152,7 +156,7 @@ cmd_setup() {
   # ~/.gitconfig and ~/.config/git/config, so those are the same root-owned
   # file. The agent's home is root's and sticky: the agent can add files
   # there (Claude Code keeps its state in ~/.claude) but not replace root's.
-  printf '[safe]\n\tdirectory = %s\n' "$GITDIR" | sudo tee "$GITCONFIG" >/dev/null
+  printf '[safe]\n\tdirectory = %s\n\tdirectory = %s\n' "$GITDIR" "$REPO" | sudo tee "$GITCONFIG" >/dev/null
   sudo chown root:root "$GITCONFIG"
   sudo chmod 644 "$GITCONFIG"
   local home=/home/$AGENT
@@ -271,15 +275,18 @@ install_deps() {
 # runs as the agent's user; the runner trusts none of it and verify-bundle
 # re-creates the bundle.
 #
-# Env: BASE; QUOTA (true when the allowance ran out); FIRST_SHA (review-fix:
-# the first pass's pr.md hash, so an unchanged pr.md doesn't count).
+# Env: BASE; AGENT_OUTCOME (the agent step's outcome: a failed run always
+# keeps its leftovers); QUOTA (true when the allowance ran out); FIRST_SHA
+# (review-fix: the first pass's pr.md hash, so an unchanged pr.md doesn't
+# count).
 cmd_package() {
   [ "$(id -un)" = "$AGENT" ] || die "package must run as $AGENT"
   local kv
   while IFS= read -r kv; do export "${kv?}"; done < <(agent_git_env)
   [ -n "${BASE:-}" ] || die "BASE is not set"
   local delivering=false
-  if [ -f "$IO/pr.md" ] && [ ! -f "$IO/blocked.md" ] && [ "${QUOTA:-false}" != true ]; then
+  if [ "${AGENT_OUTCOME:-}" = success ] && [ -f "$IO/pr.md" ] && [ ! -f "$IO/blocked.md" ] &&
+    [ "${QUOTA:-false}" != true ]; then
     delivering=true
     if [ -n "${FIRST_SHA:-}" ] && [ "$(sha256sum "$IO/pr.md" | cut -d' ' -f1)" = "$FIRST_SHA" ]; then
       delivering=false
@@ -301,16 +308,27 @@ cmd_package() {
 # Copy the agent's outputs back to a fresh folder the runner owns, without
 # following links, and fail if any link or special file came back.
 cmd_collect() {
-  local out=$1 odd
+  local out=$1 candidate=$2 f p
   stop_user "$AGENT"
   sudo rm -rf "$out"
   mkdir -p "$out"
-  sudo cp -r --no-dereference --preserve=mode "$IO/." "$out/"
-  sudo chown -R --no-dereference "$(id -un):$(id -gn)" "$out"
-  # Nothing in the outputs may be a link or a special file: later steps
-  # would follow or open it.
-  odd=$(find "$out" ! -type f ! -type d -print -quit)
-  [ -z "$odd" ] || die "the agent's outputs hold a link or another special file"
+  rm -f "$candidate"
+  # Only the files the factory reads come back. Anything else the agent left
+  # (a compressed file, a name made of the token) never reaches an upload.
+  for f in $OUTPUT_FILES candidate.bundle; do
+    p=$IO/$f
+    if sudo test -L "$p"; then die "the agent's $f is a link"; fi
+    sudo test -e "$p" || continue
+    sudo test -f "$p" || die "the agent's $f is not a regular file"
+    # Root reads; the runner writes, into a file it just created.
+    if [ "$f" = candidate.bundle ]; then
+      # shellcheck disable=SC2024
+      sudo cat "$p" >"$candidate"
+    else
+      # shellcheck disable=SC2024
+      sudo cat "$p" >"$out/$f"
+    fi
+  done
 }
 
 cmd_mirror() {
@@ -334,6 +352,10 @@ cmd_verify_bundle() {
   fi
   [ ! -L "$in" ] || die "the candidate bundle is a link"
   tgit -C "$mirror" fetch -q --no-tags --no-write-fetch-head "$in" "+HEAD:refs/factory/head"
+  # The new commits must build on the base. A tip that rewrote it (an
+  # amended or rebased base commit) would not push and isn't delivered.
+  tgit -C "$mirror" merge-base --is-ancestor "$base_sha" refs/factory/head ||
+    die "the agent's branch doesn't build on the base commit"
   local n
   n=$(tgit -C "$mirror" rev-list --count "$base_sha..refs/factory/head")
   if [ "$n" -gt 0 ]; then

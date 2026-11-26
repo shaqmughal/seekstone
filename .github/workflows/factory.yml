@@ -440,14 +440,17 @@ jobs:
             permissions: {
               blockReadsOutsideWorkingDirectories: true,
               blockWritesOutsideWorkingDirectories: true,
-              deny: ["Read(//proc/**)", "Edit(/\($git)/**)", "Edit(/\($repo)/.git)", "Edit(/\($repo)/.git/**)"]
+              deny: ["Read(//proc/**)", "Edit(/\($repo)/.git)", "Edit(/\($repo)/.git/**)"]
             },
             sandbox: {
               enabled: true,
               failIfUnavailable: true,
               allowUnsandboxedCommands: false,
               autoAllowBashIfSandboxed: false,
-              filesystem: { allowWrite: [$factory, $git] },
+              filesystem: {
+                allowWrite: [$factory, $git],
+                allowRead: ["/srv/factory/bin", "/srv/factory/gitconfig"]
+              },
               network: { allowedDomains: [], allowLocalBinding: true }
             }
           }')
@@ -510,6 +513,7 @@ jobs:
         env:
           BASE: ${{ env.SCAN_BASE }}
           QUOTA: ${{ steps.result.outputs.quota }}
+          AGENT_OUTCOME: ${{ steps.agent.outcome }}
           FIRST_SHA: ${{ steps.first.outputs.sha }}
         run: |
           bash /srv/factory/trusted/scripts/factory/sandbox.sh package-as-agent ||
@@ -521,7 +525,9 @@ jobs:
         name: Collect the agent's outputs
         id: collect
         if: always() && steps.agent.outcome != 'skipped'
-        run: bash /srv/factory/trusted/scripts/factory/sandbox.sh collect "$RUNNER_TEMP/factory"
+        run: |
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh collect \
+            "$RUNNER_TEMP/factory" "$RUNNER_TEMP/candidate.bundle"
 
       # Runs whatever happened above. The agent's work is always bundled, so
       # deliver can save it to a branch when no PR comes out of the run: a
@@ -538,8 +544,7 @@ jobs:
             echo "The Max allowance ran out during the run." > "$FACTORY_DIR/quota.md"
           fi
           ahead=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
-            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$FACTORY_DIR/candidate.bundle" "$FACTORY_DIR/work.bundle")
-          rm -f "$FACTORY_DIR/candidate.bundle"
+            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$FACTORY_DIR/work.bundle")
           echo "$ahead new commit(s)"
           if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
           # blocked.md wins over pr.md. A fix run starts with pr.md already
@@ -838,8 +843,7 @@ jobs:
         run: |
           bundle="$RUNNER_TEMP/fix.bundle"
           bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
-            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$FACTORY_DIR/candidate.bundle" "$bundle" >/dev/null
-          rm -f "$FACTORY_DIR/candidate.bundle"
+            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$bundle" >/dev/null
           fixed=false
           if [ "$RESULT" != success ] || [ "$QUOTA" = true ]; then
             echo "::warning::the fix pass failed or ran out of allowance; delivering the first pass"

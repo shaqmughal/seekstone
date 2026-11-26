@@ -368,23 +368,41 @@ else
   pass "package ran nothing the agent planted"
 fi
 if pgrep -u "$AGENT" >/dev/null || pgrep -U "$AGENT" >/dev/null; then fail "the agent's user still has processes"; else pass "nothing of the agent's user is left running"; fi
-bash "$SB" collect "$WORK/out" || fail "collect"
-ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
+# Files the factory doesn't read never come back, whatever they hold.
+asgit 'echo x >/srv/factory/io/notes.txt; printf "%s" "'"$FAKE"'" | gzip >/srv/factory/io/notes.gz
+  : >"/srv/factory/io/'"$FAKE"'.txt"'
+bash "$SB" collect "$WORK/out" "$WORK/cand" || fail "collect"
+if [ "$(cd "$WORK/out" && ls -A | sort | tr '\n' ' ')" = "blocked.md ticket.md " ]; then
+  pass "collect brings back only the factory's own files"
+else
+  fail "collect brought back: $(cd "$WORK/out" && ls -A | tr '\n' ' ')"
+fi
+if [ -f "$WORK/cand" ] && [ ! -e "$WORK/out/candidate.bundle" ]; then
+  pass "the candidate bundle is kept outside the outputs"
+else
+  fail "the candidate bundle is missing or in the outputs"
+fi
+ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand" "$WORK/out/work.bundle") || fail "verify-bundle"
 if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
 
-scan() { # <outputs folder>
-  set -o pipefail
-  export GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1
-  {
-    if git -C "$WORK/mirror" rev-parse -q --verify refs/factory/head >/dev/null; then
-      git -C "$WORK/mirror" rev-list --objects "$BASE_SHA..refs/factory/head" | cut -d' ' -f1 |
-        git -C "$WORK/mirror" cat-file --batch
-    fi
-  } | node "$SCAN" "$1" -
+objects() { # the new objects in the mirror, as the workflow's scan reads them
+  GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1 bash -o pipefail -c '
+    git -C "$1" rev-list --objects "$2..refs/factory/head" | cut -d" " -f1 | git -C "$1" cat-file --batch' x "$WORK/mirror" "$BASE_SHA"
 }
+mkdir -p "$WORK/empty"
 fingerprint "$FAKE"
-if scan "$WORK/out" >/dev/null 2>&1; then fail "the scan missed the token in a commit"; else pass "the scan caught the token in a commit"; fi
-if scan "$WORK/out" 2>&1 | grep -qF "$FAKE"; then fail "the scan printed the token"; else pass "the scan never prints the token"; fi
+# The commits alone, against an empty folder, so a hit can only come from them.
+if objects >"$WORK/objects" && [ -s "$WORK/objects" ]; then pass "read the new objects from the mirror"; else fail "couldn't read the new objects"; fi
+scan_out=$(node "$SCAN" "$WORK/empty" - <"$WORK/objects" 2>&1)
+scan_code=$?
+if [ "$scan_code" = 1 ] && grep -q "the Claude Code token is in stdin" <<<"$scan_out"; then
+  pass "the scan caught the token in a commit"
+else
+  fail "the scan didn't report the token in a commit (exit $scan_code)"
+fi
+if grep -qF "$FAKE" <<<"$scan_out"; then fail "the scan printed the token"; else pass "the scan never prints the token"; fi
+# Control: the same scan of the outputs alone is clean.
+if node "$SCAN" "$WORK/out" </dev/null >/dev/null 2>&1; then pass "the outputs alone scan clean"; else fail "the outputs alone don't scan clean"; fi
 
 # A candidate bundle that smuggles an unreachable object with the other token.
 asgit '
@@ -395,27 +413,42 @@ asgit '
   git tag -f smuggled "$blob" >/dev/null
   git bundle create -q /srv/factory/io/candidate.bundle '"$BASE_SHA"'..HEAD refs/tags/smuggled
 '
-bash "$SB" collect "$WORK/out2" || fail "collect 2"
-bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out2/candidate.bundle" "$WORK/out2/work.bundle" >/dev/null || fail "verify-bundle 2"
+want_tip=$(asgit 'git rev-parse HEAD')
+bash "$SB" collect "$WORK/out2" "$WORK/cand2" || fail "collect 2"
+bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand2" "$WORK/out2/work.bundle" >/dev/null || fail "verify-bundle 2"
 smuggled=$(printf '%s\n' "$OTHER" | git hash-object --stdin)
 rm -rf "$WORK/check" && git init -q --bare "$WORK/check"
-git -C "$WORK/check" fetch -q "$WORK/mirror" main
-git -C "$WORK/check" fetch -q "$WORK/out2/work.bundle" "HEAD:refs/heads/out"
-if git -C "$WORK/check" cat-file -e "$smuggled" 2>/dev/null; then
-  fail "the re-made bundle still carries the smuggled object"
+if git -C "$WORK/check" fetch -q "$WORK/mirror" main &&
+  git -C "$WORK/check" fetch -q "$WORK/out2/work.bundle" "HEAD:refs/heads/out" &&
+  [ "$(git -C "$WORK/check" rev-parse refs/heads/out)" = "$want_tip" ]; then
+  if git -C "$WORK/check" cat-file -e "$smuggled" 2>/dev/null; then
+    fail "the re-made bundle still carries the smuggled object"
+  else
+    pass "the re-made bundle has the agent's tip and drops objects the commits don't reach"
+  fi
 else
-  pass "the re-made bundle drops objects the commits don't reach"
+  fail "couldn't fetch the re-made bundle at the agent's tip"
 fi
-rm -f "$WORK/out2/candidate.bundle"
 fingerprint "$OTHER"
-if scan "$WORK/out2" >/dev/null 2>&1; then pass "the published outputs hold no smuggled token"; else fail "scan of the re-made outputs"; fi
+if objects | node "$SCAN" "$WORK/out2" - >/dev/null 2>&1; then pass "the published outputs hold no smuggled token"; else fail "scan of the re-made outputs"; fi
+
+# A branch that rewrote the base isn't delivered.
+asgit 'set -e; git switch -q --orphan rewritten; echo other >other.txt; git add other.txt
+  git -c user.name=x -c user.email=x@example.com commit -q -m rewritten
+  git bundle create -q /srv/factory/io/candidate.bundle HEAD'
+bash "$SB" collect "$WORK/out3" "$WORK/cand3" >/dev/null 2>&1 || fail "collect 3"
+if bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand3" "$WORK/out3/work.bundle" >/dev/null 2>&1; then
+  fail "verify-bundle accepted a branch that doesn't build on the base"
+else
+  pass "verify-bundle refuses a branch that doesn't build on the base"
+fi
 
 # A link or a FIFO where an output file goes makes collect fail, so no later
-# step writes through it (as the quota step writes quota.md).
+# step reads or writes through it.
 for kind in link fifo; do
-  as "$AGENT" "rm -f /srv/factory/io/link /srv/factory/io/quota.md
-    if [ $kind = link ]; then ln -s /etc/hostname /srv/factory/io/quota.md; else mkfifo /srv/factory/io/quota.md; fi"
-  if bash "$SB" collect "$WORK/out-$kind" >/dev/null 2>&1; then
+  as "$AGENT" "rm -f /srv/factory/io/pr.md /srv/factory/io/candidate.bundle
+    if [ $kind = link ]; then ln -s /etc/hostname /srv/factory/io/pr.md; else mkfifo /srv/factory/io/pr.md; fi"
+  if bash "$SB" collect "$WORK/out-$kind" "$WORK/cand-$kind" >/dev/null 2>&1; then
     fail "collect accepted a $kind in the outputs"
   else
     pass "collect refuses a $kind in the outputs"
