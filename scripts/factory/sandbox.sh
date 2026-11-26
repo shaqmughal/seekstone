@@ -170,6 +170,15 @@ cmd_setup() {
   } | sudo tee "$BIN/git" >/dev/null
   sudo chown root:root "$BIN/git"
   sudo chmod 755 "$BIN/git"
+  # User settings can name programs Claude Code runs outside its sandbox
+  # (apiKeyHelper, statusLine), and the run loads user settings: root's empty
+  # file, in a root-owned sticky ~/.claude that Claude Code can still add its
+  # own files to. The shell start-up files from /etc/skel go.
+  sudo install -d -o root -g "$AGENT" -m 1770 "$home/.claude"
+  echo '{}' | sudo tee "$home/.claude/settings.json" >/dev/null
+  sudo chown root:root "$home/.claude/settings.json"
+  sudo chmod 644 "$home/.claude/settings.json"
+  sudo rm -f "$home/.bashrc" "$home/.profile" "$home/.bash_logout"
   sudo chown root:"$AGENT" "$home"
   sudo chmod 1770 "$home"
 }
@@ -191,6 +200,15 @@ cmd_hand_over() {
   # sticky bit stops it deleting or replacing root's files there.
   sudo rm -rf "$GITDIR/hooks" "$GITDIR/info"
   sudo install -d -o root -g root -m 755 "$GITDIR/hooks" "$GITDIR/info"
+  # Git starts its own git inside a submodule, from its exec path rather than
+  # through the wrapper, without the pinned environment. Never look inside
+  # one, and never run an fsmonitor.
+  local kv
+  for kv in diff.ignoreSubmodules=all status.submoduleSummary=false submodule.recurse=false \
+    core.fsmonitor=false; do
+    sudo env GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null \
+      git config --file "$GITDIR/config" "${kv%%=*}" "${kv#*=}"
+  done
   sudo chown root:root "$GITDIR/config"
   sudo chmod 644 "$GITDIR/config"
   # Without GIT_COMMON_DIR (Claude Code drops it for its own git), git reads

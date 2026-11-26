@@ -258,6 +258,8 @@ refused "change ~/.gitconfig" 'echo "[core] fsmonitor = x" >>"$HOME/.gitconfig"'
 refused "replace ~/.gitconfig" 'rm -f "$HOME/.gitconfig" && test ! -e "$HOME/.gitconfig"'
 refused "change ~/.config/git/config" 'echo "[core] fsmonitor = x" >>"$HOME/.config/git/config"'
 refused "replace ~/.config/git" 'mv "$HOME/.config" "$HOME/.c"'
+refused "change Claude Code's user settings" 'echo "{\"apiKeyHelper\": \"/srv/factory/tmp/evil.sh\"}" >"$HOME/.claude/settings.json"'
+refused "replace Claude Code's user settings" 'rm -f "$HOME/.claude/settings.json" && test ! -e "$HOME/.claude/settings.json"'
 refused "point commondir elsewhere" 'echo /srv/factory/tmp/evilgit >/srv/factory/git/commondir'
 refused "replace commondir" 'rm -f /srv/factory/git/commondir && test ! -e /srv/factory/git/commondir'
 refused "point the checkout's .git elsewhere" 'echo "gitdir: /srv/factory/tmp/evilgit" >/srv/factory/repo/.git'
@@ -294,6 +296,11 @@ if cgit 'set -e; git switch -q -c factory/sbtest; echo work >work.txt; git add w
 else
   fail "git without the pinned environment can't commit"
 fi
+# Make sub/ a submodule of the real repository (a gitlink in its index), with
+# a filter of its own and a change git would have to look inside it for.
+# Written with plain file writes: git inside sub/ would run the filter.
+asgit 'set -e; git add sub >/dev/null 2>&1; echo "* filter=evil" >sub/.gitattributes; echo dirty >sub/f.txt'
+if asgit 'git ls-files -s sub | grep -q "^160000"'; then pass "planted a submodule at sub/"; else fail "couldn't plant a submodule, so the check below proves less"; fi
 # Left uncommitted, with the token in it: package must commit it.
 asgit 'echo "leak '"$FAKE"'" >leak.txt'
 for plant in /srv/factory/git/config.worktree /srv/factory/repo/sub/.git/config \
@@ -303,7 +310,8 @@ done
 # What Claude Code runs at start and around commits, both ways, then package
 # as the workflow runs it.
 for g in asgit cgit; do
-  $g 'git --no-optional-locks status --short >/dev/null; git diff >/dev/null; git log -1 >/dev/null
+  $g 'git --no-optional-locks status --short >/dev/null; git status >/dev/null; git diff >/dev/null
+    git diff HEAD >/dev/null; git log -1 >/dev/null
     git config user.name >/dev/null; cd sub && git status >/dev/null' || true
 done
 # Without the wrapper too: plain /usr/bin/git with no git environment, from
