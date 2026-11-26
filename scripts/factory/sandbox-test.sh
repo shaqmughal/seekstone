@@ -132,7 +132,7 @@ writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -pa
   -o -writable ! -type l ! -type s ! -type c ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
 if [ -n "$writable" ]; then
   fail "the agent's user can write outside its own folders:"
-  echo "$writable" | sed 's/^/        /'
+  while IFS= read -r line; do echo "        $line"; done <<<"$writable"
 else
   pass "the agent's user can write only its own folders and the temp folders"
 fi
