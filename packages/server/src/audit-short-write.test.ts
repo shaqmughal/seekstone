@@ -169,9 +169,9 @@ describe('AuditLog with short writes', () => {
     a.record(rec('a'));
     chunk.truncateFails = true;
     tear(a);
-    a.record(rec('b'));
     b.record(rec('c'));
-    expect(await lines()).toEqual(['a', PART, 'b', 'c', '']);
+    a.record(rec('b'));
+    expect(await lines()).toEqual(['a', PART, 'c', 'b', '']);
   });
 
   it('keeps a record another writer appends while a write fails', async () => {
