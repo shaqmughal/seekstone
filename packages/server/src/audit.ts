@@ -6,6 +6,7 @@ import {
   fsyncSync,
   ftruncateSync,
   openSync,
+  readSync,
   renameSync,
   statSync,
 } from 'node:fs';
@@ -93,19 +94,22 @@ export function resolveAuditConfig(
 export class AuditLog {
   readonly path: string;
   private readonly maxBytes: number;
+  /** Where this instance last saw the file end. */
   private bytes: number;
-  /** True when a failed append left a partial line the truncate could not remove. */
-  private torn = false;
+  /** True when the file at `bytes` ends partway through a line. */
+  private torn: boolean;
 
-  private constructor(path: string, maxBytes: number, bytes: number) {
+  private constructor(path: string, maxBytes: number, bytes: number, torn: boolean) {
     this.path = path;
     this.maxBytes = maxBytes;
     this.bytes = bytes;
+    this.torn = torn;
   }
 
   /**
    * Open (create if missing) the audit file, verifying it is writable now so
-   * an unwritable path fails at boot rather than on the first write.
+   * an unwritable path fails at boot rather than on the first write. After a
+   * torn last line (a crash mid-append, say) the first record starts a new line.
    */
   static open(config: AuditConfig): AuditLog {
     let bytes = 0;
@@ -115,47 +119,49 @@ export class AuditLog {
       bytes = 0;
     }
     appendFileSync(config.path, '');
-    return new AuditLog(config.path, config.maxBytes, bytes);
+    return new AuditLog(config.path, config.maxBytes, bytes, endsTorn(config.path, bytes, false));
   }
 
   /**
    * Append one record durably. Throws if the append or fsync fails, or a
    * write makes no progress; a short write is retried until the line is out.
-   * If the write fails partway, the file is truncated back to its size before
-   * this record, so no partial line is left for the next record to join. If
-   * the truncate fails as well, the next record starts with a newline, so the
-   * partial line stays on a line of its own.
+   * After a partial line (the last byte is read only if the size moved since
+   * our last write) the record starts with a newline. A failed write is cut
+   * back unless another writer appended since or the truncate fails.
    */
   record(rec: AuditRecord): void {
     const line = `${JSON.stringify(rec)}\n`;
-    if (this.bytes > 0 && this.bytes + Buffer.byteLength(line) > this.maxBytes) {
+    const next = (this.torn ? 1 : 0) + Buffer.byteLength(line);
+    if (this.bytes > 0 && this.bytes + next > this.maxBytes) {
       renameSync(this.path, `${this.path}.1`);
       this.bytes = 0;
       this.torn = false;
     }
-    const out = this.torn ? `\n${line}` : line;
-    const len = Buffer.byteLength(out);
     const fd = openSync(this.path, 'a');
     try {
       const start = fstatSync(fd).size;
+      if (start !== this.bytes) this.torn = endsTorn(this.path, start, this.torn);
+      const tornBefore = this.torn;
+      const out = tornBefore ? `\n${line}` : line;
+      const progress = { written: 0 };
       try {
-        writeAll(fd, out);
+        writeAll(fd, out, progress);
       } catch (err) {
-        // Part of the line may be out. Cut the file back to where this
-        // record started so the next record begins on a clean line. If the
-        // truncate fails too, report the write error, which is the cause.
+        // The write error is the one reported, whatever happens here.
+        this.bytes = start + progress.written;
+        this.torn ||= progress.written > 0;
         try {
-          truncateTo(this.path, start);
-          this.bytes = start;
-        } catch {
-          // The partial line stays; count it at most as the whole line.
-          this.bytes = start + len;
-          this.torn = true;
-        }
+          // Cut back only our own bytes: another writer may have appended a
+          // whole record after `start`. If this fails the partial line stays.
+          if (this.torn && fstatSync(fd).size === this.bytes) {
+            truncateTo(this.path, start);
+            [this.bytes, this.torn] = [start, tornBefore];
+          }
+        } catch {}
         throw err;
       }
       // The whole line is in the file now, so count it even if fsync fails.
-      this.bytes = start + len;
+      this.bytes = start + Buffer.byteLength(out);
       this.torn = false;
       fsyncSync(fd);
     } finally {
@@ -165,10 +171,28 @@ export class AuditLog {
 }
 
 /**
- * Truncate through a separate write-only descriptor. The append-mode fd
- * can't be used: on Windows it has no write-data access, so ftruncate on it
- * fails with EPERM. `truncateSync(path)` opens with 'r+', which needs read
- * access the audit file may not grant.
+ * Whether a file of `size` bytes ends partway through a line, from one read
+ * of its last byte. A file that can't be read (write-only) returns `fallback`.
+ */
+function endsTorn(path: string, size: number, fallback: boolean): boolean {
+  if (size === 0) return false;
+  try {
+    const fd = openSync(path, 'r');
+    try {
+      const buf = Buffer.alloc(1);
+      return readSync(fd, buf, 0, 1, size - 1) === 1 ? buf[0] !== 0x0a : fallback;
+    } finally {
+      closeSync(fd);
+    }
+  } catch {
+    return fallback;
+  }
+}
+
+/**
+ * Truncate through a separate write-only fd: on Windows the append-mode fd has
+ * no write-data access (ftruncate fails with EPERM), and `truncateSync(path)`
+ * opens with 'r+', which needs read access the audit file may not grant.
  */
 function truncateTo(path: string, len: number): void {
   const fd = openSync(path, constants.O_WRONLY);

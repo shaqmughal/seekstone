@@ -27,6 +27,8 @@ const chunk = vi.hoisted(() => ({
   truncateFails: false,
   /** When true, the audit file is write-only: opening it for reading fails. */
   writeOnly: false,
+  /** Runs once before the next audit writeSync, to stand in for another writer. */
+  beforeWrite: undefined as (() => void) | undefined,
 }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -34,10 +36,8 @@ vi.mock('node:fs', async (importOriginal) => {
   const auditFds = new Set<number>();
   const eacces = (): Error =>
     Object.assign(new Error('EACCES: permission denied'), { code: 'EACCES' });
-  const readsFile = (flags: unknown): boolean =>
-    typeof flags === 'number'
-      ? (flags & 3) !== fs.constants.O_WRONLY
-      : flags === undefined || /r|\+/.test(String(flags));
+  // The code under test opens the audit file with 'a', O_WRONLY or 'r'.
+  const readsFile = (flags: unknown) => flags !== 'a' && flags !== fs.constants.O_WRONLY;
   const openSync = (path: string, ...rest: unknown[]): number => {
     if (chunk.writeOnly && String(path) === chunk.path && readsFile(rest[0])) throw eacces();
     const fd = (fs.openSync as (...a: unknown[]) => number)(path, ...rest);
@@ -49,6 +49,9 @@ vi.mock('node:fs', async (importOriginal) => {
     fs.closeSync(fd);
   };
   const writeSync = (fd: number, data: unknown, ...rest: unknown[]): number => {
+    const hook = chunk.beforeWrite;
+    chunk.beforeWrite = undefined;
+    hook?.();
     const size = chunk.size;
     if (size === undefined || !auditFds.has(fd)) {
       return (fs.writeSync as (...a: unknown[]) => number)(fd, data, ...rest);
@@ -70,11 +73,8 @@ vi.mock('node:fs', async (importOriginal) => {
     fs.fsyncSync(fd);
   };
   const truncateSync = (path: string, len?: number): void => {
-    if (chunk.path !== '' && String(path) === chunk.path) {
-      if (chunk.truncateFails) throw new Error('EIO: i/o error, truncate');
-      // truncateSync opens the path with 'r+', which needs read access.
-      if (chunk.writeOnly) throw eacces();
-    }
+    // truncateSync opens the path with 'r+', which needs read access.
+    if (String(path) === chunk.path && (chunk.truncateFails || chunk.writeOnly)) throw eacces();
     fs.truncateSync(path, len);
   };
   const ftruncateSync = (fd: number, len?: number): void => {
@@ -99,45 +99,56 @@ const rec = (tool: string): AuditRecord => ({
   files: [{ path: `${tool}.md`, hashAfter: 'é'.repeat(20) }],
 });
 
+/** Each line of the audit file: a record's tool, or the raw text if it doesn't parse. */
 async function lines(): Promise<string[]> {
-  return (await readFile(auditPath, 'utf8')).split('\n');
+  return (await readFile(auditPath, 'utf8')).split('\n').map((l) => {
+    try {
+      return JSON.parse(l).tool;
+    } catch {
+      return l;
+    }
+  });
+}
+
+const open = (maxBytes = 1e9): AuditLog => AuditLog.open({ path: auditPath, maxBytes });
+const PART = JSON.stringify(rec('x')).slice(0, 14);
+
+/** Record 'x' with two 7-byte writes landing before the third fails. */
+function tear(audit: AuditLog, failWith: 'throw' | 'zero' = 'throw'): void {
+  Object.assign(chunk, { size: 7, failAfter: 2, failWith });
+  try {
+    audit.record(rec('x'));
+  } finally {
+    Object.assign(chunk, { size: undefined, failAfter: undefined });
+  }
 }
 
 beforeEach(async () => {
   dir = await mkdtemp(join(tmpdir(), 'seekstone-audit-short-'));
   auditPath = join(dir, 'audit.jsonl');
   chunk.path = auditPath;
-  chunk.size = undefined;
 });
 afterEach(async () => {
-  chunk.size = undefined;
-  chunk.path = '';
-  chunk.failAfter = undefined;
-  chunk.failWith = 'throw';
-  chunk.fsyncFails = false;
-  chunk.truncateFails = false;
-  chunk.writeOnly = false;
+  Object.assign(chunk, { size: undefined, path: '', failAfter: undefined, failWith: 'throw' });
+  Object.assign(chunk, { fsyncFails: false, truncateFails: false, writeOnly: false });
+  chunk.beforeWrite = undefined;
   await rm(dir, { recursive: true, force: true });
 });
 
 describe('AuditLog with short writes', () => {
   it('writes the whole line when writeSync returns early', async () => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    const audit = open();
     // 7 bytes per call splits the two-byte "é" across calls too.
     chunk.size = 7;
     audit.record(rec('a'));
     audit.record(rec('b'));
-    chunk.size = undefined;
-    expect((await lines()).map((l) => (l === '' ? '' : JSON.parse(l).tool))).toEqual([
-      'a',
-      'b',
-      '',
-    ]);
-    expect(JSON.parse((await lines())[0] as string)).toEqual(rec('a'));
+    expect(await lines()).toEqual(['a', 'b', '']);
+    const first = (await readFile(auditPath, 'utf8')).split('\n')[0] as string;
+    expect(JSON.parse(first)).toEqual(rec('a'));
   });
 
   it('throws when a write makes no progress', () => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    const audit = open();
     chunk.size = 0;
     expect(() => audit.record(rec('a'))).toThrow(/no progress/);
   });
@@ -146,79 +157,87 @@ describe('AuditLog with short writes', () => {
     ['throws ENOSPC', 'throw', /ENOSPC/],
     ['makes no progress', 'zero', /no progress/],
   ] as const)('removes the partial line when a later write %s', async (_name, failWith, error) => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    const audit = open();
     audit.record(rec('a'));
     const before = await readFile(auditPath, 'utf8');
-    // Two 7-byte writes land, then the third fails.
-    chunk.size = 7;
-    chunk.failAfter = 2;
-    chunk.failWith = failWith;
-    expect(() => audit.record(rec('x'))).toThrow(error);
+    expect(() => tear(audit, failWith)).toThrow(error);
     expect(await readFile(auditPath, 'utf8')).toBe(before);
-    chunk.size = undefined;
-    chunk.failAfter = undefined;
     audit.record(rec('b'));
-    expect((await lines()).map((l) => (l === '' ? '' : JSON.parse(l).tool))).toEqual([
-      'a',
-      'b',
-      '',
-    ]);
+    expect(await lines()).toEqual(['a', 'b', '']);
   });
 
-  it('reports the write error when the truncate after it also fails', () => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
-    chunk.size = 7;
-    chunk.failAfter = 1;
-    chunk.truncateFails = true;
-    expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
-  });
-
-  it('starts the next record on a new line when the truncate also fails', async () => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+  it('reports the write error and starts the next record on a new line when the truncate also fails', async () => {
+    const audit = open();
     audit.record(rec('a'));
-    chunk.size = 7;
-    chunk.failAfter = 2;
     chunk.truncateFails = true;
-    expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
-    chunk.size = undefined;
-    chunk.failAfter = undefined;
+    expect(() => tear(audit)).toThrow(/ENOSPC/);
     audit.record(rec('b'));
     audit.record(rec('c'));
-    const all = await lines();
-    // The partial line stays as one torn line; every other line is a record.
-    expect(all).toHaveLength(5);
-    expect(all[1]).toBe(JSON.stringify(rec('x')).slice(0, 14));
-    expect([all[0], all[2], all[3]].map((l) => JSON.parse(l as string).tool)).toEqual([
-      'a',
-      'b',
-      'c',
-    ]);
-    expect(all[4]).toBe('');
+    expect(await lines()).toEqual(['a', PART, 'b', 'c', '']);
+  });
+
+  it('keeps a record another writer appends while a write fails', async () => {
+    const [a, b] = [open(), open()];
+    a.record(rec('first'));
+    // B appends a whole record after A has measured the file, before A writes.
+    chunk.beforeWrite = () => {
+      chunk.size = undefined;
+      b.record(rec('second'));
+      chunk.size = 7;
+    };
+    expect(() => tear(a)).toThrow(/ENOSPC/);
+    a.record(rec('third'));
+    expect(await lines()).toEqual(['first', 'second', PART, 'third', '']);
+  });
+
+  it('starts on a new line when the file has a torn tail at open', async () => {
+    await writeFile(auditPath, `${JSON.stringify(rec('a'))}\n{"v":1,"ts"`, 'utf8');
+    open().record(rec('b'));
+    expect(await lines()).toEqual(['a', '{"v":1,"ts"', 'b', '']);
+  });
+
+  it('counts the leading newline when deciding to rotate', async () => {
+    await writeFile(auditPath, 'x', 'utf8');
+    const line = `${JSON.stringify(rec('b'))}\n`;
+    open(1 + Buffer.byteLength(line)).record(rec('b'));
+    expect(await readFile(`${auditPath}.1`, 'utf8')).toBe('x');
+    expect(await readFile(auditPath, 'utf8')).toBe(line);
+  });
+
+  it('opens a write-only audit file with a torn tail', async () => {
+    await writeFile(auditPath, '{"v":1', 'utf8');
+    chunk.writeOnly = true;
+    open().record(rec('b'));
+    expect((await readFile(auditPath, 'utf8')).startsWith(`{"v":1{"v":1,`)).toBe(true);
+  });
+
+  it("starts on a new line after another instance's partial line", async () => {
+    const [a, b] = [open(), open()];
+    chunk.truncateFails = true;
+    expect(() => tear(a)).toThrow(/ENOSPC/);
+    chunk.truncateFails = false;
+    b.record(rec('b'));
+    expect(await lines()).toEqual([PART, 'b', '']);
   });
 
   it('removes the partial line from a write-only audit file', async () => {
-    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    const audit = open();
     audit.record(rec('a'));
-    const before = await readFile(auditPath, 'utf8');
     chunk.writeOnly = true;
-    chunk.size = 7;
-    chunk.failAfter = 2;
-    expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
-    chunk.writeOnly = false;
-    expect(await readFile(auditPath, 'utf8')).toBe(before);
+    expect(() => tear(audit)).toThrow(/ENOSPC/);
+    expect(await lines()).toEqual(['a', '']);
   });
 
   it('keeps a complete record when fsync fails, and counts it for rotation', async () => {
-    const len = Buffer.byteLength(`${JSON.stringify(rec('a'))}\n`);
     // Room for one record: the second one must rotate the first out.
-    const audit = AuditLog.open({ path: auditPath, maxBytes: len + 1 });
+    const audit = open(Buffer.byteLength(`${JSON.stringify(rec('a'))}\n`) + 1);
     chunk.fsyncFails = true;
     expect(() => audit.record(rec('a'))).toThrow(/EIO/);
     chunk.fsyncFails = false;
-    expect(JSON.parse((await lines())[0] as string)).toEqual(rec('a'));
+    expect(await lines()).toEqual(['a', '']);
     audit.record(rec('b'));
     expect(JSON.parse((await readFile(`${auditPath}.1`, 'utf8')).trim())).toEqual(rec('a'));
-    expect((await lines()).map((l) => (l === '' ? '' : JSON.parse(l).tool))).toEqual(['b', '']);
+    expect(await lines()).toEqual(['b', '']);
   });
 
   it('a write tool reports audit_failed when the record makes no progress', async () => {
@@ -234,7 +253,7 @@ describe('AuditLog with short writes', () => {
       backlinks: built.backlinks,
       attachments: built.attachments,
       policy: PERMISSIVE_POLICY,
-      audit: AuditLog.open({ path: auditPath, maxBytes: 1e9 }),
+      audit: open(),
     };
     chunk.size = 0;
     const res = await dispatch(ctx, 'append_note', { path: 'Note.md', content: 'more' }, log);
