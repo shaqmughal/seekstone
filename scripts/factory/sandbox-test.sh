@@ -307,11 +307,13 @@ for plant in /srv/factory/git/config.worktree /srv/factory/repo/sub/.git/config 
   /srv/factory/repo/.gitattributes /srv/factory/repo/leak.txt /srv/factory/io/blocked.md; do
   if sudo test -e "$plant"; then pass "planted $plant"; else fail "couldn't plant $plant, so the check below proves less"; fi
 done
-# What Claude Code runs at start and around commits, both ways, then package
-# as the workflow runs it.
+# What Claude Code runs while it holds the token: its own git, both ways,
+# from the checkout and from inside the planted submodule. None of it may run
+# anything the agent planted.
 for g in asgit cgit; do
   $g 'git --no-optional-locks status --short >/dev/null; git status >/dev/null; git diff >/dev/null
     git diff HEAD >/dev/null; git log -1 >/dev/null
+    git --no-optional-locks status --porcelain --untracked-files=normal --ignore-submodules=dirty >/dev/null
     git config user.name >/dev/null; cd sub && git status >/dev/null' || true
 done
 # Without the wrapper too: plain /usr/bin/git with no git environment, from
@@ -322,16 +324,10 @@ else
   fail "plain git from the checkout finds another git directory"
 fi
 cgit '/usr/bin/git --no-optional-locks status --short >/dev/null; /usr/bin/git diff >/dev/null' || true
-if BASE="$BASE_SHA" QUOTA=false bash "$SB" package-as-agent; then
-  pass "package as the agent's user"
-else
-  fail "package as the agent's user"
-fi
-bash "$SB" stop "$AGENT"
 if [ -s /tmp/sbtest-git-ran ]; then
-  fail "git ran a program the agent planted, as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
+  fail "git ran a program the agent planted while the token is in reach, as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
 else
-  pass "git never ran anything the agent planted"
+  pass "git never ran anything the agent planted while the token is in reach"
 fi
 # And the submodule route is real: with the protection turned off for one
 # command, git does run the planted filter.
@@ -341,6 +337,23 @@ if [ -s /tmp/sbtest-git-ran ]; then
 else
   fail "the submodule route didn't fire even unprotected, so the check above proves less"
 fi
+
+# After claude has stopped, package runs git as the agent's user. git add -A
+# does step into a submodule, so planted code may run here: only as the
+# agent's user, with nothing of its left running afterwards.
+: | sudo tee /tmp/sbtest-git-ran >/dev/null
+if BASE="$BASE_SHA" QUOTA=false bash "$SB" package-as-agent; then
+  pass "package as the agent's user"
+else
+  fail "package as the agent's user"
+fi
+bash "$SB" stop "$AGENT"
+if grep -qvx "$AGENT" /tmp/sbtest-git-ran; then
+  fail "package ran planted code as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
+else
+  pass "anything package ran, it ran as the agent's user"
+fi
+if pgrep -u "$AGENT" >/dev/null || pgrep -U "$AGENT" >/dev/null; then fail "the agent's user still has processes"; else pass "nothing of the agent's user is left running"; fi
 bash "$SB" collect "$WORK/out" || fail "collect"
 ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
 if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
