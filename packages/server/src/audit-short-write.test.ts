@@ -23,14 +23,23 @@ const chunk = vi.hoisted(() => ({
   failWith: 'throw' as 'throw' | 'zero',
   /** When true, fsyncSync on the audit file throws. */
   fsyncFails: false,
-  /** When true, truncateSync on the audit file throws. */
+  /** When true, truncating the audit file (by path or fd) throws. */
   truncateFails: false,
+  /** When true, the audit file is write-only: opening it for reading fails. */
+  writeOnly: false,
 }));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
   const auditFds = new Set<number>();
+  const eacces = (): Error =>
+    Object.assign(new Error('EACCES: permission denied'), { code: 'EACCES' });
+  const readsFile = (flags: unknown): boolean =>
+    typeof flags === 'number'
+      ? (flags & 3) !== fs.constants.O_WRONLY
+      : flags === undefined || /r|\+/.test(String(flags));
   const openSync = (path: string, ...rest: unknown[]): number => {
+    if (chunk.writeOnly && String(path) === chunk.path && readsFile(rest[0])) throw eacces();
     const fd = (fs.openSync as (...a: unknown[]) => number)(path, ...rest);
     if (chunk.path !== '' && String(path) === chunk.path) auditFds.add(fd);
     return fd;
@@ -61,20 +70,19 @@ vi.mock('node:fs', async (importOriginal) => {
     fs.fsyncSync(fd);
   };
   const truncateSync = (path: string, len?: number): void => {
-    if (chunk.truncateFails && chunk.path !== '' && String(path) === chunk.path) {
-      throw new Error('EIO: i/o error, truncate');
+    if (chunk.path !== '' && String(path) === chunk.path) {
+      if (chunk.truncateFails) throw new Error('EIO: i/o error, truncate');
+      // truncateSync opens the path with 'r+', which needs read access.
+      if (chunk.writeOnly) throw eacces();
     }
     fs.truncateSync(path, len);
   };
-  return {
-    ...fs,
-    openSync,
-    closeSync,
-    writeSync,
-    fsyncSync,
-    truncateSync,
-    default: { ...fs, openSync, closeSync, writeSync, fsyncSync, truncateSync },
+  const ftruncateSync = (fd: number, len?: number): void => {
+    if (chunk.truncateFails && auditFds.has(fd)) throw new Error('EIO: i/o error, ftruncate');
+    fs.ftruncateSync(fd, len);
   };
+  const mocked = { openSync, closeSync, writeSync, fsyncSync, truncateSync, ftruncateSync };
+  return { ...fs, ...mocked, default: { ...fs, ...mocked } };
 });
 
 const log = createLogger({ env: { SEEKSTONE_LOG_LEVEL: 'error' }, stderr: () => {} });
@@ -108,6 +116,7 @@ afterEach(async () => {
   chunk.failWith = 'throw';
   chunk.fsyncFails = false;
   chunk.truncateFails = false;
+  chunk.writeOnly = false;
   await rm(dir, { recursive: true, force: true });
 });
 
@@ -162,6 +171,41 @@ describe('AuditLog with short writes', () => {
     chunk.failAfter = 1;
     chunk.truncateFails = true;
     expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
+  });
+
+  it('starts the next record on a new line when the truncate also fails', async () => {
+    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    audit.record(rec('a'));
+    chunk.size = 7;
+    chunk.failAfter = 2;
+    chunk.truncateFails = true;
+    expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
+    chunk.size = undefined;
+    chunk.failAfter = undefined;
+    audit.record(rec('b'));
+    audit.record(rec('c'));
+    const all = await lines();
+    // The partial line stays as one torn line; every other line is a record.
+    expect(all).toHaveLength(5);
+    expect(all[1]).toBe(JSON.stringify(rec('x')).slice(0, 14));
+    expect([all[0], all[2], all[3]].map((l) => JSON.parse(l as string).tool)).toEqual([
+      'a',
+      'b',
+      'c',
+    ]);
+    expect(all[4]).toBe('');
+  });
+
+  it('removes the partial line from a write-only audit file', async () => {
+    const audit = AuditLog.open({ path: auditPath, maxBytes: 1e9 });
+    audit.record(rec('a'));
+    const before = await readFile(auditPath, 'utf8');
+    chunk.writeOnly = true;
+    chunk.size = 7;
+    chunk.failAfter = 2;
+    expect(() => audit.record(rec('x'))).toThrow(/ENOSPC/);
+    chunk.writeOnly = false;
+    expect(await readFile(auditPath, 'utf8')).toBe(before);
   });
 
   it('keeps a complete record when fsync fails, and counts it for rotation', async () => {

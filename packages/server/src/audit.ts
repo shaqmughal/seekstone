@@ -1,12 +1,13 @@
 import {
   appendFileSync,
   closeSync,
+  constants,
   fstatSync,
   fsyncSync,
+  ftruncateSync,
   openSync,
   renameSync,
   statSync,
-  truncateSync,
 } from 'node:fs';
 import { parseSize } from './log.js';
 import { isSymlinkRefusal } from './symlinks.js';
@@ -93,6 +94,8 @@ export class AuditLog {
   readonly path: string;
   private readonly maxBytes: number;
   private bytes: number;
+  /** True when a failed append left a partial line the truncate could not remove. */
+  private torn = false;
 
   private constructor(path: string, maxBytes: number, bytes: number) {
     this.path = path;
@@ -119,42 +122,60 @@ export class AuditLog {
    * Append one record durably. Throws if the append or fsync fails, or a
    * write makes no progress; a short write is retried until the line is out.
    * If the write fails partway, the file is truncated back to its size before
-   * this record, so no partial line is left for the next record to join
-   * (unless the truncate fails as well).
+   * this record, so no partial line is left for the next record to join. If
+   * the truncate fails as well, the next record starts with a newline, so the
+   * partial line stays on a line of its own.
    */
   record(rec: AuditRecord): void {
     const line = `${JSON.stringify(rec)}\n`;
-    const len = Buffer.byteLength(line);
-    if (this.bytes > 0 && this.bytes + len > this.maxBytes) {
+    if (this.bytes > 0 && this.bytes + Buffer.byteLength(line) > this.maxBytes) {
       renameSync(this.path, `${this.path}.1`);
       this.bytes = 0;
+      this.torn = false;
     }
+    const out = this.torn ? `\n${line}` : line;
+    const len = Buffer.byteLength(out);
     const fd = openSync(this.path, 'a');
     try {
       const start = fstatSync(fd).size;
       try {
-        writeAll(fd, line);
+        writeAll(fd, out);
       } catch (err) {
         // Part of the line may be out. Cut the file back to where this
         // record started so the next record begins on a clean line. If the
         // truncate fails too, report the write error, which is the cause.
-        // Truncate by path: on Windows an append-mode fd has no write-data
-        // access, so ftruncate on it fails with EPERM.
         try {
-          truncateSync(this.path, start);
+          truncateTo(this.path, start);
           this.bytes = start;
         } catch {
           // The partial line stays; count it at most as the whole line.
           this.bytes = start + len;
+          this.torn = true;
         }
         throw err;
       }
       // The whole line is in the file now, so count it even if fsync fails.
       this.bytes = start + len;
+      this.torn = false;
       fsyncSync(fd);
     } finally {
       closeSync(fd);
     }
+  }
+}
+
+/**
+ * Truncate through a separate write-only descriptor. The append-mode fd
+ * can't be used: on Windows it has no write-data access, so ftruncate on it
+ * fails with EPERM. `truncateSync(path)` opens with 'r+', which needs read
+ * access the audit file may not grant.
+ */
+function truncateTo(path: string, len: number): void {
+  const fd = openSync(path, constants.O_WRONLY);
+  try {
+    ftruncateSync(fd, len);
+  } finally {
+    closeSync(fd);
   }
 }
 
