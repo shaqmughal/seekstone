@@ -1,4 +1,5 @@
-import { mkdir, readFile, rename } from 'node:fs/promises';
+import type { BigIntStats } from 'node:fs';
+import { lstat, mkdir, readFile, rename } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -12,7 +13,7 @@ import {
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import { buildResolveMaps } from '../index/resolve.js';
 import { assertWritable, canWrite } from '../policy.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { foldPath, keyOnDisk, resolveVaultPath, vaultRelative } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 
 export const MoveNoteInput = z.object({
@@ -87,6 +88,16 @@ export async function moveNote(
     throw new Error(`Destination already exists: ${input.to}. Pass overwrite: true to replace it.`);
   }
 
+  // The destination's vault key, and with overwrite the replaced note's key.
+  // They differ when the filesystem folds case or Unicode normalization.
+  const toKey = vaultRelative(ctx.vaultRoot, absTo);
+  let replacedKey = toKey;
+  let dstStat: BigIntStats | undefined;
+  if (existingAtTo !== null && !ctx.notes.has(toKey)) {
+    dstStat = await lstat(absTo, { bigint: true });
+    replacedKey = (await indexedSpelling(ctx, toKey, dstStat)) ?? toKey;
+  }
+
   // Snapshot pre-move state: link resolution before/after the move differs,
   // and the rewriter needs both views to rewrite only what breaks.
   const preNotes = new Map(ctx.notes);
@@ -105,6 +116,16 @@ export async function moveNote(
       if (hasMarkdownLinkTo(doc.raw, path, input.from)) candidates.add(path);
     }
     candidates.delete(input.from);
+    // With overwrite, the old destination is discarded. Rewriting its links
+    // would write its stale bytes back over the moved note.
+    candidates.delete(toKey);
+    candidates.delete(replacedKey);
+    // Backstop when no index key matched: drop the destination file itself.
+    if (dstStat !== undefined && replacedKey === toKey) {
+      for (const path of candidates) {
+        if (await sameFile(join(ctx.vaultRoot, path), dstStat)) candidates.delete(path);
+      }
+    }
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE
@@ -152,9 +173,11 @@ export async function moveNote(
   // first, while that entry is still readable. Inbound refs stay under the
   // old key until the linkers are re-registered below, so they aren't parked.
   removeDoc(ctx, input.from, { parkInbound: false });
-  // With overwrite, the replaced note's outgoing refs go with it.
-  removeNoteBacklinks(ctx, input.to);
-  if (upsertDoc(ctx, buildDoc(input.to, raw))) addNoteBacklinks(ctx, input.to, raw);
+  // Index under the name now on disk: APFS keeps the replaced spelling, NTFS
+  // takes `to`'s. keyOnDisk doesn't throw, so it can't fail a finished move.
+  const destKey = replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey);
+  removeDoc(ctx, replacedKey, { parkInbound: false });
+  if (upsertDoc(ctx, buildDoc(destKey, raw))) addNoteBacklinks(ctx, destKey, raw);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.
@@ -204,4 +227,22 @@ export async function moveNote(
   };
   if (skipped.length > 0) result.skipped = skipped;
   return result;
+}
+
+async function sameFile(abs: string, target: BigIntStats): Promise<boolean> {
+  const st = await lstat(abs, { bigint: true }).catch(() => undefined);
+  return st?.ino === target.ino && st.dev === target.dev;
+}
+
+/** The index key folding to `toKey` that is the same file (bigint dev/ino). */
+async function indexedSpelling(
+  ctx: ServerContext,
+  toKey: string,
+  target: BigIntStats,
+): Promise<string | undefined> {
+  const want = foldPath(toKey);
+  for (const key of ctx.notes.keys()) {
+    if (foldPath(key) === want && (await sameFile(join(ctx.vaultRoot, key), target))) return key;
+  }
+  return undefined;
 }

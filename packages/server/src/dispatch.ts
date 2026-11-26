@@ -384,7 +384,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = DeleteNoteInput.parse(args);
       const result = await deleteNote(ctx, input);
       const text = result.trashedTo
-        ? `Moved ${result.path} to ${result.trashedTo} (recoverable — restore by moving it back).`
+        ? `Moved ${result.path} to ${result.trashedTo} (recoverable — restore by moving it back). contentHash: ${result.contentHash}`
         : `Permanently deleted ${result.path}.`;
       const audit: Record<string, unknown> = {
         path: result.path,
@@ -403,6 +403,8 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       if (result.skipped?.length) {
         text += ` Skipped (not writable: outside SEEKSTONE_WRITE_PATHS or through a symlink): ${result.skipped.join(', ')}.`;
       }
+      // Last, so a client can chain a prevHash edit at the new path.
+      text += ` contentHash: ${result.contentHash}`;
       return {
         content: [{ type: 'text', text }],
         audit: {

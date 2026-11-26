@@ -1,4 +1,4 @@
-import { access, mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import { access, mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
@@ -433,7 +433,51 @@ describe('undo_write — semantics', () => {
 });
 
 describe('dispatch integration', () => {
+  // The index holds Beta.md under exactly the name(s) on disk, with B. NTFS
+  // gives an overwritten file the new spelling on rename; APFS keeps the old.
+  async function expectBetaIndexedAsOnDisk(): Promise<void> {
+    const fold = (k: string) => k.normalize('NFC').toLowerCase();
+    const onDisk = (await readdir(vault)).filter((n) => fold(n) === 'beta.md');
+    expect(onDisk).toHaveLength(1);
+    expect([...ctx.notes.keys()].filter((k) => fold(k).endsWith('beta.md'))).toEqual(onDisk);
+    expect(ctx.notes.get(onDisk[0] ?? '')?.raw).toBe(B);
+  }
+
   const log = createLogger({ env: { SEEKSTONE_LOG_LEVEL: 'error' }, stderr: () => {} });
+
+  // `to` is journaled as given. BETA.md is Beta.md or a new file, depending on
+  // the filesystem; either way undo leaves one Beta.md with the old content.
+  it.each(['./Beta.md', 'BETA.md'])(
+    'undo of move_note onto %s leaves one index entry for the destination',
+    async (to) => {
+      const args = { from: 'Gamma.md', to, overwrite: true };
+      const moved = await dispatch(ctx, 'move_note', args, log);
+      expect(moved.isError).toBeUndefined();
+      const undone = await dispatch(ctx, 'undo_write', {}, log);
+      expect(undone.isError).toBeUndefined();
+
+      await expectBetaIndexedAsOnDisk();
+      expect(await disk('Beta.md')).toBe(B);
+      expect(ctx.notes.get('Gamma.md')?.raw).toBe(C);
+      expect(await disk('Gamma.md')).toBe(C);
+    },
+  );
+
+  it('forced undo of a move onto a since-moved BETA.md keeps Beta.md indexed', async () => {
+    // Case-sensitive: BETA.md is a new file, gone by the undo, and its key
+    // must not fold onto Beta.md. Insensitive: Beta.md's bytes come back.
+    const overwrite = true;
+    await dispatch(ctx, 'move_note', { from: 'Gamma.md', to: 'BETA.md', overwrite }, log);
+    // Move it on by its indexed name (a respelled `from` is SHA-661).
+    const [from] =
+      [...ctx.notes].find(([k, d]) => k.toLowerCase() === 'beta.md' && d.raw === C) ?? [];
+    await dispatch(ctx, 'move_note', { from, to: 'Else.md' }, log);
+    const undone = await dispatch(ctx, 'undo_write', { seq: 1, force: true }, log);
+    expect(undone.isError).toBeUndefined();
+
+    await expectBetaIndexedAsOnDisk();
+    expect(await disk('Gamma.md')).toBe(C);
+  });
 
   it('list_writes rows are metadata only and undo_write round-trips through dispatch', async () => {
     await dispatch(ctx, 'append_note', { path: 'Alpha.md', content: 'via dispatch' }, log);
