@@ -205,9 +205,14 @@ describe('moveNote', () => {
     expect(result.notesRewritten).toBe(0);
   });
 
-  // The index key and `to` differ as strings but name one file, so the old
-  // destination must not be rewritten over the moved note.
-  async function moveOntoRespelledDestination(dstKey: string, to: string): Promise<void> {
+  // `to` spells an existing note differently. Whether that is the same file
+  // depends on the filesystem, so the test branches on a probe instead of
+  // skipping, and the invariant that holds everywhere is checked first.
+  async function moveOntoRespelledDestination(
+    dstKey: string,
+    to: string,
+    fsFolds: boolean,
+  ): Promise<void> {
     const local = freshCtx();
     const srcRaw = 'the moved note';
     const srcKey = `src-for-${dstKey}`;
@@ -220,21 +225,31 @@ describe('moveNote', () => {
 
     const result = await moveNote(local, { from: srcKey, to, overwrite: true });
 
-    const onDisk = await readFile(join(tmpDir, to), 'utf8');
-    expect(onDisk).toBe(srcRaw);
-    expect(result.contentHash).toBe(contentHash(onDisk));
-    expect(result.notesRewritten).toBe(0);
+    // Everywhere: the moved bytes are at `to` and the hash describes them.
+    const atTo = await readFile(join(tmpDir, result.to), 'utf8');
+    expect(atTo).toBe(srcRaw);
+    expect(result.contentHash).toBe(contentHash(atTo));
+
+    if (fsFolds) {
+      // One file under two spellings: the old destination was overwritten,
+      // so its link rewrite must not run and clobber the moved note.
+      expect(result.notesRewritten).toBe(0);
+    } else {
+      // Two files: the old destination is a separate note that linked to the
+      // source. It keeps existing and never receives the moved bytes.
+      expect(await readFile(join(tmpDir, dstKey), 'utf8')).not.toBe(srcRaw);
+    }
   }
 
-  it.skipIf(!caseInsensitiveFs)(
-    'keeps the moved bytes when `to` names the existing destination in a different case',
-    () => moveOntoRespelledDestination('ow-case-dst.md', 'OW-CASE-DST.md'),
-  );
+  it('keeps the moved bytes when `to` names the existing destination in a different case', () =>
+    moveOntoRespelledDestination('ow-case-dst.md', 'OW-CASE-DST.md', caseInsensitiveFs));
 
-  it.skipIf(!normalizationInsensitiveFs)(
-    'keeps the moved bytes when `to` names the existing destination in NFD instead of NFC',
-    () => moveOntoRespelledDestination('ow-caf\u00e9.md', 'ow-cafe\u0301.md'),
-  );
+  it('keeps the moved bytes when `to` names the existing destination in NFD instead of NFC', () =>
+    moveOntoRespelledDestination(
+      'ow-caf\u00e9.md',
+      'ow-cafe\u0301.md',
+      normalizationInsensitiveFs,
+    ));
 
   it('throws on path traversal in from', async () => {
     await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(
