@@ -345,8 +345,9 @@ else
 fi
 
 # After claude has stopped, package runs git as the agent's user. git add -A
-# does step into a submodule, so planted code may run here: only as the
-# agent's user, with nothing of its left running afterwards.
+# steps into a submodule; the wrapper's command-line config keeps planted
+# code from running there too. Were anything to run, it would only be as the
+# agent's user, with nothing of it left running afterwards.
 : | sudo tee /tmp/sbtest-git-ran >/dev/null
 if BASE="$BASE_SHA" QUOTA=false bash "$SB" package-as-agent; then
   pass "package as the agent's user"
@@ -354,10 +355,10 @@ else
   fail "package as the agent's user"
 fi
 bash "$SB" stop "$AGENT"
-if grep -qvx "$AGENT" /tmp/sbtest-git-ran; then
+if [ -s /tmp/sbtest-git-ran ]; then
   fail "package ran planted code as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
 else
-  pass "anything package ran, it ran as the agent's user"
+  pass "package ran nothing the agent planted"
 fi
 if pgrep -u "$AGENT" >/dev/null || pgrep -U "$AGENT" >/dev/null; then fail "the agent's user still has processes"; else pass "nothing of the agent's user is left running"; fi
 bash "$SB" collect "$WORK/out" || fail "collect"
