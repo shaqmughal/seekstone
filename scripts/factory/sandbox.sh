@@ -36,7 +36,8 @@
 #   sandbox.sh mirror <workspace> <mirror>    before the agent: trusted mirror
 #   sandbox.sh verify-bundle <mirror> <base> <in> <out>
 #                                             re-create the bundle; prints the
-#                                             number of new commits
+#                                             number of new commits and
+#                                             whether they build on the base
 #
 # Run it from the root-owned copy at /srv/factory/trusted, never from the
 # checkout.
@@ -347,15 +348,16 @@ cmd_verify_bundle() {
   base_sha=$(tgit -C "$mirror" rev-parse --verify -q "$base^{commit}") || die "base $base is not in the mirror"
   rm -f "$out"
   if [ ! -f "$in" ]; then
-    echo 0
+    echo "0 yes"
     return 0
   fi
   [ ! -L "$in" ] || die "the candidate bundle is a link"
   tgit -C "$mirror" fetch -q --no-tags --no-write-fetch-head "$in" "+HEAD:refs/factory/head"
-  # The new commits must build on the base. A tip that rewrote it (an
-  # amended or rebased base commit) would not push and isn't delivered.
-  tgit -C "$mirror" merge-base --is-ancestor "$base_sha" refs/factory/head ||
-    die "the agent's branch doesn't build on the base commit"
+  # Whether the new commits build on the base. A tip that doesn't (a merge
+  # of main that didn't finish, an amended base commit) can't be pushed to a
+  # PR, but its work is still bundled so it can be saved.
+  local builds=yes
+  tgit -C "$mirror" merge-base --is-ancestor "$base_sha" refs/factory/head || builds=no
   local n
   n=$(tgit -C "$mirror" rev-list --count "$base_sha..refs/factory/head")
   if [ "$n" -gt 0 ]; then
@@ -363,7 +365,7 @@ cmd_verify_bundle() {
     tgit -C "$mirror" symbolic-ref HEAD refs/factory/head
     tgit -C "$mirror" bundle create -q "$out" "$base_sha..HEAD"
   fi
-  echo "$n"
+  echo "$n $builds"
 }
 
 cmd=${1:-}

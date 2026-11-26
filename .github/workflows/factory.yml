@@ -543,10 +543,18 @@ jobs:
             rm -f "$FACTORY_DIR/pr.md" "$FACTORY_DIR/blocked.md"
             echo "The Max allowance ran out during the run." > "$FACTORY_DIR/quota.md"
           fi
-          ahead=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
+          verified=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
             "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$FACTORY_DIR/work.bundle")
+          read -r ahead builds <<<"$verified"
           echo "$ahead new commit(s)"
           if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
+          # A branch that doesn't build on the base (a merge of main that
+          # didn't finish, a rewritten base commit) can't go to a PR. Block
+          # instead, so deliver saves the work.
+          if [ "$builds" != yes ] && [ ! -f "$FACTORY_DIR/blocked.md" ]; then
+            printf '%s\n' "The branch doesn't build on its base commit (for example, merging main didn't finish), so no PR was opened. The work is saved on the branch linked below." \
+              > "$FACTORY_DIR/blocked.md"
+          fi
           # blocked.md wins over pr.md. A fix run starts with pr.md already
           # written, and the agent can't delete files outside its sandbox's
           # rules, so an agent that stops after writing pr.md leaves both.
@@ -842,11 +850,14 @@ jobs:
           FIRST_HEAD: ${{ steps.first.outputs.head }}
         run: |
           bundle="$RUNNER_TEMP/fix.bundle"
-          bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
-            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$bundle" >/dev/null
+          verified=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
+            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$bundle")
+          read -r _ builds <<<"$verified"
           fixed=false
           if [ "$RESULT" != success ] || [ "$QUOTA" = true ]; then
             echo "::warning::the fix pass failed or ran out of allowance; delivering the first pass"
+          elif [ "$builds" != yes ]; then
+            echo "::warning::the fix pass doesn't build on the first pass's base; delivering the first pass"
           elif [ -f "$FACTORY_DIR/blocked.md" ]; then
             rm -f "$FACTORY_DIR/pr.md"
             fixed=true

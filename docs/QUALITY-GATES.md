@@ -226,7 +226,7 @@ So every `git` the agent's user runs by name is a root-owned wrapper, first on i
 After the agent, every process of its user is stopped, by real and effective user ID. Git on its checkout runs as that user too. The runner then takes the outputs back:
 
 - Only the files the factory reads come back (`pr.md`, `blocked.md`, `review-replies.json` and the inputs it was given), copied by root. A link or special file in their place fails the copy, and anything else the agent left is dropped.
-- Commits come back through a git mirror the runner made before the agent started. The mirror checks every object, refuses a branch that doesn't build on the base commit, and writes a new bundle with only the new commits.
+- Commits come back through a git mirror the runner made before the agent started. The mirror checks every object and writes a new bundle with only the new commits. A branch that doesn't build on the base commit (a merge of `main` that didn't finish, say) opens no PR; the run blocks and its work is saved.
 - Every factory script after the agent runs from a root-owned copy taken from the workflow's own commit.
 
 Before anything uploads, `scripts/factory/secret-scan.mjs` checks the transcript, the outputs and every new commit for the token. It works from the token's SHA-256 and length, recorded before the agent starts, so the scan step never holds the token. On a hit the step deletes the outputs and fails, and nothing reaches the PR, the branch or the ticket. The scan only finds the token as written, not encoded, so it is a second line behind the isolation.

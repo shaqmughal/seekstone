@@ -382,8 +382,8 @@ if [ -f "$WORK/cand" ] && [ ! -e "$WORK/out/candidate.bundle" ]; then
 else
   fail "the candidate bundle is missing or in the outputs"
 fi
-ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand" "$WORK/out/work.bundle") || fail "verify-bundle"
-if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
+verified=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand" "$WORK/out/work.bundle") || fail "verify-bundle"
+if [ "$verified" = "2 yes" ]; then pass "verify-bundle found the 2 new commits, built on the base"; else fail "verify-bundle said '$verified', expected '2 yes'"; fi
 
 objects() { # the new objects in the mirror, as the workflow's scan reads them
   GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1 bash -o pipefail -c '
@@ -432,15 +432,17 @@ fi
 fingerprint "$OTHER"
 if objects | node "$SCAN" "$WORK/out2" - >/dev/null 2>&1; then pass "the published outputs hold no smuggled token"; else fail "scan of the re-made outputs"; fi
 
-# A branch that rewrote the base isn't delivered.
+# A branch that doesn't build on the base is reported, and still bundled so
+# its work can be saved.
 asgit 'set -e; git switch -q --orphan rewritten; echo other >other.txt; git add other.txt
   git -c user.name=x -c user.email=x@example.com commit -q -m rewritten
   git bundle create -q /srv/factory/io/candidate.bundle HEAD'
 bash "$SB" collect "$WORK/out3" "$WORK/cand3" >/dev/null 2>&1 || fail "collect 3"
-if bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand3" "$WORK/out3/work.bundle" >/dev/null 2>&1; then
-  fail "verify-bundle accepted a branch that doesn't build on the base"
+verified=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/cand3" "$WORK/out3/work.bundle" 2>/dev/null)
+if [ "${verified#* }" = no ] && [ -f "$WORK/out3/work.bundle" ]; then
+  pass "verify-bundle reports a branch that doesn't build on the base, and still bundles it"
 else
-  pass "verify-bundle refuses a branch that doesn't build on the base"
+  fail "verify-bundle said '$verified' for a branch that doesn't build on the base"
 fi
 
 # A link or a FIFO where an output file goes makes collect fail, so no later
