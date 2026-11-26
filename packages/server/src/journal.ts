@@ -4,6 +4,7 @@ import {
   closeSync,
   fstatSync,
   fsyncSync,
+  ftruncateSync,
   openSync,
   readdirSync,
   readFileSync,
@@ -624,10 +625,20 @@ export class Journal {
     return entry;
   }
 
-  /** Called with the lock held, after a failed append. */
+  /**
+   * Called with the lock held, after a failed append. Never throws: the
+   * caller reports the append's error. The cut is fsynced, or a crash could
+   * bring the row back.
+   */
   private rollBackAppend(): void {
     try {
-      truncateSync(this.manifestPath, this.manifestOffset);
+      const fd = openSync(this.manifestPath, 'r+');
+      try {
+        ftruncateSync(fd, this.manifestOffset);
+        fsyncSync(fd);
+      } finally {
+        closeSync(fd);
+      }
     } catch (err) {
       // The row may stay. Reread the manifest from the start next time
       // instead of trusting our offsets.

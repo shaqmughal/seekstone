@@ -8,16 +8,23 @@ import { HISTORY_DIR, Journal, journalWrite } from './journal.js';
 // committed, and a failed compaction must not fail the write.
 
 /** One-shot failures, armed by a test and cleared when they fire. */
-const fail = vi.hoisted(() => ({ manifestFsync: false, manifestRename: false, truncate: false }));
+const fail = vi.hoisted(() => ({
+  manifestFsync: false,
+  rollbackFsync: false,
+  manifestRename: false,
+  truncate: false,
+}));
 /** The manifest as it was when the failing fsync ran: the row is on disk. */
-const seen = vi.hoisted(() => ({ manifest: '' }));
+const seen = vi.hoisted(() => ({ manifest: '', ops: [] as string[] }));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
-  const manifestFds = new Map<number, string>();
+  /** Open manifest fds → whether opened for append. */
+  const manifestFds = new Map<number, { path: string; append: boolean }>();
   const openSync = (path: string, flags: string, ...rest: unknown[]): number => {
     const fd = (fs.openSync as (...a: unknown[]) => number)(path, flags, ...rest);
-    if (String(path).endsWith('manifest.jsonl') && flags === 'a') manifestFds.set(fd, path);
+    if (String(path).endsWith('manifest.jsonl'))
+      manifestFds.set(fd, { path, append: flags === 'a' });
     return fd;
   };
   const closeSync = (fd: number): void => {
@@ -26,11 +33,16 @@ vi.mock('node:fs', async (importOriginal) => {
   };
   // The row is written in full; only the fsync after it fails.
   const fsyncSync = (fd: number): void => {
-    const path = manifestFds.get(fd);
-    if (fail.manifestFsync && path !== undefined) {
+    const m = manifestFds.get(fd);
+    if (m !== undefined) seen.ops.push('fsync');
+    if (fail.manifestFsync && m?.append) {
       fail.manifestFsync = false;
-      seen.manifest = fs.readFileSync(path, 'utf8');
+      seen.manifest = fs.readFileSync(m.path, 'utf8');
       throw Object.assign(new Error('EIO: i/o error, fsync'), { code: 'EIO' });
+    }
+    if (fail.rollbackFsync && m !== undefined && !m.append) {
+      fail.rollbackFsync = false;
+      throw Object.assign(new Error('EIO: rollback fsync'), { code: 'EIO' });
     }
     fs.fsyncSync(fd);
   };
@@ -43,14 +55,21 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     fs.renameSync(from, to);
   };
+  const failTruncate = (): void => {
+    if (!fail.truncate) return;
+    fail.truncate = false;
+    throw Object.assign(new Error('EIO: i/o error, truncate'), { code: 'EIO' });
+  };
   const truncateSync = (path: string, len?: number): void => {
-    if (fail.truncate) {
-      fail.truncate = false;
-      throw Object.assign(new Error('EIO: i/o error, truncate'), { code: 'EIO' });
-    }
+    failTruncate();
     fs.truncateSync(path, len);
   };
-  const mocked = { openSync, closeSync, fsyncSync, renameSync, truncateSync };
+  const ftruncateSync = (fd: number, len?: number): void => {
+    if (manifestFds.has(fd)) seen.ops.push('ftruncate');
+    failTruncate();
+    fs.ftruncateSync(fd, len);
+  };
+  const mocked = { openSync, closeSync, fsyncSync, renameSync, truncateSync, ftruncateSync };
   return { ...fs, ...mocked, default: { ...fs, ...mocked } };
 });
 
@@ -79,6 +98,7 @@ beforeEach(async () => {
 });
 afterEach(async () => {
   fail.manifestFsync = false;
+  fail.rollbackFsync = false;
   fail.manifestRename = false;
   fail.truncate = false;
   await rm(vault, { recursive: true, force: true });
@@ -105,6 +125,27 @@ describe('Journal: a failed append', () => {
     await expect(write(j, 'a')).rejects.toThrow(/EIO/);
     expect(await manifestRows()).toEqual([]);
     expect(tools(await Journal.open(vault, BIG))).toEqual([]);
+  });
+
+  it('fsyncs the manifest after cutting the row off', async () => {
+    const j = await Journal.open(vault, BIG, { log });
+    await write(j, 'a');
+    fail.manifestFsync = true;
+    seen.ops = [];
+    await expect(write(j, 'b')).rejects.toThrow(/EIO/);
+    // The failed append's fsync, then the cut, then the fsync that makes it durable.
+    expect(seen.ops).toEqual(['fsync', 'ftruncate', 'fsync']);
+  });
+
+  it('reports the append error when the fsync after the cut fails too', async () => {
+    const j = await Journal.open(vault, BIG, { log });
+    fail.manifestFsync = true;
+    fail.rollbackFsync = true;
+    await expect(write(j, 'a')).rejects.toThrow('EIO: i/o error, fsync');
+    expect(fail.rollbackFsync).toBe(false);
+    expect(warnings.some((w) => w.includes('roll back'))).toBe(true);
+    await write(j, 'b');
+    expect(tools(j)).toEqual(tools(await Journal.open(vault, BIG)));
   });
 
   it('warns and rereads the manifest when the rollback itself fails', async () => {
