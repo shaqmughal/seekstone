@@ -424,12 +424,19 @@ describe('savedBranchFor', () => {
     expect(savedBranchFor(['factory-saved/SHA-7-1'], 'SHA-7')).toBe('factory-saved/SHA-7-1');
     expect(savedBranchFor([], 'SHA-7')).toBeNull();
   });
+
+  it("doesn't resume from an unfinished fix pass", () => {
+    expect(
+      savedBranchFor(['factory-saved/SHA-7-1', 'factory-saved/SHA-7-2-fix-pass'], 'SHA-7'),
+    ).toBe('factory-saved/SHA-7-1');
+  });
 });
 
 describe('staleSavedBranches', () => {
   const refs = [
     'refs/heads/factory-saved/SHA-1-10',
     'refs/heads/factory-saved/SHA-1-11',
+    'refs/heads/factory-saved/SHA-1-15-fix-pass',
     'refs/heads/factory-saved/SHA-2-12',
     'refs/heads/factory-saved/SHA-3-13',
     'refs/heads/factory-saved/SHA-4-14',
@@ -441,6 +448,7 @@ describe('staleSavedBranches', () => {
     expect(staleSavedBranches(refs, states)).toEqual([
       'factory-saved/SHA-1-10',
       'factory-saved/SHA-1-11',
+      'factory-saved/SHA-1-15-fix-pass',
     ]);
   });
 
