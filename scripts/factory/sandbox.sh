@@ -292,6 +292,11 @@ cmd_package() {
     if [ -n "${FIRST_SHA:-}" ] && [ "$(sha256sum "$IO/pr.md" | cut -d' ' -f1)" = "$FIRST_SHA" ]; then
       delivering=false
     fi
+    # A tip that doesn't build on the base is blocked and saved, not
+    # delivered (verify-bundle), so keep its leftovers too.
+    if ! git merge-base --is-ancestor "$BASE" HEAD 2>/dev/null; then
+      delivering=false
+    fi
   fi
   # If the leftovers can't be committed (an empty repository planted in the
   # checkout makes git add fail), still bundle what was committed.
