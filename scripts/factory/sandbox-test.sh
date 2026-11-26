@@ -81,13 +81,26 @@ rm -f /tmp/sbtest-postinstall-ran
 if bash "$SB" hand-over "$WORK/ws" "$WORK/factory" yes; then pass "hand-over with install"; else fail "hand-over with install"; fi
 if pgrep -u "$INSTALLER" >/dev/null; then fail "factory-install processes survive the hand-over"; else pass "no factory-install process survives"; fi
 if [ -e /tmp/sbtest-postinstall-ran ]; then fail "install scripts ran"; else pass "install scripts did not run"; fi
-if [ "$(sudo stat -c %U /srv/factory/repo)" = "$AGENT" ]; then pass "the agent's user owns its checkout"; else fail "checkout owner"; fi
+# The checkout's top folder is root's and sticky (so root's .git file there
+# stays), and everything in it but that file is the agent's.
+if [ "$(sudo stat -c '%U:%G %a' /srv/factory/repo)" = "root:$AGENT 1770" ] &&
+  [ "$(sudo stat -c %U /srv/factory/repo/package.json)" = "$AGENT" ]; then
+  pass "the checkout is root's sticky folder with the agent's files"
+else
+  fail "checkout ownership: $(sudo stat -c '%U:%G %a' /srv/factory/repo /srv/factory/repo/package.json | tr '\n' ' ')"
+fi
 if [ "$(sudo stat -c '%U %a' /srv/factory/git)" = "root 1770" ] && [ "$(sudo stat -c %U /srv/factory/git/config)" = root ]; then
   pass "root owns the git directory and its config"
 else
   fail "git directory ownership: $(sudo stat -c '%U %a' /srv/factory/git /srv/factory/git/config | tr '\n' ' ')"
 fi
-if [ -e /srv/factory/repo/.git ] || sudo test -e /srv/factory/repo/.git; then fail "a .git folder is left in the checkout"; else pass "no .git folder in the checkout"; fi
+if sudo test -f /srv/factory/repo/.git && ! sudo test -L /srv/factory/repo/.git &&
+  [ "$(sudo stat -c %U /srv/factory/repo/.git)" = root ] &&
+  [ "$(sudo cat /srv/factory/repo/.git)" = "gitdir: /srv/factory/git" ]; then
+  pass "the checkout's .git is root's file pointing at the git directory"
+else
+  fail "the checkout's .git is not root's gitfile"
+fi
 if [ -d /srv/factory/install ]; then fail "the install folder is left behind"; else pass "the install folder is gone"; fi
 if sudo test -d /srv/factory/repo/node_modules; then pass "dependencies were moved into the checkout"; else fail "no node_modules in the checkout"; fi
 for u in "$AGENT" "$INSTALLER"; do
@@ -113,10 +126,10 @@ if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can s
 # /tmp) lets it add files but not replace anyone else's. System sockets under
 # /run (D-Bus, journald, systemd) are open to every user, so they are checked
 # below by what they would let it do.
-writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -path /tmp -o -path /var/tmp \
+writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -path /snap -o -path /tmp -o -path /var/tmp \
   -o -path /srv/factory/repo -o -path /srv/factory/git -o -path /srv/factory/io -o -path /srv/factory/tmp \
   -o -path /home/factory-agent \) -prune \
-  -o -writable ! -type l ! -type s ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
+  -o -writable ! -type l ! -type s ! -type c ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
 if [ -n "$writable" ]; then
   fail "the agent's user can write outside its own folders:"
   echo "$writable" | sed 's/^/        /'
@@ -264,7 +277,7 @@ fi
 # agent's own git works without the pinned environment.
 asgit '
   set -e
-  ungit() { env -u GIT_DIR -u GIT_COMMON_DIR -u GIT_WORK_TREE git "$@"; }
+  ungit() { env -u GIT_DIR -u GIT_COMMON_DIR -u GIT_WORK_TREE /usr/bin/git "$@"; }
   ungit init -q --bare /srv/factory/tmp/evilgit
   ungit --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
   ungit --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
