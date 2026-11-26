@@ -1,0 +1,215 @@
+#!/usr/bin/env bash
+# Tests scripts/factory/sandbox.sh on a GitHub-hosted runner against a
+# simulated hostile agent, with a fake token (SHA-660). Run by
+# .github/workflows/factory-sandbox.yml. Linux only; needs sudo.
+#
+# The real token reaches only the claude process, whose commands run in
+# Claude Code's own sandbox. That part needs a model and is checked by a
+# probe run of the factory. This script checks everything around it: that
+# code running as the agent's user, outside any sandbox, can't reach the
+# runner's secrets or tamper with what runs after it, and that the outputs
+# and commits that come back are checked.
+
+set -uo pipefail
+
+SB=/srv/factory/trusted/scripts/factory/sandbox.sh
+SCAN=/srv/factory/trusted/scripts/factory/secret-scan.mjs
+AGENT=factory-agent
+INSTALLER=factory-install
+WORK=$RUNNER_TEMP/sbtest
+FAKE="sk-ant-oat01-$(openssl rand -hex 40)"
+OTHER="sk-ant-oat01-$(openssl rand -hex 40)"
+failures=0
+
+pass() { echo "PASS  $*"; }
+fail() {
+  echo "::error::FAIL  $*"
+  failures=$((failures + 1))
+}
+# Run a shell snippet as a user, outside any sandbox, from a folder it can use.
+as() {
+  local u=$1
+  shift
+  sudo -u "$u" -H /usr/bin/env -C /srv/factory PATH="$PATH" bash -c "$*"
+}
+fingerprint() {
+  export SECRET_SHA256 SECRET_LENGTH SECRET_PREFIX
+  SECRET_SHA256=$(printf '%s' "$1" | sha256sum | cut -d' ' -f1)
+  SECRET_LENGTH=${#1}
+  SECRET_PREFIX=sk-ant-oat01-
+}
+
+# --- Setup, as the workflow does it ------------------------------------------
+
+sudo install -d -o root -g root -m 755 /srv/factory /srv/factory/trusted
+git archive HEAD scripts/factory scripts/factory-ticket.mjs | sudo tar -x --no-same-owner -C /srv/factory/trusted
+sudo chown -R root:root /srv/factory/trusted
+sudo chmod -R go-w,a+rX /srv/factory/trusted
+bash "$SB" setup || {
+  echo "::error::sandbox.sh setup failed"
+  exit 1
+}
+
+# A small repo standing in for the checkout, with a base commit.
+rm -rf "$WORK"
+mkdir -p "$WORK/ws" "$WORK/factory"
+git -C "$WORK/ws" init -q -b main
+git -C "$WORK/ws" config user.name test
+git -C "$WORK/ws" config user.email test@example.com
+printf '{ "name": "sbtest", "version": "1.0.0", "lockfileVersion": 3, "packages": { "": { "name": "sbtest", "version": "1.0.0" } } }\n' >"$WORK/ws/package-lock.json"
+printf '{ "name": "sbtest", "version": "1.0.0", "scripts": { "postinstall": "touch /tmp/sbtest-postinstall-ran" } }\n' >"$WORK/ws/package.json"
+echo base >"$WORK/ws/README.md"
+git -C "$WORK/ws" add -A
+git -C "$WORK/ws" commit -q -m base
+echo "ticket" >"$WORK/factory/ticket.md"
+bash "$SB" mirror "$WORK/ws" "$WORK/mirror"
+
+# Secrets held by the runner user and by root, as the job's secrets are.
+CLAUDE_CODE_OAUTH_TOKEN=$FAKE setsid sleep 900 </dev/null >/dev/null 2>&1 &
+sudo env CLAUDE_CODE_OAUTH_TOKEN="$FAKE" setsid sleep 900 </dev/null >/dev/null 2>&1 &
+sleep 1
+
+# --- The installer's processes don't survive the hand-over -------------------
+
+sudo -u "$INSTALLER" -H setsid sleep 900 </dev/null >/dev/null 2>&1 &
+sleep 1
+rm -f /tmp/sbtest-postinstall-ran
+if bash "$SB" hand-over "$WORK/ws" "$WORK/factory" yes; then pass "hand-over with install"; else fail "hand-over with install"; fi
+if pgrep -u "$INSTALLER" >/dev/null; then fail "factory-install processes survive the hand-over"; else pass "no factory-install process survives"; fi
+if [ -e /tmp/sbtest-postinstall-ran ]; then fail "install scripts ran"; else pass "install scripts did not run"; fi
+if [ "$(sudo stat -c %U /srv/factory/repo)" = "$AGENT" ]; then pass "the agent's user owns its checkout"; else fail "checkout owner"; fi
+
+# --- What the agent's user can reach, outside any sandbox --------------------
+
+leaks=$(as "$AGENT" 'n=0; for f in /proc/[0-9]*/environ; do tr "\0" "\n" <"$f" 2>/dev/null | grep -q "^CLAUDE_CODE_OAUTH_TOKEN=." && n=$((n+1)); done; echo $n')
+if [ "$leaks" = 0 ]; then pass "no process environment with the token is readable"; else fail "$leaks readable process environment(s) hold the token"; fi
+
+if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can sudo"; else pass "no sudo"; fi
+
+node_dir=$(dirname "$(command -v node)")
+for target in /srv/factory/trusted "$RUNNER_TEMP" "$HOME" "$WORK/mirror" "$node_dir" /srv/factory; do
+  if as "$AGENT" "touch '$target/.sbtest' 2>/dev/null"; then
+    fail "the agent's user can write $target"
+    sudo rm -f "$target/.sbtest"
+  else
+    pass "can't write $target"
+  fi
+done
+if as "$AGENT" "ls '$HOME' >/dev/null 2>&1 || cat '$RUNNER_TEMP/sbtest/factory/ticket.md' >/dev/null 2>&1"; then
+  fail "the agent's user can read the runner's home"
+else
+  pass "can't read the runner's home"
+fi
+for sock in /run/docker.sock /var/run/docker.sock; do
+  if as "$AGENT" "node -e \"require('net').connect('$sock').on('connect',()=>process.exit(0)).on('error',()=>process.exit(1))\""; then
+    fail "the agent's user can connect to $sock"
+  else
+    pass "can't connect to $sock"
+  fi
+done
+for svc in cron atd docker; do
+  if systemctl is-active --quiet "$svc"; then fail "$svc is running"; else pass "$svc is not running"; fi
+done
+
+# Claude Code's sandbox needs bubblewrap with user namespaces, as this user.
+if as "$AGENT" 'bwrap --unshare-all --die-with-parent --ro-bind / / --proc /proc --dev /dev /bin/true'; then
+  pass "bubblewrap starts as the agent's user"
+else
+  fail "bubblewrap can't start as the agent's user (AppArmor user namespaces?)"
+fi
+
+# --- A hostile checkout: git config, hooks, commondir, links -----------------
+
+# Anything git runs from the agent's config logs who ran it.
+sudo rm -f /tmp/sbtest-git-ran
+sudo install -m 666 /dev/null /tmp/sbtest-git-ran
+as "$AGENT" '
+  set -e
+  cd /srv/factory/repo
+  cat >/srv/factory/tmp/evil.sh <<"EOS"
+#!/bin/sh
+id -un >>/tmp/sbtest-git-ran
+EOS
+  chmod +x /srv/factory/tmp/evil.sh
+  git config core.fsmonitor /srv/factory/tmp/evil.sh
+  git config core.hooksPath /srv/factory/tmp/hooks
+  mkdir -p /srv/factory/tmp/hooks
+  cp /srv/factory/tmp/evil.sh /srv/factory/tmp/hooks/post-commit
+  echo work >work.txt
+  git add work.txt
+  git commit -q -m work
+  # Left uncommitted, with the token in it: package must commit it.
+  echo "leak '"$FAKE"'" >leak.txt
+  echo "Title" >/srv/factory/io/blocked.md
+'
+# package, as the workflow runs it.
+if sudo -u "$AGENT" -H BASE=main QUOTA=false /usr/bin/env -C /srv/factory/repo PATH="$PATH" bash "$SB" package; then
+  pass "package as the agent's user"
+else
+  fail "package as the agent's user"
+fi
+bash "$SB" stop "$AGENT"
+bash "$SB" collect "$WORK/out" || fail "collect"
+ahead=$(bash "$SB" verify-bundle "$WORK/mirror" main "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
+if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
+if [ ! -s /tmp/sbtest-git-ran ]; then
+  fail "the hostile git config never ran, so this round proves nothing"
+elif grep -qvx "$AGENT" /tmp/sbtest-git-ran; then
+  fail "git ran the agent's config as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
+else
+  pass "the agent's git config only ever ran as the agent's user"
+fi
+
+scan() { # <outputs folder>
+  set -o pipefail
+  export GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1
+  {
+    if git -C "$WORK/mirror" rev-parse -q --verify refs/factory/head >/dev/null; then
+      git -C "$WORK/mirror" rev-list --objects "main..refs/factory/head" | cut -d' ' -f1 |
+        git -C "$WORK/mirror" cat-file --batch
+    fi
+  } | node "$SCAN" "$1" -
+}
+fingerprint "$FAKE"
+if scan "$WORK/out" >/dev/null 2>&1; then fail "the scan missed the token in a commit"; else pass "the scan caught the token in a commit"; fi
+if scan "$WORK/out" 2>&1 | grep -qF "$FAKE"; then fail "the scan printed the token"; else pass "the scan never prints the token"; fi
+
+# A candidate bundle that smuggles an unreachable object with the other token.
+as "$AGENT" '
+  set -e
+  cd /srv/factory/repo
+  git reset -q --hard HEAD~1
+  blob=$(echo "'"$OTHER"'" | git hash-object -w --stdin)
+  git tag -f smuggled "$blob" >/dev/null
+  git bundle create -q /srv/factory/io/candidate.bundle main..HEAD refs/tags/smuggled
+'
+bash "$SB" collect "$WORK/out2" || fail "collect 2"
+bash "$SB" verify-bundle "$WORK/mirror" main "$WORK/out2/candidate.bundle" "$WORK/out2/work.bundle" >/dev/null || fail "verify-bundle 2"
+smuggled=$(printf '%s\n' "$OTHER" | git hash-object --stdin)
+rm -rf "$WORK/check" && git init -q --bare "$WORK/check"
+git -C "$WORK/check" fetch -q "$WORK/mirror" main
+git -C "$WORK/check" fetch -q "$WORK/out2/work.bundle" "HEAD:refs/heads/out"
+if git -C "$WORK/check" cat-file -e "$smuggled" 2>/dev/null; then
+  fail "the re-made bundle still carries the smuggled object"
+else
+  pass "the re-made bundle drops objects the commits don't reach"
+fi
+rm -f "$WORK/out2/candidate.bundle"
+fingerprint "$OTHER"
+if scan "$WORK/out2" >/dev/null 2>&1; then pass "the published outputs hold no smuggled token"; else fail "scan of the re-made outputs"; fi
+
+# A link in the agent's outputs is refused, not followed.
+as "$AGENT" 'ln -sf /etc/hostname /srv/factory/io/link'
+bash "$SB" collect "$WORK/out3" || fail "collect 3"
+if [ -L "$WORK/out3/link" ] && ! node "$SCAN" "$WORK/out3" >/dev/null 2>&1; then
+  pass "a link in the outputs fails the scan"
+else
+  fail "a link in the outputs was not refused"
+fi
+
+echo
+if [ "$failures" -gt 0 ]; then
+  echo "::error::$failures check(s) failed"
+  exit 1
+fi
+echo "All checks passed."

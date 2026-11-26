@@ -53,6 +53,24 @@ describe('findFingerprint', () => {
   });
 });
 
+describe('findFingerprint with a prefix', () => {
+  it('finds the token when it starts with the prefix', () => {
+    const text = `xx/${TOKEN}~more`;
+    expect(findFingerprint(Buffer.from(text), sha256, TOKEN.length, 'sk-ant-oat01-')).toEqual([3]);
+  });
+
+  it('misses it under a prefix it does not start with', () => {
+    expect(findFingerprint(Buffer.from(TOKEN), sha256, TOKEN.length, 'sk-ant-api03-')).toEqual([]);
+  });
+
+  it('stays fast on a long run of token characters', () => {
+    const run = Buffer.alloc(2_000_000, 'A');
+    const started = performance.now();
+    expect(findFingerprint(run, sha256, TOKEN.length, 'sk-ant-oat01-')).toEqual([]);
+    expect(performance.now() - started).toBeLessThan(2000);
+  });
+});
+
 describe('TOKEN_CHARS', () => {
   it('accepts an OAuth-shaped token and rejects other characters', () => {
     expect(TOKEN_CHARS.test(TOKEN)).toBe(true);
@@ -65,7 +83,20 @@ describe('fingerprintFromEnv', () => {
   it('reads a good fingerprint', () => {
     expect(
       fingerprintFromEnv({ SECRET_SHA256: sha256, SECRET_LENGTH: String(TOKEN.length) }),
-    ).toEqual(fp);
+    ).toEqual({ ...fp, prefix: '' });
+    expect(
+      fingerprintFromEnv({
+        SECRET_SHA256: sha256,
+        SECRET_LENGTH: String(TOKEN.length),
+        SECRET_PREFIX: 'sk-ant-oat01-',
+      }),
+    ).toEqual({ ...fp, prefix: 'sk-ant-oat01-' });
+  });
+
+  it('refuses a prefix that is not token characters or not shorter than the token', () => {
+    const base = { SECRET_SHA256: sha256, SECRET_LENGTH: String(TOKEN.length) };
+    expect(fingerprintFromEnv({ ...base, SECRET_PREFIX: 'sk ant' }).error).toBeDefined();
+    expect(fingerprintFromEnv({ ...base, SECRET_PREFIX: TOKEN }).error).toBeDefined();
   });
 
   it('refuses a missing or malformed fingerprint', () => {

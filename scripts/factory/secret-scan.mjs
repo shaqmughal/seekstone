@@ -9,10 +9,10 @@
 // (a symlink or other special file), 2 on bad input.
 //
 // Env: SECRET_SHA256 and SECRET_LENGTH, the token's SHA-256 (hex) and length
-// in bytes. The scan never holds the token: any step after the agent's could
-// be tampered with by the agent, so the step that runs this mustn't have the
-// token in its environment. The workflow fingerprints the token in a step
-// before the agent starts.
+// in bytes, and optionally SECRET_PREFIX, the token's public start (such as
+// sk-ant-oat01-). The scan never holds the token, so the step that runs it
+// can't leak it. The workflow fingerprints the token in a step before the
+// agent starts.
 //
 // It finds the token as written. An agent that encodes the token first
 // (base64, reversed, split) gets past it, so this is a check on accidental
@@ -47,14 +47,18 @@ function isTokenByte(b) {
 /**
  * Byte offsets in `buf` where a `length`-byte window hashes to `sha256`.
  * The token can only sit inside a run of token characters, so only windows
- * inside runs at least `length` long are hashed.
+ * inside runs at least `length` long are checked. With `prefix` (the public
+ * start of the token, such as `sk-ant-oat01-`), only windows that start with
+ * it are hashed, which keeps long base64 runs cheap.
  */
-export function findFingerprint(buf, sha256, length) {
+export function findFingerprint(buf, sha256, length, prefix = '') {
   const hits = [];
+  const pre = Buffer.from(prefix, 'latin1');
   let start = 0;
   for (let i = 0; i <= buf.length; i++) {
     if (i < buf.length && isTokenByte(buf[i])) continue;
     for (let s = start; s + length <= i; s++) {
+      if (pre.length > 0 && buf.compare(pre, 0, pre.length, s, s + pre.length) !== 0) continue;
       const h = createHash('sha256')
         .update(buf.subarray(s, s + length))
         .digest('hex');
@@ -92,11 +96,12 @@ export function listFiles(path) {
  * @returns {{ hits: string[], problems: string[] }} where each hit names a
  *   file (or stdin) and a byte offset, never the bytes there.
  */
-export function scan(paths, { sha256, length, stdin }) {
+export function scan(paths, { sha256, length, prefix = '', stdin }) {
   const hits = [];
   const problems = [];
   const check = (label, buf) => {
-    for (const at of findFingerprint(buf, sha256, length)) hits.push(`${label} at byte ${at}`);
+    for (const at of findFingerprint(buf, sha256, length, prefix))
+      hits.push(`${label} at byte ${at}`);
   };
   for (const p of paths) {
     const listed = listFiles(p);
@@ -107,14 +112,20 @@ export function scan(paths, { sha256, length, stdin }) {
   return { hits, problems };
 }
 
-/** The fingerprint from the environment, or an error message. */
+/**
+ * The fingerprint from the environment, or an error message. SECRET_PREFIX
+ * is optional: the token's public start, which must be shorter than it.
+ */
 export function fingerprintFromEnv(env) {
   const sha256 = env.SECRET_SHA256 ?? '';
   const length = Number(env.SECRET_LENGTH);
+  const prefix = env.SECRET_PREFIX ?? '';
   if (!/^[0-9a-f]{64}$/.test(sha256)) return { error: 'SECRET_SHA256 must be 64 hex digits' };
   if (!Number.isInteger(length) || length < 16)
     return { error: 'SECRET_LENGTH must be 16 or more' };
-  return { sha256, length };
+  if (prefix !== '' && (!TOKEN_CHARS.test(prefix) || prefix.length >= length))
+    return { error: 'SECRET_PREFIX must be token characters, shorter than the token' };
+  return { sha256, length, prefix };
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
