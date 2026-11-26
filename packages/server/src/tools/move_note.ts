@@ -1,5 +1,5 @@
-import { lstat, mkdir, readFile, rename } from 'node:fs/promises';
-import { dirname, join, relative, sep } from 'node:path';
+import { lstat, mkdir, readdir, readFile, rename } from 'node:fs/promises';
+import { basename, dirname, join, relative, sep } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -87,6 +87,14 @@ export async function moveNote(
     throw new Error(`Destination already exists: ${input.to}. Pass overwrite: true to replace it.`);
   }
 
+  // The destination's vault key, and with overwrite the key of the note being
+  // replaced. They differ when `to` spells that note another way the
+  // filesystem treats as the same name (case on APFS and NTFS, Unicode
+  // normalization on APFS). Only that rare path lists the directory.
+  const toKey = vaultKey(ctx.vaultRoot, absTo);
+  const replacedKey =
+    existingAtTo !== null && !ctx.notes.has(toKey) ? await storedKey(ctx.vaultRoot, absTo) : toKey;
+
   // Snapshot pre-move state: link resolution before/after the move differs,
   // and the rewriter needs both views to rewrite only what breaks.
   const preNotes = new Map(ctx.notes);
@@ -107,20 +115,9 @@ export async function moveNote(
     candidates.delete(input.from);
     // With overwrite, the old destination is discarded. Rewriting its links
     // would write its stale bytes back over the moved note. Candidate keys are
-    // vault-relative, so use the resolved key: `./x.md` names the same file
-    // as `x.md`.
-    candidates.delete(relative(ctx.vaultRoot, absTo).split(sep).join('/'));
-    // On a case- or normalization-insensitive filesystem (APFS, NTFS) `to`
-    // can name an indexed note under a different spelling, e.g. DST.md for
-    // dst.md. Compare by inode, and only when overwriting, so plain moves
-    // pay nothing. bigint stats keep 64-bit NTFS file IDs exact.
-    if (existingAtTo !== null && candidates.size > 0) {
-      const dst = await lstat(absTo, { bigint: true });
-      for (const path of candidates) {
-        const st = await lstat(join(ctx.vaultRoot, path), { bigint: true }).catch(() => undefined);
-        if (st !== undefined && st.ino === dst.ino && st.dev === dst.dev) candidates.delete(path);
-      }
-    }
+    // vault-relative, so match them by key, not the raw `to` string.
+    candidates.delete(toKey);
+    candidates.delete(replacedKey);
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE
@@ -168,9 +165,13 @@ export async function moveNote(
   // first, while that entry is still readable. Inbound refs stay under the
   // old key until the linkers are re-registered below, so they aren't parked.
   removeDoc(ctx, input.from, { parkInbound: false });
+  // Index the moved note under the name it now has on disk. APFS keeps the
+  // replaced file's spelling; drop the replaced entry if the name changed.
+  const destKey = replacedKey === toKey ? toKey : await storedKey(ctx.vaultRoot, absTo);
+  if (replacedKey !== destKey) removeDoc(ctx, replacedKey, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
-  removeNoteBacklinks(ctx, input.to);
-  if (upsertDoc(ctx, buildDoc(input.to, raw))) addNoteBacklinks(ctx, input.to, raw);
+  removeNoteBacklinks(ctx, destKey);
+  if (upsertDoc(ctx, buildDoc(destKey, raw))) addNoteBacklinks(ctx, destKey, raw);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.
@@ -220,4 +221,29 @@ export async function moveNote(
   };
   if (skipped.length > 0) result.skipped = skipped;
   return result;
+}
+
+/** Forward-slash vault-relative key for an absolute path inside the vault. */
+function vaultKey(vaultRoot: string, abs: string): string {
+  return relative(vaultRoot, abs).split(sep).join('/');
+}
+
+/**
+ * The vault key of `abs` as its directory stores the name. On a case- or
+ * normalization-insensitive filesystem that can differ from the spelling
+ * that was passed in. Matches by inode; bigint stats keep 64-bit NTFS file
+ * IDs exact. Falls back to the passed spelling.
+ */
+async function storedKey(vaultRoot: string, abs: string): Promise<string> {
+  const fold = (name: string) => name.normalize('NFC').toLowerCase();
+  const dir = dirname(abs);
+  const want = fold(basename(abs));
+  const target = await lstat(abs, { bigint: true });
+  for (const name of await readdir(dir)) {
+    if (fold(name) !== want) continue;
+    const st = await lstat(join(dir, name), { bigint: true }).catch(() => undefined);
+    if (st?.ino === target.ino && st.dev === target.dev)
+      return vaultKey(vaultRoot, join(dir, name));
+  }
+  return vaultKey(vaultRoot, abs);
 }

@@ -1,5 +1,5 @@
 import { existsSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
-import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
@@ -182,14 +182,20 @@ describe('moveNote', () => {
     },
   );
 
+  const fold = (k: string) => k.normalize('NFC').toLowerCase();
+  // Index keys that name `key` up to case and Unicode normalization.
+  const keysLike = (target: ServerContext, key: string) =>
+    [...target.notes.keys()].filter((k) => fold(k) === fold(key));
+
   it('keeps the moved bytes when `to` is spelled ./name.md and the destination links to the source', async () => {
     const local = freshCtx();
     const srcRaw = 'the moved note';
-    const dstRaw = 'See [[ow-dot-src]].';
+    const dstRaw = 'See [[ow-dot-src]] and [[ow-dot-other]].';
     await writeFile(join(tmpDir, 'ow-dot-src.md'), srcRaw, 'utf8');
     await writeFile(join(tmpDir, 'ow-dot-dst.md'), dstRaw, 'utf8');
     seedInto(local, 'ow-dot-src.md', srcRaw);
     seedInto(local, 'ow-dot-dst.md', dstRaw);
+    seedInto(local, 'ow-dot-other.md', '');
     addNoteBacklinks(local, 'ow-dot-dst.md', dstRaw);
 
     const result = await moveNote(local, {
@@ -203,6 +209,13 @@ describe('moveNote', () => {
     expect(await readFile(join(tmpDir, 'ow-dot-dst.md'), 'utf8')).toBe(srcRaw);
     expect(result.contentHash).toBe(contentHash(srcRaw));
     expect(result.notesRewritten).toBe(0);
+    // One index entry for the destination, under its vault key, holding the
+    // moved note. The replaced note's outgoing links went with it.
+    expect([...local.notes.keys()].filter((k) => k.endsWith('ow-dot-dst.md'))).toEqual([
+      'ow-dot-dst.md',
+    ]);
+    expect(local.notes.get('ow-dot-dst.md')?.raw).toBe(srcRaw);
+    expect(local.backlinks.get('ow-dot-other.md') ?? []).toEqual([]);
   });
 
   // `to` spells an existing note differently. Whether that is the same file
@@ -216,11 +229,13 @@ describe('moveNote', () => {
     const local = freshCtx();
     const srcRaw = 'the moved note';
     const srcKey = `src-for-${dstKey}`;
-    const dstRaw = `See [[${srcKey.slice(0, -3)}]].`;
+    const otherKey = `other-for-${dstKey}`;
+    const dstRaw = `See [[${srcKey.slice(0, -3)}]] and [[${otherKey.slice(0, -3)}]].`;
     await writeFile(join(tmpDir, srcKey), srcRaw, 'utf8');
     await writeFile(join(tmpDir, dstKey), dstRaw, 'utf8');
     seedInto(local, srcKey, srcRaw);
     seedInto(local, dstKey, dstRaw);
+    seedInto(local, otherKey, '');
     addNoteBacklinks(local, dstKey, dstRaw);
 
     const result = await moveNote(local, { from: srcKey, to, overwrite: true });
@@ -234,10 +249,19 @@ describe('moveNote', () => {
       // One file under two spellings: the old destination was overwritten,
       // so its link rewrite must not run and clobber the moved note.
       expect(result.notesRewritten).toBe(0);
+      // The index holds one entry for it, under the name now on disk, with
+      // the moved content. The replaced note's outgoing links are gone.
+      const stored = (await readdir(tmpDir)).filter((n) => fold(n) === fold(dstKey));
+      expect(stored).toHaveLength(1);
+      expect(keysLike(local, dstKey)).toEqual(stored);
+      expect(local.notes.get(stored[0] ?? '')?.raw).toBe(srcRaw);
+      expect(local.backlinks.get(otherKey) ?? []).toEqual([]);
     } else {
       // Two files: the old destination is a separate note that linked to the
       // source. It keeps existing and never receives the moved bytes.
       expect(await readFile(join(tmpDir, dstKey), 'utf8')).not.toBe(srcRaw);
+      expect(local.notes.get(to)?.raw).toBe(srcRaw);
+      expect(local.notes.has(dstKey)).toBe(true);
     }
   }
 
