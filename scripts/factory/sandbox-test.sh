@@ -89,10 +89,12 @@ if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can s
 
 # Everything the agent's user can write, anywhere. Only its own folders and
 # the shared temp folders may show up; a sticky world-writable folder (like
-# /tmp) lets it add files but not replace anyone else's.
+# /tmp) lets it add files but not replace anyone else's. System sockets under
+# /run (D-Bus, journald, systemd) are open to every user, so they are checked
+# below by what they would let it do.
 writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -path /tmp -o -path /var/tmp \
   -o -path /srv/factory/repo -o -path /srv/factory/io -o -path /srv/factory/tmp -o -path /home/factory-agent \) -prune \
-  -o -writable ! -type l ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
+  -o -writable ! -type l ! -type s ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
 if [ -n "$writable" ]; then
   fail "the agent's user can write outside its own folders:"
   echo "$writable" | sed 's/^/        /'
@@ -119,6 +121,16 @@ for sock in /run/docker.sock /var/run/docker.sock; do
     pass "can't connect to $sock"
   fi
 done
+if as "$AGENT" 'systemd-run --wait --quiet /bin/true' </dev/null >/dev/null 2>&1; then
+  fail "the agent's user can start a system service"
+else
+  pass "can't start a system service"
+fi
+if as "$AGENT" 'pkexec /bin/true' </dev/null >/dev/null 2>&1; then
+  fail "the agent's user can use pkexec"
+else
+  pass "can't use pkexec"
+fi
 for svc in cron atd docker; do
   if systemctl is-active --quiet "$svc"; then fail "$svc is running"; else pass "$svc is not running"; fi
 done
