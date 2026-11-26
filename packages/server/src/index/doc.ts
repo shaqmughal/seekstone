@@ -54,7 +54,7 @@ export function upsertDoc(
     notes: Map<string, IndexedNote>;
     generation: number;
     backlinks?: Map<string, BacklinkRef[]>;
-    parkedBacklinks?: Map<string, BacklinkRef[]>;
+    parkedPaths?: Set<string>;
   },
   doc: IndexedNote,
 ): boolean {
@@ -71,19 +71,20 @@ export function upsertDoc(
   }
   bumpGeneration(ctx);
   const indexed = ctx.notes.has(doc.id);
-  const returning = !indexed && ctx.parkedBacklinks?.delete(doc.id) === true;
+  const returning = !indexed && ctx.parkedPaths?.delete(doc.id) === true;
   if (indexed) ctx.index.discard(doc.id);
   ctx.notes.set(doc.id, doc);
   ctx.index.add(doc);
-  // Links to the note may have changed while it was gone, so the parked refs
-  // are re-read from the linking notes' current text instead of put back.
+  // Links to the note may have changed while it was gone, so its inbound
+  // refs are read from the linking notes' current text.
   if (returning && ctx.backlinks !== undefined)
     restoreInboundRefs(ctx.backlinks, ctx.notes, doc.id);
   return true;
 }
 
 /**
- * Drop a note from the index and park its inbound refs (see parkedBacklinks).
+ * Drop a note from the index along with its inbound refs, and park its path
+ * (see parkedPaths).
  * move_note passes `parkInbound: false`: it re-registers the old path's
  * linkers against the new path itself, so nothing should come back if a note
  * later appears at the old path.
@@ -101,11 +102,10 @@ export function removeDoc(
   ctx.notes.delete(path);
   if (opts.parkInbound === false) return;
   // Parked even with no inbound refs: a link added while the note is gone
-  // must count when it comes back.
-  const inbound = ctx.backlinks.get(path) ?? [];
+  // must count when it comes back. The refs are re-read then, not kept.
   ctx.backlinks.delete(path);
-  ctx.parkedBacklinks ??= new Map();
-  ctx.parkedBacklinks.set(path, inbound);
+  ctx.parkedPaths ??= new Set();
+  ctx.parkedPaths.add(path);
 }
 
 /**

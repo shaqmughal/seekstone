@@ -1,4 +1,8 @@
-import { extractLinksWithLines, type LinkRecord } from '@seekstone/core/extract';
+import {
+  extractLinksWithLines,
+  frontmatterAliases,
+  type LinkRecord,
+} from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { bumpGeneration } from './generation.js';
 import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
@@ -63,8 +67,9 @@ export function addNoteBacklinks(
 /**
  * Rebuild the inbound refs of a note that came back after a delete, from every
  * other note's current text, as a cold build would list them. Links may have
- * been added or removed while it was gone. Reads every note, so it runs only
- * on that return. The note's links to itself are left to its caller's
+ * been added or removed while it was gone. Runs only on that return. Only
+ * notes whose text mentions the note's basename or an alias are parsed (see
+ * mayLinkTo). The note's links to itself are left to its caller's
  * addNoteBacklinks. The caller bumps the generation.
  */
 export function restoreInboundRefs(
@@ -72,13 +77,15 @@ export function restoreInboundRefs(
   notes: Map<string, IndexedNote>,
   path: string,
 ): void {
-  const maps = buildResolveMaps(notes);
+  const keys = linkKeys(path, notes.get(path)?.fm ?? null);
+  let maps: ResolveMaps | undefined;
   const refs: BacklinkRef[] = [];
   // Each linking note's current targets, with the first link to each: the
   // one a cold build records.
   const targetsOf = new Map<string, Map<string, LinkRecord>>();
   for (const [src, doc] of notes) {
-    if (src === path) continue;
+    if (src === path || !mayLinkTo(doc.raw, keys)) continue;
+    maps ??= buildResolveMaps(notes);
     const targets = new Map<string, LinkRecord>();
     for (const link of extractLinksWithLines(doc.raw)) {
       const resolved = resolveLink(link.target, notes, maps);
@@ -120,6 +127,64 @@ export function restoreInboundRefs(
     }
     if (next !== undefined) backlinks.set(target, next);
   }
+}
+
+interface LinkKeys {
+  /** Lowercased basename without `.md`, then each lowercased alias. */
+  keys: string[];
+  /** Matches any key, case-insensitively, when every key is ASCII. */
+  re: RegExp | undefined;
+  /** Keys with whitespace or a quote, whitespace removed, for frontmatter. */
+  squeezed: string[];
+}
+
+function linkKeys(path: string, fm: Record<string, unknown> | null): LinkKeys {
+  const pathNoExt = path.replace(/\.md$/i, '').toLowerCase();
+  const keys = [pathNoExt.split('/').pop() ?? pathNoExt];
+  for (const alias of frontmatterAliases(fm)) keys.push(alias.toLowerCase());
+  // For ASCII keys a case-insensitive regex finds what toLowerCase would,
+  // without copying every note: the only character that lowercases to ASCII
+  // and doesn't match under /iu is U+0130, whose lowercase adds U+0307, so it
+  // can't be part of a link that matches an ASCII key.
+  const ascii = keys.every((k) => /^[\x20-\x7e]*$/.test(k));
+  const escaped = keys.map((k) => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  return {
+    keys,
+    re: ascii ? new RegExp(escaped.join('|'), 'iu') : undefined,
+    // Folding only splits a key at whitespace, and single quoting doubles a quote.
+    squeezed: keys.filter((k) => /[\s']/.test(k)).map((k) => k.replace(/\s+/g, '')),
+  };
+}
+
+/**
+ * False only when no link in `raw` can resolve to the note with these keys.
+ * resolveLink reaches a note by its path, path without `.md`, basename or
+ * alias, and every one of those targets contains the lowercased basename or
+ * equals an alias, so a link to the note puts a key in the text. That covers
+ * a link the note takes over from another note with the same basename or
+ * alias too, so the other note's bucket is reconciled. Frontmatter links are
+ * read from parsed YAML, where folding turns a line break into a space and
+ * quoting can escape characters. So the block passes outright when it holds
+ * a backslash, and a key with whitespace or a quote is also looked for in it
+ * with whitespace removed.
+ */
+function mayLinkTo(raw: string, { keys, re, squeezed }: LinkKeys): boolean {
+  if (re !== undefined) {
+    if (re.test(raw)) return true;
+  } else {
+    const lower = raw.toLowerCase();
+    if (keys.some((key) => lower.includes(key))) return true;
+  }
+  // parseFrontmatter allows a leading BOM.
+  const start = raw.charCodeAt(0) === 0xfeff ? 1 : 0;
+  if (!raw.startsWith('---', start)) return false;
+  const end = raw.indexOf('\n---', start + 3);
+  const slash = raw.indexOf('\\');
+  if (slash !== -1 && (end === -1 || slash < end)) return true;
+  if (squeezed.length === 0) return false;
+  const block = (end === -1 ? raw : raw.slice(0, end)).toLowerCase();
+  const flat = block.replace(/\s+/g, '').replaceAll("''", "'");
+  return squeezed.some((key) => flat.includes(key));
 }
 
 /** Drop every ref that points at `path` (nothing resolves to it anymore). */

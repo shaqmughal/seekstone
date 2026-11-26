@@ -41,11 +41,12 @@ async function cold(): Promise<ServerContext> {
   return { ...(await buildIndex(root)), vaultRoot: root, policy: PERMISSIVE_POLICY };
 }
 
-/** target → sorted source paths, for targets that are live notes. */
+/** target → sorted "source:line:linkType" refs, for targets that are live notes. */
 function linkSets(c: ServerContext): Record<string, string[]> {
   const out: Record<string, string[]> = {};
   for (const [target, refs] of c.backlinks) {
-    if (c.notes.has(target) && refs.length > 0) out[target] = refs.map((r) => r.path).sort();
+    if (c.notes.has(target) && refs.length > 0)
+      out[target] = refs.map((r) => `${r.path}:${r.line}:${r.linkType}`).sort();
   }
   return out;
 }
@@ -298,6 +299,29 @@ describe('the index matches a cold rebuild right after each write', () => {
       expect(ctx.backlinks.get(target)).toEqual(fresh.backlinks.get(target));
     }
     expect(ctx.backlinks.get('B/Delta.md')?.map((r) => r.line)).toEqual([2]);
+  });
+
+  // The restore scan skips notes whose text can't name the returning note.
+  // Each case links in a way the plain text doesn't spell out.
+  const folded = 'rel: "[[Bank\n  Holidays]]"';
+  it.each([
+    ['a frontmatter link folded across lines', 'Bank Holidays.md', '', `---\n${folded}`],
+    ['a folded link after a BOM', 'Bank Holidays.md', '', `﻿---\n${folded}`],
+    ['an escaped frontmatter link', 'Omega.md', '', '---\nrel: "[[\\u004Fmega]]"'],
+    ['a single-quoted alias', 'Quote.md', 'aliases: ["It\'s"]\n', "---\nrel: '[[It''s]]'"],
+    ['a name with a dotted capital I', 'İzmir.md', '', '---\nrel: "[[İZMIR]]"'],
+    ['the Kelvin sign', 'kelvin.md', '', '---\nrel: "[[Kelvin]]"'],
+  ])('a returning note gets a link from %s (SHA-572)', async (_, target, fm, head) => {
+    await writeFile(join(root, target), `---\n${fm}---\nbody\n`);
+    await writeFile(join(root, 'C.md'), `${head}\n---\nno other links\n`);
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    expect(getBacklinks(ctx, { path: target }).total).toBe(1);
+    await deleteNote(ctx, { path: target });
+    const [del] = listWrites(ctx, { path: target }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: target }).backlinks.map((b) => b.path)).toEqual(['C.md']);
   });
 
   it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {

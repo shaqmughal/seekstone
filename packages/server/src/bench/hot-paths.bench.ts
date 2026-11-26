@@ -128,13 +128,18 @@ describe('links', () => {
   });
 });
 
-// A deleted note coming back re-reads every note's links (SHA-572). The cost
+// A deleted note coming back re-reads its linkers' links (SHA-572). The cost
 // is per note, so it runs on the index-build slice to keep simulation time
-// down. The rebuilt bucket is the same each iteration.
+// down. The target is the slice's most-linked note, so the scan parses its
+// linkers and reconciles their other refs. The rebuilt bucket is the same
+// each iteration.
 describe('restore', () => {
   test('restoreInboundRefs', async ({ bench }) => {
     const { notes, backlinks } = indexNotes(slice);
-    const path = slice[0]?.relPath ?? '';
+    let path = '';
+    for (const [target, refs] of backlinks)
+      if (refs.length > (backlinks.get(path)?.length ?? 0)) path = target;
+    if (path === '') throw new Error('no linked note in the bench slice');
     await bench(`restoreInboundRefs (${SLICE} notes)`, () => {
       restoreInboundRefs(backlinks, notes, path);
     }).run();
