@@ -213,6 +213,73 @@ describe('linear client', () => {
     );
     expect(body.variables).toEqual({ id: 'uuid-1', s: 's-blocked' });
   });
+
+  describe('assigns a blocked ticket to its creator', () => {
+    const allStates = {
+      nodes: [
+        { id: 's-blocked', name: 'Blocked' },
+        { id: 's-todo', name: 'Todo' },
+        { id: 's-progress', name: 'In Progress' },
+      ],
+    };
+    const person = { id: 'u-shaq', app: false };
+    async function move(over: Record<string, unknown>, to: string) {
+      const fetchImpl = vi.fn(
+        async () =>
+          new Response(JSON.stringify({ data: { issueUpdate: { success: true } } }), {
+            status: 200,
+          }),
+      );
+      await linear('k', fetchImpl).moveTo(issue({ team: { states: allStates }, ...over }), to);
+      expect(fetchImpl).toHaveBeenCalledTimes(1);
+      return JSON.parse(
+        (fetchImpl.mock.calls[0] as unknown as [string, RequestInit])[1].body as string,
+      );
+    }
+
+    it('assigns an unassigned ticket to the person who created it', async () => {
+      const body = await move({ assignee: null, creator: person }, 'Blocked');
+      expect(body.query).toContain('assigneeId: $a');
+      expect(body.variables).toEqual({ id: 'uuid-1', s: 's-blocked', a: 'u-shaq' });
+    });
+
+    it('keeps an existing assignee', async () => {
+      const body = await move({ assignee: { id: 'u-other' }, creator: person }, 'Blocked');
+      expect(body.query).not.toContain('assigneeId');
+      expect(body.variables).toEqual({ id: 'uuid-1', s: 's-blocked' });
+    });
+
+    it('leaves the ticket unassigned when an app or integration created it', async () => {
+      for (const creator of [{ id: 'u-app', app: true }, null]) {
+        const body = await move({ assignee: null, creator }, 'Blocked');
+        expect(body.query).not.toContain('assigneeId');
+        expect(body.variables).toEqual({ id: 'uuid-1', s: 's-blocked' });
+      }
+    });
+
+    it('changes no assignee when moving to Todo or In Progress', async () => {
+      for (const [to, s] of [
+        ['Todo', 's-todo'],
+        ['In Progress', 's-progress'],
+      ]) {
+        const body = await move({ assignee: null, creator: person }, to);
+        expect(body.query).not.toContain('assigneeId');
+        expect(body.variables).toEqual({ id: 'uuid-1', s });
+      }
+    });
+
+    it('fetches the assignee and creator in the issue query', async () => {
+      const fetchImpl = vi.fn(
+        async () => new Response(JSON.stringify({ data: { issue: issue() } }), { status: 200 }),
+      );
+      await linear('k', fetchImpl).issue('SHA-9');
+      const { query } = JSON.parse(
+        (fetchImpl.mock.calls[0] as unknown as [string, RequestInit])[1].body as string,
+      );
+      expect(query).toMatch(/assignee \{ id \}/);
+      expect(query).toMatch(/creator \{ id app \}/);
+    });
+  });
 });
 
 describe('prepareFix', () => {
@@ -424,12 +491,19 @@ describe('savedBranchFor', () => {
     expect(savedBranchFor(['factory-saved/SHA-7-1'], 'SHA-7')).toBe('factory-saved/SHA-7-1');
     expect(savedBranchFor([], 'SHA-7')).toBeNull();
   });
+
+  it("doesn't resume from an unfinished fix pass", () => {
+    expect(
+      savedBranchFor(['factory-saved/SHA-7-1', 'factory-saved/SHA-7-2-fix-pass'], 'SHA-7'),
+    ).toBe('factory-saved/SHA-7-1');
+  });
 });
 
 describe('staleSavedBranches', () => {
   const refs = [
     'refs/heads/factory-saved/SHA-1-10',
     'refs/heads/factory-saved/SHA-1-11',
+    'refs/heads/factory-saved/SHA-1-15-fix-pass',
     'refs/heads/factory-saved/SHA-2-12',
     'refs/heads/factory-saved/SHA-3-13',
     'refs/heads/factory-saved/SHA-4-14',
@@ -441,6 +515,7 @@ describe('staleSavedBranches', () => {
     expect(staleSavedBranches(refs, states)).toEqual([
       'factory-saved/SHA-1-10',
       'factory-saved/SHA-1-11',
+      'factory-saved/SHA-1-15-fix-pass',
     ]);
   });
 

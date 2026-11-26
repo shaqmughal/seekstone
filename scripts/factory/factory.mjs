@@ -116,6 +116,17 @@ export async function linearAuth(env, fetchImpl = fetch) {
   throw new Error('set LINEAR_CLIENT_ID and LINEAR_CLIENT_SECRET (or LINEAR_API_KEY)');
 }
 
+/**
+ * Who to assign a ticket to when it moves to Blocked, or null to leave the
+ * assignee alone. Factory tickets are often unassigned and the Factory app's
+ * comment notifies nobody, so the creator gets it, unless the creator is an
+ * app or integration (`User.app`) or someone already owns the ticket.
+ */
+export function blockedAssignee(issue) {
+  if (issue.assignee || !issue.creator || issue.creator.app) return null;
+  return issue.creator.id;
+}
+
 export function linear(apiKey, fetchImpl = fetch) {
   async function gql(query, variables) {
     const res = await fetchImpl(LINEAR_URL, {
@@ -136,6 +147,8 @@ export function linear(apiKey, fetchImpl = fetch) {
         `query($id: String!) { issue(id: $id) {
           id identifier title description url
           state { name type }
+          assignee { id }
+          creator { id app }
           labels { nodes { name } }
           team { states { nodes { id name } } }
           inverseRelations(first: 250) { nodes { type issue { identifier state { type } } } }
@@ -171,9 +184,13 @@ export function linear(apiKey, fetchImpl = fetch) {
     async moveTo(issue, stateName) {
       const state = issue.team.states.nodes.find((s) => s.name === stateName);
       if (!state) throw new Error(`Linear: team has no "${stateName}" status`);
+      // A blocked ticket goes to someone who will see it, in the same update.
+      const a = stateName === 'Blocked' ? blockedAssignee(issue) : null;
       await gql(
-        'mutation($id: String!, $s: String!) { issueUpdate(id: $id, input: { stateId: $s }) { success } }',
-        { id: issue.id, s: state.id },
+        a
+          ? 'mutation($id: String!, $s: String!, $a: String!) { issueUpdate(id: $id, input: { stateId: $s, assigneeId: $a }) { success } }'
+          : 'mutation($id: String!, $s: String!) { issueUpdate(id: $id, input: { stateId: $s }) { success } }',
+        a ? { id: issue.id, s: state.id, a } : { id: issue.id, s: state.id },
       );
     },
     async comment(issue, body) {
@@ -298,19 +315,23 @@ export function quotaExhausted(transcript) {
 }
 
 /** Put a ticket back in Todo with a note, for a retry on a later night. */
-/** `factory-saved/<ticket>-<run id>`: where deliver saves a run that opened no PR. */
-const SAVED = /^(?:refs\/heads\/)?(factory-saved\/([A-Z][A-Z0-9]*-\d+)-(\d+))$/;
+/**
+ * `factory-saved/<ticket>-<run id>`: where deliver saves a run that opened no
+ * PR. A `-fix-pass` suffix marks an unfinished local-review fix pass, saved
+ * when the first pass was delivered instead.
+ */
+const SAVED = /^(?:refs\/heads\/)?(factory-saved\/([A-Z][A-Z0-9]*-\d+)-(\d+)(-fix-pass)?)$/;
 
 function parseSaved(refs) {
   return refs.flatMap((r) => {
     const m = SAVED.exec(r.trim());
-    return m ? [{ branch: m[1], ticket: m[2], run: Number(m[3]) }] : [];
+    return m ? [{ branch: m[1], ticket: m[2], run: Number(m[3]), fixPass: Boolean(m[4]) }] : [];
   });
 }
 
-/** The ticket's newest saved branch (highest run id), or null. */
+/** The ticket's newest saved branch (highest run id), or null. Skips fix passes. */
 export function savedBranchFor(refs, ticket) {
-  const mine = parseSaved(refs).filter((s) => s.ticket === ticket);
+  const mine = parseSaved(refs).filter((s) => s.ticket === ticket && !s.fixPass);
   if (mine.length === 0) return null;
   return mine.reduce((a, b) => (b.run > a.run ? b : a)).branch;
 }
