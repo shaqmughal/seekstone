@@ -82,7 +82,8 @@ cmd_run_agent() {
   printf '%s' "${CLAUDE_CODE_OAUTH_TOKEN:-}" |
     sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" USER="$AGENT" LOGNAME="$AGENT" \
       PATH="$BIN:$PATH" TMPDIR="$AGENT_TMP" LANG=C.UTF-8 GITHUB_ACTIONS="${GITHUB_ACTIONS:-}" \
-      FACTORY_DIR="${FACTORY_DIR:-$IO}" CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 "${env[@]}" \
+      FACTORY_DIR="${FACTORY_DIR:-$IO}" CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 \
+      CLAUDE_CODE_DISABLE_FILE_CHECKPOINTING=1 "${env[@]}" \
       bash -c 'IFS= read -r CLAUDE_CODE_OAUTH_TOKEN || true
         if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then export CLAUDE_CODE_OAUTH_TOKEN; else unset CLAUDE_CODE_OAUTH_TOKEN; fi
         exec "$@" </dev/null' factory-agent "$@"
