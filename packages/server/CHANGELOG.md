@@ -1,5 +1,23 @@
 # seekstone
 
+## 0.28.0
+
+### Minor Changes
+
+- 4c7760d: The `.mcpb` extension now shows Seekstone's settings in Claude Desktop (read-only mode, read and write scopes, write history, logging, audit, instructions, polling). On/off settings also accept `true` and `false`.
+- a205399: An unrecognized `SEEKSTONE_READ_ONLY` value (anything other than 1/0, true/false, yes/no, on/off) now turns read-only mode on instead of leaving writes enabled. Blank still means off.
+
+### Patch Changes
+
+- 5a1a99e: The audit log no longer leaves a partial line when the operating system writes fewer bytes than asked.
+- f24b66c: Backlinks and `vault_stats` stay correct when links change while their target note is deleted and the note is later restored.
+- 96395b9: A write whose journal entry can't be recorded no longer leaves an entry behind, and a failed journal compaction no longer fails the write.
+  
+  Stop every seekstone server that shares a vault before upgrading. An older server running next to this one can write a rolled-back journal row back into the manifest and drop a real write's undo history.
+- 1cb8855: `move_note` and `delete_note` now return the note's `contentHash`, so a client can chain a `prevHash` edit after a move.
+- 1cb8855: `move_note` with `overwrite: true` no longer puts the old destination's text back over the moved note when the old destination linked to the note being moved.
+- ca928fa: On/off settings (`SEEKSTONE_READ_ONLY`, `SEEKSTONE_HISTORY`, `SEEKSTONE_WATCH_POLL`, `SEEKSTONE_SEMANTIC`) now also accept `true`/`false`, `yes`/`no` and `on`/`off`. Any other value logs a warning at boot. For `SEEKSTONE_READ_ONLY` it turns read-only on; the other on/off settings keep their default.
+
 ## 0.27.1
 
 ### Patch Changes
