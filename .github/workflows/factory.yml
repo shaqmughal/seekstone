@@ -908,9 +908,24 @@ jobs:
           retention-days: 7
           overwrite: true
 
+      # If the fixed outcome didn't upload, deliver falls back to the first
+      # pass: keep the fix pass's commits as unfinished work instead. The
+      # bundle is the same file the scan already checked.
+      - name: Keep the fix pass if its outcome didn't upload
+        id: fallback
+        if: >-
+          always() && steps.decide.outputs.upload == 'true' &&
+          steps.fixed-upload.outcome != 'success' && steps.scan.outcome == 'success'
+        run: |
+          mkdir -p "$RUNNER_TEMP/fix-pass"
+          cp "$RUNNER_TEMP/factory/work.bundle" "$RUNNER_TEMP/fix-pass/fix-pass.bundle"
+          echo "saved=true" >> "$GITHUB_OUTPUT"
+
       - id: fix-pass-upload
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: always() && steps.decide.outputs.saved == 'true' && steps.scan.outcome == 'success'
+        if: >-
+          always() && steps.scan.outcome == 'success' &&
+          (steps.decide.outputs.saved == 'true' || steps.fallback.outputs.saved == 'true')
         with:
           name: factory-fix-pass
           path: ${{ runner.temp }}/fix-pass/
