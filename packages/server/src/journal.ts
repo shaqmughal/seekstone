@@ -12,7 +12,6 @@ import {
   statSync,
   truncateSync,
   unlinkSync,
-  writeSync,
 } from 'node:fs';
 import { mkdir, open, readdir, readFile, rm, stat } from 'node:fs/promises';
 import { hostname } from 'node:os';
@@ -22,6 +21,7 @@ import { contentHash } from './content-hash.js';
 import { envFlag } from './env.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
+import { writeAll } from './write-all.js';
 
 /**
  * Write journal — the pre-image store behind `list_writes` / `undo_write`.
@@ -158,16 +158,6 @@ function writeDurable(dest: string, content: string): void {
   } catch (err) {
     unlinkLock(tmp);
     throw err;
-  }
-}
-
-/** `writeSync` may write fewer bytes than asked; loop until all of `data` is out. */
-function writeAll(fd: number, data: string): void {
-  const buf = Buffer.from(data, 'utf8');
-  for (let off = 0; off < buf.length; ) {
-    const n = writeSync(fd, buf, off, buf.length - off);
-    if (n <= 0) throw new Error('journal: write made no progress');
-    off += n;
   }
 }
 

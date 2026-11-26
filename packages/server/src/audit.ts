@@ -1,14 +1,18 @@
 import {
   appendFileSync,
   closeSync,
+  constants,
+  fstatSync,
   fsyncSync,
+  ftruncateSync,
   openSync,
+  readSync,
   renameSync,
   statSync,
-  writeSync,
 } from 'node:fs';
 import { parseSize } from './log.js';
 import { isSymlinkRefusal } from './symlinks.js';
+import { writeAll } from './write-all.js';
 
 /**
  * Structured audit log — an append-only JSONL trail of every write-tool
@@ -90,12 +94,14 @@ export function resolveAuditConfig(
 export class AuditLog {
   readonly path: string;
   private readonly maxBytes: number;
-  private bytes: number;
+  private bytes: number; // where this instance last saw the file end
+  private torn: boolean; // the file at `bytes` ends partway through a line
 
-  private constructor(path: string, maxBytes: number, bytes: number) {
+  private constructor(path: string, maxBytes: number, bytes: number, torn: boolean) {
     this.path = path;
     this.maxBytes = maxBytes;
     this.bytes = bytes;
+    this.torn = torn;
   }
 
   /**
@@ -110,25 +116,86 @@ export class AuditLog {
       bytes = 0;
     }
     appendFileSync(config.path, '');
-    return new AuditLog(config.path, config.maxBytes, bytes);
+    return new AuditLog(config.path, config.maxBytes, bytes, endsTorn(config.path, bytes, false));
   }
 
-  /** Append one record durably. Throws if the append or fsync fails. */
+  /**
+   * Append one record durably; short writes are retried. Throws if the append
+   * or fsync fails or a write makes no progress. After a partial line (a crash,
+   * a failed write) the record starts with a newline; the last byte is read
+   * only if the size moved since our last write. See `truncateTo` on failure.
+   */
   record(rec: AuditRecord): void {
     const line = `${JSON.stringify(rec)}\n`;
-    const len = Buffer.byteLength(line);
-    if (this.bytes > 0 && this.bytes + len > this.maxBytes) {
+    const next = (this.torn ? 1 : 0) + Buffer.byteLength(line);
+    if (this.bytes > 0 && this.bytes + next > this.maxBytes) {
       renameSync(this.path, `${this.path}.1`);
       this.bytes = 0;
+      this.torn = false;
     }
     const fd = openSync(this.path, 'a');
     try {
-      writeSync(fd, line);
+      const start = fstatSync(fd).size;
+      if (start !== this.bytes) this.torn = endsTorn(this.path, start, this.torn);
+      const tornBefore = this.torn;
+      const out = tornBefore ? `\n${line}` : line;
+      const progress = { written: 0 };
+      try {
+        writeAll(fd, out, progress);
+      } catch (err) {
+        // The write error is the one reported, whatever happens here.
+        this.bytes = start + progress.written;
+        this.torn ||= progress.written > 0;
+        try {
+          // If this fails or skips, the partial line stays.
+          if (this.torn && truncateTo(this.path, fd, this.bytes, start)) {
+            [this.bytes, this.torn] = [start, tornBefore];
+          }
+        } catch {}
+        throw err;
+      }
+      // The whole line is in the file now, so count it even if fsync fails.
+      this.bytes = start + Buffer.byteLength(out);
+      this.torn = false;
       fsyncSync(fd);
     } finally {
       closeSync(fd);
     }
-    this.bytes += len;
+  }
+}
+
+/** Whether the file's last byte isn't a newline; `fallback` if it can't be read. */
+function endsTorn(path: string, size: number, fallback: boolean): boolean {
+  if (size === 0) return false;
+  try {
+    const fd = openSync(path, 'r');
+    try {
+      const buf = Buffer.alloc(1);
+      return readSync(fd, buf, 0, 1, size - 1) === 1 ? buf[0] !== 0x0a : fallback;
+    } finally {
+      closeSync(fd);
+    }
+  } catch {
+    return fallback;
+  }
+}
+
+/**
+ * Cut the file to `len` if `path` is still the file `appendFd` has open and is
+ * `size` bytes (not rotated away, no other writer). A separate write-only fd:
+ * on Windows the append fd can't ftruncate, and `truncateSync` opens with 'r+'
+ * (read access the audit file may not grant).
+ */
+function truncateTo(path: string, appendFd: number, size: number, len: number): boolean {
+  const { dev, ino } = fstatSync(appendFd, { bigint: true }); // NTFS ids exceed 2^53
+  const fd = openSync(path, constants.O_WRONLY);
+  try {
+    const now = fstatSync(fd, { bigint: true });
+    const ours = now.dev === dev && now.ino === ino && now.size === BigInt(size);
+    if (ours) ftruncateSync(fd, len);
+    return ours;
+  } finally {
+    closeSync(fd);
   }
 }
 
