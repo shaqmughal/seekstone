@@ -315,19 +315,23 @@ export function quotaExhausted(transcript) {
 }
 
 /** Put a ticket back in Todo with a note, for a retry on a later night. */
-/** `factory-saved/<ticket>-<run id>`: where deliver saves a run that opened no PR. */
-const SAVED = /^(?:refs\/heads\/)?(factory-saved\/([A-Z][A-Z0-9]*-\d+)-(\d+))$/;
+/**
+ * `factory-saved/<ticket>-<run id>`: where deliver saves a run that opened no
+ * PR. A `-fix-pass` suffix marks an unfinished local-review fix pass, saved
+ * when the first pass was delivered instead.
+ */
+const SAVED = /^(?:refs\/heads\/)?(factory-saved\/([A-Z][A-Z0-9]*-\d+)-(\d+)(-fix-pass)?)$/;
 
 function parseSaved(refs) {
   return refs.flatMap((r) => {
     const m = SAVED.exec(r.trim());
-    return m ? [{ branch: m[1], ticket: m[2], run: Number(m[3]) }] : [];
+    return m ? [{ branch: m[1], ticket: m[2], run: Number(m[3]), fixPass: Boolean(m[4]) }] : [];
   });
 }
 
-/** The ticket's newest saved branch (highest run id), or null. */
+/** The ticket's newest saved branch (highest run id), or null. Skips fix passes. */
 export function savedBranchFor(refs, ticket) {
-  const mine = parseSaved(refs).filter((s) => s.ticket === ticket);
+  const mine = parseSaved(refs).filter((s) => s.ticket === ticket && !s.fixPass);
   if (mine.length === 0) return null;
   return mine.reduce((a, b) => (b.run > a.run ? b : a)).branch;
 }
