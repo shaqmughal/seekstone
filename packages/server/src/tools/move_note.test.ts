@@ -1,7 +1,7 @@
 import { existsSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
-import { mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
+import { link, mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { contentHash } from '../content-hash.js';
@@ -221,6 +221,17 @@ describe('moveNote', () => {
   // `to` spells an existing note differently. Whether that is the same file
   // depends on the filesystem, so the test branches on a probe instead of
   // skipping, and the invariant that holds everywhere is checked first.
+  // The spelling the directories store for `key`, one segment at a time.
+  async function storedSpelling(key: string): Promise<string> {
+    const out: string[] = [];
+    for (const seg of key.split('/')) {
+      const hits = (await readdir(join(tmpDir, ...out))).filter((n) => fold(n) === fold(seg));
+      expect(hits).toHaveLength(1);
+      out.push(hits[0] ?? seg);
+    }
+    return out.join('/');
+  }
+
   async function moveOntoRespelledDestination(
     dstKey: string,
     to: string,
@@ -228,9 +239,11 @@ describe('moveNote', () => {
   ): Promise<void> {
     const local = freshCtx();
     const srcRaw = 'the moved note';
-    const srcKey = `src-for-${dstKey}`;
-    const otherKey = `other-for-${dstKey}`;
+    const flat = dstKey.replaceAll('/', '-');
+    const srcKey = `src-for-${flat}`;
+    const otherKey = `other-for-${flat}`;
     const dstRaw = `See [[${srcKey.slice(0, -3)}]] and [[${otherKey.slice(0, -3)}]].`;
+    await mkdir(dirname(join(tmpDir, dstKey)), { recursive: true });
     await writeFile(join(tmpDir, srcKey), srcRaw, 'utf8');
     await writeFile(join(tmpDir, dstKey), dstRaw, 'utf8');
     seedInto(local, srcKey, srcRaw);
@@ -251,10 +264,9 @@ describe('moveNote', () => {
       expect(result.notesRewritten).toBe(0);
       // The index holds one entry for it, under the name now on disk, with
       // the moved content. The replaced note's outgoing links are gone.
-      const stored = (await readdir(tmpDir)).filter((n) => fold(n) === fold(dstKey));
-      expect(stored).toHaveLength(1);
-      expect(keysLike(local, dstKey)).toEqual(stored);
-      expect(local.notes.get(stored[0] ?? '')?.raw).toBe(srcRaw);
+      const stored = await storedSpelling(dstKey);
+      expect(keysLike(local, dstKey)).toEqual([stored]);
+      expect(local.notes.get(stored)?.raw).toBe(srcRaw);
       expect(local.backlinks.get(otherKey) ?? []).toEqual([]);
     } else {
       // Two files: the old destination is a separate note that linked to the
@@ -274,6 +286,34 @@ describe('moveNote', () => {
       'ow-cafe\u0301.md',
       normalizationInsensitiveFs,
     ));
+
+  it('keeps the moved bytes when `to` names the destination folder in a different case', () =>
+    moveOntoRespelledDestination('ow-sub/dst.md', 'OW-SUB/dst.md', caseInsensitiveFs));
+
+  it('still rewrites a hard link to the overwritten destination', async () => {
+    const local = freshCtx();
+    const srcRaw = 'the moved note';
+    const dstRaw = 'See [[hl-src]].';
+    await writeFile(join(tmpDir, 'hl-src.md'), srcRaw, 'utf8');
+    await writeFile(join(tmpDir, 'hl-dst.md'), dstRaw, 'utf8');
+    await link(join(tmpDir, 'hl-dst.md'), join(tmpDir, 'hl-other.md'));
+    for (const [k, raw] of [
+      ['hl-src.md', srcRaw],
+      ['hl-dst.md', dstRaw],
+      ['hl-other.md', dstRaw],
+    ] as const) {
+      seedInto(local, k, raw);
+      addNoteBacklinks(local, k, raw);
+    }
+
+    const result = await moveNote(local, { from: 'hl-src.md', to: 'hl-dst.md', overwrite: true });
+
+    // The hard link is its own note: after the rename it keeps the old inode,
+    // so its link to the moved note is rewritten. Only the destination is not.
+    expect(await readFile(join(tmpDir, 'hl-dst.md'), 'utf8')).toBe(srcRaw);
+    expect(await readFile(join(tmpDir, 'hl-other.md'), 'utf8')).not.toBe(dstRaw);
+    expect(result.notesRewritten).toBe(1);
+  });
 
   it('throws on path traversal in from', async () => {
     await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(

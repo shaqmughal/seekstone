@@ -1,5 +1,6 @@
+import type { BigIntStats } from 'node:fs';
 import { lstat, mkdir, readdir, readFile, rename } from 'node:fs/promises';
-import { basename, dirname, join, relative, sep } from 'node:path';
+import { dirname, join, relative, sep } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -89,11 +90,15 @@ export async function moveNote(
 
   // The destination's vault key, and with overwrite the key of the note being
   // replaced. They differ when `to` spells that note another way the
-  // filesystem treats as the same name (case on APFS and NTFS, Unicode
-  // normalization on APFS). Only that rare path lists the directory.
+  // filesystem treats as the same path (case on APFS and NTFS, Unicode
+  // normalization on APFS), in any segment. Only that rare path scans.
   const toKey = vaultKey(ctx.vaultRoot, absTo);
-  const replacedKey =
-    existingAtTo !== null && !ctx.notes.has(toKey) ? await storedKey(ctx.vaultRoot, absTo) : toKey;
+  let replacedKey = toKey;
+  let dstStat: BigIntStats | undefined;
+  if (existingAtTo !== null && !ctx.notes.has(toKey)) {
+    dstStat = await lstat(absTo, { bigint: true });
+    replacedKey = (await indexedSpelling(ctx, toKey, dstStat)) ?? toKey;
+  }
 
   // Snapshot pre-move state: link resolution before/after the move differs,
   // and the rewriter needs both views to rewrite only what breaks.
@@ -118,6 +123,14 @@ export async function moveNote(
     // vault-relative, so match them by key, not the raw `to` string.
     candidates.delete(toKey);
     candidates.delete(replacedKey);
+    // Backstop for a spelling the fold above can't match: drop any candidate
+    // that is the destination file. It runs only when no index key matched,
+    // so a hard link to an indexed destination is still rewritten.
+    if (dstStat !== undefined && replacedKey === toKey) {
+      for (const path of candidates) {
+        if (await sameFile(join(ctx.vaultRoot, path), dstStat)) candidates.delete(path);
+      }
+    }
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE
@@ -167,7 +180,9 @@ export async function moveNote(
   removeDoc(ctx, input.from, { parkInbound: false });
   // Index the moved note under the name it now has on disk. APFS keeps the
   // replaced file's spelling; drop the replaced entry if the name changed.
-  const destKey = replacedKey === toKey ? toKey : await storedKey(ctx.vaultRoot, absTo);
+  // The move and journal are done, so a failed lookup falls back to `to`.
+  const destKey =
+    replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey).catch(() => toKey);
   if (replacedKey !== destKey) removeDoc(ctx, replacedKey, { parkInbound: false });
   // With overwrite, the replaced note's outgoing refs go with it.
   removeNoteBacklinks(ctx, destKey);
@@ -228,22 +243,36 @@ function vaultKey(vaultRoot: string, abs: string): string {
   return relative(vaultRoot, abs).split(sep).join('/');
 }
 
+const fold = (name: string) => name.normalize('NFC').toLowerCase();
+
+async function sameFile(abs: string, target: BigIntStats): Promise<boolean> {
+  const st = await lstat(abs, { bigint: true }).catch(() => undefined);
+  return st?.ino === target.ino && st.dev === target.dev;
+}
+
 /**
- * The vault key of `abs` as its directory stores the name. On a case- or
- * normalization-insensitive filesystem that can differ from the spelling
- * that was passed in. Matches by inode; bigint stats keep 64-bit NTFS file
- * IDs exact. Falls back to the passed spelling.
+ * The index key that names the destination file under another spelling:
+ * equal to `toKey` after case-folding and NFC over the whole path, and the
+ * same file by dev and inode (bigint keeps 64-bit NTFS file IDs exact).
  */
-async function storedKey(vaultRoot: string, abs: string): Promise<string> {
-  const fold = (name: string) => name.normalize('NFC').toLowerCase();
-  const dir = dirname(abs);
-  const want = fold(basename(abs));
-  const target = await lstat(abs, { bigint: true });
-  for (const name of await readdir(dir)) {
-    if (fold(name) !== want) continue;
-    const st = await lstat(join(dir, name), { bigint: true }).catch(() => undefined);
-    if (st?.ino === target.ino && st.dev === target.dev)
-      return vaultKey(vaultRoot, join(dir, name));
+async function indexedSpelling(
+  ctx: ServerContext,
+  toKey: string,
+  target: BigIntStats,
+): Promise<string | undefined> {
+  const want = fold(toKey);
+  for (const key of ctx.notes.keys()) {
+    if (fold(key) === want && (await sameFile(join(ctx.vaultRoot, key), target))) return key;
   }
-  return vaultKey(vaultRoot, abs);
+  return undefined;
+}
+
+/** `key` as the directories on disk spell it, one segment at a time. */
+async function keyOnDisk(vaultRoot: string, key: string): Promise<string> {
+  const out: string[] = [];
+  for (const seg of key.split('/')) {
+    const names = await readdir(join(vaultRoot, ...out));
+    out.push(names.includes(seg) ? seg : (names.find((n) => fold(n) === fold(seg)) ?? seg));
+  }
+  return out.join('/');
 }
