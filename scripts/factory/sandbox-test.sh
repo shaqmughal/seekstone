@@ -335,13 +335,20 @@ if [ -s /tmp/sbtest-git-ran ]; then
 else
   pass "git never ran anything the agent planted while the token is in reach"
 fi
-# And the submodule route is real: with the protection turned off for one
-# command, git does run the planted filter.
-cgit 'git -c diff.ignoreSubmodules=none status >/dev/null 2>&1' || true
+# And the planted code is live: plain git inside the planted submodule,
+# past the wrapper and every setting above, does run it. (Through the
+# wrapper it doesn't, even with the submodule settings turned back on.)
+cgit 'git -c diff.ignoreSubmodules=none -c submodule.recurse=true status >/dev/null 2>&1' || true
 if [ -s /tmp/sbtest-git-ran ]; then
-  pass "without the submodule setting, git would run the planted filter"
+  fail "through the wrapper, git ran the planted code once the submodule settings were off"
 else
-  fail "the submodule route didn't fire even unprotected, so the check above proves less"
+  pass "through the wrapper, git runs nothing planted even with the submodule settings off"
+fi
+cgit 'cd sub && /usr/bin/git status >/dev/null 2>&1' || true
+if [ -s /tmp/sbtest-git-ran ]; then
+  pass "the planted code is live: unprotected git inside the submodule runs it"
+else
+  fail "the planted code never ran even unprotected, so the checks above prove less"
 fi
 
 # After claude has stopped, package runs git as the agent's user. git add -A
