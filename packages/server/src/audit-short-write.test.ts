@@ -1,3 +1,4 @@
+import { renameSync, writeFileSync } from 'node:fs';
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -116,11 +117,8 @@ const PART = JSON.stringify(rec('x')).slice(0, 14);
 /** Record 'x' with two 7-byte writes landing before the third fails. */
 function tear(audit: AuditLog, failWith: 'throw' | 'zero' = 'throw'): void {
   Object.assign(chunk, { size: 7, failAfter: 2, failWith });
-  try {
-    audit.record(rec('x'));
-  } finally {
-    Object.assign(chunk, { size: undefined, failAfter: undefined });
-  }
+  expect(() => audit.record(rec('x'))).toThrow(failWith === 'zero' ? /no progress/ : /ENOSPC/);
+  Object.assign(chunk, { size: undefined, failAfter: undefined });
 }
 
 beforeEach(async () => {
@@ -154,25 +152,25 @@ describe('AuditLog with short writes', () => {
   });
 
   it.each([
-    ['throws ENOSPC', 'throw', /ENOSPC/],
-    ['makes no progress', 'zero', /no progress/],
-  ] as const)('removes the partial line when a later write %s', async (_name, failWith, error) => {
+    ['throws ENOSPC', 'throw'],
+    ['makes no progress', 'zero'],
+  ] as const)('removes the partial line when a later write %s', async (_name, failWith) => {
     const audit = open();
     audit.record(rec('a'));
     const before = await readFile(auditPath, 'utf8');
-    expect(() => tear(audit, failWith)).toThrow(error);
+    tear(audit, failWith);
     expect(await readFile(auditPath, 'utf8')).toBe(before);
     audit.record(rec('b'));
     expect(await lines()).toEqual(['a', 'b', '']);
   });
 
   it('reports the write error and starts the next record on a new line when the truncate also fails', async () => {
-    const audit = open();
-    audit.record(rec('a'));
+    const [a, b] = [open(), open()];
+    a.record(rec('a'));
     chunk.truncateFails = true;
-    expect(() => tear(audit)).toThrow(/ENOSPC/);
-    audit.record(rec('b'));
-    audit.record(rec('c'));
+    tear(a);
+    a.record(rec('b'));
+    b.record(rec('c'));
     expect(await lines()).toEqual(['a', PART, 'b', 'c', '']);
   });
 
@@ -185,9 +183,23 @@ describe('AuditLog with short writes', () => {
       b.record(rec('second'));
       chunk.size = 7;
     };
-    expect(() => tear(a)).toThrow(/ENOSPC/);
+    tear(a);
     a.record(rec('third'));
     expect(await lines()).toEqual(['first', 'second', PART, 'third', '']);
+  });
+
+  it('leaves alone a file another server rotated in before the truncate', async () => {
+    const a = open();
+    a.record(rec('first'));
+    const fresh = `${JSON.stringify(rec('b1'))}\n${JSON.stringify(rec('b2'))}\n`;
+    // Rotate just before the third (failing) write: A's fd keeps the old file.
+    const rotate = () => {
+      renameSync(auditPath, `${auditPath}.1`);
+      writeFileSync(auditPath, fresh);
+    };
+    chunk.beforeWrite = () => (chunk.beforeWrite = () => (chunk.beforeWrite = rotate));
+    tear(a);
+    expect(await readFile(auditPath, 'utf8')).toBe(fresh);
   });
 
   it('starts on a new line when the file has a torn tail at open', async () => {
@@ -204,27 +216,18 @@ describe('AuditLog with short writes', () => {
     expect(await readFile(auditPath, 'utf8')).toBe(line);
   });
 
-  it('opens a write-only audit file with a torn tail', async () => {
+  it('joins the torn tail of a write-only file it cannot read', async () => {
     await writeFile(auditPath, '{"v":1', 'utf8');
     chunk.writeOnly = true;
     open().record(rec('b'));
     expect((await readFile(auditPath, 'utf8')).startsWith(`{"v":1{"v":1,`)).toBe(true);
   });
 
-  it("starts on a new line after another instance's partial line", async () => {
-    const [a, b] = [open(), open()];
-    chunk.truncateFails = true;
-    expect(() => tear(a)).toThrow(/ENOSPC/);
-    chunk.truncateFails = false;
-    b.record(rec('b'));
-    expect(await lines()).toEqual([PART, 'b', '']);
-  });
-
   it('removes the partial line from a write-only audit file', async () => {
     const audit = open();
     audit.record(rec('a'));
     chunk.writeOnly = true;
-    expect(() => tear(audit)).toThrow(/ENOSPC/);
+    tear(audit);
     expect(await lines()).toEqual(['a', '']);
   });
 

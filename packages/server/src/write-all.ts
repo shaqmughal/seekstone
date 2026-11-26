@@ -1,10 +1,8 @@
 import { writeSync } from 'node:fs';
 
 /**
- * `writeSync` may write fewer bytes than asked; loop until all of `data` is
- * out. Throws if a call writes nothing, so a stuck write fails instead of
- * spinning. `progress.written` counts the bytes out, so a caller can tell how
- * much of a failed write landed. Used by the journal and the audit log.
+ * Loop `writeSync`, which may write fewer bytes than asked, until `data` is out.
+ * Throws if a call writes nothing. `progress.written` counts the bytes out.
  */
 export function writeAll(fd: number, data: string, progress = { written: 0 }): void {
   const buf = Buffer.from(data, 'utf8');
