@@ -77,6 +77,9 @@ cmd_setup() {
   # The runner's home holds the workspace, RUNNER_TEMP, the runner's own files
   # and the action code: the two users get no access to any of it.
   sudo chmod o-rwx "$HOME"
+  # The runner image leaves some of the tool cache world-writable, so any user
+  # could replace node or npm for every later step.
+  sudo find /opt /usr/local -xdev -perm -o+w ! -type l -exec chmod o-w {} +
   # Nothing may start a process for either user once their processes are
   # stopped, and Docker's socket would be a way to root.
   sudo systemctl stop cron.service atd.service docker.socket docker.service 2>/dev/null || true

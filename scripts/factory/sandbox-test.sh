@@ -63,6 +63,7 @@ git -C "$WORK/ws" add -A
 git -C "$WORK/ws" commit -q -m base
 echo "ticket" >"$WORK/factory/ticket.md"
 bash "$SB" mirror "$WORK/ws" "$WORK/mirror"
+BASE_SHA=$(git -C "$WORK/ws" rev-parse HEAD)
 
 # Secrets held by the runner user and by root, as the job's secrets are.
 CLAUDE_CODE_OAUTH_TOKEN=$FAKE setsid sleep 900 </dev/null >/dev/null 2>&1 &
@@ -86,8 +87,19 @@ if [ "$leaks" = 0 ]; then pass "no process environment with the token is readabl
 
 if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can sudo"; else pass "no sudo"; fi
 
-node_dir=$(dirname "$(command -v node)")
-for target in /srv/factory/trusted "$RUNNER_TEMP" "$HOME" "$WORK/mirror" "$node_dir" /srv/factory; do
+# Everything the agent's user can write, anywhere. Only its own folders and
+# the shared temp folders may show up; a sticky world-writable folder (like
+# /tmp) lets it add files but not replace anyone else's.
+writable=$(as "$AGENT" 'find / \( -path /proc -o -path /sys -o -path /dev -o -path /tmp -o -path /var/tmp \
+  -o -path /srv/factory/repo -o -path /srv/factory/io -o -path /srv/factory/tmp -o -path /home/factory-agent \) -prune \
+  -o -writable ! -type l ! \( -type d -perm -1000 \) -print 2>/dev/null' | head -50)
+if [ -n "$writable" ]; then
+  fail "the agent's user can write outside its own folders:"
+  echo "$writable" | sed 's/^/        /'
+else
+  pass "the agent's user can write only its own folders and the temp folders"
+fi
+for target in /srv/factory/trusted "$RUNNER_TEMP" "$HOME" "$(dirname "$(command -v node)")"; do
   if as "$AGENT" "touch '$target/.sbtest' 2>/dev/null"; then
     fail "the agent's user can write $target"
     sudo rm -f "$target/.sbtest"
@@ -126,6 +138,7 @@ sudo install -m 666 /dev/null /tmp/sbtest-git-ran
 as "$AGENT" '
   set -e
   cd /srv/factory/repo
+  git switch -q -c factory/sbtest
   cat >/srv/factory/tmp/evil.sh <<"EOS"
 #!/bin/sh
 id -un >>/tmp/sbtest-git-ran
@@ -143,14 +156,14 @@ EOS
   echo "Title" >/srv/factory/io/blocked.md
 '
 # package, as the workflow runs it.
-if sudo -u "$AGENT" -H BASE=main QUOTA=false /usr/bin/env -C /srv/factory/repo PATH="$PATH" bash "$SB" package; then
+if sudo -u "$AGENT" -H BASE="$BASE_SHA" QUOTA=false /usr/bin/env -C /srv/factory/repo PATH="$PATH" bash "$SB" package; then
   pass "package as the agent's user"
 else
   fail "package as the agent's user"
 fi
 bash "$SB" stop "$AGENT"
 bash "$SB" collect "$WORK/out" || fail "collect"
-ahead=$(bash "$SB" verify-bundle "$WORK/mirror" main "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
+ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
 if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
 if [ ! -s /tmp/sbtest-git-ran ]; then
   fail "the hostile git config never ran, so this round proves nothing"
@@ -165,7 +178,7 @@ scan() { # <outputs folder>
   export GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1
   {
     if git -C "$WORK/mirror" rev-parse -q --verify refs/factory/head >/dev/null; then
-      git -C "$WORK/mirror" rev-list --objects "main..refs/factory/head" | cut -d' ' -f1 |
+      git -C "$WORK/mirror" rev-list --objects "$BASE_SHA..refs/factory/head" | cut -d' ' -f1 |
         git -C "$WORK/mirror" cat-file --batch
     fi
   } | node "$SCAN" "$1" -
@@ -181,10 +194,10 @@ as "$AGENT" '
   git reset -q --hard HEAD~1
   blob=$(echo "'"$OTHER"'" | git hash-object -w --stdin)
   git tag -f smuggled "$blob" >/dev/null
-  git bundle create -q /srv/factory/io/candidate.bundle main..HEAD refs/tags/smuggled
+  git bundle create -q /srv/factory/io/candidate.bundle '"$BASE_SHA"'..HEAD refs/tags/smuggled
 '
 bash "$SB" collect "$WORK/out2" || fail "collect 2"
-bash "$SB" verify-bundle "$WORK/mirror" main "$WORK/out2/candidate.bundle" "$WORK/out2/work.bundle" >/dev/null || fail "verify-bundle 2"
+bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out2/candidate.bundle" "$WORK/out2/work.bundle" >/dev/null || fail "verify-bundle 2"
 smuggled=$(printf '%s\n' "$OTHER" | git hash-object --stdin)
 rm -rf "$WORK/check" && git init -q --bare "$WORK/check"
 git -C "$WORK/check" fetch -q "$WORK/mirror" main

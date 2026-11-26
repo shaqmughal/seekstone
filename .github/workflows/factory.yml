@@ -228,9 +228,6 @@ jobs:
     timeout-minutes: 60
     permissions:
       contents: read
-    # The commits this run adds, for the bundle and the output scan.
-    env:
-      SCAN_BASE: ${{ needs.prepare.outputs.base }}
     outputs:
       base: ${{ steps.base.outputs.sha }}
       deliver: ${{ steps.decide.outputs.deliver }}
@@ -249,10 +246,16 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
-      # Recorded before the agent runs, for the local review and its fix pass.
+      # Recorded before the agent runs, for the local review and its fix pass,
+      # and as SCAN_BASE: the commit the bundle and the output scan start
+      # from. A SHA, because every branch in the agent's checkout is its to
+      # move.
       - name: Record the base commit
         id: base
-        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+        run: |
+          sha=$(git rev-parse HEAD)
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "SCAN_BASE=$sha" >> "$GITHUB_ENV"
 
       # Before anything from the checkout runs: the factory scripts as of this
       # workflow's own commit, owned by root. Every later step that runs a
@@ -749,9 +752,6 @@ jobs:
     timeout-minutes: 75
     permissions:
       contents: read
-    # The commits the bundles and the output scan cover: both passes'.
-    env:
-      SCAN_BASE: ${{ needs.work.outputs.base }}
     # Job outputs come from the latest attempt, so a re-run that didn't
     # upload never delivers an earlier attempt's factory-outcome-fixed or
     # factory-fix-pass.
@@ -769,6 +769,14 @@ jobs:
           ref: ${{ needs.work.outputs.base }}
           fetch-depth: 0
           persist-credentials: false
+
+      # The bundles and the output scan cover both passes' commits.
+      - name: Record the base commit
+        env:
+          BASE: ${{ needs.work.outputs.base }}
+        run: |
+          [[ "$BASE" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::bad base commit '$BASE'"; exit 1; }
+          echo "SCAN_BASE=$BASE" >> "$GITHUB_ENV"
 
       - *keep-trusted
 
