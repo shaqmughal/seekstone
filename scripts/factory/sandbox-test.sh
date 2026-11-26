@@ -68,7 +68,9 @@ BASE_SHA=$(git -C "$WORK/ws" rev-parse HEAD)
 
 # Secrets held by the runner user and by root, as the job's secrets are.
 CLAUDE_CODE_OAUTH_TOKEN=$FAKE setsid sleep 900 </dev/null >/dev/null 2>&1 &
-sudo env CLAUDE_CODE_OAUTH_TOKEN="$FAKE" setsid sleep 900 </dev/null >/dev/null 2>&1 &
+# The token goes in on stdin, so it's in the holder's environment but on no
+# command line (the check below looks for that).
+printf '%s\n' "$FAKE" | sudo bash -c 'IFS= read -r t; export CLAUDE_CODE_OAUTH_TOKEN=$t; exec setsid sleep 900 </dev/null' >/dev/null 2>&1 &
 sleep 1
 
 # --- The installer's processes don't survive the hand-over -------------------
@@ -192,8 +194,10 @@ sleep 2
 # hold the token.
 pattern=$(mktemp)
 printf '%s\n' "$FAKE" >"$pattern"
-if sudo grep -lsF -f "$pattern" /proc/[0-9]*/cmdline >/dev/null 2>&1; then
-  fail "the token is on a command line"
+holders=$(sudo grep -lsF -f "$pattern" /proc/[0-9]*/cmdline 2>/dev/null |
+  while read -r f; do d=${f%/cmdline}; echo "${d#/proc/}:$(cat "$d/comm" 2>/dev/null)"; done | tr '\n' ' ')
+if [ -n "$holders" ]; then
+  fail "the token is on a command line: $holders"
 else
   pass "the token is on no command line"
 fi
