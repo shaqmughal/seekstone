@@ -1,8 +1,10 @@
-import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import { existsSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { link, mkdir, mkdtemp, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks } from '../index/backlinks.js';
 import { buildAttachmentIndex } from '../index/resolve.js';
@@ -12,6 +14,20 @@ import { moveNote } from './move_note.js';
 
 let tmpDir: string;
 let ctx: ServerContext;
+
+// Whether the temp filesystem treats two spellings as one file. APFS and NTFS
+// fold case, APFS also Unicode normalization; Linux usually does neither.
+function sameFileOnDisk(written: string, probe: string): boolean {
+  const dir = mkdtempSync(join(tmpdir(), 'seekstone-fs-probe-'));
+  try {
+    writeFileSync(join(dir, written), '');
+    return existsSync(join(dir, probe));
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+}
+const caseInsensitiveFs = sameFileOnDisk('probe.md', 'PROBE.md');
+const normalizationInsensitiveFs = sameFileOnDisk('caf\u00e9.md', 'cafe\u0301.md');
 
 function freshCtx(): ServerContext {
   const index = new MiniSearch<IndexedNote>({
@@ -133,6 +149,138 @@ describe('moveNote', () => {
     await writeFile(join(tmpDir, 'over-dst.md'), 'old', 'utf8');
     await moveNote(ctx, { from: 'over-src.md', to: 'over-dst.md', overwrite: true });
     expect(await readFile(join(tmpDir, 'over-dst.md'), 'utf8')).toBe('new');
+  });
+
+  it.each([
+    ['a wikilink', 'See [[ow-link-src]].'],
+    ['a markdown link', 'See [it](ow-link-src.md).'],
+  ])(
+    'keeps the moved bytes when the overwritten destination had %s to the source',
+    async (_, dstRaw) => {
+      const local = freshCtx();
+      const srcRaw = 'the moved note';
+      await writeFile(join(tmpDir, 'ow-link-src.md'), srcRaw, 'utf8');
+      await writeFile(join(tmpDir, 'ow-link-dst.md'), dstRaw, 'utf8');
+      seedInto(local, 'ow-link-src.md', srcRaw);
+      seedInto(local, 'ow-link-dst.md', dstRaw);
+      addNoteBacklinks(local, 'ow-link-dst.md', dstRaw);
+
+      const result = await moveNote(local, {
+        from: 'ow-link-src.md',
+        to: 'ow-link-dst.md',
+        overwrite: true,
+      });
+
+      // The old destination is discarded by the overwrite, so it is not a link
+      // to rewrite; rewriting it would put its stale bytes back over the move.
+      expect(await readFile(join(tmpDir, 'ow-link-dst.md'), 'utf8')).toBe(srcRaw);
+      expect(local.notes.get('ow-link-dst.md')?.raw).toBe(srcRaw);
+      expect(result.notesRewritten).toBe(0);
+    },
+  );
+
+  const fold = (k: string) => k.normalize('NFC').toLowerCase();
+  // The spelling the directories store for `key`, one segment at a time.
+  async function storedSpelling(key: string): Promise<string> {
+    const out: string[] = [];
+    for (const seg of key.split('/')) {
+      const hits = (await readdir(join(tmpDir, ...out))).filter((n) => fold(n) === fold(seg));
+      expect(hits).toHaveLength(1);
+      out.push(hits[0] ?? seg);
+    }
+    return out.join('/');
+  }
+
+  // `to` spells an existing note differently. Whether that is the same file
+  // depends on the filesystem, so the test branches on a probe instead of
+  // skipping, and the invariant that holds everywhere is checked first.
+  async function moveOntoRespelledDestination(
+    dstKey: string,
+    to: string,
+    fsFolds: boolean,
+  ): Promise<void> {
+    const local = freshCtx();
+    const srcRaw = 'the moved note';
+    const flat = dstKey.replaceAll('/', '-');
+    const srcKey = `src-for-${flat}`;
+    const otherKey = `other-for-${flat}`;
+    const dstRaw = `See [[${srcKey.slice(0, -3)}]] and [[${otherKey.slice(0, -3)}]].`;
+    await mkdir(dirname(join(tmpDir, dstKey)), { recursive: true });
+    await writeFile(join(tmpDir, srcKey), srcRaw, 'utf8');
+    await writeFile(join(tmpDir, dstKey), dstRaw, 'utf8');
+    seedInto(local, srcKey, srcRaw);
+    seedInto(local, dstKey, dstRaw);
+    seedInto(local, otherKey, '');
+    addNoteBacklinks(local, dstKey, dstRaw);
+
+    const result = await moveNote(local, { from: srcKey, to, overwrite: true });
+
+    // Everywhere: the moved bytes are at `to` and the hash describes them.
+    const atTo = await readFile(join(tmpDir, result.to), 'utf8');
+    expect(atTo).toBe(srcRaw);
+    expect(result.contentHash).toBe(contentHash(atTo));
+
+    if (fsFolds) {
+      // One file under two spellings: the old destination was overwritten,
+      // so its link rewrite must not run and clobber the moved note.
+      expect(result.notesRewritten).toBe(0);
+      // The index holds one entry for it, under the name now on disk, with
+      // the moved content. The replaced note's outgoing links are gone.
+      const stored = await storedSpelling(dstKey);
+      expect([...local.notes.keys()].sort()).toEqual([otherKey, stored].sort());
+      expect(local.notes.get(stored)?.raw).toBe(srcRaw);
+      expect(local.backlinks.get(otherKey) ?? []).toEqual([]);
+    } else {
+      // Two files: the old destination is a separate note that linked to the
+      // source. It keeps existing and never receives the moved bytes.
+      expect(await readFile(join(tmpDir, dstKey), 'utf8')).not.toBe(srcRaw);
+      expect(local.notes.get(to)?.raw).toBe(srcRaw);
+      expect(local.notes.has(dstKey)).toBe(true);
+    }
+  }
+
+  it('keeps the moved bytes when `to` is spelled ./name.md and the destination links to the source', () =>
+    moveOntoRespelledDestination('ow-dot-dst.md', './ow-dot-dst.md', true));
+
+  it('keeps the moved bytes when `to` names the existing destination in a different case', () =>
+    moveOntoRespelledDestination('ow-case-dst.md', 'OW-CASE-DST.md', caseInsensitiveFs));
+
+  it('keeps the moved bytes when `to` names the existing destination in NFD instead of NFC', () =>
+    moveOntoRespelledDestination(
+      'ow-caf\u00e9.md',
+      'ow-cafe\u0301.md',
+      normalizationInsensitiveFs,
+    ));
+
+  it('keeps the moved bytes when `to` names the destination folder in a different case', () =>
+    moveOntoRespelledDestination('ow-sub/dst.md', 'OW-SUB/dst.md', caseInsensitiveFs));
+
+  // A hard link to the destination is its own note: after the rename it keeps
+  // the old inode, so its link is rewritten. When the index doesn't hold the
+  // destination, the inode backstop can't tell the two apart and leaves the
+  // link alone. An indexed note missing from disk doesn't fail the move.
+  it.each([
+    ['still rewrites a hard link to an indexed destination', true],
+    ['leaves a hard link to an unindexed destination alone', false],
+  ])('%s', async (_, indexDst) => {
+    const local = freshCtx();
+    const [src, dst, hl] = [`hl-src-${indexDst}.md`, `hl-dst-${indexDst}.md`, `hl-${indexDst}.md`];
+    const dstRaw = `See [[${src.slice(0, -3)}]].`;
+    await writeFile(join(tmpDir, src), 'the moved note', 'utf8');
+    await writeFile(join(tmpDir, dst), dstRaw, 'utf8');
+    await link(join(tmpDir, dst), join(tmpDir, hl));
+    seedInto(local, src, 'the moved note');
+    for (const k of [hl, `stale-${hl}`, ...(indexDst ? [dst] : [])]) {
+      seedInto(local, k, dstRaw);
+      addNoteBacklinks(local, k, dstRaw);
+    }
+
+    const result = await moveNote(local, { from: src, to: dst, overwrite: true });
+
+    expect(await readFile(join(tmpDir, dst), 'utf8')).toBe('the moved note');
+    expect(local.notes.get(dst)?.raw).toBe('the moved note');
+    expect(result.contentHash).toBe(contentHash('the moved note'));
+    expect((await readFile(join(tmpDir, hl), 'utf8')) === dstRaw).toBe(!indexDst);
   });
 
   it('throws on path traversal in from', async () => {

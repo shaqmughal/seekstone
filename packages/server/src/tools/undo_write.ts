@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm } from 'node:fs/promises';
+import { lstat, mkdir, readFile, rm } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -8,7 +8,7 @@ import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
 import { assertWritable, isReadable, reservedFolder } from '../policy.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { keyOnDisk, resolveVaultPath, vaultRelative } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
   seq: z
@@ -150,8 +150,9 @@ export async function undoWrite(
     const abs = resolveVaultPath(ctx, f.path);
     const pre = preimages.get(f.path) ?? null;
     if (pre === null) {
+      const key = await indexKey(ctx, abs);
       await rm(abs, { force: true });
-      removeDoc(ctx, f.path);
+      removeDoc(ctx, key);
       restored.push({ path: f.path, restoredHash: null });
     } else {
       await mkdir(dirname(abs), { recursive: true });
@@ -159,8 +160,9 @@ export async function undoWrite(
       // A note put back into .trash/ stays out of the index, as the walker
       // and watcher leave it out.
       if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
-        removeNoteBacklinks(ctx, f.path);
-        if (upsertDoc(ctx, buildDoc(f.path, pre))) addNoteBacklinks(ctx, f.path, pre);
+        const key = await indexKey(ctx, abs);
+        removeNoteBacklinks(ctx, key);
+        if (upsertDoc(ctx, buildDoc(key, pre))) addNoteBacklinks(ctx, key, pre);
       }
       restored.push({ path: f.path, restoredHash: contentHash(pre) });
     }
@@ -174,6 +176,17 @@ export async function undoWrite(
   };
   if (conflicts.length > 0) result.overrode = conflicts;
   return result;
+}
+
+/**
+ * The index key for a journaled path (`./x.md`, `X.md`). Use the disk's
+ * spelling only if the path exists, so a missing `X.md` can't fold onto `x.md`.
+ */
+async function indexKey(ctx: ServerContext, abs: string): Promise<string> {
+  const key = vaultRelative(ctx.vaultRoot, abs);
+  if (ctx.notes.has(key)) return key;
+  const st = await lstat(abs).catch(() => undefined);
+  return st === undefined ? key : keyOnDisk(ctx.vaultRoot, key);
 }
 
 function evicted(seq: number): Error {

@@ -185,8 +185,8 @@ and the note `get_periodic_note` creates when it is missing, which by
 definition has no earlier version to compare. The other write results return
 the note's new `contentHash`, so chained edits need no re-reads, and
 `replace_in_note` returns the unchanged hash on dry runs and zero-match calls.
-`move_note` and `delete_note` don't return the hash to the client yet (tracked
-in SHA-581), so re-read the note before a chained `prevHash` edit after a move.
+`move_note` returns the hash of the note at its new path and `delete_note` the
+hash of the copy in `.trash/`.
 `undo_write` returns a `restoredHash` per file. This is conflict **detection**, not
 locking: the hash is checked against the bytes the tool reads just before it
 writes, and the note is not locked in between, so an outside edit that lands
