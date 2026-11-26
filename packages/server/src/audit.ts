@@ -187,11 +187,11 @@ function endsTorn(path: string, size: number, fallback: boolean): boolean {
  * (read access the audit file may not grant).
  */
 function truncateTo(path: string, appendFd: number, size: number, len: number): boolean {
-  const { dev, ino } = fstatSync(appendFd);
+  const { dev, ino } = fstatSync(appendFd, { bigint: true }); // NTFS ids exceed 2^53
   const fd = openSync(path, constants.O_WRONLY);
   try {
-    const now = fstatSync(fd);
-    const ours = now.dev === dev && now.ino === ino && now.size === size;
+    const now = fstatSync(fd, { bigint: true });
+    const ours = now.dev === dev && now.ino === ino && now.size === BigInt(size);
     if (ours) ftruncateSync(fd, len);
     return ours;
   } finally {
