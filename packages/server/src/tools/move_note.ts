@@ -1,5 +1,5 @@
 import { mkdir, readFile, rename } from 'node:fs/promises';
-import { dirname, join } from 'node:path';
+import { dirname, join, relative, sep } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -106,8 +106,10 @@ export async function moveNote(
     }
     candidates.delete(input.from);
     // With overwrite, the old destination is discarded. Rewriting its links
-    // would write its stale bytes back over the moved note.
-    candidates.delete(input.to);
+    // would write its stale bytes back over the moved note. Candidate keys are
+    // vault-relative, so use the resolved key: `./x.md` names the same file
+    // as `x.md`.
+    candidates.delete(relative(ctx.vaultRoot, absTo).split(sep).join('/'));
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE

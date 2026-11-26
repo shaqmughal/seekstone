@@ -3,6 +3,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks } from '../index/backlinks.js';
 import { buildAttachmentIndex } from '../index/resolve.js';
@@ -162,6 +163,29 @@ describe('moveNote', () => {
       expect(result.notesRewritten).toBe(0);
     },
   );
+
+  it('keeps the moved bytes when `to` is spelled ./name.md and the destination links to the source', async () => {
+    const local = freshCtx();
+    const srcRaw = 'the moved note';
+    const dstRaw = 'See [[ow-dot-src]].';
+    await writeFile(join(tmpDir, 'ow-dot-src.md'), srcRaw, 'utf8');
+    await writeFile(join(tmpDir, 'ow-dot-dst.md'), dstRaw, 'utf8');
+    seedInto(local, 'ow-dot-src.md', srcRaw);
+    seedInto(local, 'ow-dot-dst.md', dstRaw);
+    addNoteBacklinks(local, 'ow-dot-dst.md', dstRaw);
+
+    const result = await moveNote(local, {
+      from: 'ow-dot-src.md',
+      to: './ow-dot-dst.md',
+      overwrite: true,
+    });
+
+    // The candidate set is keyed by vault-relative path, so the destination
+    // must be excluded by its resolved key, not the raw `to` string.
+    expect(await readFile(join(tmpDir, 'ow-dot-dst.md'), 'utf8')).toBe(srcRaw);
+    expect(result.contentHash).toBe(contentHash(srcRaw));
+    expect(result.notesRewritten).toBe(0);
+  });
 
   it('throws on path traversal in from', async () => {
     await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(
