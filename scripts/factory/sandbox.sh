@@ -52,6 +52,7 @@ IO=$ROOT/io
 AGENT_TMP=$ROOT/tmp
 INSTALL=$ROOT/install
 GITCONFIG=$ROOT/gitconfig
+BIN=$ROOT/bin
 
 # The git environment for everything that runs as the agent's user.
 agent_git_env() {
@@ -80,7 +81,7 @@ cmd_run_agent() {
   mapfile -t env < <(agent_git_env)
   printf '%s' "${CLAUDE_CODE_OAUTH_TOKEN:-}" |
     sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" USER="$AGENT" LOGNAME="$AGENT" \
-      PATH="$PATH" TMPDIR="$AGENT_TMP" LANG=C.UTF-8 GITHUB_ACTIONS="${GITHUB_ACTIONS:-}" \
+      PATH="$BIN:$PATH" TMPDIR="$AGENT_TMP" LANG=C.UTF-8 GITHUB_ACTIONS="${GITHUB_ACTIONS:-}" \
       FACTORY_DIR="${FACTORY_DIR:-$IO}" CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 "${env[@]}" \
       bash -c 'IFS= read -r CLAUDE_CODE_OAUTH_TOKEN || true
         if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then export CLAUDE_CODE_OAUTH_TOKEN; else unset CLAUDE_CODE_OAUTH_TOKEN; fi
@@ -91,7 +92,7 @@ cmd_run_agent() {
 cmd_package_as_agent() {
   local env=()
   mapfile -t env < <(agent_git_env)
-  sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" PATH="$PATH" LANG=C.UTF-8 \
+  sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" PATH="$BIN:$PATH" LANG=C.UTF-8 \
     BASE="${BASE:?}" QUOTA="${QUOTA:-false}" FIRST_SHA="${FIRST_SHA:-}" "${env[@]}" \
     bash "$ROOT/trusted/scripts/factory/sandbox.sh" package
 }
@@ -144,11 +145,33 @@ cmd_setup() {
   sudo rm -f /run/docker.sock
   sudo install -d -o root -g root -m 755 "$ROOT"
   sudo install -d -o "$AGENT" -g "$AGENT" -m 700 "$AGENT_TMP"
-  # Git's global config for the agent's user: root's, so the agent can't
-  # change it. The git directory is root's, so mark it safe.
+  # Git's global config for the agent's user, root's so the agent can't
+  # change it. The git directory is root's, so mark it safe. Claude Code
+  # drops GIT_CONFIG_GLOBAL for its own git commands, which then read
+  # ~/.gitconfig and ~/.config/git/config, so those are the same root-owned
+  # file. The agent's home is root's and sticky: the agent can add files
+  # there (Claude Code keeps its state in ~/.claude) but not replace root's.
   printf '[safe]\n\tdirectory = %s\n' "$GITDIR" | sudo tee "$GITCONFIG" >/dev/null
   sudo chown root:root "$GITCONFIG"
   sudo chmod 644 "$GITCONFIG"
+  local home=/home/$AGENT
+  sudo install -d -o root -g root -m 755 "$home/.config" "$home/.config/git"
+  sudo install -o root -g root -m 644 "$GITCONFIG" "$home/.gitconfig"
+  sudo install -o root -g root -m 644 "$GITCONFIG" "$home/.config/git/config"
+  # Claude Code strips the git environment from its own git commands and
+  # runs some of them in the session's current folder, where the agent could
+  # plant a repository of its own. This git, first on the agent's PATH,
+  # pins every git command to the real repository and config again.
+  sudo install -d -o root -g root -m 755 "$BIN"
+  agent_git_env | sed 's/^/export /' | {
+    printf '#!/bin/sh\n# Pins git to the factory repository (sandbox.sh, SHA-660).\n'
+    cat
+    printf 'exec /usr/bin/git "$@"\n'
+  } | sudo tee "$BIN/git" >/dev/null
+  sudo chown root:root "$BIN/git"
+  sudo chmod 755 "$BIN/git"
+  sudo chown root:"$AGENT" "$home"
+  sudo chmod 1770 "$home"
 }
 
 cmd_hand_over() {
@@ -170,8 +193,25 @@ cmd_hand_over() {
   sudo install -d -o root -g root -m 755 "$GITDIR/hooks" "$GITDIR/info"
   sudo chown root:root "$GITDIR/config"
   sudo chmod 644 "$GITDIR/config"
+  # Without GIT_COMMON_DIR (Claude Code drops it for its own git), git reads
+  # a commondir file here and takes its config from wherever that points.
+  # Root's file pointing at this folder means the agent can't plant one.
+  echo . | sudo tee "$GITDIR/commondir" >/dev/null
+  sudo chown root:root "$GITDIR/commondir"
+  sudo chmod 644 "$GITDIR/commondir"
   sudo chown root:"$AGENT" "$GITDIR"
   sudo chmod 1770 "$GITDIR"
+  # The checkout's .git is root's file pointing at the git directory, so git
+  # finds the right repository even with no git environment at all (Claude
+  # Code drops GIT_DIR for its own git). The checkout's top folder is root's
+  # and sticky, so the agent can't delete or replace that file; everything
+  # else in it is the agent's. Claude Code's sandbox also write-protects an
+  # existing .git file.
+  echo "gitdir: $GITDIR" | sudo tee "$REPO/.git" >/dev/null
+  sudo chown root:root "$REPO/.git"
+  sudo chmod 644 "$REPO/.git"
+  sudo chown root:"$AGENT" "$REPO"
+  sudo chmod 1770 "$REPO"
 }
 
 # The checkout is the factory's own branch. Install its dependencies as a

@@ -219,8 +219,19 @@ asgit 'git -c core.fsmonitor=/srv/factory/tmp/evil.sh status >/dev/null 2>&1' ||
 if [ -s /tmp/sbtest-git-ran ]; then pass "the planted program runs when git is told to"; else fail "the planted program never runs, so the git checks below prove nothing"; fi
 : | sudo tee /tmp/sbtest-git-ran >/dev/null
 
-refused() { # <what> <snippet>: the agent's user must not manage it
-  if asgit "$2" >/dev/null 2>&1; then fail "the agent's user can $1"; else pass "can't $1"; fi
+# Claude Code drops GIT_DIR, GIT_WORK_TREE, GIT_COMMON_DIR and the config
+# variables for its own git commands. cgit runs git that way: no pinned
+# environment, so git finds the repository from the checkout by itself.
+cgit() {
+  bash "$SB" run-agent env -u GIT_DIR -u GIT_WORK_TREE -u GIT_COMMON_DIR -u GIT_CONFIG_GLOBAL \
+    -u GIT_CONFIG_NOSYSTEM bash -c "$*"
+}
+refused() { # <what> <snippet>: the agent's user must not manage it, either way
+  if asgit "$2" >/dev/null 2>&1 || cgit "$2" >/dev/null 2>&1; then
+    fail "the agent's user can $1"
+  else
+    pass "can't $1"
+  fi
 }
 refused "set git config" 'git config core.fsmonitor /srv/factory/tmp/evil.sh'
 refused "edit the git config file" 'echo "[core] fsmonitor = /srv/factory/tmp/evil.sh" >>/srv/factory/git/config'
@@ -229,35 +240,64 @@ refused "delete the git config file" 'rm -f /srv/factory/git/config && test ! -e
 refused "move the git directory" 'mv /srv/factory/git /srv/factory/tmp/g'
 refused "add a git hook" 'cp /srv/factory/tmp/evil.sh /srv/factory/git/hooks/post-commit'
 refused "add git info attributes" 'echo "* filter=evil" >/srv/factory/git/info/attributes'
-refused "change the global git config" 'echo "[core] fsmonitor = x" >>"$GIT_CONFIG_GLOBAL"'
+refused "change the pinned global git config" 'echo "[core] fsmonitor = x" >>/srv/factory/gitconfig'
+refused "change ~/.gitconfig" 'echo "[core] fsmonitor = x" >>"$HOME/.gitconfig"'
+refused "replace ~/.gitconfig" 'rm -f "$HOME/.gitconfig" && test ! -e "$HOME/.gitconfig"'
+refused "change ~/.config/git/config" 'echo "[core] fsmonitor = x" >>"$HOME/.config/git/config"'
+refused "replace ~/.config/git" 'mv "$HOME/.config" "$HOME/.c"'
+refused "point commondir elsewhere" 'echo /srv/factory/tmp/evilgit >/srv/factory/git/commondir'
+refused "replace commondir" 'rm -f /srv/factory/git/commondir && test ! -e /srv/factory/git/commondir'
+refused "point the checkout's .git elsewhere" 'echo "gitdir: /srv/factory/tmp/evilgit" >/srv/factory/repo/.git'
+refused "replace the checkout's .git" 'rm -f /srv/factory/repo/.git && test ! -e /srv/factory/repo/.git'
+refused "move the checkout's .git away" 'mv /srv/factory/repo/.git /srv/factory/repo/.g'
+refused "replace the git wrapper" 'echo "exec /usr/bin/git \"\$@\"" >/srv/factory/bin/git'
+refused "add to the git wrapper's folder" 'touch /srv/factory/bin/x'
+if [ "$(cgit 'command -v git')" = /srv/factory/bin/git ] && [ "$(sudo stat -c %U /srv/factory/bin/git)" = root ]; then
+  pass "the agent's git is root's pinning wrapper"
+else
+  fail "git on the agent's PATH is not the pinning wrapper"
+fi
 
-# What the agent can do: plant a repo of its own next to the real one, point
-# commondir at it, add a .git folder in the checkout, and ask for a filter.
+# What the agent can still do: plant a repository of its own, a
+# config.worktree in the git directory, a .git in a subfolder, and ask for
+# a filter. Commit with git as Claude Code runs it, which also shows the
+# agent's own git works without the pinned environment.
 asgit '
   set -e
   ungit() { env -u GIT_DIR -u GIT_COMMON_DIR -u GIT_WORK_TREE git "$@"; }
   ungit init -q --bare /srv/factory/tmp/evilgit
   ungit --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
   ungit --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
-  echo /srv/factory/tmp/evilgit >/srv/factory/git/commondir
   printf "[extensions]\n\tworktreeConfig = true\n[core]\n\tfsmonitor = /srv/factory/tmp/evil.sh\n" >/srv/factory/git/config.worktree
-  cp -r /srv/factory/tmp/evilgit /srv/factory/repo/.git
+  mkdir -p sub && cp -r /srv/factory/tmp/evilgit sub/.git
   echo "* filter=evil" >/srv/factory/repo/.gitattributes
-  git switch -q -c factory/sbtest
-  echo work >work.txt
-  git add work.txt
-  git commit -q -m work
-  # Left uncommitted, with the token in it: package must commit it.
-  echo "leak '"$FAKE"'" >leak.txt
   echo "Title" >/srv/factory/io/blocked.md
 '
-for plant in /srv/factory/git/commondir /srv/factory/git/config.worktree /srv/factory/repo/.git/config \
+if cgit 'set -e; git switch -q -c factory/sbtest; echo work >work.txt; git add work.txt; git commit -q -m work'; then
+  pass "git commits without the pinned environment, as Claude Code runs it"
+else
+  fail "git without the pinned environment can't commit"
+fi
+# Left uncommitted, with the token in it: package must commit it.
+asgit 'echo "leak '"$FAKE"'" >leak.txt'
+for plant in /srv/factory/git/config.worktree /srv/factory/repo/sub/.git/config \
   /srv/factory/repo/.gitattributes /srv/factory/repo/leak.txt /srv/factory/io/blocked.md; do
   if sudo test -e "$plant"; then pass "planted $plant"; else fail "couldn't plant $plant, so the check below proves less"; fi
 done
-# What Claude Code runs at start and around commits, then package as the
-# workflow runs it.
-asgit 'git --no-optional-locks status --short >/dev/null; git log -1 >/dev/null; git config user.name >/dev/null' || true
+# What Claude Code runs at start and around commits, both ways, then package
+# as the workflow runs it.
+for g in asgit cgit; do
+  $g 'git --no-optional-locks status --short >/dev/null; git diff >/dev/null; git log -1 >/dev/null
+    git config user.name >/dev/null; cd sub && git status >/dev/null' || true
+done
+# Without the wrapper too: plain /usr/bin/git with no git environment, from
+# the checkout, finds the real repository through root's .git file.
+if [ "$(cgit '/usr/bin/git rev-parse --absolute-git-dir')" = /srv/factory/git ]; then
+  pass "plain git from the checkout finds the real git directory"
+else
+  fail "plain git from the checkout finds another git directory"
+fi
+cgit '/usr/bin/git --no-optional-locks status --short >/dev/null; /usr/bin/git diff >/dev/null' || true
 if BASE="$BASE_SHA" QUOTA=false bash "$SB" package-as-agent; then
   pass "package as the agent's user"
 else

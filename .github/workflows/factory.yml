@@ -430,9 +430,9 @@ jobs:
           prompt="${prompt}
           Hooks are off in this run, so nothing formats files for you: run npm run format before each commit.
           Commands run in a sandbox with no network; dependencies are already installed.
-          The git directory is /srv/factory/git (GIT_DIR is set); its config can't be changed."
+          The git directory is /srv/factory/git; its config can't be changed. Use git as usual from the checkout."
           repo=/srv/factory/repo
-          settings=$(jq -n --arg factory "$FACTORY_DIR" --arg git /srv/factory/git '{
+          settings=$(jq -n --arg factory "$FACTORY_DIR" --arg git /srv/factory/git --arg repo "$repo" '{
             attribution: { commit: "", pr: "" },
             includeCoAuthoredBy: false,
             disableAllHooks: true,
@@ -440,7 +440,7 @@ jobs:
             permissions: {
               blockReadsOutsideWorkingDirectories: true,
               blockWritesOutsideWorkingDirectories: true,
-              deny: ["Read(//proc/**)", "Edit(/\($git)/**)"]
+              deny: ["Read(//proc/**)", "Edit(/\($git)/**)", "Edit(/\($repo)/.git)", "Edit(/\($repo)/.git/**)"]
             },
             sandbox: {
               enabled: true,
