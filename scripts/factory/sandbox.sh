@@ -26,6 +26,9 @@
 #   sandbox.sh setup                          users, folders, services
 #   sandbox.sh hand-over <workspace> <dir> <install yes|no>
 #   sandbox.sh git-env                        print the pinned git environment
+#   sandbox.sh run-agent <command...>         run a command as factory-agent,
+#                                             with CLAUDE_CODE_OAUTH_TOKEN
+#   sandbox.sh package-as-agent               run package as factory-agent
 #   sandbox.sh stop <user>                    kill every process of the user
 #   sandbox.sh package                        as factory-agent: commit leftovers,
 #                                             write a candidate bundle
@@ -65,6 +68,32 @@ die() {
 tgit() {
   GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null GIT_NO_REPLACE_OBJECTS=1 \
     GIT_TERMINAL_PROMPT=0 git -c core.hooksPath=/dev/null -c core.fsmonitor=false "$@"
+}
+
+# Run a command as factory-agent in its checkout, with its own HOME and the
+# pinned git environment. CLAUDE_CODE_OAUTH_TOKEN, when set, is handed over on
+# stdin and exported inside the agent's shell, so it never appears on a
+# command line and doesn't depend on how this runner's sudo treats the
+# environment. The command's own stdin is /dev/null.
+cmd_run_agent() {
+  local env=()
+  mapfile -t env < <(agent_git_env)
+  printf '%s' "${CLAUDE_CODE_OAUTH_TOKEN:-}" |
+    sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" USER="$AGENT" LOGNAME="$AGENT" \
+      PATH="$PATH" TMPDIR="$AGENT_TMP" LANG=C.UTF-8 GITHUB_ACTIONS="${GITHUB_ACTIONS:-}" \
+      FACTORY_DIR="${FACTORY_DIR:-$IO}" CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 "${env[@]}" \
+      bash -c 'IFS= read -r CLAUDE_CODE_OAUTH_TOKEN || true
+        if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then export CLAUDE_CODE_OAUTH_TOKEN; else unset CLAUDE_CODE_OAUTH_TOKEN; fi
+        exec "$@" </dev/null' factory-agent "$@"
+}
+
+# package (below) as factory-agent. Env: BASE, QUOTA, FIRST_SHA.
+cmd_package_as_agent() {
+  local env=()
+  mapfile -t env < <(agent_git_env)
+  sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" PATH="$PATH" LANG=C.UTF-8 \
+    BASE="${BASE:?}" QUOTA="${QUOTA:-false}" FIRST_SHA="${FIRST_SHA:-}" "${env[@]}" \
+    bash "$ROOT/trusted/scripts/factory/sandbox.sh" package
 }
 
 # Kill every process whose real or effective user is $1. Real catches a
@@ -257,6 +286,8 @@ case "$cmd" in
   setup) cmd_setup ;;
   hand-over) cmd_hand_over "$@" ;;
   git-env) agent_git_env ;;
+  run-agent) cmd_run_agent "$@" ;;
+  package-as-agent) cmd_package_as_agent ;;
   stop) stop_user "$1" ;;
   package) cmd_package ;;
   collect) cmd_collect "$@" ;;

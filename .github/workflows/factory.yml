@@ -453,12 +453,9 @@ jobs:
           }')
           # Nothing of the agent's user may be running when the token arrives.
           bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
-          # Git, for the agent's commands and for Claude Code's own, is pinned
-          # to the git directory outside the checkout (see sandbox.sh).
-          mapfile -t git_env < <(bash /srv/factory/trusted/scripts/factory/sandbox.sh git-env)
-          sudo -u factory-agent -H --preserve-env=CLAUDE_CODE_OAUTH_TOKEN,GITHUB_ACTIONS,FACTORY_DIR \
-            /usr/bin/env -C "$repo" PATH="$PATH" TMPDIR=/srv/factory/tmp "${git_env[@]}" \
-              CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 \
+          # As factory-agent, with the token handed over on stdin and git
+          # pinned to the git directory outside the checkout (see sandbox.sh).
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh run-agent \
             claude -p "$prompt" \
               --model "$MODEL" \
               --permission-mode acceptEdits \
@@ -515,9 +512,7 @@ jobs:
           QUOTA: ${{ steps.result.outputs.quota }}
           FIRST_SHA: ${{ steps.first.outputs.sha }}
         run: |
-          sudo -u factory-agent -H --preserve-env=BASE,QUOTA,FIRST_SHA \
-            /usr/bin/env -C /srv/factory/repo PATH="$PATH" \
-            bash /srv/factory/trusted/scripts/factory/sandbox.sh package ||
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh package-as-agent ||
             echo "::warning::packaging as the agent's user failed"
           bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
 

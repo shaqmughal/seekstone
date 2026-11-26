@@ -30,7 +30,7 @@ fail() {
 as() {
   local u=$1
   shift
-  sudo -u "$u" -H /usr/bin/env -C /srv/factory PATH="$PATH" bash -c "$*"
+  sudo -u "$u" /usr/bin/env -C /srv/factory HOME="/home/$u" PATH="$PATH" bash -c "$*"
 }
 fingerprint() {
   export SECRET_SHA256 SECRET_LENGTH SECRET_PREFIX
@@ -99,7 +99,7 @@ fi
 
 # --- What the agent's user can reach, outside any sandbox --------------------
 
-leaks=$(as "$AGENT" 'n=0; for f in /proc/[0-9]*/environ; do tr "\0" "\n" <"$f" 2>/dev/null | grep -q "^CLAUDE_CODE_OAUTH_TOKEN=." && n=$((n+1)); done; echo $n')
+leaks=$(as "$AGENT" 'n=0; for f in /proc/[0-9]*/environ; do { tr "\0" "\n" <"$f" | grep -q "^CLAUDE_CODE_OAUTH_TOKEN=."; } 2>/dev/null && n=$((n+1)); done; echo $n')
 if [ "$leaks" = 0 ]; then pass "no process environment with the token is readable"; else fail "$leaks readable process environment(s) hold the token"; fi
 
 if as "$AGENT" 'sudo -n true' >/dev/null 2>&1; then fail "the agent's user can sudo"; else pass "no sudo"; fi
@@ -170,10 +170,34 @@ fi
 # to, so a clean log below means something.
 sudo rm -f /tmp/sbtest-git-ran
 sudo install -m 666 /dev/null /tmp/sbtest-git-ran
-mapfile -t GIT_ENV < <(bash "$SB" git-env)
-asgit() { # as the agent's user, with the git environment Claude Code gets
-  sudo -u "$AGENT" -H /usr/bin/env -C /srv/factory/repo PATH="$PATH" "${GIT_ENV[@]}" bash -c "$*"
+asgit() { # as the agent's user, launched exactly as claude is
+  bash "$SB" run-agent bash -c "$*"
 }
+
+# The launch itself: the agent's user, its HOME, its checkout, pinned git,
+# and the token arriving intact without ever being on a command line.
+want=$(printf '%s' "$FAKE" | sha256sum | cut -d' ' -f1)
+if CLAUDE_CODE_OAUTH_TOKEN="$FAKE" bash "$SB" run-agent bash -c '
+  [ "$(id -un)" = factory-agent ] && [ "$HOME" = /home/factory-agent ] && [ "$PWD" = /srv/factory/repo ] &&
+  [ "$GIT_DIR" = /srv/factory/git ] && [ "$GIT_WORK_TREE" = /srv/factory/repo ] &&
+  [ "$(printf %s "$CLAUDE_CODE_OAUTH_TOKEN" | sha256sum | cut -d" " -f1)" = "$1" ]' x "$want"; then
+  pass "run-agent starts the agent's user with the token and the pinned git"
+else
+  fail "run-agent didn't set up the agent's environment"
+fi
+CLAUDE_CODE_OAUTH_TOKEN="$FAKE" bash "$SB" run-agent sleep 5 &
+sleep 2
+if sudo grep -lsF "$FAKE" /proc/[0-9]*/cmdline >/dev/null 2>&1; then
+  fail "the token is on a command line"
+else
+  pass "the token is on no command line"
+fi
+wait
+if CLAUDE_CODE_OAUTH_TOKEN='' bash "$SB" run-agent bash -c '[ -z "${CLAUDE_CODE_OAUTH_TOKEN+x}" ]'; then
+  pass "without a token, run-agent sets none"
+else
+  fail "run-agent set an empty token"
+fi
 as "$AGENT" '
   cat >/srv/factory/tmp/evil.sh <<"EOS"
 #!/bin/sh
@@ -201,10 +225,10 @@ refused "change the global git config" 'echo "[core] fsmonitor = x" >>"$GIT_CONF
 # commondir at it, add a .git folder in the checkout, and ask for a filter.
 asgit '
   set -e
-  mkdir -p /srv/factory/tmp/evilgit
-  git init -q --bare /srv/factory/tmp/evilgit
-  git --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
-  git --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
+  ungit() { env -u GIT_DIR -u GIT_COMMON_DIR -u GIT_WORK_TREE git "$@"; }
+  ungit init -q --bare /srv/factory/tmp/evilgit
+  ungit --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
+  ungit --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
   echo /srv/factory/tmp/evilgit >/srv/factory/git/commondir
   printf "[extensions]\n\tworktreeConfig = true\n[core]\n\tfsmonitor = /srv/factory/tmp/evil.sh\n" >/srv/factory/git/config.worktree
   cp -r /srv/factory/tmp/evilgit /srv/factory/repo/.git
@@ -217,10 +241,14 @@ asgit '
   echo "leak '"$FAKE"'" >leak.txt
   echo "Title" >/srv/factory/io/blocked.md
 '
+for plant in /srv/factory/git/commondir /srv/factory/git/config.worktree /srv/factory/repo/.git/config \
+  /srv/factory/repo/.gitattributes /srv/factory/repo/leak.txt /srv/factory/io/blocked.md; do
+  if sudo test -e "$plant"; then pass "planted $plant"; else fail "couldn't plant $plant, so the check below proves less"; fi
+done
 # What Claude Code runs at start and around commits, then package as the
 # workflow runs it.
 asgit 'git --no-optional-locks status --short >/dev/null; git log -1 >/dev/null; git config user.name >/dev/null' || true
-if sudo -u "$AGENT" -H BASE="$BASE_SHA" QUOTA=false /usr/bin/env -C /srv/factory/repo PATH="$PATH" bash "$SB" package; then
+if BASE="$BASE_SHA" QUOTA=false bash "$SB" package-as-agent; then
   pass "package as the agent's user"
 else
   fail "package as the agent's user"
