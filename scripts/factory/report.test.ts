@@ -216,6 +216,21 @@ describe('blockedTickets', () => {
     expect(questions(`${STOPPED}\n\n# A\n## B\n\nThe real text.`)).toEqual(['The real text.']);
   });
 
+  it('keeps issue references and drops only real headings', () => {
+    expect(questions(`${STOPPED}\n\nWhich issue should we use?\n#123 or #456?`)).toEqual([
+      'Which issue should we use? #123 or #456?',
+    ]);
+    expect(questions(`${STOPPED}\n\n#123 is blocked, what now?`)).toEqual([
+      '#123 is blocked, what now?',
+    ]);
+    expect(questions(`${STOPPED}\n\n## Why\n   ### Also\n#\n######\tSix\nThe text.`)).toEqual([
+      'The text.',
+    ]);
+    expect(questions(`${STOPPED}\n\n####### Seven is not a heading`)).toEqual([
+      '####### Seven is not a heading',
+    ]);
+  });
+
   it('cuts a long question to 200 characters', async () => {
     const body = `${STOPPED}\n\n1. ${'x'.repeat(250)}\n2. Short?`;
     const [long, short] = (await run([{ body, createdAt: '2026-11-24T00:00:00Z' }])).questions;

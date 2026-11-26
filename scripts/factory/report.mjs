@@ -194,6 +194,9 @@ async function factoryRuns(repo, since) {
 }
 
 const MAX_QUESTION = 200;
+// An ATX heading: up to 3 spaces, 1-6 `#`, then whitespace or the end of the line.
+// `#123` is an issue reference, not a heading.
+const HEADING = /^ {0,3}#{1,6}(?:[ \t]|$)/;
 
 /**
  * What a factory comment asks, one entry per question: the numbered items
@@ -214,8 +217,9 @@ export function questions(body) {
       .map((p) =>
         p
           .split('\n')
+          .filter((l) => !HEADING.test(l))
           .map((l) => l.trim())
-          .filter((l) => l && !l.startsWith('#'))
+          .filter(Boolean)
           .join(' '),
       )
       .find(Boolean);
