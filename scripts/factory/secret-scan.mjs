@@ -113,6 +113,14 @@ export function scan(paths, { sha256, length, prefix = '', stdin }) {
 }
 
 /**
+ * A message for a workflow command. File names come from the agent, so a
+ * newline in one mustn't start a command of its own.
+ */
+export function escapeCommand(s) {
+  return s.replaceAll('%', '%25').replaceAll('\r', '%0D').replaceAll('\n', '%0A');
+}
+
+/**
  * The fingerprint from the environment, or an error message. SECRET_PREFIX
  * is optional: the token's public start, which must be shorter than it.
  */
@@ -138,8 +146,8 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
   const paths = args.filter((a) => a !== '-');
   const stdin = args.includes('-') ? readFileSync(0) : undefined;
   const { hits, problems } = scan(paths, { ...fp, stdin });
-  for (const p of problems) console.error(`::error::secret scan can't check ${p}`);
-  for (const h of hits) console.error(`::error::the Claude Code token is in ${h}`);
+  for (const p of problems) console.error(`::error::secret scan can't check ${escapeCommand(p)}`);
+  for (const h of hits) console.error(`::error::the Claude Code token is in ${escapeCommand(h)}`);
   if (hits.length || problems.length) process.exit(1);
   console.log(`secret scan: clean (${paths.length + (stdin ? 1 : 0)} input(s))`);
 }

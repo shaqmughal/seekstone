@@ -79,6 +79,22 @@ if bash "$SB" hand-over "$WORK/ws" "$WORK/factory" yes; then pass "hand-over wit
 if pgrep -u "$INSTALLER" >/dev/null; then fail "factory-install processes survive the hand-over"; else pass "no factory-install process survives"; fi
 if [ -e /tmp/sbtest-postinstall-ran ]; then fail "install scripts ran"; else pass "install scripts did not run"; fi
 if [ "$(sudo stat -c %U /srv/factory/repo)" = "$AGENT" ]; then pass "the agent's user owns its checkout"; else fail "checkout owner"; fi
+if [ "$(sudo stat -c '%U %a' /srv/factory/git)" = "root 1770" ] && [ "$(sudo stat -c %U /srv/factory/git/config)" = root ]; then
+  pass "root owns the git directory and its config"
+else
+  fail "git directory ownership: $(sudo stat -c '%U %a' /srv/factory/git /srv/factory/git/config | tr '\n' ' ')"
+fi
+if [ -e /srv/factory/repo/.git ] || sudo test -e /srv/factory/repo/.git; then fail "a .git folder is left in the checkout"; else pass "no .git folder in the checkout"; fi
+if [ -d /srv/factory/install ]; then fail "the install folder is left behind"; else pass "the install folder is gone"; fi
+if sudo test -d /srv/factory/repo/node_modules; then pass "dependencies were moved into the checkout"; else fail "no node_modules in the checkout"; fi
+for u in "$AGENT" "$INSTALLER"; do
+  if grep -qs "^$u:" /etc/subuid /etc/subgid; then fail "$u has subordinate IDs"; else pass "$u has no subordinate IDs"; fi
+done
+if as "$INSTALLER" 'ls /srv/factory/repo || ls /srv/factory/git' >/dev/null 2>&1; then
+  fail "the installer's user can reach the agent's checkout"
+else
+  pass "the installer's user can't reach the agent's checkout"
+fi
 
 # --- What the agent's user can reach, outside any sandbox --------------------
 
@@ -144,22 +160,52 @@ fi
 
 # --- A hostile checkout: git config, hooks, commondir, links -----------------
 
-# Anything git runs from the agent's config logs who ran it.
+# Claude Code runs some git commands outside its sandbox, as the agent's
+# user, next to the token. So nothing the agent writes may make git run a
+# program. evil.sh logs who ran it; first prove it does run when git is told
+# to, so a clean log below means something.
 sudo rm -f /tmp/sbtest-git-ran
 sudo install -m 666 /dev/null /tmp/sbtest-git-ran
+mapfile -t GIT_ENV < <(bash "$SB" git-env)
+asgit() { # as the agent's user, with the git environment Claude Code gets
+  sudo -u "$AGENT" -H /usr/bin/env -C /srv/factory/repo PATH="$PATH" "${GIT_ENV[@]}" bash -c "$*"
+}
 as "$AGENT" '
-  set -e
-  cd /srv/factory/repo
-  git switch -q -c factory/sbtest
   cat >/srv/factory/tmp/evil.sh <<"EOS"
 #!/bin/sh
 id -un >>/tmp/sbtest-git-ran
+cat >/dev/null
 EOS
-  chmod +x /srv/factory/tmp/evil.sh
-  git config core.fsmonitor /srv/factory/tmp/evil.sh
-  git config core.hooksPath /srv/factory/tmp/hooks
-  mkdir -p /srv/factory/tmp/hooks
-  cp /srv/factory/tmp/evil.sh /srv/factory/tmp/hooks/post-commit
+  chmod +x /srv/factory/tmp/evil.sh'
+asgit 'git -c core.fsmonitor=/srv/factory/tmp/evil.sh status >/dev/null 2>&1' || true
+if [ -s /tmp/sbtest-git-ran ]; then pass "the planted program runs when git is told to"; else fail "the planted program never runs, so the git checks below prove nothing"; fi
+: | sudo tee /tmp/sbtest-git-ran >/dev/null
+
+refused() { # <what> <snippet>: the agent's user must not manage it
+  if asgit "$2" >/dev/null 2>&1; then fail "the agent's user can $1"; else pass "can't $1"; fi
+}
+refused "set git config" 'git config core.fsmonitor /srv/factory/tmp/evil.sh'
+refused "edit the git config file" 'echo "[core] fsmonitor = /srv/factory/tmp/evil.sh" >>/srv/factory/git/config'
+refused "replace the git config file" 'cp /srv/factory/git/config /srv/factory/tmp/c && mv -f /srv/factory/tmp/c /srv/factory/git/config'
+refused "delete the git config file" 'rm -f /srv/factory/git/config && test ! -e /srv/factory/git/config'
+refused "move the git directory" 'mv /srv/factory/git /srv/factory/tmp/g'
+refused "add a git hook" 'cp /srv/factory/tmp/evil.sh /srv/factory/git/hooks/post-commit'
+refused "add git info attributes" 'echo "* filter=evil" >/srv/factory/git/info/attributes'
+refused "change the global git config"'echo "[core] fsmonitor = x" >>"$GIT_CONFIG_GLOBAL"'
+
+# What the agent can do: plant a repo of its own next to the real one, point
+# commondir at it, add a .git folder in the checkout, and ask for a filter.
+asgit '
+  set -e
+  mkdir -p /srv/factory/tmp/evilgit
+  git init -q --bare /srv/factory/tmp/evilgit
+  git --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
+  git --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
+  echo /srv/factory/tmp/evilgit >/srv/factory/git/commondir
+  printf "[extensions]\n\tworktreeConfig = true\n[core]\n\tfsmonitor = /srv/factory/tmp/evil.sh\n" >/srv/factory/git/config.worktree
+  cp -r /srv/factory/tmp/evilgit /srv/factory/repo/.git
+  echo "* filter=evil" >/srv/factory/repo/.gitattributes
+  git switch -q -c factory/sbtest
   echo work >work.txt
   git add work.txt
   git commit -q -m work
@@ -167,23 +213,23 @@ EOS
   echo "leak '"$FAKE"'" >leak.txt
   echo "Title" >/srv/factory/io/blocked.md
 '
-# package, as the workflow runs it.
+# What Claude Code runs at start and around commits, then package as the
+# workflow runs it.
+asgit 'git --no-optional-locks status --short >/dev/null; git log -1 >/dev/null; git config user.name >/dev/null' || true
 if sudo -u "$AGENT" -H BASE="$BASE_SHA" QUOTA=false /usr/bin/env -C /srv/factory/repo PATH="$PATH" bash "$SB" package; then
   pass "package as the agent's user"
 else
   fail "package as the agent's user"
 fi
 bash "$SB" stop "$AGENT"
+if [ -s /tmp/sbtest-git-ran ]; then
+  fail "git ran a program the agent planted, as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
+else
+  pass "git never ran anything the agent planted"
+fi
 bash "$SB" collect "$WORK/out" || fail "collect"
 ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
 if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
-if [ ! -s /tmp/sbtest-git-ran ]; then
-  fail "the hostile git config never ran, so this round proves nothing"
-elif grep -qvx "$AGENT" /tmp/sbtest-git-ran; then
-  fail "git ran the agent's config as: $(sort -u /tmp/sbtest-git-ran | tr '\n' ' ')"
-else
-  pass "the agent's git config only ever ran as the agent's user"
-fi
 
 scan() { # <outputs folder>
   set -o pipefail
@@ -200,7 +246,7 @@ if scan "$WORK/out" >/dev/null 2>&1; then fail "the scan missed the token in a c
 if scan "$WORK/out" 2>&1 | grep -qF "$FAKE"; then fail "the scan printed the token"; else pass "the scan never prints the token"; fi
 
 # A candidate bundle that smuggles an unreachable object with the other token.
-as "$AGENT" '
+asgit '
   set -e
   cd /srv/factory/repo
   git reset -q --hard HEAD~1
@@ -223,14 +269,17 @@ rm -f "$WORK/out2/candidate.bundle"
 fingerprint "$OTHER"
 if scan "$WORK/out2" >/dev/null 2>&1; then pass "the published outputs hold no smuggled token"; else fail "scan of the re-made outputs"; fi
 
-# A link in the agent's outputs is refused, not followed.
-as "$AGENT" 'ln -sf /etc/hostname /srv/factory/io/link'
-bash "$SB" collect "$WORK/out3" || fail "collect 3"
-if [ -L "$WORK/out3/link" ] && ! node "$SCAN" "$WORK/out3" >/dev/null 2>&1; then
-  pass "a link in the outputs fails the scan"
-else
-  fail "a link in the outputs was not refused"
-fi
+# A link or a FIFO where an output file goes makes collect fail, so no later
+# step writes through it (as the quota step writes quota.md).
+for kind in link fifo; do
+  as "$AGENT" "rm -f /srv/factory/io/link /srv/factory/io/quota.md
+    if [ $kind = link ]; then ln -s /etc/hostname /srv/factory/io/quota.md; else mkfifo /srv/factory/io/quota.md; fi"
+  if bash "$SB" collect "$WORK/out-$kind" >/dev/null 2>&1; then
+    fail "collect accepted a $kind in the outputs"
+  else
+    pass "collect refuses a $kind in the outputs"
+  fi
+done
 
 echo
 if [ "$failures" -gt 0 ]; then

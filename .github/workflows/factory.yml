@@ -429,12 +429,14 @@ jobs:
           fi
           prompt="${prompt}
           Hooks are off in this run, so nothing formats files for you: run npm run format before each commit.
-          Commands run in a sandbox with no network; dependencies are already installed."
+          Commands run in a sandbox with no network; dependencies are already installed.
+          The git directory is /srv/factory/git (GIT_DIR is set); its config can't be changed."
           repo=/srv/factory/repo
-          settings=$(jq -n --arg factory "$FACTORY_DIR" --arg git "$repo/.git" '{
+          settings=$(jq -n --arg factory "$FACTORY_DIR" --arg git /srv/factory/git '{
             attribution: { commit: "", pr: "" },
             includeCoAuthoredBy: false,
             disableAllHooks: true,
+            includeGitInstructions: false,
             permissions: {
               blockReadsOutsideWorkingDirectories: true,
               blockWritesOutsideWorkingDirectories: true,
@@ -445,14 +447,18 @@ jobs:
               failIfUnavailable: true,
               allowUnsandboxedCommands: false,
               autoAllowBashIfSandboxed: false,
-              filesystem: { allowWrite: [$factory] },
+              filesystem: { allowWrite: [$factory, $git] },
               network: { allowedDomains: [], allowLocalBinding: true }
             }
           }')
           # Nothing of the agent's user may be running when the token arrives.
           bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
+          # Git, for the agent's commands and for Claude Code's own, is pinned
+          # to the git directory outside the checkout (see sandbox.sh).
+          mapfile -t git_env < <(bash /srv/factory/trusted/scripts/factory/sandbox.sh git-env)
           sudo -u factory-agent -H --preserve-env=CLAUDE_CODE_OAUTH_TOKEN,GITHUB_ACTIONS,FACTORY_DIR \
-            /usr/bin/env -C "$repo" PATH="$PATH" TMPDIR=/srv/factory/tmp \
+            /usr/bin/env -C "$repo" PATH="$PATH" TMPDIR=/srv/factory/tmp "${git_env[@]}" \
+              CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 \
             claude -p "$prompt" \
               --model "$MODEL" \
               --permission-mode acceptEdits \

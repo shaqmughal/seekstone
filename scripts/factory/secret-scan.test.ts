@@ -6,6 +6,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import {
+  escapeCommand,
   findFingerprint,
   fingerprintFromEnv,
   listFiles,
@@ -68,6 +69,12 @@ describe('findFingerprint with a prefix', () => {
     const started = performance.now();
     expect(findFingerprint(run, sha256, TOKEN.length, 'sk-ant-oat01-')).toEqual([]);
     expect(performance.now() - started).toBeLessThan(2000);
+  });
+});
+
+describe('escapeCommand', () => {
+  it('keeps an agent-chosen file name from starting a workflow command', () => {
+    expect(escapeCommand('a\n::add-mask::x\r%')).toBe('a%0A::add-mask::x%0D%25');
   });
 });
 

@@ -10,13 +10,22 @@
 #   factory-agent    runs claude and, after it, git on the agent's checkout
 #   factory-install  installs a checkout the agent wrote (fix runs, review-fix)
 #
-# The agent works in its own copy of the checkout under /srv/factory. Nothing
-# from that copy is trusted afterwards: outputs are copied back by root without
-# following links, and commits come back through a git mirror the runner made
-# before the agent started, which re-creates the bundle itself.
+# The agent works in its own copy of the checkout under /srv/factory. Its git
+# directory is kept outside that copy, at /srv/factory/git, in a folder root
+# owns, and git is pinned to it (GIT_DIR, GIT_COMMON_DIR, GIT_WORK_TREE): the
+# agent can commit, but can't change the config, hooks or info files, or
+# swap the folder for one of its own. Claude Code runs some git commands
+# outside its sandbox, next to the token, so git must not run anything the
+# agent wrote. agent_git_env lists the pinned environment.
+#
+# Nothing from the agent's copy is trusted afterwards: outputs are copied back
+# by root and refused if they hold links or special files, and commits come
+# back through a git mirror the runner made before the agent started, which
+# re-creates the bundle itself.
 #
 #   sandbox.sh setup                          users, folders, services
 #   sandbox.sh hand-over <workspace> <dir> <install yes|no>
+#   sandbox.sh git-env                        print the pinned git environment
 #   sandbox.sh stop <user>                    kill every process of the user
 #   sandbox.sh package                        as factory-agent: commit leftovers,
 #                                             write a candidate bundle
@@ -35,8 +44,17 @@ AGENT=factory-agent
 INSTALLER=factory-install
 ROOT=/srv/factory
 REPO=$ROOT/repo
+GITDIR=$ROOT/git
 IO=$ROOT/io
 AGENT_TMP=$ROOT/tmp
+INSTALL=$ROOT/install
+GITCONFIG=$ROOT/gitconfig
+
+# The git environment for everything that runs as the agent's user.
+agent_git_env() {
+  printf '%s\n' "GIT_DIR=$GITDIR" "GIT_COMMON_DIR=$GITDIR" "GIT_WORK_TREE=$REPO" \
+    GIT_CONFIG_NOSYSTEM=1 "GIT_CONFIG_GLOBAL=$GITCONFIG"
+}
 
 die() {
   echo "::error::sandbox: $*" >&2
@@ -49,11 +67,14 @@ tgit() {
     GIT_TERMINAL_PROMPT=0 git -c core.hooksPath=/dev/null -c core.fsmonitor=false "$@"
 }
 
+# Kill every process whose real or effective user is $1. Real catches a
+# setuid program the user started.
 stop_user() {
   local u=$1
-  for _ in $(seq 1 20); do
+  for _ in $(seq 1 40); do
     sudo pkill -KILL -u "$u" 2>/dev/null || true
-    if ! pgrep -u "$u" >/dev/null 2>&1; then return 0; fi
+    sudo pkill -KILL -U "$u" 2>/dev/null || true
+    if ! pgrep -u "$u" >/dev/null 2>&1 && ! pgrep -U "$u" >/dev/null 2>&1; then return 0; fi
     sleep 0.25
   done
   die "processes of $u are still running"
@@ -63,8 +84,12 @@ cmd_setup() {
   local u
   for u in "$AGENT" "$INSTALLER"; do
     if ! id "$u" >/dev/null 2>&1; then
-      sudo useradd --create-home --user-group --shell /usr/sbin/nologin "$u"
+      # No subordinate IDs: with them, a user namespace could run processes
+      # under IDs that stop_user doesn't know about.
+      sudo useradd --create-home --user-group --shell /usr/sbin/nologin \
+        -K SUB_UID_COUNT=0 -K SUB_GID_COUNT=0 "$u"
     fi
+    if grep -qs "^$u:" /etc/subuid /etc/subgid; then die "$u has subordinate IDs"; fi
     sudo chmod 700 "/home/$u"
     # Neither may use sudo.
     if sudo -l -U "$u" 2>/dev/null | grep -q 'may run the following'; then
@@ -90,26 +115,62 @@ cmd_setup() {
   sudo rm -f /run/docker.sock
   sudo install -d -o root -g root -m 755 "$ROOT"
   sudo install -d -o "$AGENT" -g "$AGENT" -m 700 "$AGENT_TMP"
+  # Git's global config for the agent's user: root's, so the agent can't
+  # change it. The git directory is root's, so mark it safe.
+  printf '[safe]\n\tdirectory = %s\n' "$GITDIR" | sudo tee "$GITCONFIG" >/dev/null
+  sudo chown root:root "$GITCONFIG"
+  sudo chmod 644 "$GITCONFIG"
 }
 
 cmd_hand_over() {
   local ws=$1 dir=$2 install=$3
-  sudo rm -rf "$REPO" "$IO"
+  sudo rm -rf "$REPO" "$GITDIR" "$IO" "$INSTALL"
+  [ -d "$ws/.git" ] && [ ! -L "$ws/.git" ] || die "$ws/.git is not a folder"
   sudo cp -a "$ws/." "$REPO"
+  sudo mv "$REPO/.git" "$GITDIR"
   sudo cp -a "$dir/." "$IO"
   if [ "$install" = yes ]; then
-    # The checkout is the factory's own branch: install it as a user that
-    # can't reach anything, then stop everything that user started.
-    sudo rm -rf "$REPO/node_modules"
-    sudo chown -R "$INSTALLER:$INSTALLER" "$REPO"
-    sudo -u "$INSTALLER" -H /usr/bin/env -C "$REPO" PATH="$PATH" \
-      npm_config_cache="/home/$INSTALLER/.npm" npm_config_update_notifier=false \
-      npm ci --ignore-scripts --no-audit --no-fund
-    stop_user "$INSTALLER"
-    sudo find /tmp /var/tmp /dev/shm -xdev -user "$INSTALLER" -delete 2>/dev/null || true
+    install_deps "$ws"
   fi
-  sudo chown -R "$AGENT:$AGENT" "$REPO" "$IO"
-  sudo chmod 700 "$REPO" "$IO"
+  sudo chown -R --no-dereference "$AGENT:$AGENT" "$REPO" "$GITDIR" "$IO"
+  sudo chmod -R go-rwx "$REPO" "$IO"
+  # The git directory: the agent's user may add objects, refs and an index,
+  # but the folder and the files that make git run things are root's. The
+  # sticky bit stops it deleting or replacing root's files there.
+  sudo rm -rf "$GITDIR/hooks" "$GITDIR/info"
+  sudo install -d -o root -g root -m 755 "$GITDIR/hooks" "$GITDIR/info"
+  sudo chown root:root "$GITDIR/config"
+  sudo chmod 644 "$GITDIR/config"
+  sudo chown root:"$AGENT" "$GITDIR"
+  sudo chmod 1770 "$GITDIR"
+}
+
+# The checkout is the factory's own branch. Install its dependencies as a
+# user that can reach nothing, in a scratch folder holding only the package
+# manifests and the lockfile (no .npmrc), then stop everything that user
+# started. Root moves the node_modules folders into the agent's copy.
+install_deps() {
+  local ws=$1 f nm rel parent
+  sudo install -d -o "$INSTALLER" -g "$INSTALLER" -m 700 "$INSTALL"
+  while IFS= read -r -d '' f; do
+    if [ -f "$ws/$f" ] && [ ! -L "$ws/$f" ]; then
+      sudo install -D -o "$INSTALLER" -g "$INSTALLER" -m 600 "$ws/$f" "$INSTALL/$f"
+    fi
+  done < <(tgit -C "$ws" ls-files -z -- package.json package-lock.json 'packages/*/package.json')
+  sudo -u "$INSTALLER" -H /usr/bin/env -C "$INSTALL" PATH="$PATH" \
+    npm_config_cache="/home/$INSTALLER/.npm" npm_config_update_notifier=false \
+    npm ci --ignore-scripts --no-audit --no-fund
+  stop_user "$INSTALLER"
+  sudo find /tmp /var/tmp /dev/shm -xdev -user "$INSTALLER" -delete 2>/dev/null || true
+  while IFS= read -r -d '' nm; do
+    rel=${nm#"$INSTALL"/}
+    parent=$(dirname "$REPO/$rel")
+    # Never move through a link the agent's branch put in the way.
+    [ "$(sudo realpath -e "$parent")" = "$parent" ] || die "$parent is not a plain folder"
+    sudo rm -rf "${REPO:?}/$rel"
+    sudo mv "$nm" "$REPO/$rel"
+  done < <(sudo find "$INSTALL" -name node_modules -type d -prune -print0)
+  sudo rm -rf "$INSTALL"
 }
 
 # As factory-agent, in $REPO, after the agent: unless this run is opening or
@@ -123,6 +184,8 @@ cmd_hand_over() {
 # the first pass's pr.md hash, so an unchanged pr.md doesn't count).
 cmd_package() {
   [ "$(id -un)" = "$AGENT" ] || die "package must run as $AGENT"
+  local kv
+  while IFS= read -r kv; do export "${kv?}"; done < <(agent_git_env)
   [ -n "${BASE:-}" ] || die "BASE is not set"
   local delivering=false
   if [ -f "$IO/pr.md" ] && [ ! -f "$IO/blocked.md" ] && [ "${QUOTA:-false}" != true ]; then
@@ -142,15 +205,19 @@ cmd_package() {
   fi
 }
 
-# Copy the agent's outputs back to a fresh folder the runner owns. Links and
-# special files are copied as they are, not followed; the scan refuses them.
+# Copy the agent's outputs back to a fresh folder the runner owns, without
+# following links, and fail if any link or special file came back.
 cmd_collect() {
-  local out=$1
+  local out=$1 odd
   stop_user "$AGENT"
   sudo rm -rf "$out"
   mkdir -p "$out"
   sudo cp -r --no-dereference --preserve=mode "$IO/." "$out/"
   sudo chown -R --no-dereference "$(id -un):$(id -gn)" "$out"
+  # Nothing in the outputs may be a link or a special file: later steps
+  # would follow or open it.
+  odd=$(find "$out" ! -type f ! -type d -print -quit)
+  [ -z "$odd" ] || die "the agent's outputs hold a link or another special file"
 }
 
 cmd_mirror() {
@@ -189,6 +256,7 @@ shift || true
 case "$cmd" in
   setup) cmd_setup ;;
   hand-over) cmd_hand_over "$@" ;;
+  git-env) agent_git_env ;;
   stop) stop_user "$1" ;;
   package) cmd_package ;;
   collect) cmd_collect "$@" ;;
