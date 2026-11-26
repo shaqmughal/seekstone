@@ -77,9 +77,13 @@ cmd_setup() {
   # The runner's home holds the workspace, RUNNER_TEMP, the runner's own files
   # and the action code: the two users get no access to any of it.
   sudo chmod o-rwx "$HOME"
-  # The runner image leaves some of the tool cache world-writable, so any user
-  # could replace node or npm for every later step.
-  sudo find /opt /usr/local -xdev -perm -o+w ! -type l -exec chmod o-w {} +
+  # The runner image leaves files world-writable (the node tool cache,
+  # /usr/share), so any user could replace what later steps run. Remove
+  # world-write everywhere except the sticky temp folders, where a user can
+  # add files but not replace anyone else's. sandbox-test.sh lists anything
+  # the agent's user can still write.
+  sudo find / \( -path /proc -o -path /sys -o -path /dev -o -path /run -o -path /snap \) -prune \
+    -o -perm -o+w ! -type l ! \( -type d -perm -1000 \) -exec chmod o-w {} + 2>/dev/null || true
   # Nothing may start a process for either user once their processes are
   # stopped, and Docker's socket would be a way to root.
   sudo systemctl stop cron.service atd.service docker.socket docker.service 2>/dev/null || true
