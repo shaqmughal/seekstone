@@ -9,7 +9,7 @@ import { buildDoc, replaceDoc, upsertDoc } from './doc.js';
 
 /**
  * SHA-575: upsertDoc keeps a path that crosses a symlink out of the index,
- * removes an entry already there the usual way (inbound refs parked), and
+ * removes an entry already there the usual way (path parked), and
  * reports false so callers skip backlink and semantic updates.
  */
 
@@ -65,7 +65,7 @@ describe('upsertDoc and replaceDoc on a linked path', () => {
     expect(ctx.notes.has('f/b.md')).toBe(false);
     expect(ctx.index.search('more').some((h) => h.id === 'f/b.md')).toBe(false);
     expect(ctx.backlinks.has('f/b.md')).toBe(false);
-    expect(ctx.parkedBacklinks?.get('f/b.md')?.map((r) => r.path)).toEqual(['a.md']);
+    expect(ctx.parkedPaths?.has('f/b.md')).toBe(true);
     // Its own outgoing ref to c.md is cleared, not re-added.
     expect(inbound(ctx, 'c.md')).toEqual([]);
     expect(ctx.generation).toBeGreaterThan(gen);

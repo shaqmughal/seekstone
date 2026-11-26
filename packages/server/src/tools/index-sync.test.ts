@@ -3,7 +3,9 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
+import { addNoteBacklinks } from '../index/backlinks.js';
 import { buildIndex } from '../index/build.js';
+import { replaceDoc } from '../index/doc.js';
 import { Journal } from '../journal.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from './append_note.js';
@@ -39,11 +41,12 @@ async function cold(): Promise<ServerContext> {
   return { ...(await buildIndex(root)), vaultRoot: root, policy: PERMISSIVE_POLICY };
 }
 
-/** target → sorted source paths, for targets that are live notes. */
+/** target → sorted "source:line:linkType" refs, for targets that are live notes. */
 function linkSets(c: ServerContext): Record<string, string[]> {
   const out: Record<string, string[]> = {};
   for (const [target, refs] of c.backlinks) {
-    if (c.notes.has(target) && refs.length > 0) out[target] = refs.map((r) => r.path).sort();
+    if (c.notes.has(target) && refs.length > 0)
+      out[target] = refs.map((r) => `${r.path}:${r.line}:${r.linkType}`).sort();
   }
   return out;
 }
@@ -201,6 +204,137 @@ describe('the index matches a cold rebuild right after each write', () => {
     expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
       'A/Beta.md',
     ]);
+  });
+
+  it('a link removed while its target is deleted stays gone after undo_write (SHA-572)', async () => {
+    await deleteNote(ctx, { path: 'Gamma.md' });
+    await replaceInNote(ctx, {
+      path: 'Home.md',
+      find: '[[Gamma]]',
+      replace: 'nothing',
+      regex: false,
+      caseSensitive: false,
+      wholeWord: false,
+      dryRun: false,
+    });
+    const [del] = listWrites(ctx, { path: 'Gamma.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
+      'A/Beta.md',
+    ]);
+  });
+
+  it('a link added while its target is deleted counts once create_note brings it back (SHA-572)', async () => {
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'Gamma.md' });
+    await appendNote(ctx, { path: 'C.md', content: 'now [[Gamma]]' });
+    await createNote(ctx, { path: 'Gamma.md', content: '# Gamma\n', overwrite: false });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Gamma.md' }).backlinks.map((b) => b.path)).toEqual([
+      'A/Beta.md',
+      'C.md',
+      'Home.md',
+    ]);
+  });
+
+  it('a note nobody linked to when it was deleted gets links added since (SHA-572)', async () => {
+    await createNote(ctx, { path: 'Lone.md', content: 'alone', overwrite: false });
+    await deleteNote(ctx, { path: 'Lone.md' });
+    await appendNote(ctx, { path: 'Home.md', content: 'see [[Lone]]' });
+    const [del] = listWrites(ctx, { path: 'Lone.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'Lone.md' }).backlinks.map((b) => b.path)).toEqual([
+      'Home.md',
+    ]);
+  });
+
+  it('a returning note takes a link back from a note with the same basename (SHA-572)', async () => {
+    await mkdir(join(root, 'B'));
+    await writeFile(join(root, 'A/Delta.md'), '# A Delta\n');
+    await writeFile(join(root, 'B/Delta.md'), '# B Delta\n');
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'A/Delta.md' });
+    // With A/Delta.md gone, [[Delta]] resolves to B/Delta.md, as the watcher would register it.
+    await writeFile(join(root, 'C.md'), 'now [[Delta]]\n');
+    replaceDoc(ctx, 'C.md', 'now [[Delta]]\n');
+    addNoteBacklinks(ctx, 'C.md', 'now [[Delta]]\n');
+    expect(getBacklinks(ctx, { path: 'B/Delta.md' }).backlinks.map((b) => b.path)).toEqual([
+      'C.md',
+    ]);
+    const [del] = listWrites(ctx, { path: 'A/Delta.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: 'A/Delta.md' }).backlinks.map((b) => b.path)).toEqual([
+      'C.md',
+    ]);
+    expect(getBacklinks(ctx, { path: 'B/Delta.md' }).total).toBe(0);
+  });
+
+  it('a returning note leaves the other note the line that still links to it (SHA-572)', async () => {
+    await mkdir(join(root, 'B'));
+    await writeFile(join(root, 'A/Delta.md'), '# A Delta\n');
+    await writeFile(join(root, 'B/Delta.md'), '# B Delta\n');
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'A/Delta.md' });
+    // With A/Delta.md gone, both lines resolve to B/Delta.md, so its ref records line 1.
+    const text = 'now [[Delta]]\nand [[B/Delta.md]]\n';
+    await writeFile(join(root, 'C.md'), text);
+    replaceDoc(ctx, 'C.md', text);
+    addNoteBacklinks(ctx, 'C.md', text);
+    expect(ctx.backlinks.get('B/Delta.md')?.map((r) => r.line)).toEqual([1]);
+    const [del] = listWrites(ctx, { path: 'A/Delta.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    // Line 1 now resolves to A/Delta.md; B/Delta.md keeps C.md through line 2.
+    const fresh = await cold();
+    for (const target of ['A/Delta.md', 'B/Delta.md']) {
+      expect(ctx.backlinks.get(target)).toEqual(fresh.backlinks.get(target));
+    }
+    expect(ctx.backlinks.get('B/Delta.md')?.map((r) => r.line)).toEqual([2]);
+  });
+
+  // The restore scan skips notes whose text can't name the returning note.
+  // Each case links in a way the plain text doesn't spell out.
+  const folded = 'rel: "[[Bank\n  Holidays]]"';
+  const bom = String.fromCharCode(0xfeff);
+  it.each([
+    ['a frontmatter link folded across lines', 'Bank Holidays.md', '', `---\n${folded}`],
+    ['a folded link after a BOM', 'Bank Holidays.md', '', `${bom}---\n${folded}`],
+    ['an escaped frontmatter link', 'Omega.md', '', '---\nrel: "[[\\u004Fmega]]"'],
+    ['a single-quoted alias', 'Quote.md', 'aliases: ["It\'s"]\n', "---\nrel: '[[It''s]]'"],
+    ['a name with a dotted capital I', 'İzmir.md', '', '---\nrel: "[[İZMIR]]"'],
+    ['the Kelvin sign', 'kelvin.md', '', '---\nrel: "[[Kelvin]]"'],
+    // Σ lowercases to ς at the end of a word, so ΟΣ.md's key ος isn't in οσ.md.
+    ['an explicit path with a final sigma', 'ΟΣ.md', '', '---\nx: 1\n---\nsee [[ΟΣ.md]]'],
+    ['a basename with a final sigma', 'ΟΣ.md', '', '---\nx: 1\n---\nsee [[ΟΣ]]'],
+    // A line that starts with --- doesn't close the block.
+    ['an escape after a ---x line', 'Omega.md', '', '---\n---x: 1\nrel: "[[\\x4Fmega]]"'],
+    ['a folded link after a ----: line', 'Bank Holidays.md', '', `---\n----: 1\n${folded}`],
+    [
+      'a quote after a ---x line',
+      'Quote.md',
+      'aliases: ["It\'s"]\n',
+      "---\n---x: 1\nrel: '[[It''s]]'",
+    ],
+  ])('a returning note gets a link from %s (SHA-572)', async (_, target, fm, head) => {
+    await writeFile(join(root, target), `---\n${fm}---\nbody\n`);
+    await writeFile(join(root, 'C.md'), `${head}\n---\nno other links\n`);
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    expect(getBacklinks(ctx, { path: target }).total).toBe(1);
+    await deleteNote(ctx, { path: target });
+    const [del] = listWrites(ctx, { path: target }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    expect(getBacklinks(ctx, { path: target }).backlinks.map((b) => b.path)).toEqual(['C.md']);
   });
 
   it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {
