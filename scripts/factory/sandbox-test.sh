@@ -186,13 +186,19 @@ else
   fail "run-agent didn't set up the agent's environment"
 fi
 CLAUDE_CODE_OAUTH_TOKEN="$FAKE" bash "$SB" run-agent sleep 5 &
+probe=$!
 sleep 2
-if sudo grep -lsF "$FAKE" /proc/[0-9]*/cmdline >/dev/null 2>&1; then
+# The pattern comes from a file, so this grep's own command line doesn't
+# hold the token.
+pattern=$(mktemp)
+printf '%s\n' "$FAKE" >"$pattern"
+if sudo grep -lsF -f "$pattern" /proc/[0-9]*/cmdline >/dev/null 2>&1; then
   fail "the token is on a command line"
 else
   pass "the token is on no command line"
 fi
-wait
+rm -f "$pattern"
+wait "$probe"
 if CLAUDE_CODE_OAUTH_TOKEN='' bash "$SB" run-agent bash -c '[ -z "${CLAUDE_CODE_OAUTH_TOKEN+x}" ]'; then
   pass "without a token, run-agent sets none"
 else
