@@ -265,6 +265,11 @@ refused "replace commondir" 'rm -f /srv/factory/git/commondir && test ! -e /srv/
 refused "point the checkout's .git elsewhere" 'echo "gitdir: /srv/factory/tmp/evilgit" >/srv/factory/repo/.git'
 refused "replace the checkout's .git" 'rm -f /srv/factory/repo/.git && test ! -e /srv/factory/repo/.git'
 refused "move the checkout's .git away" 'mv /srv/factory/repo/.git /srv/factory/repo/.g'
+if grep -q 'exec /usr/bin/git -c core.fsmonitor=false -c core.hooksPath=/dev/null "\$@"' /srv/factory/bin/git; then
+  pass "the git wrapper turns off fsmonitor and hooks"
+else
+  fail "the git wrapper doesn't turn off fsmonitor and hooks"
+fi
 refused "replace the git wrapper" 'echo "exec /usr/bin/git \"\$@\"" >/srv/factory/bin/git'
 refused "add to the git wrapper's folder" 'touch /srv/factory/bin/x'
 if [ "$(cgit 'command -v git')" = /srv/factory/bin/git ] && [ "$(sudo stat -c %U /srv/factory/bin/git)" = root ]; then
@@ -314,6 +319,7 @@ for g in asgit cgit; do
   $g 'git --no-optional-locks status --short >/dev/null; git status >/dev/null; git diff >/dev/null
     git diff HEAD >/dev/null; git log -1 >/dev/null
     git --no-optional-locks status --porcelain --untracked-files=normal --ignore-submodules=dirty >/dev/null
+    git -c core.quotepath=false ls-files --recurse-submodules >/dev/null
     git config user.name >/dev/null; cd sub && git status >/dev/null' || true
 done
 # Without the wrapper too: plain /usr/bin/git with no git environment, from

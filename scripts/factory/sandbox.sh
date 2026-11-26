@@ -167,7 +167,10 @@ cmd_setup() {
   agent_git_env | sed 's/^/export /' | {
     printf '#!/bin/sh\n# Pins git to the factory repository (sandbox.sh, SHA-660).\n'
     cat
-    printf 'exec /usr/bin/git "$@"\n'
+    # Command-line config outranks every config file and reaches the git
+    # that git starts inside a submodule, which reads that submodule's own
+    # config: no fsmonitor and no hooks from anywhere.
+    printf 'exec /usr/bin/git -c core.fsmonitor=false -c core.hooksPath=/dev/null "$@"\n'
   } | sudo tee "$BIN/git" >/dev/null
   sudo chown root:root "$BIN/git"
   sudo chmod 755 "$BIN/git"
