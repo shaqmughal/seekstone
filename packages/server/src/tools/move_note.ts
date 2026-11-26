@@ -1,6 +1,6 @@
 import type { BigIntStats } from 'node:fs';
-import { lstat, mkdir, readdir, readFile, rename } from 'node:fs/promises';
-import { dirname, join, relative, sep } from 'node:path';
+import { lstat, mkdir, readFile, rename } from 'node:fs/promises';
+import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
@@ -13,7 +13,7 @@ import {
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import { buildResolveMaps } from '../index/resolve.js';
 import { assertWritable, canWrite } from '../policy.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { foldPath, keyOnDisk, resolveVaultPath, vaultRelative } from '../vault-path.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 
 export const MoveNoteInput = z.object({
@@ -92,7 +92,7 @@ export async function moveNote(
   // replaced. They differ when `to` spells that note another way the
   // filesystem treats as the same path (case on APFS and NTFS, Unicode
   // normalization on APFS), in any segment. Only that rare path scans.
-  const toKey = vaultKey(ctx.vaultRoot, absTo);
+  const toKey = vaultRelative(ctx.vaultRoot, absTo);
   let replacedKey = toKey;
   let dstStat: BigIntStats | undefined;
   if (existingAtTo !== null && !ctx.notes.has(toKey)) {
@@ -178,14 +178,12 @@ export async function moveNote(
   // first, while that entry is still readable. Inbound refs stay under the
   // old key until the linkers are re-registered below, so they aren't parked.
   removeDoc(ctx, input.from, { parkInbound: false });
-  // Index the moved note under the name it now has on disk. APFS keeps the
-  // replaced file's spelling; drop the replaced entry if the name changed.
-  // The move and journal are done, so a failed lookup falls back to `to`.
-  const destKey =
-    replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey).catch(() => toKey);
-  if (replacedKey !== destKey) removeDoc(ctx, replacedKey, { parkInbound: false });
-  // With overwrite, the replaced note's outgoing refs go with it.
-  removeNoteBacklinks(ctx, destKey);
+  // Index the moved note under the name it now has on disk (APFS keeps the
+  // replaced file's spelling). keyOnDisk doesn't throw, so the lookup can't
+  // fail a move that is already done. With overwrite, the replaced entry and
+  // its outgoing refs go.
+  const destKey = replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey);
+  removeDoc(ctx, replacedKey, { parkInbound: false });
   if (upsertDoc(ctx, buildDoc(destKey, raw))) addNoteBacklinks(ctx, destKey, raw);
 
   // One resolution snapshot for both loops below: they change note content
@@ -238,13 +236,6 @@ export async function moveNote(
   return result;
 }
 
-/** Forward-slash vault-relative key for an absolute path inside the vault. */
-function vaultKey(vaultRoot: string, abs: string): string {
-  return relative(vaultRoot, abs).split(sep).join('/');
-}
-
-const fold = (name: string) => name.normalize('NFC').toLowerCase();
-
 async function sameFile(abs: string, target: BigIntStats): Promise<boolean> {
   const st = await lstat(abs, { bigint: true }).catch(() => undefined);
   return st?.ino === target.ino && st.dev === target.dev;
@@ -260,19 +251,9 @@ async function indexedSpelling(
   toKey: string,
   target: BigIntStats,
 ): Promise<string | undefined> {
-  const want = fold(toKey);
+  const want = foldPath(toKey);
   for (const key of ctx.notes.keys()) {
-    if (fold(key) === want && (await sameFile(join(ctx.vaultRoot, key), target))) return key;
+    if (foldPath(key) === want && (await sameFile(join(ctx.vaultRoot, key), target))) return key;
   }
   return undefined;
-}
-
-/** `key` as the directories on disk spell it, one segment at a time. */
-async function keyOnDisk(vaultRoot: string, key: string): Promise<string> {
-  const out: string[] = [];
-  for (const seg of key.split('/')) {
-    const names = await readdir(join(vaultRoot, ...out));
-    out.push(names.includes(seg) ? seg : (names.find((n) => fold(n) === fold(seg)) ?? seg));
-  }
-  return out.join('/');
 }

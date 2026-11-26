@@ -183,44 +183,6 @@ describe('moveNote', () => {
   );
 
   const fold = (k: string) => k.normalize('NFC').toLowerCase();
-  // Index keys that name `key` up to case and Unicode normalization.
-  const keysLike = (target: ServerContext, key: string) =>
-    [...target.notes.keys()].filter((k) => fold(k) === fold(key));
-
-  it('keeps the moved bytes when `to` is spelled ./name.md and the destination links to the source', async () => {
-    const local = freshCtx();
-    const srcRaw = 'the moved note';
-    const dstRaw = 'See [[ow-dot-src]] and [[ow-dot-other]].';
-    await writeFile(join(tmpDir, 'ow-dot-src.md'), srcRaw, 'utf8');
-    await writeFile(join(tmpDir, 'ow-dot-dst.md'), dstRaw, 'utf8');
-    seedInto(local, 'ow-dot-src.md', srcRaw);
-    seedInto(local, 'ow-dot-dst.md', dstRaw);
-    seedInto(local, 'ow-dot-other.md', '');
-    addNoteBacklinks(local, 'ow-dot-dst.md', dstRaw);
-
-    const result = await moveNote(local, {
-      from: 'ow-dot-src.md',
-      to: './ow-dot-dst.md',
-      overwrite: true,
-    });
-
-    // The candidate set is keyed by vault-relative path, so the destination
-    // must be excluded by its resolved key, not the raw `to` string.
-    expect(await readFile(join(tmpDir, 'ow-dot-dst.md'), 'utf8')).toBe(srcRaw);
-    expect(result.contentHash).toBe(contentHash(srcRaw));
-    expect(result.notesRewritten).toBe(0);
-    // One index entry for the destination, under its vault key, holding the
-    // moved note. The replaced note's outgoing links went with it.
-    expect([...local.notes.keys()].filter((k) => k.endsWith('ow-dot-dst.md'))).toEqual([
-      'ow-dot-dst.md',
-    ]);
-    expect(local.notes.get('ow-dot-dst.md')?.raw).toBe(srcRaw);
-    expect(local.backlinks.get('ow-dot-other.md') ?? []).toEqual([]);
-  });
-
-  // `to` spells an existing note differently. Whether that is the same file
-  // depends on the filesystem, so the test branches on a probe instead of
-  // skipping, and the invariant that holds everywhere is checked first.
   // The spelling the directories store for `key`, one segment at a time.
   async function storedSpelling(key: string): Promise<string> {
     const out: string[] = [];
@@ -232,6 +194,9 @@ describe('moveNote', () => {
     return out.join('/');
   }
 
+  // `to` spells an existing note differently. Whether that is the same file
+  // depends on the filesystem, so the test branches on a probe instead of
+  // skipping, and the invariant that holds everywhere is checked first.
   async function moveOntoRespelledDestination(
     dstKey: string,
     to: string,
@@ -265,7 +230,7 @@ describe('moveNote', () => {
       // The index holds one entry for it, under the name now on disk, with
       // the moved content. The replaced note's outgoing links are gone.
       const stored = await storedSpelling(dstKey);
-      expect(keysLike(local, dstKey)).toEqual([stored]);
+      expect([...local.notes.keys()].sort()).toEqual([otherKey, stored].sort());
       expect(local.notes.get(stored)?.raw).toBe(srcRaw);
       expect(local.backlinks.get(otherKey) ?? []).toEqual([]);
     } else {
@@ -276,6 +241,9 @@ describe('moveNote', () => {
       expect(local.notes.has(dstKey)).toBe(true);
     }
   }
+
+  it('keeps the moved bytes when `to` is spelled ./name.md and the destination links to the source', () =>
+    moveOntoRespelledDestination('ow-dot-dst.md', './ow-dot-dst.md', true));
 
   it('keeps the moved bytes when `to` names the existing destination in a different case', () =>
     moveOntoRespelledDestination('ow-case-dst.md', 'OW-CASE-DST.md', caseInsensitiveFs));
@@ -290,29 +258,32 @@ describe('moveNote', () => {
   it('keeps the moved bytes when `to` names the destination folder in a different case', () =>
     moveOntoRespelledDestination('ow-sub/dst.md', 'OW-SUB/dst.md', caseInsensitiveFs));
 
-  it('still rewrites a hard link to the overwritten destination', async () => {
+  // A hard link to the destination is its own note: after the rename it keeps
+  // the old inode, so its link is rewritten. When the index doesn't hold the
+  // destination, the inode backstop can't tell the two apart and leaves the
+  // link alone. An indexed note missing from disk doesn't fail the move.
+  it.each([
+    ['still rewrites a hard link to an indexed destination', true],
+    ['leaves a hard link to an unindexed destination alone', false],
+  ])('%s', async (_, indexDst) => {
     const local = freshCtx();
-    const srcRaw = 'the moved note';
-    const dstRaw = 'See [[hl-src]].';
-    await writeFile(join(tmpDir, 'hl-src.md'), srcRaw, 'utf8');
-    await writeFile(join(tmpDir, 'hl-dst.md'), dstRaw, 'utf8');
-    await link(join(tmpDir, 'hl-dst.md'), join(tmpDir, 'hl-other.md'));
-    for (const [k, raw] of [
-      ['hl-src.md', srcRaw],
-      ['hl-dst.md', dstRaw],
-      ['hl-other.md', dstRaw],
-    ] as const) {
-      seedInto(local, k, raw);
-      addNoteBacklinks(local, k, raw);
+    const [src, dst, hl] = [`hl-src-${indexDst}.md`, `hl-dst-${indexDst}.md`, `hl-${indexDst}.md`];
+    const dstRaw = `See [[${src.slice(0, -3)}]].`;
+    await writeFile(join(tmpDir, src), 'the moved note', 'utf8');
+    await writeFile(join(tmpDir, dst), dstRaw, 'utf8');
+    await link(join(tmpDir, dst), join(tmpDir, hl));
+    seedInto(local, src, 'the moved note');
+    for (const k of [hl, `stale-${hl}`, ...(indexDst ? [dst] : [])]) {
+      seedInto(local, k, dstRaw);
+      addNoteBacklinks(local, k, dstRaw);
     }
 
-    const result = await moveNote(local, { from: 'hl-src.md', to: 'hl-dst.md', overwrite: true });
+    const result = await moveNote(local, { from: src, to: dst, overwrite: true });
 
-    // The hard link is its own note: after the rename it keeps the old inode,
-    // so its link to the moved note is rewritten. Only the destination is not.
-    expect(await readFile(join(tmpDir, 'hl-dst.md'), 'utf8')).toBe(srcRaw);
-    expect(await readFile(join(tmpDir, 'hl-other.md'), 'utf8')).not.toBe(dstRaw);
-    expect(result.notesRewritten).toBe(1);
+    expect(await readFile(join(tmpDir, dst), 'utf8')).toBe('the moved note');
+    expect(local.notes.get(dst)?.raw).toBe('the moved note');
+    expect(result.contentHash).toBe(contentHash('the moved note'));
+    expect((await readFile(join(tmpDir, hl), 'utf8')) === dstRaw).toBe(!indexDst);
   });
 
   it('throws on path traversal in from', async () => {

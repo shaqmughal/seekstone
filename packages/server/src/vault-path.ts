@@ -1,5 +1,5 @@
-import { access } from 'node:fs/promises';
-import { relative, resolve, sep } from 'node:path';
+import { access, readdir } from 'node:fs/promises';
+import { join, relative, resolve, sep } from 'node:path';
 import { isReadable, type WritePolicy } from './policy.js';
 import { crossesLink, hasDotSegment, symlinkReadError } from './symlinks.js';
 
@@ -91,7 +91,7 @@ function indexKey(vaultRoot: string, abs: string): string {
 }
 
 /** Forward-slash vault-relative key, the same shape walkVault produces. */
-function vaultRelative(vaultRoot: string, abs: string): string {
+export function vaultRelative(vaultRoot: string, abs: string): string {
   return relative(vaultRoot, abs).split(sep).join('/');
 }
 
@@ -104,4 +104,23 @@ export function notFoundError(absPath: string): NodeJS.ErrnoException {
   err.syscall = 'open';
   err.path = absPath;
   return err;
+}
+
+/** Case- and normalization-folded form of a path, for comparing spellings. */
+export const foldPath = (path: string): string => path.normalize('NFC').toLowerCase();
+
+/**
+ * `key` as the directories on disk spell it, one segment at a time. On a
+ * case- or normalization-insensitive filesystem (APFS, NTFS) that can differ
+ * from the spelling passed in. An exact name wins; a segment that can't be
+ * listed or matched keeps its spelling. Lists every directory on the path,
+ * so keep it off hot paths.
+ */
+export async function keyOnDisk(vaultRoot: string, key: string): Promise<string> {
+  const out: string[] = [];
+  for (const seg of key.split('/')) {
+    const names = await readdir(join(vaultRoot, ...out)).catch(() => [] as string[]);
+    out.push(names.includes(seg) ? seg : (names.find((n) => foldPath(n) === foldPath(seg)) ?? seg));
+  }
+  return out.join('/');
 }

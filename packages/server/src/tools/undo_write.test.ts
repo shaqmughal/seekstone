@@ -435,6 +435,26 @@ describe('undo_write — semantics', () => {
 describe('dispatch integration', () => {
   const log = createLogger({ env: { SEEKSTONE_LOG_LEVEL: 'error' }, stderr: () => {} });
 
+  // `to` is journaled as given. BETA.md is Beta.md or a new file, depending on
+  // the filesystem; either way undo leaves one Beta.md with the old content.
+  it.each(['./Beta.md', 'BETA.md'])(
+    'undo of move_note onto %s leaves one index entry for the destination',
+    async (to) => {
+      const args = { from: 'Gamma.md', to, overwrite: true };
+      const moved = await dispatch(ctx, 'move_note', args, log);
+      expect(moved.isError).toBeUndefined();
+      const undone = await dispatch(ctx, 'undo_write', {}, log);
+      expect(undone.isError).toBeUndefined();
+
+      const fold = (k: string) => k.normalize('NFC').toLowerCase();
+      expect([...ctx.notes.keys()].filter((k) => fold(k).endsWith('beta.md'))).toEqual(['Beta.md']);
+      expect(ctx.notes.get('Beta.md')?.raw).toBe(B);
+      expect(await disk('Beta.md')).toBe(B);
+      expect(ctx.notes.get('Gamma.md')?.raw).toBe(C);
+      expect(await disk('Gamma.md')).toBe(C);
+    },
+  );
+
   it('list_writes rows are metadata only and undo_write round-trips through dispatch', async () => {
     await dispatch(ctx, 'append_note', { path: 'Alpha.md', content: 'via dispatch' }, log);
     const listed = await dispatch(ctx, 'list_writes', {}, log);

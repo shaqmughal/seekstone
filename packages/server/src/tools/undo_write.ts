@@ -8,7 +8,7 @@ import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
 import type { JournalEntry } from '../journal.js';
 import { assertWritable, isReadable, reservedFolder } from '../policy.js';
-import { resolveVaultPath } from '../vault-path.js';
+import { keyOnDisk, resolveVaultPath, vaultRelative } from '../vault-path.js';
 
 export const UndoWriteInput = z.object({
   seq: z
@@ -150,8 +150,9 @@ export async function undoWrite(
     const abs = resolveVaultPath(ctx, f.path);
     const pre = preimages.get(f.path) ?? null;
     if (pre === null) {
+      const key = await indexKey(ctx, abs);
       await rm(abs, { force: true });
-      removeDoc(ctx, f.path);
+      removeDoc(ctx, key);
       restored.push({ path: f.path, restoredHash: null });
     } else {
       await mkdir(dirname(abs), { recursive: true });
@@ -159,8 +160,9 @@ export async function undoWrite(
       // A note put back into .trash/ stays out of the index, as the walker
       // and watcher leave it out.
       if (f.path.endsWith('.md') && reservedFolder(f.path, ctx.vaultRoot) === undefined) {
-        removeNoteBacklinks(ctx, f.path);
-        if (upsertDoc(ctx, buildDoc(f.path, pre))) addNoteBacklinks(ctx, f.path, pre);
+        const key = await indexKey(ctx, abs);
+        removeNoteBacklinks(ctx, key);
+        if (upsertDoc(ctx, buildDoc(key, pre))) addNoteBacklinks(ctx, key, pre);
       }
       restored.push({ path: f.path, restoredHash: contentHash(pre) });
     }
@@ -174,6 +176,15 @@ export async function undoWrite(
   };
   if (conflicts.length > 0) result.overrode = conflicts;
   return result;
+}
+
+/**
+ * The index key for a journaled path, which keeps the caller's spelling
+ * (`./x.md`, `X.md`). Call it while the file exists.
+ */
+async function indexKey(ctx: ServerContext, abs: string): Promise<string> {
+  const key = vaultRelative(ctx.vaultRoot, abs);
+  return ctx.notes.has(key) ? key : keyOnDisk(ctx.vaultRoot, key);
 }
 
 function evicted(seq: number): Error {

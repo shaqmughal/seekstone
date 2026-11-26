@@ -1,9 +1,9 @@
-import { mkdtemp, readFile, rm } from 'node:fs/promises';
+import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve, sep } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { PERMISSIVE_POLICY } from './policy.js';
-import { containVaultPath, notFoundError, resolveVaultPath } from './vault-path.js';
+import { containVaultPath, keyOnDisk, notFoundError, resolveVaultPath } from './vault-path.js';
 
 // resolve() gives the root a drive letter on Windows, so comparisons inside
 // resolveVaultPath (which resolves its inputs) stay consistent cross-platform.
@@ -89,6 +89,24 @@ describe('notFoundError', () => {
       expect(ours.code).toBe((real as NodeJS.ErrnoException).code);
     } finally {
       await rm(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+describe('keyOnDisk', () => {
+  it('spells each segment as the directory stores it, and keeps what it cannot find', async () => {
+    const root = await mkdtemp(join(tmpdir(), 'seekstone-keyondisk-'));
+    try {
+      await mkdir(join(root, 'Sub'));
+      await writeFile(join(root, 'Sub', 'caf\u00e9.md'), '');
+      // Exact names win; other spellings fold to the stored one.
+      expect(await keyOnDisk(root, 'Sub/caf\u00e9.md')).toBe('Sub/caf\u00e9.md');
+      expect(await keyOnDisk(root, 'sub/CAFE\u0301.md')).toBe('Sub/caf\u00e9.md');
+      // No match in a listed directory, and a directory that can't be listed.
+      expect(await keyOnDisk(root, 'Sub/none.md')).toBe('Sub/none.md');
+      expect(await keyOnDisk(root, 'gone/x.md')).toBe('gone/x.md');
+    } finally {
+      await rm(root, { recursive: true, force: true });
     }
   });
 });
