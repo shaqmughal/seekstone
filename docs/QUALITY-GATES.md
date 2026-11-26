@@ -206,10 +206,22 @@ Tickets run one after another, each as its own `factory.yml` run, and the job wa
 | Job | Holds | Does |
 | --- | --- | --- |
 | `prepare` | Linear key | Runs the gate, writes `ticket.md`, moves the ticket. |
-| `work` | Claude Code token only | Runs the playbook. No Linear key, no write token, no web access, no `git push`. Its only output is an artifact with `pr.md` or `blocked.md` and a git bundle. The transcript is kept as an artifact for 14 days. |
+| `work` | Claude Code token only | Runs the playbook in a sandbox (see below). No Linear key, no write token, no network, no `git push`. Its only output is an artifact with `pr.md` or `blocked.md` and a git bundle. The transcript is kept as an artifact for 14 days. |
 | `local-review` | CodeRabbit key | Runs the CodeRabbit CLI on the agent's branch and adds the result to `pr.md`. Runs no agent and no code from the branch. |
 | `review-fix` | Claude Code token only | The agent's pass over the local review's findings, with the same limits as `work`. |
 | `deliver` | Linear key, factory app token | Pushes the branch and opens a draft PR as the factory GitHub App (on a fix run, pushes to the PR branch), or comments the agent's questions on the ticket and moves it to Blocked. |
+
+### Keeping the token from the agent
+
+Treat the agent as hostile: a ticket, a file in the repo or a quoted review finding can try to talk it into anything. `work` and `review-fix` hold the Claude Code token, GitHub keeps a job's secrets in the runner's memory for the whole job, and the runner user has `sudo`. So no code the agent controls may run outside its sandbox at any point in those jobs. Before SHA-660, any command the agent ran could read the token from `/proc/<pid>/environ` of the `claude` process.
+
+Claude Code runs each of the agent's commands in bubblewrap, with its own PID namespace and `/proc`, no network, and write access to the checkout and `$FACTORY_DIR` only. The sandbox has to start or the run fails, and no command may run outside it. `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB` also strips the token from the commands' environment, and Docker is stopped before the agent starts. Claude Code's own file tools can't read or write outside the checkout and `$FACTORY_DIR`, can't read `/proc`, and can't write `.git`.
+
+The run loads no project settings, hooks or MCP servers from the checkout, so editing `.claude/settings.json` or a hook script has no effect. With hooks off, the agent runs `npm run format` itself.
+
+Nothing the agent wrote runs outside the sandbox. A fix run and `review-fix` check out the factory's own branch, so they install it with `npm ci --ignore-scripts` and don't build it. Only the agent step holds the token; the quota check after it is a separate step. The steps after the agent restore the git config saved before it ran, turn git hooks off, and run the factory scripts from the workflow's own commit instead of the checkout.
+
+Before the transcript and outcome artifacts upload, `scripts/factory/secret-scan.mjs` checks them and every new commit for the token. It works from the token's SHA-256 and length, recorded before the agent starts, so the scan step never holds the token. On a hit the step deletes the outputs and fails, and nothing reaches the PR, the branch or the ticket. The scan only finds the token as written, not encoded, so it is a second line behind the sandbox.
 
 ### Saved work
 
