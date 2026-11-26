@@ -15,11 +15,8 @@ import { moveNote } from './move_note.js';
 let tmpDir: string;
 let ctx: ServerContext;
 
-/**
- * Whether the temp filesystem treats two different spellings as one file.
- * APFS and NTFS fold case; APFS also ignores Unicode normalization. Linux
- * filesystems usually do neither, so the tests that need it skip there.
- */
+// Whether the temp filesystem treats two spellings as one file. APFS and NTFS
+// fold case, APFS also Unicode normalization; Linux usually does neither.
 function sameFileOnDisk(written: string, probe: string): boolean {
   const dir = mkdtempSync(join(tmpdir(), 'seekstone-fs-probe-'));
   try {

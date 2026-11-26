@@ -256,35 +256,23 @@ describe('move_note and delete_note return contentHash to the client (SHA-581)',
 
   it('move_note ends its text with the hash of the note at its new path', async () => {
     const { logger } = recordingLogger();
-    const res = await dispatch(
-      hashCtx,
-      'move_note',
-      { from: 'subject.md', to: 'sub/moved.md' },
-      logger,
-    );
+    const args = { from: 'subject.md', to: 'sub/moved.md' };
+    const res = await dispatch(hashCtx, 'move_note', args, logger);
     expect(res.isError).toBeUndefined();
     const hash = endingHash(res.content[0]?.text ?? '');
     expect(hash).toBe(sha256(await readFile(join(hashVault, 'sub', 'moved.md'))));
 
     // The returned hash chains straight into a prevHash edit without a re-read.
-    const append = await dispatch(
-      hashCtx,
-      'append_note',
-      { path: 'sub/moved.md', content: 'more\n', prevHash: hash },
-      logger,
-    );
+    const edit = { path: 'sub/moved.md', content: 'more\n', prevHash: hash };
+    const append = await dispatch(hashCtx, 'append_note', edit, logger);
     expect(append.isError).toBeUndefined();
   });
 
   it('move_note still ends with the hash when it reports skipped notes', async () => {
     hashCtx.policy = parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'subject.md,moved.md' });
     const { logger } = recordingLogger();
-    const res = await dispatch(
-      hashCtx,
-      'move_note',
-      { from: 'subject.md', to: 'moved.md' },
-      logger,
-    );
+    const args = { from: 'subject.md', to: 'moved.md' };
+    const res = await dispatch(hashCtx, 'move_note', args, logger);
     expect(res.isError).toBeUndefined();
     const text = res.content[0]?.text ?? '';
     expect(text).toContain(

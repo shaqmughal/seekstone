@@ -110,11 +110,8 @@ export function notFoundError(absPath: string): NodeJS.ErrnoException {
 export const foldPath = (path: string): string => path.normalize('NFC').toLowerCase();
 
 /**
- * `key` as the directories on disk spell it, one segment at a time. On a
- * case- or normalization-insensitive filesystem (APFS, NTFS) that can differ
- * from the spelling passed in. An exact name wins; a segment that can't be
- * listed or matched keeps its spelling. Lists every directory on the path,
- * so keep it off hot paths.
+ * `key` as the directories on disk spell it. An exact name wins, then a folded
+ * match; otherwise a segment keeps its spelling. Lists each directory: not hot.
  */
 export async function keyOnDisk(vaultRoot: string, key: string): Promise<string> {
   const out: string[] = [];

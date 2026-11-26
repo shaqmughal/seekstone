@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm } from 'node:fs/promises';
+import { lstat, mkdir, readFile, rm } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -179,12 +179,14 @@ export async function undoWrite(
 }
 
 /**
- * The index key for a journaled path, which keeps the caller's spelling
- * (`./x.md`, `X.md`). Call it while the file exists.
+ * The index key for a journaled path (`./x.md`, `X.md`). Use the disk's
+ * spelling only if the path exists, so a missing `X.md` can't fold onto `x.md`.
  */
 async function indexKey(ctx: ServerContext, abs: string): Promise<string> {
   const key = vaultRelative(ctx.vaultRoot, abs);
-  return ctx.notes.has(key) ? key : keyOnDisk(ctx.vaultRoot, key);
+  if (ctx.notes.has(key)) return key;
+  const st = await lstat(abs).catch(() => undefined);
+  return st === undefined ? key : keyOnDisk(ctx.vaultRoot, key);
 }
 
 function evicted(seq: number): Error {

@@ -88,10 +88,8 @@ export async function moveNote(
     throw new Error(`Destination already exists: ${input.to}. Pass overwrite: true to replace it.`);
   }
 
-  // The destination's vault key, and with overwrite the key of the note being
-  // replaced. They differ when `to` spells that note another way the
-  // filesystem treats as the same path (case on APFS and NTFS, Unicode
-  // normalization on APFS), in any segment. Only that rare path scans.
+  // The destination's vault key, and with overwrite the replaced note's key.
+  // They differ when the filesystem folds case or Unicode normalization.
   const toKey = vaultRelative(ctx.vaultRoot, absTo);
   let replacedKey = toKey;
   let dstStat: BigIntStats | undefined;
@@ -119,13 +117,10 @@ export async function moveNote(
     }
     candidates.delete(input.from);
     // With overwrite, the old destination is discarded. Rewriting its links
-    // would write its stale bytes back over the moved note. Candidate keys are
-    // vault-relative, so match them by key, not the raw `to` string.
+    // would write its stale bytes back over the moved note.
     candidates.delete(toKey);
     candidates.delete(replacedKey);
-    // Backstop for a spelling the fold above can't match: drop any candidate
-    // that is the destination file. It runs only when no index key matched,
-    // so a hard link to an indexed destination is still rewritten.
+    // Backstop when no index key matched: drop the destination file itself.
     if (dstStat !== undefined && replacedKey === toKey) {
       for (const path of candidates) {
         if (await sameFile(join(ctx.vaultRoot, path), dstStat)) candidates.delete(path);
@@ -178,10 +173,8 @@ export async function moveNote(
   // first, while that entry is still readable. Inbound refs stay under the
   // old key until the linkers are re-registered below, so they aren't parked.
   removeDoc(ctx, input.from, { parkInbound: false });
-  // Index the moved note under the name it now has on disk (APFS keeps the
-  // replaced file's spelling). keyOnDisk doesn't throw, so the lookup can't
-  // fail a move that is already done. With overwrite, the replaced entry and
-  // its outgoing refs go.
+  // Index under the name now on disk: APFS keeps the replaced spelling, NTFS
+  // takes `to`'s. keyOnDisk doesn't throw, so it can't fail a finished move.
   const destKey = replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey);
   removeDoc(ctx, replacedKey, { parkInbound: false });
   if (upsertDoc(ctx, buildDoc(destKey, raw))) addNoteBacklinks(ctx, destKey, raw);
@@ -241,11 +234,7 @@ async function sameFile(abs: string, target: BigIntStats): Promise<boolean> {
   return st?.ino === target.ino && st.dev === target.dev;
 }
 
-/**
- * The index key that names the destination file under another spelling:
- * equal to `toKey` after case-folding and NFC over the whole path, and the
- * same file by dev and inode (bigint keeps 64-bit NTFS file IDs exact).
- */
+/** The index key folding to `toKey` that is the same file (bigint dev/ino). */
 async function indexedSpelling(
   ctx: ServerContext,
   toKey: string,
