@@ -178,13 +178,25 @@ function mayLinkTo(raw: string, { keys, re, squeezed }: LinkKeys): boolean {
   // parseFrontmatter allows a leading BOM.
   const start = raw.charCodeAt(0) === 0xfeff ? 1 : 0;
   if (!raw.startsWith('---', start)) return false;
-  const end = raw.indexOf('\n---', start + 3);
+  const end = frontmatterEnd(raw, start + 3);
   const slash = raw.indexOf('\\');
   if (slash !== -1 && (end === -1 || slash < end)) return true;
   if (squeezed.length === 0) return false;
   const block = (end === -1 ? raw : raw.slice(0, end)).toLowerCase();
   const flat = block.replace(/\s+/g, '').replaceAll("''", "'");
   return squeezed.some((key) => flat.includes(key));
+}
+
+/**
+ * Where the frontmatter block closes, or later: parseFrontmatter closes it at
+ * the first `\n---\n` or `\r\n---\r\n`, and a line that only starts with `---`
+ * doesn't close it. The CRLF form is looked for only when there's no LF one,
+ * which saves a second pass over LF notes; a later end only makes the block
+ * mayLinkTo checks bigger. -1 when the block is unterminated.
+ */
+function frontmatterEnd(raw: string, from: number): number {
+  const lf = raw.indexOf('\n---\n', from);
+  return lf !== -1 ? lf : raw.indexOf('\r\n---\r\n', from);
 }
 
 /** Drop every ref that points at `path` (nothing resolves to it anymore). */

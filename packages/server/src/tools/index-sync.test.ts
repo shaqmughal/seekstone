@@ -311,6 +311,15 @@ describe('the index matches a cold rebuild right after each write', () => {
     ['a single-quoted alias', 'Quote.md', 'aliases: ["It\'s"]\n', "---\nrel: '[[It''s]]'"],
     ['a name with a dotted capital I', 'İzmir.md', '', '---\nrel: "[[İZMIR]]"'],
     ['the Kelvin sign', 'kelvin.md', '', '---\nrel: "[[Kelvin]]"'],
+    // A line that starts with --- doesn't close the block.
+    ['an escape after a ---x line', 'Omega.md', '', '---\n---x: 1\nrel: "[[\\x4Fmega]]"'],
+    ['a folded link after a ----: line', 'Bank Holidays.md', '', `---\n----: 1\n${folded}`],
+    [
+      'a quote after a ---x line',
+      'Quote.md',
+      'aliases: ["It\'s"]\n',
+      "---\n---x: 1\nrel: '[[It''s]]'",
+    ],
   ])('a returning note gets a link from %s (SHA-572)', async (_, target, fm, head) => {
     await writeFile(join(root, target), `---\n${fm}---\nbody\n`);
     await writeFile(join(root, 'C.md'), `${head}\n---\nno other links\n`);
