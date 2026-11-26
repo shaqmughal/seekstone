@@ -1,3 +1,4 @@
+import { existsSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -13,6 +14,23 @@ import { moveNote } from './move_note.js';
 
 let tmpDir: string;
 let ctx: ServerContext;
+
+/**
+ * Whether the temp filesystem treats two different spellings as one file.
+ * APFS and NTFS fold case; APFS also ignores Unicode normalization. Linux
+ * filesystems usually do neither, so the tests that need it skip there.
+ */
+function sameFileOnDisk(written: string, probe: string): boolean {
+  const dir = mkdtempSync(join(tmpdir(), 'seekstone-fs-probe-'));
+  try {
+    writeFileSync(join(dir, written), '');
+    return existsSync(join(dir, probe));
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+}
+const caseInsensitiveFs = sameFileOnDisk('probe.md', 'PROBE.md');
+const normalizationInsensitiveFs = sameFileOnDisk('caf\u00e9.md', 'cafe\u0301.md');
 
 function freshCtx(): ServerContext {
   const index = new MiniSearch<IndexedNote>({
@@ -186,6 +204,37 @@ describe('moveNote', () => {
     expect(result.contentHash).toBe(contentHash(srcRaw));
     expect(result.notesRewritten).toBe(0);
   });
+
+  // The index key and `to` differ as strings but name one file, so the old
+  // destination must not be rewritten over the moved note.
+  async function moveOntoRespelledDestination(dstKey: string, to: string): Promise<void> {
+    const local = freshCtx();
+    const srcRaw = 'the moved note';
+    const srcKey = `src-for-${dstKey}`;
+    const dstRaw = `See [[${srcKey.slice(0, -3)}]].`;
+    await writeFile(join(tmpDir, srcKey), srcRaw, 'utf8');
+    await writeFile(join(tmpDir, dstKey), dstRaw, 'utf8');
+    seedInto(local, srcKey, srcRaw);
+    seedInto(local, dstKey, dstRaw);
+    addNoteBacklinks(local, dstKey, dstRaw);
+
+    const result = await moveNote(local, { from: srcKey, to, overwrite: true });
+
+    const onDisk = await readFile(join(tmpDir, to), 'utf8');
+    expect(onDisk).toBe(srcRaw);
+    expect(result.contentHash).toBe(contentHash(onDisk));
+    expect(result.notesRewritten).toBe(0);
+  }
+
+  it.skipIf(!caseInsensitiveFs)(
+    'keeps the moved bytes when `to` names the existing destination in a different case',
+    () => moveOntoRespelledDestination('ow-case-dst.md', 'OW-CASE-DST.md'),
+  );
+
+  it.skipIf(!normalizationInsensitiveFs)(
+    'keeps the moved bytes when `to` names the existing destination in NFD instead of NFC',
+    () => moveOntoRespelledDestination('ow-caf\u00e9.md', 'ow-cafe\u0301.md'),
+  );
 
   it('throws on path traversal in from', async () => {
     await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(

@@ -1,4 +1,4 @@
-import { mkdir, readFile, rename } from 'node:fs/promises';
+import { lstat, mkdir, readFile, rename } from 'node:fs/promises';
 import { dirname, join, relative, sep } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -110,6 +110,17 @@ export async function moveNote(
     // vault-relative, so use the resolved key: `./x.md` names the same file
     // as `x.md`.
     candidates.delete(relative(ctx.vaultRoot, absTo).split(sep).join('/'));
+    // On a case- or normalization-insensitive filesystem (APFS, NTFS) `to`
+    // can name an indexed note under a different spelling, e.g. DST.md for
+    // dst.md. Compare by inode, and only when overwriting, so plain moves
+    // pay nothing. bigint stats keep 64-bit NTFS file IDs exact.
+    if (existingAtTo !== null && candidates.size > 0) {
+      const dst = await lstat(absTo, { bigint: true });
+      for (const path of candidates) {
+        const st = await lstat(join(ctx.vaultRoot, path), { bigint: true }).catch(() => undefined);
+        if (st !== undefined && st.ino === dst.ino && st.dev === dst.dev) candidates.delete(path);
+      }
+    }
   }
 
   // Compute every link rewrite against the post-move resolution view BEFORE
