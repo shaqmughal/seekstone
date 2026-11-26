@@ -275,6 +275,31 @@ describe('the index matches a cold rebuild right after each write', () => {
     expect(getBacklinks(ctx, { path: 'B/Delta.md' }).total).toBe(0);
   });
 
+  it('a returning note leaves the other note the line that still links to it (SHA-572)', async () => {
+    await mkdir(join(root, 'B'));
+    await writeFile(join(root, 'A/Delta.md'), '# A Delta\n');
+    await writeFile(join(root, 'B/Delta.md'), '# B Delta\n');
+    await writeFile(join(root, 'C.md'), 'no links yet\n');
+    ctx = { ...(await cold()), journal: ctx.journal };
+    prime(ctx);
+    await deleteNote(ctx, { path: 'A/Delta.md' });
+    // With A/Delta.md gone, both lines resolve to B/Delta.md, so its ref records line 1.
+    const text = 'now [[Delta]]\nand [[B/Delta.md]]\n';
+    await writeFile(join(root, 'C.md'), text);
+    replaceDoc(ctx, 'C.md', text);
+    addNoteBacklinks(ctx, 'C.md', text);
+    expect(ctx.backlinks.get('B/Delta.md')?.map((r) => r.line)).toEqual([1]);
+    const [del] = listWrites(ctx, { path: 'A/Delta.md' }).writes;
+    await undoWrite(ctx, { seq: del?.seq });
+    await expectInSync();
+    // Line 1 now resolves to A/Delta.md; B/Delta.md keeps C.md through line 2.
+    const fresh = await cold();
+    for (const target of ['A/Delta.md', 'B/Delta.md']) {
+      expect(ctx.backlinks.get(target)).toEqual(fresh.backlinks.get(target));
+    }
+    expect(ctx.backlinks.get('B/Delta.md')?.map((r) => r.line)).toEqual([2]);
+  });
+
   it('delete_note, restore by moving out of .trash/, then undo each step (SHA-560)', async () => {
     const live = () => [...ctx.notes.keys()].filter((p) => p.toLowerCase().startsWith('.trash'));
     await deleteNote(ctx, { path: 'Gamma.md' });

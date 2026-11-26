@@ -1,4 +1,4 @@
-import { extractLinksWithLines } from '@seekstone/core/extract';
+import { extractLinksWithLines, type LinkRecord } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext } from '../context.js';
 import { bumpGeneration } from './generation.js';
 import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
@@ -74,21 +74,19 @@ export function restoreInboundRefs(
 ): void {
   const maps = buildResolveMaps(notes);
   const refs: BacklinkRef[] = [];
-  // Each linking note's current targets.
-  const targetsOf = new Map<string, Set<string>>();
+  // Each linking note's current targets, with the first link to each: the
+  // one a cold build records.
+  const targetsOf = new Map<string, Map<string, LinkRecord>>();
   for (const [src, doc] of notes) {
     if (src === path) continue;
-    let ref: BacklinkRef | undefined;
-    const targets = new Set<string>();
+    const targets = new Map<string, LinkRecord>();
     for (const link of extractLinksWithLines(doc.raw)) {
       const resolved = resolveLink(link.target, notes, maps);
-      if (resolved === undefined) continue;
-      targets.add(resolved);
-      if (resolved === path && ref === undefined)
-        ref = { path: src, line: link.line, linkType: link.linkType };
+      if (resolved !== undefined && !targets.has(resolved)) targets.set(resolved, link);
     }
-    if (ref === undefined) continue;
-    refs.push(ref);
+    const first = targets.get(path);
+    if (first === undefined) continue;
+    refs.push({ path: src, line: first.line, linkType: first.linkType });
     targetsOf.set(src, targets);
   }
   if (refs.length > 0)
@@ -99,11 +97,28 @@ export function restoreInboundRefs(
   else backlinks.delete(path);
   if (targetsOf.size === 0) return;
   // The note can take a link over from a note with the same basename or
-  // alias. Drop the linker from any target its links no longer resolve to.
+  // alias. Drop the linker from any target its links no longer resolve to,
+  // and point a kept ref at the first link that still does.
   for (const [target, arr] of backlinks) {
     if (target === path) continue;
-    const kept = arr.filter((r) => targetsOf.get(r.path)?.has(target) !== false);
-    if (kept.length !== arr.length) backlinks.set(target, kept);
+    let next: BacklinkRef[] | undefined;
+    for (let i = 0; i < arr.length; i++) {
+      const r = arr[i] as BacklinkRef;
+      const targets = targetsOf.get(r.path);
+      if (targets === undefined) {
+        next?.push(r);
+        continue;
+      }
+      const link = targets.get(target);
+      const same = link !== undefined && link.line === r.line && link.linkType === r.linkType;
+      if (same) {
+        next?.push(r);
+        continue;
+      }
+      next ??= arr.slice(0, i);
+      if (link !== undefined) next.push({ path: r.path, line: link.line, linkType: link.linkType });
+    }
+    if (next !== undefined) backlinks.set(target, next);
   }
 }
 
