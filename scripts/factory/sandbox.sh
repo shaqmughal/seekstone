@@ -263,10 +263,12 @@ cmd_package() {
       delivering=false
     fi
   fi
+  # If the leftovers can't be committed (an empty repository planted in the
+  # checkout makes git add fail), still bundle what was committed.
   if [ "$delivering" = false ] && [ -n "$(git status --porcelain)" ]; then
-    git add -A
-    git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
+    if ! { git add -A && git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped"; }; then
       echo "::warning::could not commit the uncommitted changes"
+    fi
   fi
   rm -f "$IO/candidate.bundle"
   if [ "$(git rev-list --count "$BASE..HEAD" 2>/dev/null || echo 0)" -gt 0 ]; then

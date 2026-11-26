@@ -282,7 +282,10 @@ asgit '
   ungit --git-dir=/srv/factory/tmp/evilgit config core.fsmonitor /srv/factory/tmp/evil.sh
   ungit --git-dir=/srv/factory/tmp/evilgit config filter.evil.clean /srv/factory/tmp/evil.sh
   printf "[extensions]\n\tworktreeConfig = true\n[core]\n\tfsmonitor = /srv/factory/tmp/evil.sh\n" >/srv/factory/git/config.worktree
-  mkdir -p sub && cp -r /srv/factory/tmp/evilgit sub/.git
+  ungit init -q sub
+  ungit -C sub config core.fsmonitor /srv/factory/tmp/evil.sh
+  ungit -C sub config filter.evil.clean /srv/factory/tmp/evil.sh
+  ungit -C sub -c user.name=x -c user.email=x@example.com commit -q --allow-empty -m x
   echo "* filter=evil" >/srv/factory/repo/.gitattributes
   echo "Title" >/srv/factory/io/blocked.md
 '
