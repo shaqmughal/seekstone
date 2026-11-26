@@ -138,10 +138,19 @@ interface LinkKeys {
   squeezed: string[];
 }
 
+/**
+ * Lowercase with final sigma folded to σ. Σ is the only character whose
+ * lowercase depends on its neighbours (ς at the end of a word), so `ΟΣ` gives
+ * `ος` but `ΟΣ.md` gives `οσ.md`. Folding both sides keeps the check exact.
+ */
+function fold(text: string): string {
+  return text.toLowerCase().replaceAll('ς', 'σ');
+}
+
 function linkKeys(path: string, fm: Record<string, unknown> | null): LinkKeys {
-  const pathNoExt = path.replace(/\.md$/i, '').toLowerCase();
+  const pathNoExt = fold(path.replace(/\.md$/i, ''));
   const keys = [pathNoExt.split('/').pop() ?? pathNoExt];
-  for (const alias of frontmatterAliases(fm)) keys.push(alias.toLowerCase());
+  for (const alias of frontmatterAliases(fm)) keys.push(fold(alias));
   // For ASCII keys a case-insensitive regex finds what toLowerCase would,
   // without copying every note: the only character that lowercases to ASCII
   // and doesn't match under /iu is U+0130, whose lowercase adds U+0307, so it
@@ -172,7 +181,7 @@ function mayLinkTo(raw: string, { keys, re, squeezed }: LinkKeys): boolean {
   if (re !== undefined) {
     if (re.test(raw)) return true;
   } else {
-    const lower = raw.toLowerCase();
+    const lower = fold(raw);
     if (keys.some((key) => lower.includes(key))) return true;
   }
   // parseFrontmatter allows a leading BOM.
@@ -182,7 +191,7 @@ function mayLinkTo(raw: string, { keys, re, squeezed }: LinkKeys): boolean {
   const slash = raw.indexOf('\\');
   if (slash !== -1 && (end === -1 || slash < end)) return true;
   if (squeezed.length === 0) return false;
-  const block = (end === -1 ? raw : raw.slice(0, end)).toLowerCase();
+  const block = fold(end === -1 ? raw : raw.slice(0, end));
   const flat = block.replace(/\s+/g, '').replaceAll("''", "'");
   return squeezed.some((key) => flat.includes(key));
 }

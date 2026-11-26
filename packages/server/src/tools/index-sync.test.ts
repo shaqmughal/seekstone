@@ -304,13 +304,17 @@ describe('the index matches a cold rebuild right after each write', () => {
   // The restore scan skips notes whose text can't name the returning note.
   // Each case links in a way the plain text doesn't spell out.
   const folded = 'rel: "[[Bank\n  Holidays]]"';
+  const bom = String.fromCharCode(0xfeff);
   it.each([
     ['a frontmatter link folded across lines', 'Bank Holidays.md', '', `---\n${folded}`],
-    ['a folded link after a BOM', 'Bank Holidays.md', '', `﻿---\n${folded}`],
+    ['a folded link after a BOM', 'Bank Holidays.md', '', `${bom}---\n${folded}`],
     ['an escaped frontmatter link', 'Omega.md', '', '---\nrel: "[[\\u004Fmega]]"'],
     ['a single-quoted alias', 'Quote.md', 'aliases: ["It\'s"]\n', "---\nrel: '[[It''s]]'"],
     ['a name with a dotted capital I', 'İzmir.md', '', '---\nrel: "[[İZMIR]]"'],
     ['the Kelvin sign', 'kelvin.md', '', '---\nrel: "[[Kelvin]]"'],
+    // Σ lowercases to ς at the end of a word, so ΟΣ.md's key ος isn't in οσ.md.
+    ['an explicit path with a final sigma', 'ΟΣ.md', '', '---\nx: 1\n---\nsee [[ΟΣ.md]]'],
+    ['a basename with a final sigma', 'ΟΣ.md', '', '---\nx: 1\n---\nsee [[ΟΣ]]'],
     // A line that starts with --- doesn't close the block.
     ['an escape after a ---x line', 'Omega.md', '', '---\n---x: 1\nrel: "[[\\x4Fmega]]"'],
     ['a folded link after a ----: line', 'Bank Holidays.md', '', `---\n----: 1\n${folded}`],
