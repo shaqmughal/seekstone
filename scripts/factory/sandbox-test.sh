@@ -333,6 +333,14 @@ if [ -s /tmp/sbtest-git-ran ]; then
 else
   pass "git never ran anything the agent planted"
 fi
+# And the submodule route is real: with the protection turned off for one
+# command, git does run the planted filter.
+cgit 'git -c diff.ignoreSubmodules=none status >/dev/null 2>&1' || true
+if [ -s /tmp/sbtest-git-ran ]; then
+  pass "without the submodule setting, git would run the planted filter"
+else
+  fail "the submodule route didn't fire even unprotected, so the check above proves less"
+fi
 bash "$SB" collect "$WORK/out" || fail "collect"
 ahead=$(bash "$SB" verify-bundle "$WORK/mirror" "$BASE_SHA" "$WORK/out/candidate.bundle" "$WORK/out/work.bundle") || fail "verify-bundle"
 if [ "$ahead" = 2 ]; then pass "verify-bundle found the 2 new commits"; else fail "verify-bundle found '$ahead' commits, expected 2"; fi
