@@ -290,6 +290,8 @@ describe('isTestSupport', () => {
       'src/tools/fixture_loader_service.ts',
       'packages/harness/src/fixtures/generate.ts',
       'src/fixtures/load.mjs',
+      'src/fixtures/mock-generator.mjs',
+      'packages/harness/src/fixtures/stub-data.ts',
       'src/fixtures.md',
       'src/stub_resolver.ts',
       'scripts/quality-rules.mjs',

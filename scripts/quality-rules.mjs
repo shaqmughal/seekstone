@@ -32,7 +32,9 @@ export const isTestFile = (path) => TEST_FILE.test(path);
  */
 const TEST_SUPPORT =
   /(?:^|\/)(?:__fixtures__|__mocks__|testdata|test-utils?)\/|(?:^|\/)fixtures\/(?:[^/]+\/)*[^/]+\.(?:md|json|txt|ya?ml)$|(?:^|\/)(?:stub|mock|fake)s?[-.][^/]*$|[-_.](?:stub|mock|fake|fixture)s?\.[cm]?[jt]sx?$|(?:^|\/)test-?utils?\.[cm]?[jt]sx?$/i;
-export const isTestSupport = (path) => TEST_SUPPORT.test(path);
+/** Code under a plain `fixtures/` directory: source, whatever its name says. */
+const FIXTURE_CODE = /(?:^|\/)fixtures\/(?:[^/]+\/)*[^/]+\.[cm]?[jt]sx?$/i;
+export const isTestSupport = (path) => !FIXTURE_CODE.test(path) && TEST_SUPPORT.test(path);
 
 /**
  * The PR's source files for failing-test-first: changed ones to restore from
