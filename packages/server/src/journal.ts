@@ -162,20 +162,6 @@ function writeDurable(dest: string, content: string): void {
   }
 }
 
-/**
- * The repair marker's identity: inode, size and mtime ('' when there is none
- * yet), or undefined when it can't be read. writeDurable renames a new file
- * into place, so every rewrite gets a new inode.
- */
-function markerId(path: string): string | undefined {
-  try {
-    const st = statSync(path, { throwIfNoEntry: false, bigint: true });
-    return st ? `${st.ino}:${st.size}:${st.mtimeNs}` : '';
-  } catch {
-    return undefined;
-  }
-}
-
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
 function appendDurable(dest: string, data: Buffer): void {
   const fd = openSync(dest, 'a');
@@ -225,21 +211,6 @@ export class Journal {
   private blobScanPending = false;
   /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
   private opened = false;
-  /**
-   * Some cached blob size may be out of date: a stat failed while reading new
-   * rows, or another process repaired a blob (the repair marker changed).
-   * Byte-cap eviction measures every cached blob again first, so it never
-   * deletes undo history over a count that's too high. (It also checks each
-   * blob it is about to delete; this covers the blobs it wouldn't touch.)
-   */
-  private sizesMayBeStale = false;
-  /**
-   * Rewritten (with a new inode) before every blob repair, by any process. A
-   * repair can shrink a blob with no manifest row to say so: its commit may
-   * roll the row back. Each load compares the marker with the last one seen.
-   */
-  private readonly repairMarker: string;
-  private repairSeen = '';
   /** Serialises commits so seq assignment and eviction never interleave. */
   private chain: Promise<unknown> = Promise.resolve();
 
@@ -254,7 +225,6 @@ export class Journal {
     this.blobDir = join(this.dir, 'blobs');
     this.manifestPath = join(this.dir, 'manifest.jsonl');
     this.lockPath = join(this.dir, 'manifest.lock');
-    this.repairMarker = join(this.dir, 'repairs');
     this.blobSizes = blobSizes;
     this.totalBytes = 0;
     for (const n of blobSizes.values()) this.totalBytes += n;
@@ -271,8 +241,6 @@ export class Journal {
     const blobDir = join(dir, 'blobs');
     await mkdir(blobDir, { recursive: true });
 
-    // Read before the sizes: a repair after this point shows up at the next load.
-    const repairSeen = markerId(join(dir, 'repairs'));
     const blobSizes = new Map<string, number>();
     for (const name of await readdir(blobDir)) {
       if (!/^[0-9a-f]{64}$/.test(name)) continue;
@@ -283,7 +251,6 @@ export class Journal {
       }
     }
     const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
-    journal.repairSeen = repairSeen ?? '';
     await journal.enqueue(() => journal.load());
     journal.opened = true;
     // A torn last line from a crash: not listed; the next commit cuts it off.
@@ -306,8 +273,10 @@ export class Journal {
   }
 
   /**
-   * Read every cached blob's size from disk again (under the lock). False,
-   * with the cache unchanged for that blob, if any stat fails.
+   * Read every cached blob's size from disk again (under the lock). Cached
+   * sizes can be wrong: a blob changed outside Seekstone, or another process
+   * repaired one in a commit whose row it then rolled back. False if any
+   * stat fails (that blob's cached size is kept).
    */
   private measureBlobs(): boolean {
     for (const [hash, cached] of this.blobSizes) {
@@ -321,7 +290,6 @@ export class Journal {
       else this.blobSizes.set(hash, size);
       this.totalBytes += (size ?? 0) - cached;
     }
-    this.sizesMayBeStale = false;
     return true;
   }
 
@@ -337,12 +305,6 @@ export class Journal {
 
   /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(reread = false): Promise<boolean> {
-    const repair = markerId(this.repairMarker);
-    if (repair === undefined || repair !== this.repairSeen) {
-      // Changed, or unreadable: either way, don't trust the cached sizes.
-      this.sizesMayBeStale = true;
-      if (repair !== undefined) this.repairSeen = repair;
-    }
     const known = this.manifestOffset + this.tailBytes;
     const now = statSync(this.manifestPath, { throwIfNoEntry: false });
     if (!now || (!reread && now.ino === this.manifestIno && now.size === known)) return false;
@@ -452,13 +414,13 @@ export class Journal {
         if (cached !== undefined && (!this.opened || parsed.seq < firstNew)) continue;
         checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
-        // Any other error (EIO, EACCES) keeps what we knew; commit checks the
-        // disk again under the lock before it reuses the blob.
+        // Any other error (EIO, EACCES) keeps what we knew: commit checks a
+        // blob again before it reuses it, and byte-cap eviction measures
+        // every blob before it deletes any.
         let size: number | undefined;
         try {
           size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
         } catch {
-          this.sizesMayBeStale = true;
           continue;
         }
         if (size === undefined) continue;
@@ -668,10 +630,6 @@ export class Journal {
         const size = Buffer.byteLength(content, 'utf8');
         if (st.size !== size) {
           try {
-            // Announce the repair first, so every other process measures its
-            // cached sizes again even if this commit's row is rolled back.
-            // If the marker can't be written, the repair (and the write) fails.
-            writeDurable(this.repairMarker, `${process.pid} ${Date.now()}\n`);
             writeDurable(path, content);
           } catch (err) {
             // As in `storeBlob`: another process may have placed it meanwhile.
@@ -828,32 +786,12 @@ export class Journal {
         if (f.preHash !== null) refs.set(f.preHash, (refs.get(f.preHash) ?? 0) + 1);
       }
     }
-    // For the byte cap (`forSize`), each blob's real size is read before it
-    // is deleted: a cached size can be too high (a repair by another process
-    // whose row was rolled back), and a total that's too high would delete
-    // blobs live entries need. A blob whose size can't be read is kept.
-    const dropBlobs = async (e: JournalEntry, forSize = false): Promise<void> => {
+    const dropBlobs = async (e: JournalEntry): Promise<void> => {
       for (const f of e.files) {
         if (f.preHash === null) continue;
         const n = (refs.get(f.preHash) ?? 1) - 1;
         refs.set(f.preHash, n);
         if (n > 0 || !this.blobSizes.has(f.preHash)) continue;
-        if (forSize) {
-          if (this.totalBytes <= this.config.maxBytes) return;
-          const cached = this.blobSizes.get(f.preHash) ?? 0;
-          let size: number | undefined;
-          try {
-            size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
-          } catch {
-            continue;
-          }
-          if (size !== cached) {
-            this.totalBytes += (size ?? 0) - cached;
-            if (size === undefined) this.blobSizes.delete(f.preHash);
-            else this.blobSizes.set(f.preHash, size);
-            if (size === undefined || this.totalBytes <= this.config.maxBytes) continue;
-          }
-        }
         await rm(join(this.blobDir, f.preHash), { force: true });
         this.totalBytes -= this.blobSizes.get(f.preHash) ?? 0;
         this.blobSizes.delete(f.preHash);
@@ -867,17 +805,18 @@ export class Journal {
       rewrite = true;
     }
     // Never evict the entry just committed — a write must be undoable at
-    // least until the next one lands, whatever the cap. After a failed stat,
-    // every cached size is measured first; if that fails too, nothing is
-    // evicted for size until it works.
-    const sized =
-      this.totalBytes <= this.config.maxBytes || !this.sizesMayBeStale || this.measureBlobs();
+    // least until the next one lands, whatever the cap. The byte cap counts
+    // real sizes: over it, every blob is measured on disk first, so a cached
+    // size that's too high can't delete undo history the cap allows. If a
+    // size can't be read, nothing is evicted for size (the entry cap still
+    // applies): keeping history beats deleting it on a guess.
+    const sized = this.totalBytes <= this.config.maxBytes || this.measureBlobs();
     for (
       let i = 0;
       sized && this.totalBytes > this.config.maxBytes && i < this.entries.length - 1;
       i++
     ) {
-      await dropBlobs(this.entries[i] as JournalEntry, true);
+      await dropBlobs(this.entries[i] as JournalEntry);
     }
     if (rewrite) {
       const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);

@@ -19,7 +19,6 @@ const fail = vi.hoisted(() => ({
   blobStats: 0,
   blobRename: '' as '' | 'placed' | 'refused',
   append: false, // the next manifest append fails
-  markerRename: false, // the next repair-marker rename fails
 }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -34,10 +33,6 @@ vi.mock('node:fs', async (importOriginal) => {
   // A rename onto a blob that Windows refuses: either another process's rename
   // placed the same blob at that moment ('placed'), or nothing did ('refused').
   const renameSync = ((from: string, to: string) => {
-    if (fail.markerRename && /[\\/]history[\\/]repairs$/.test(String(to))) {
-      fail.markerRename = false;
-      throw Object.assign(new Error('ENOSPC: no space left on device, rename'), { code: 'ENOSPC' });
-    }
     const mode = fail.blobRename;
     if (mode !== '' && /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(to))) {
       fail.blobRename = '';
@@ -88,7 +83,6 @@ afterEach(async () => {
   fail.blobStat = false;
   fail.blobRename = '';
   fail.append = false;
-  fail.markerRename = false;
   await rm(vault, { recursive: true, force: true });
 });
 
@@ -221,7 +215,7 @@ describe('Journal: rereading the manifest after another process compacts', () =>
   });
 });
 
-describe('Journal: byte-cap eviction with a cached size that may be out of date', () => {
+describe('Journal: byte-cap eviction counts real sizes', () => {
   // a caches a damaged 100-byte copy of 'shared'; on disk it is 6 bytes again.
   // With a 20-byte cap, a's next 7-byte pre-image makes its count 107 if it
   // trusts the old size, and eviction would delete the repaired blob.
@@ -234,7 +228,7 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     return a;
   }
 
-  it('measures again when a stat failed while reading the repair', async () => {
+  it('after a stat failed while reading a repair by another process', async () => {
     const a = await damagedThenRepaired();
     const b = await Journal.open(vault, BIG);
     await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y'); // seq 2 repairs it
@@ -248,7 +242,7 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
   });
 
-  it('checks the real size of a blob it would delete, after a reread kept a stale size', async () => {
+  it('after a reread kept a cached size that a rolled-back repair made stale', async () => {
     const first = await Journal.open(vault, BIG);
     await journalWrite({ journal: first }, 'f', 'f.md', 'f1', 'x'); // seq 1, a filler
     await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 2
@@ -270,7 +264,7 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     expect(a.isUndoable(a.get(2) as JournalEntry)).toBe(true);
   });
 
-  it('evicts nothing for size while a size still cannot be read', async () => {
+  it('evicts nothing for size while some size cannot be read', async () => {
     const a = await damagedThenRepaired();
     const b = await Journal.open(vault, BIG);
     await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y');
@@ -281,7 +275,7 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
   });
 
-  it('checks the real size even when nothing forces a reread', async () => {
+  it('when a repair left the manifest unchanged, so nothing was reread', async () => {
     const a = await damagedThenRepaired();
     // A rolled-back repair leaves the manifest byte-identical, so a never
     // rereads it.
@@ -291,38 +285,10 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     expect(a.storedBytes).toBe(13);
     expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
   });
-
-  it('keeps a blob whose size cannot be read and still evicts the others', async () => {
-    const j = await Journal.open(vault, { maxBytes: 25, maxEntries: 1e6 });
-    await journalWrite({ journal: j }, 'a', 'a.md', 'first-12345', 'x'); // 11 bytes
-    await journalWrite({ journal: j }, 'b', 'b.md', 'second-1234', 'x'); // 11 bytes
-    fail.blobStat = contentHash('first-12345');
-    await journalWrite({ journal: j }, 'c', 'c.md', 'third', 'x'); // 27 > 25
-    expect(await readFile(blob('first-12345'), 'utf8')).toBe('first-12345');
-    await expect(readFile(blob('second-1234'))).rejects.toThrow(/ENOENT/);
-  });
 });
 
-describe('Journal: two processes at both caps', () => {
-  it('stat a fixed handful of blobs per commit, not every cached one', async () => {
-    const caps = { maxBytes: 40, maxEntries: 5 };
-    const a = await Journal.open(vault, caps);
-    const b = await Journal.open(vault, caps);
-    const counts: number[] = [];
-    for (let n = 0; n < 12; n++) {
-      fail.blobStats = 0;
-      await journalWrite({ journal: n % 2 ? b : a }, `w${n}`, `n${n}.md`, `pre-${n}-xxxxxxxx`, 'x');
-      counts.push(fail.blobStats);
-    }
-    // A fixed handful per commit (6 here), whatever the journal holds.
-    // Re-measuring every cached blob after the other process compacts gives
-    // 9, and re-statting every reread row gives 8.
-    expect(Math.max(...counts)).toBeLessThanOrEqual(6);
-  });
-});
-
-describe('Journal: a repair whose commit is rolled back', () => {
-  it('makes every other process measure its sizes before byte-cap eviction', async () => {
+describe('Journal: a repair whose commit is rolled back in another process', () => {
+  it('never lets this process evict over the damaged size', async () => {
     const first = await Journal.open(vault, BIG);
     await journalWrite({ journal: first }, 'f', 'f.md', 'f1', 'x'); // seq 1
     await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 2
@@ -346,16 +312,33 @@ describe('Journal: a repair whose commit is rolled back', () => {
     expect(a.storedBytes).toBe(11);
     expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
   });
+});
 
-  it('fails the write when the repair marker cannot be written, and repairs nothing', async () => {
-    const j = await Journal.open(vault, BIG);
-    await journalWrite({ journal: j }, 'a', 'a.md', 'shared', 'x');
-    await truncate(blob('shared'), 2);
-    fail.markerRename = true;
-    await expect(journalWrite({ journal: j }, 'b', 'b.md', 'shared', 'y')).rejects.toThrow(
-      /ENOSPC/,
-    );
-    expect(j.lastSeq).toBe(1);
-    expect((await readFile(blob('shared'))).length).toBe(2);
+describe('Journal: byte-cap eviction after damage outside Seekstone, with no repair', () => {
+  it('measures every blob, so a shrunken newer blob cannot cost an older entry its undo', async () => {
+    const j = await Journal.open(vault, { maxBytes: 20, maxEntries: 1e6 });
+    await journalWrite({ journal: j }, 'a', 'a.md', 'f1', 'x'); // seq 1, 2 bytes
+    await journalWrite({ journal: j }, 'b', 'b.md', 'sixteen-bytes-xx', 'x'); // seq 2
+    await truncate(blob('sixteen-bytes-xx'), 1); // 18 bytes counted, 3 on disk
+    await journalWrite({ journal: j }, 'c', 'c.md', 'o12', 'x'); // counted 21 > 20
+    expect(await readFile(blob('f1'), 'utf8')).toBe('f1');
+    expect(j.storedBytes).toBe(6);
+    expect(j.isUndoable(j.get(1) as JournalEntry)).toBe(true);
+  });
+});
+
+describe('Journal: the cost of counting real sizes', () => {
+  it('measures nothing while the journal is under its byte cap', async () => {
+    const a = await Journal.open(vault, { maxBytes: 1e9, maxEntries: 5 });
+    const b = await Journal.open(vault, { maxBytes: 1e9, maxEntries: 5 });
+    const counts: number[] = [];
+    for (let n = 0; n < 12; n++) {
+      fail.blobStats = 0;
+      await journalWrite({ journal: n % 2 ? b : a }, `w${n}`, `n${n}.md`, `pre-${n}`, 'x');
+      counts.push(fail.blobStats);
+    }
+    // Its own pre-image and the other process's new row: never every blob,
+    // even when the entry cap compacts the manifest on every commit.
+    expect(Math.max(...counts)).toBeLessThanOrEqual(2);
   });
 });
