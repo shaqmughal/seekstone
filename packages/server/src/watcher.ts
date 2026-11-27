@@ -164,13 +164,21 @@ export function startWatcher(
   // Index keys are forward-slash vault-relative paths on every platform.
   const toRel = (abs: string): string => relative(vaultRoot, abs).split(sep).join('/');
 
+  // The newest read per note path. A read commits only while it is still the
+  // newest: a later event for the path replaces its token, and a removal
+  // deletes it, so a slow read can't bring back a deleted note or older text.
+  const reads = new Map<string, object>();
+
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
+    const token = {};
+    reads.set(relPath, token);
     try {
       // Only a regular file is read: the link check already ran, and this
       // keeps a FIFO or device from being opened.
       const abs = join(vaultRoot, relPath);
       if (lstatSync(abs, { throwIfNoEntry: false })?.isFile() !== true) return;
       const raw = await readFile(abs, 'utf8');
+      if (reads.get(relPath) !== token) return;
       removeNoteBacklinks(ctx, relPath);
       // upsertDoc checks for links again after the await, with none between
       // that check and the commit; a path that became a link is dropped.
@@ -185,10 +193,13 @@ export function startWatcher(
       log?.debug('index updated', { path: relPath, op });
     } catch {
       // File vanished between event and read — ignore; an unlink will follow.
+    } finally {
+      if (reads.get(relPath) === token) reads.delete(relPath);
     }
   }
 
   function remove(relPath: string): void {
+    reads.delete(relPath);
     if (ctx.notes.has(relPath)) {
       removeDoc(ctx, relPath);
       ctx.semantic?.noteRemoved(relPath);
@@ -204,6 +215,7 @@ export function startWatcher(
    */
   function removeUnder(prefix: string): void {
     const under = (p: string) => p === prefix || p.startsWith(`${prefix}/`);
+    for (const path of [...reads.keys()]) if (under(path)) reads.delete(path);
     for (const path of [...ctx.notes.keys()]) if (under(path)) remove(path);
     const attachments: string[] = [];
     for (const list of ctx.attachments.byPath.values()) {
