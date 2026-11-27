@@ -45,6 +45,17 @@ sudo install -d -o root -g root -m 755 /srv/factory /srv/factory/trusted
 git archive HEAD scripts/factory scripts/factory-ticket.mjs | sudo tar -x --no-same-owner -C /srv/factory/trusted
 sudo chown -R root:root /srv/factory/trusted
 sudo chmod -R go-w,a+rX /srv/factory/trusted
+# What the runner image ships, before setup changes it.
+echo "AppArmor: restrict_unprivileged_userns=$(cat /proc/sys/kernel/apparmor_restrict_unprivileged_userns 2>/dev/null)"
+for f in /etc/apparmor.d/*bwrap*; do echo "AppArmor profile: $f"; done
+# Control for the nested user namespace check below: on the stock image it
+# should fail here, before setup replaces Ubuntu's bwrap profile.
+if bwrap --unshare-user --unshare-pid --die-with-parent --ro-bind / / --proc /proc --dev /dev \
+  unshare --user --map-root-user /bin/true 2>/dev/null; then
+  echo "control: a nested user namespace already works on the stock image"
+else
+  echo "control: a nested user namespace fails on the stock image, as expected"
+fi
 bash "$SB" setup || {
   echo "::error::sandbox.sh setup failed"
   exit 1
@@ -175,6 +186,19 @@ if as "$AGENT" 'bwrap --unshare-all --die-with-parent --ro-bind / / --proc /proc
   pass "bubblewrap starts as the agent's user"
 else
   fail "bubblewrap can't start as the agent's user (AppArmor user namespaces?)"
+fi
+# What Claude Code's seccomp helper does inside bwrap: make a nested user
+# namespace and write its setgroups. Ubuntu's own bwrap profile breaks this.
+if as "$AGENT" 'bwrap --unshare-user --unshare-pid --die-with-parent --ro-bind / / --proc /proc --dev /dev \
+  unshare --user --map-root-user /bin/true'; then
+  pass "a nested user namespace works inside bubblewrap, as Claude Code's sandbox needs"
+else
+  fail "a nested user namespace fails inside bubblewrap, so Claude Code's sandboxed commands can't start"
+fi
+if as "$INSTALLER" '/usr/bin/bwrap --version' >/dev/null 2>&1; then
+  fail "the installer's user can run bubblewrap"
+else
+  pass "only the agent's user can run bubblewrap"
 fi
 
 # --- A hostile checkout: git config, hooks, commondir, links -----------------
