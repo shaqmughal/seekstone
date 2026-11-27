@@ -3,6 +3,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildAttachmentIndex } from '../index/resolve.js';
 import type { IndexedNote } from '../index/types.js';
@@ -338,5 +339,33 @@ describe('appendPeriodicNote', () => {
     });
     const disk = await readFile(join(tmpDir, result.path));
     expect(result.bytesWritten).toBe(disk.byteLength);
+  });
+
+  it('refuses a stale prevHash and writes nothing, then appends with the current hash', async () => {
+    const ctx = freshCtx();
+    const file = join(tmpDir, '2026-02-04.md');
+    const original = 'Original content.';
+    await writeFile(file, original, 'utf8');
+
+    await expect(
+      appendPeriodicNote(ctx, {
+        period: 'daily',
+        date: '2026-02-04',
+        content: 'Should not land.',
+        prevHash: contentHash('Some earlier version.'),
+      }),
+    ).rejects.toThrow('hash_conflict');
+    expect(await readFile(file, 'utf8')).toBe(original);
+
+    const result = await appendPeriodicNote(ctx, {
+      period: 'daily',
+      date: '2026-02-04',
+      content: 'Lands.',
+      prevHash: contentHash(original),
+    });
+    const disk = await readFile(file, 'utf8');
+    expect(disk).toContain('Original content.');
+    expect(disk).toContain('Lands.');
+    expect(result.contentHash).toBe(contentHash(disk));
   });
 });
