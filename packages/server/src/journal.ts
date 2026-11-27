@@ -48,8 +48,10 @@ import { writeAll } from './write-all.js';
  *
  * Retention is size-capped (`SEEKSTONE_HISTORY_MAX_SIZE`, default 50 MB of
  * blobs) and count-capped (`SEEKSTONE_HISTORY_MAX_ENTRIES`, default 1000).
- * Eviction drops the oldest entries' blobs; the entry stays listed with
- * `undoable: false` rather than vanishing silently. `SEEKSTONE_HISTORY=0`
+ * Over the size cap, eviction drops the oldest entries' blobs; the entry stays
+ * listed with `undoable: false`. Over the entry cap, the oldest rows are
+ * deleted from the manifest along with their blobs, so they stop being listed
+ * (WRITE-SAFETY, retention). `SEEKSTONE_HISTORY=0`
  * disables the journal entirely (ctx.journal is undefined; tools skip it).
  *
  * Several server processes can share a vault. Every manifest change holds
