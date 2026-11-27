@@ -168,6 +168,11 @@ cmd_setup() {
       sudo tee /etc/apparmor.d/bwrap >/dev/null
     sudo apparmor_parser -r /etc/apparmor.d/bwrap
   fi
+  # Only the agent's user runs bwrap (Claude Code's sandbox). Nobody else,
+  # factory-install included, gets user namespaces with capabilities, which
+  # would reach more kernel code than they need.
+  sudo chown root:"$AGENT" /usr/bin/bwrap
+  sudo chmod 750 /usr/bin/bwrap
   sudo rm -f /run/docker.sock
   sudo install -d -o root -g root -m 755 "$ROOT"
   sudo install -d -o "$AGENT" -g "$AGENT" -m 700 "$AGENT_TMP"
