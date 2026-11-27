@@ -195,7 +195,7 @@ if as "$AGENT" 'bwrap --unshare-user --unshare-pid --die-with-parent --ro-bind /
 else
   fail "a nested user namespace fails inside bubblewrap, so Claude Code's sandboxed commands can't start"
 fi
-if as "$INSTALLER" 'bwrap --unshare-user --ro-bind / / /bin/true' 2>/dev/null; then
+if as "$INSTALLER" 'bwrap --version' >/dev/null 2>&1; then
   fail "the installer's user can run bubblewrap"
 else
   pass "only the agent's user can run bubblewrap"
