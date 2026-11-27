@@ -48,6 +48,14 @@ sudo chmod -R go-w,a+rX /srv/factory/trusted
 # What the runner image ships, before setup changes it.
 echo "AppArmor: restrict_unprivileged_userns=$(cat /proc/sys/kernel/apparmor_restrict_unprivileged_userns 2>/dev/null)"
 for f in /etc/apparmor.d/*bwrap*; do echo "AppArmor profile: $f"; done
+# Control for the nested user namespace check below: on the stock image it
+# should fail here, before setup replaces Ubuntu's bwrap profile.
+if bwrap --unshare-user --unshare-pid --die-with-parent --ro-bind / / --proc /proc --dev /dev \
+  unshare --user --map-root-user /bin/true 2>/dev/null; then
+  echo "control: a nested user namespace already works on the stock image"
+else
+  echo "control: a nested user namespace fails on the stock image, as expected"
+fi
 bash "$SB" setup || {
   echo "::error::sandbox.sh setup failed"
   exit 1
