@@ -54,7 +54,7 @@
     "access": "public"
   },
   "scripts": {
-    "start": "tsx src/index.ts",
+    "start": "node --import tsx src/index.ts",
     "build": "tsup",
     "prepack": "tsup",
     "test": "vitest run",
