@@ -16,6 +16,7 @@ import { undoWrite } from './tools/undo_write.js';
 const fail = vi.hoisted(() => ({
   blobScan: false,
   blobStat: false,
+  blobStats: 0,
   blobRename: '' as '' | 'placed' | 'refused',
 }));
 
@@ -41,7 +42,9 @@ vi.mock('node:fs', async (importOriginal) => {
   }) as typeof fs.renameSync;
   // A stat of a blob that fails with something other than ENOENT.
   const statSync = ((path: string, ...rest: unknown[]) => {
-    if (fail.blobStat && /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(path))) {
+    const isBlob = /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(path));
+    if (isBlob) fail.blobStats++;
+    if (fail.blobStat && isBlob) {
       fail.blobStat = false;
       throw Object.assign(new Error('EIO: i/o error, stat'), { code: 'EIO' });
     }
@@ -180,5 +183,21 @@ describe('Journal: a failed stat of a cached blob while reading new rows', () =>
 
     const reopened = await Journal.open(vault, BIG);
     expect(reopened.list().writes.map((w) => w.seq)).toEqual([3, 2, 1]);
+  });
+});
+
+describe('Journal: rereading the manifest after another process compacts', () => {
+  it('stats only the blobs of rows that are new to this process', async () => {
+    const a = await Journal.open(vault, BIG);
+    for (const n of [1, 2, 3])
+      await journalWrite({ journal: a }, `w${n}`, `n${n}.md`, `pre${n}`, 'x');
+    // b keeps 3 rows, so its commit drops the oldest and rewrites the manifest.
+    const b = await Journal.open(vault, { maxBytes: 1e9, maxEntries: 3 });
+    await journalWrite({ journal: b }, 'w4', 'n4.md', 'pre4', 'x');
+
+    fail.blobStats = 0;
+    expect(await a.refresh()).toBe(true);
+    expect(fail.blobStats).toBe(1); // seq 4's blob, not again for seqs 2 and 3
+    expect(a.list().writes.map((w) => w.seq)).toEqual([4, 3, 2]);
   });
 });

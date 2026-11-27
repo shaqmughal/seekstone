@@ -357,6 +357,10 @@ export class Journal {
   /** Parse complete manifest lines and add their entries (and their blobs' sizes). */
   private async ingest(text: string, fromStart: boolean): Promise<void> {
     let lastSeq = fromStart ? 0 : this.nextSeq - 1;
+    // Rows from here on are new to this process. A full reread after another
+    // process compacts brings back rows we already had; their blobs keep the
+    // sizes we know, so only new rows pay for a stat.
+    const firstNew = this.nextSeq;
     const checked = new Set<string>();
     for (const line of text.split('\n')) {
       if (line.trim() === '') continue;
@@ -382,9 +386,10 @@ export class Journal {
       for (const f of parsed.files) {
         if (f.preHash === null || checked.has(f.preHash)) continue;
         const cached = this.blobSizes.get(f.preHash);
-        // After `open`, stat a cached blob again: the process that wrote this
-        // row may have rewritten a damaged copy. (`open` just read the sizes.)
-        if (cached !== undefined && !this.opened) continue;
+        // After `open`, stat a cached blob again for a new row: the process
+        // that wrote it may have rewritten a damaged copy. (`open` just read
+        // the sizes, and a repair always comes with a new row.)
+        if (cached !== undefined && (!this.opened || parsed.seq < firstNew)) continue;
         checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
         // Any other error (EIO, EACCES) keeps what we knew; commit checks the
