@@ -342,8 +342,8 @@ byte cap counts the pre-images' real sizes: when a write takes the journal
 over it, the server reads every stored pre-image's size from disk before it
 deletes any, so it never deletes undo history while the journal is actually
 under the cap, even if a pre-image was changed outside Seekstone. If a size
-can't be read, nothing is deleted for size until it can (the entry cap still
-applies), so history can briefly exceed the byte cap. Over
+can't be read, nothing is deleted for size until it can, so history can grow
+past the byte cap for as long as that lasts; the entry cap still limits it. Over
 `SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
 from the manifest along with their pre-images, so they no longer appear in
 `list_writes` and `undo_write` reports them as not found. A failed compaction
