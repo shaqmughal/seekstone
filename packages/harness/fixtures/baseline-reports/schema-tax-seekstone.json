@@ -7,8 +7,8 @@
     {
       "mode": "read-write",
       "toolCount": 26,
-      "totalBytes": 26219,
-      "totalTokens": 5770,
+      "totalBytes": 26196,
+      "totalTokens": 5765,
       "instructionsBytes": 0,
       "instructionsTokens": 0,
       "prompts": {
@@ -69,8 +69,8 @@
         },
         {
           "name": "update_task",
-          "bytes": 1173,
-          "tokens": 264
+          "bytes": 1150,
+          "tokens": 259
         },
         {
           "name": "rename_heading",
