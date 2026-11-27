@@ -1,6 +1,7 @@
 import { lstatSync, realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
+import { classify } from '@seekstone/core/walk';
 import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
 import { envFlag } from './env.js';
@@ -12,7 +13,7 @@ import { isReadable } from './policy.js';
 import { findLink } from './symlinks.js';
 
 /**
- * Watch the vault for .md changes and keep the in-memory index in sync.
+ * Watch the vault for note and attachment changes and keep the in-memory index in sync.
  *
  * Uses chokidar rather than `fs.watch(..., { recursive: true })`: recursive
  * native watching is unsupported on Linux, where fs.watch silently misses
@@ -48,7 +49,7 @@ export interface WatcherOptions {
    */
   pollInterval?: number;
   /**
-   * Diagnostic hook fired for every raw chokidar event, before .md filtering
+   * Diagnostic hook fired for every raw chokidar event, before note/attachment classification
    * and before the index is updated. Receives the chokidar event name, the
    * absolute path as chokidar reported it, and the vault-relative key as
    * computed by toRel(). Use in tests only to capture what chokidar actually
@@ -163,13 +164,21 @@ export function startWatcher(
   // Index keys are forward-slash vault-relative paths on every platform.
   const toRel = (abs: string): string => relative(vaultRoot, abs).split(sep).join('/');
 
+  // The newest read per note path. A read commits only while it is still the
+  // newest: a later event for the path replaces its token, and a removal
+  // deletes it, so a slow read can't bring back a deleted note or older text.
+  const reads = new Map<string, object>();
+
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
+    const token = {};
+    reads.set(relPath, token);
     try {
       // Only a regular file is read: the link check already ran, and this
       // keeps a FIFO or device from being opened.
       const abs = join(vaultRoot, relPath);
       if (lstatSync(abs, { throwIfNoEntry: false })?.isFile() !== true) return;
       const raw = await readFile(abs, 'utf8');
+      if (reads.get(relPath) !== token) return;
       removeNoteBacklinks(ctx, relPath);
       // upsertDoc checks for links again after the await, with none between
       // that check and the commit; a path that became a link is dropped.
@@ -184,10 +193,13 @@ export function startWatcher(
       log?.debug('index updated', { path: relPath, op });
     } catch {
       // File vanished between event and read — ignore; an unlink will follow.
+    } finally {
+      if (reads.get(relPath) === token) reads.delete(relPath);
     }
   }
 
   function remove(relPath: string): void {
+    reads.delete(relPath);
     if (ctx.notes.has(relPath)) {
       removeDoc(ctx, relPath);
       ctx.semantic?.noteRemoved(relPath);
@@ -203,6 +215,7 @@ export function startWatcher(
    */
   function removeUnder(prefix: string): void {
     const under = (p: string) => p === prefix || p.startsWith(`${prefix}/`);
+    for (const path of [...reads.keys()]) if (under(path)) reads.delete(path);
     for (const path of [...ctx.notes.keys()]) if (under(path)) remove(path);
     const attachments: string[] = [];
     for (const list of ctx.attachments.byPath.values()) {
@@ -223,7 +236,8 @@ export function startWatcher(
     if (action.kind !== 'process') return;
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
-    if (relPath.endsWith('.md')) void upsert(relPath, op);
+    // Note or attachment by the boot walk's rule, so `Foo.MD` is a note in both.
+    if (classify(relPath) === 'note') void upsert(relPath, op);
     // Attachments only track existence. A `change` can still be the first
     // event for one, when a link is replaced by a regular file; addAttachment
     // ignores a path it already has.
@@ -261,7 +275,7 @@ export function startWatcher(
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
       // Not filtered by the read scope: clearing entries is always safe.
-      if (relPath.endsWith('.md')) remove(relPath);
+      if (classify(relPath) === 'note') remove(relPath);
       else removeAttachment(ctx.attachments, relPath);
     })
     .on('unlinkDir', (abs: string) => {

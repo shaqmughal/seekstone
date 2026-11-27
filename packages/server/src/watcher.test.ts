@@ -415,6 +415,59 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     }
   });
 
+  it('indexes a note with an uppercase .MD extension and drops it on delete (SHA-574)', async () => {
+    const ctx = freshCtx(tmpDir);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'Foo.MD'), 'upper_ext_marker', 'utf8');
+      await waitFor(() => ctx.notes.has('Foo.MD'), { nudge: dirNudger(tmpDir) });
+      expect(ctx.index.search('upper_ext_marker').map((h) => h.id)).toEqual(['Foo.MD']);
+      expect(ctx.attachments.byPath.has('foo.md')).toBe(false);
+      await rm(join(tmpDir, 'Foo.MD'));
+      await waitFor(() => !ctx.notes.has('Foo.MD'));
+      expect(ctx.index.search('upper_ext_marker')).toEqual([]);
+      expect(ctx.attachments.byPath.has('foo.md')).toBe(false);
+    } finally {
+      await stop();
+    }
+  });
+
+  it('keeps the same notes and attachments as a fresh boot index (SHA-574)', async () => {
+    await mkdir(join(tmpDir, 'a'));
+    await mkdir(join(tmpDir, 'b'));
+    await mkdir(join(tmpDir, 'img'));
+    const built = await buildIndex(tmpDir);
+    const ctx: ServerContext = { ...built, vaultRoot: tmpDir, policy: PERMISSIVE_POLICY };
+    // Separate folders, so the two names can coexist on case-insensitive filesystems.
+    const paths = ['a/Foo.md', 'b/Foo.MD', 'img/pic.png'];
+    const kinds = (c: Pick<ServerContext, 'notes' | 'attachments'>) =>
+      paths.map((p) => ({
+        path: p,
+        note: c.notes.has(p),
+        attachment: c.attachments.byPath.get(p.toLowerCase())?.includes(p) === true,
+      }));
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'a', 'Foo.md'), 'lower', 'utf8');
+      await writeFile(join(tmpDir, 'b', 'Foo.MD'), 'upper', 'utf8');
+      await writeFile(join(tmpDir, 'img', 'pic.png'), 'png', 'utf8');
+      const seen = () => kinds(ctx).every((k) => k.note || k.attachment);
+      const nudges = ['a', 'b', 'img'].map((d) => dirNudger(join(tmpDir, d)));
+      await waitFor(seen, { nudge: async () => void (await Promise.all(nudges.map((n) => n()))) });
+      const fresh = await buildIndex(tmpDir);
+      expect(kinds(fresh)).toEqual([
+        { path: 'a/Foo.md', note: true, attachment: false },
+        { path: 'b/Foo.MD', note: true, attachment: false },
+        { path: 'img/pic.png', note: false, attachment: true },
+      ]);
+      expect(kinds(ctx)).toEqual(kinds(fresh));
+    } finally {
+      await stop();
+    }
+  });
+
   it('ignores files under node_modules, as the boot walk does (SHA-553)', async () => {
     await mkdir(join(tmpDir, 'img'));
     await mkdir(join(tmpDir, 'A'));
