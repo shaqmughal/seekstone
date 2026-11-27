@@ -748,7 +748,7 @@ export const ALL_TOOLS = [
         expectText: {
           type: 'string',
           description:
-            'Optional guard: the task text list_tasks returned. Fails with task_text_mismatch if the line’s text changed since.',
+            'Optional guard: the task text list_tasks returned. Fails with task_text_mismatch on mismatch.',
         },
         state: {
           type: 'string',
