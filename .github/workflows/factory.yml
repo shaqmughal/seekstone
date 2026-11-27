@@ -215,17 +215,24 @@ jobs:
           gh pr edit "$FIX_PR" --repo "$GITHUB_REPOSITORY" --add-label factory-blocked || true
           node scripts/factory/factory.mjs blocked "$TICKET" "$RUNNER_TEMP/blocked.md"
 
+  # The agent runs as its own unprivileged Linux user, factory-agent, in its
+  # own copy of the checkout, and nothing it wrote runs as the runner user,
+  # which owns the job's secrets and can use sudo (SHA-660). See
+  # scripts/factory/sandbox.sh and "Keeping the token from the agent" in
+  # docs/QUALITY-GATES.md. review-fix repeats these steps through YAML aliases.
   work:
     needs: prepare
     if: needs.prepare.outputs.run == 'true'
     runs-on: ubuntu-latest
     environment: factory
-    timeout-minutes: 60
+    # The agent step's own 50 minutes, plus setup and the steps that check
+    # and upload its work.
+    timeout-minutes: 70
     permissions:
       contents: read
     outputs:
       base: ${{ steps.base.outputs.sha }}
-      deliver: ${{ steps.package.outputs.deliver }}
+      deliver: ${{ steps.decide.outputs.deliver }}
     steps:
       - name: Harden runner (audit network egress, SHA-517)
         uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
@@ -241,28 +248,60 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
-      # Recorded before the agent runs, for the local review and its fix pass.
+      # Recorded before the agent runs, for the local review and its fix pass,
+      # and as SCAN_BASE: the commit the bundle and the output scan start
+      # from. A SHA, because every branch in the agent's checkout is its to
+      # move.
       - name: Record the base commit
         id: base
-        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+        run: |
+          sha=$(git rev-parse HEAD)
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "SCAN_BASE=$sha" >> "$GITHUB_ENV"
 
+      # Before anything from the checkout runs: the factory scripts as of this
+      # workflow's own commit, owned by root. Every later step that runs a
+      # factory script runs this copy.
+      - &keep-trusted
+        name: Keep a trusted copy of the factory scripts
+        run: |
+          sudo install -d -o root -g root -m 755 /srv/factory /srv/factory/trusted
+          GIT_NO_REPLACE_OBJECTS=1 git archive "$GITHUB_SHA" scripts/factory scripts/factory-ticket.mjs |
+            sudo tar -x --no-same-owner -C /srv/factory/trusted
+          sudo chown -R root:root /srv/factory/trusted
+          sudo chmod -R go-w,a+rX /srv/factory/trusted
+
+      # No npm cache: it would be saved from this job and restored in ci.yml.
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: '22'
-          cache: 'npm'
 
-      - name: Install and build
+      # A fix run's checkout, and review-fix's, is the factory's own branch:
+      # the runner doesn't install or build it. sandbox.sh hand-over installs
+      # it as factory-install, and the agent can build inside its sandbox.
+      - &install
+        name: Install and build
+        env:
+          AGENT_BRANCH: ${{ inputs.pr != '' || github.job == 'review-fix' }}
         run: |
-          npm ci
-          npm run build -w seekstone
-          npm install --global "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}"
+          if [ "$AGENT_BRANCH" != true ]; then
+            npm ci
+            npm run build -w seekstone
+          fi
+          # From outside the checkout, so its .npmrc doesn't apply.
+          (cd "$RUNNER_TEMP" && npm install --global "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}")
+          # Claude Code's sandbox needs bubblewrap and socat.
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends bubblewrap socat
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh setup
 
       - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
           name: factory-ticket
           path: ${{ runner.temp }}/factory
 
-      - name: Set the commit identity
+      - &commit-identity
+        name: Set the commit identity
         env:
           GH_TOKEN: ${{ github.token }}
           APP_SLUG: ${{ vars.FACTORY_APP_SLUG }}
@@ -272,7 +311,8 @@ jobs:
           git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
 
       # Start the branch from the saved work and bring it up to date with
-      # main. resume.md tells the agent what it's starting from.
+      # main. resume.md tells the agent what it's starting from. main is
+      # installed and built above, before the switch.
       - name: Start from saved work
         if: needs.prepare.outputs.resume != ''
         env:
@@ -298,39 +338,85 @@ jobs:
           EOF
           echo "::notice::resuming from $RESUME"
 
-      # Under the job's 60 minutes, so the packaging steps below still run
-      # and save the work when the agent runs long. review-fix runs this same
-      # step (a YAML alias), so the two passes can't drift apart.
+      # A git mirror the agent never touches. The agent's commits come back
+      # through it: it checks every object and re-creates the bundle.
+      - &mirror
+        name: Make the trusted git mirror
+        run: bash /srv/factory/trusted/scripts/factory/sandbox.sh mirror "$GITHUB_WORKSPACE" "$RUNNER_TEMP/mirror"
+
+      - &hand-over
+        name: Hand the checkout to the agent's user
+        env:
+          AGENT_BRANCH: ${{ inputs.pr != '' || github.job == 'review-fix' }}
+        run: |
+          install=no
+          if [ "$AGENT_BRANCH" = true ]; then install=yes; fi
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh hand-over \
+            "$GITHUB_WORKSPACE" "$RUNNER_TEMP/factory" "$install"
+
+      # The output scan checks for the token without holding it. This step
+      # runs before the agent and keeps only the token's SHA-256 and length.
+      - &fingerprint-token
+        name: Fingerprint the token
+        id: fingerprint
+        env:
+          TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export LC_ALL=C
+          re='^[A-Za-z0-9._~+/=-]{16,}$'
+          if ! [[ "$TOKEN" =~ $re ]]; then
+            echo "::error::CLAUDE_CODE_OAUTH_TOKEN is missing or has characters the output scan doesn't handle"
+            exit 1
+          fi
+          echo "sha256=$(printf '%s' "$TOKEN" | sha256sum | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+          echo "length=${#TOKEN}" >> "$GITHUB_OUTPUT"
+          # Only the public start of Claude tokens (sk-ant-oat01-), so the
+          # scan hashes fewer windows.
+          prefix_re='^(sk-ant-[a-z]+[0-9]*-)'
+          if [[ "$TOKEN" =~ $prefix_re ]]; then
+            echo "prefix=${BASH_REMATCH[1]}" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Under the job's 60 minutes, so the steps below still run and save the
+      # work when the agent runs long.
+      #
+      # The only step that holds the token. claude runs as factory-agent, in
+      # /srv/factory/repo, with the token in its environment and nowhere else
+      # that user can read. Its commands run in Claude Code's sandbox
+      # (bubblewrap, their own PID namespace and /proc, no network), which
+      # must start or the run fails, and Claude Code leaves the token out of
+      # their environment on GitHub Actions. Its own file tools can't read or
+      # write outside the checkout and $FACTORY_DIR. No settings, hooks or MCP
+      # servers come from the checkout. The result is checked in a later step,
+      # without the token.
       - &run-playbook
         name: Run the playbook
         id: agent
         timeout-minutes: 50
+        continue-on-error: true
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          FACTORY_DIR: ${{ runner.temp }}/factory
+          # The agent's copy; the runner's is $RUNNER_TEMP/factory.
+          FACTORY_DIR: /srv/factory/io
           MODEL: ${{ needs.prepare.outputs.model }}
           BRANCH: ${{ needs.prepare.outputs.branch }}
           TICKET: ${{ inputs.ticket }}
           ATTEMPT: ${{ inputs.attempt }}
           TRANSCRIPT: ${{ runner.temp }}/transcript/transcript.jsonl
         run: |
-          # Trust this checkout so the committed .claude/settings.json applies
-          # (its Biome hook formats each edited file). The runner is fresh, so
-          # there is no ~/.claude.json to merge with.
-          node -e 'const f=require("os").homedir()+"/.claude.json";
-            require("fs").writeFileSync(f, JSON.stringify({projects:{[process.cwd()]:{hasTrustDialogAccepted:true}}}))'
           mkdir -p "$(dirname "$TRANSCRIPT")"
-          if [ -f "$FACTORY_DIR/review-findings.md" ]; then
+          has() { [ -f "$RUNNER_TEMP/factory/$1" ]; }
+          if has review-findings.md; then
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           This is the review round on the existing branch ${BRANCH}, which is checked out.
           The ticket is in ${FACTORY_DIR}/ticket.md, CodeRabbit's open findings in
           ${FACTORY_DIR}/review-findings.md, and the current PR description in ${FACTORY_DIR}/pr.md."
-          elif [ -f "$FACTORY_DIR/ci-failure.md" ]; then
+          elif has ci-failure.md; then
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           This is CI-fix attempt ${ATTEMPT} on the existing branch ${BRANCH}, which is checked out.
           The ticket is in ${FACTORY_DIR}/ticket.md, the failing checks in ${FACTORY_DIR}/ci-failure.md,
           and the current PR description in ${FACTORY_DIR}/pr.md."
-          elif [ -f "$FACTORY_DIR/local-review.md" ]; then
+          elif has local-review.md; then
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           This is the local review pass on the branch ${BRANCH}, which is checked out.
           The ticket is in ${FACTORY_DIR}/ticket.md, CodeRabbit's local findings in
@@ -338,75 +424,151 @@ jobs:
           else
             prompt="Follow the factory playbook in .claude/skills/factory/SKILL.md for ticket ${TICKET}.
           The ticket is in ${FACTORY_DIR}/ticket.md. Use the branch name ${BRANCH}."
-            if [ -f "$FACTORY_DIR/resume.md" ]; then
+            if has resume.md; then
               prompt="${prompt}
           This run continues earlier saved work: read ${FACTORY_DIR}/resume.md before you start."
             fi
           fi
-          status=0
-          claude -p "$prompt" \
-            --model "$MODEL" \
-            --permission-mode acceptEdits \
-            --allowedTools "Read" "Edit" "Write" "Glob" "Grep" "TodoWrite" \
-              "Bash(npm test)" "Bash(npm test *)" "Bash(npm run *)" "Bash(npm ci)" \
-              "Bash(npx vitest *)" "Bash(npx tsc *)" "Bash(npx biome *)" "Bash(npx changeset*)" \
-              "Bash(node scripts/*)" "Bash(git *)" "Bash(ls *)" "Bash(cat *)" "Bash(rm ${FACTORY_DIR}/*)" \
-            --disallowedTools "WebFetch" "WebSearch" "Bash(git push*)" "Bash(curl *)" "Bash(wget *)" \
-            --settings '{"attribution":{"commit":"","pr":""},"includeCoAuthoredBy":false}' \
-            --output-format stream-json --verbose > "$TRANSCRIPT" || status=$?
-          # The agent's closing summary, for the run log.
+          prompt="${prompt}
+          Hooks are off in this run, so nothing formats files for you: run npm run format before each commit.
+          Commands run in a sandbox with no network; dependencies are already installed.
+          The git directory is /srv/factory/git; its config can't be changed. Use git as usual from the checkout."
+          repo=/srv/factory/repo
+          settings=$(jq -n --arg factory "$FACTORY_DIR" --arg git /srv/factory/git --arg repo "$repo" '{
+            attribution: { commit: "", pr: "" },
+            includeCoAuthoredBy: false,
+            disableAllHooks: true,
+            includeGitInstructions: false,
+            permissions: {
+              blockReadsOutsideWorkingDirectories: true,
+              blockWritesOutsideWorkingDirectories: true,
+              deny: ["Read(//proc/**)", "Edit(/\($repo)/.git)", "Edit(/\($repo)/.git/**)"]
+            },
+            sandbox: {
+              enabled: true,
+              failIfUnavailable: true,
+              allowUnsandboxedCommands: false,
+              autoAllowBashIfSandboxed: false,
+              filesystem: {
+                allowWrite: [$factory, $git],
+                allowRead: ["/srv/factory/bin", "/srv/factory/gitconfig"]
+              },
+              network: { allowedDomains: [], allowLocalBinding: true }
+            }
+          }')
+          # Nothing of the agent's user may be running when the token arrives.
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
+          # As factory-agent, with the token handed over on stdin and git
+          # pinned to the git directory outside the checkout (see sandbox.sh).
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh run-agent \
+            claude -p "$prompt" \
+              --model "$MODEL" \
+              --permission-mode acceptEdits \
+              --setting-sources user \
+              --strict-mcp-config \
+              --add-dir "$FACTORY_DIR" \
+              --allowedTools "Read" "Edit" "Write" "Glob" "Grep" "TodoWrite" \
+                "Bash(npm test)" "Bash(npm test *)" "Bash(npm run *)" "Bash(npm ci)" \
+                "Bash(npx vitest *)" "Bash(npx tsc *)" "Bash(npx biome *)" "Bash(npx changeset*)" \
+                "Bash(node scripts/*)" "Bash(git *)" "Bash(ls *)" "Bash(cat *)" "Bash(rm ${FACTORY_DIR}/*)" \
+              --disallowedTools "WebFetch" "WebSearch" "Bash(git push*)" "Bash(curl *)" "Bash(wget *)" \
+              --settings "$settings" \
+              --output-format stream-json --verbose > "$TRANSCRIPT"
+
+      - &stop-agent
+        name: Stop the agent's processes
+        if: always() && steps.agent.outcome != 'skipped'
+        run: bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
+
+      # Out of Max allowance (or switched to paid overage): deliver hands the
+      # ticket back. Otherwise a failed agent step fails the job. The agent's
+      # summary goes to the log with workflow commands off, so it can't
+      # inject any.
+      - &agent-result
+        name: Check the agent's result
+        id: result
+        if: always() && steps.agent.outcome != 'skipped'
+        env:
+          TRANSCRIPT: ${{ runner.temp }}/transcript/transcript.jsonl
+          OUTCOME: ${{ steps.agent.outcome }}
+        run: |
+          stop=$(openssl rand -hex 16)
+          echo "::stop-commands::$stop"
           jq -r 'select(.type == "result") | .result // empty' "$TRANSCRIPT" || true
-          # Out of Max allowance (or switched to paid overage): drop any
-          # partial result and hand back quota.md, so deliver can requeue.
-          if node scripts/factory/factory.mjs quota "$TRANSCRIPT"; then
+          echo "::$stop::"
+          if node /srv/factory/trusted/scripts/factory/factory.mjs quota "$TRANSCRIPT"; then
             echo "::warning::the Max allowance ran out during this run"
-            rm -f "$FACTORY_DIR/pr.md" "$FACTORY_DIR/blocked.md"
-            echo "The Max allowance ran out during the run." > "$FACTORY_DIR/quota.md"
+            echo "quota=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          exit "$status"
+          echo "quota=false" >> "$GITHUB_OUTPUT"
+          if [ "$OUTCOME" != success ]; then
+            echo "::error::the agent step ended with '$OUTCOME'"
+            exit 1
+          fi
 
-      # The full transcript (every tool call and its output), so a run can be
-      # audited after the fact.
-      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: always()
-        with:
-          name: factory-transcript
-          path: ${{ runner.temp }}/transcript/
-          retention-days: 14
-          if-no-files-found: ignore
+      # Git on the agent's checkout obeys that checkout's config, so it runs
+      # as the agent's user, and its processes are stopped afterwards.
+      - &package-as-agent
+        name: Commit the agent's leftover changes
+        if: always() && steps.agent.outcome != 'skipped'
+        env:
+          BASE: ${{ env.SCAN_BASE }}
+          QUOTA: ${{ steps.result.outputs.quota }}
+          AGENT_OUTCOME: ${{ steps.agent.outcome }}
+          FIRST_SHA: ${{ steps.first.outputs.sha }}
+        run: |
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh package-as-agent ||
+            echo "::warning::packaging as the agent's user failed"
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh stop factory-agent
+
+      # The agent's outputs, copied back by root without following links.
+      - &collect
+        name: Collect the agent's outputs
+        id: collect
+        if: always() && steps.agent.outcome != 'skipped'
+        run: |
+          bash /srv/factory/trusted/scripts/factory/sandbox.sh collect \
+            "$RUNNER_TEMP/factory" "$RUNNER_TEMP/candidate.bundle"
 
       # Runs whatever happened above. The agent's work is always bundled, so
       # deliver can save it to a branch when no PR comes out of the run: a
       # block, the allowance running out, a timeout or a crash.
       - name: Package the result
-        id: package
-        if: always()
+        id: decide
+        if: always() && steps.collect.outcome == 'success'
         env:
           FACTORY_DIR: ${{ runner.temp }}/factory
-          BASE: ${{ needs.prepare.outputs.base }}
+          QUOTA: ${{ steps.result.outputs.quota }}
         run: |
-          mkdir -p "$FACTORY_DIR"
-          delivering=false
-          if [ -f "$FACTORY_DIR/pr.md" ] && [ ! -f "$FACTORY_DIR/blocked.md" ] && [ ! -f "$FACTORY_DIR/quota.md" ]; then
-            delivering=true
+          if [ "$QUOTA" = true ]; then
+            rm -f "$FACTORY_DIR/pr.md" "$FACTORY_DIR/blocked.md"
+            echo "The Max allowance ran out during the run." > "$FACTORY_DIR/quota.md"
           fi
-          # Changes the agent didn't commit go into one last commit, unless
-          # this run is opening a PR (that PR holds only what the agent committed).
-          if [ "$delivering" = false ] && [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
-              echo "::warning::could not commit the uncommitted changes"
-          fi
-          ahead=$(git rev-list --count "$BASE..HEAD" 2>/dev/null || echo 0)
-          if [ "$ahead" -gt 0 ]; then
-            git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
-            echo "$ahead new commit(s) on $(git branch --show-current)"
-          fi
+          verified=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
+            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$FACTORY_DIR/work.bundle")
+          read -r ahead builds <<<"$verified"
+          echo "$ahead new commit(s)"
           if [ -f "$FACTORY_DIR/quota.md" ]; then exit 0; fi
+          # A branch that doesn't build on the base (a merge of main that
+          # didn't finish, a rewritten base commit) can't go to a PR. Block
+          # instead, so deliver saves the work.
+          if [ "$builds" != yes ] && [ ! -f "$FACTORY_DIR/blocked.md" ]; then
+            printf '%s\n' "The branch doesn't build on its base commit (for example, merging main didn't finish), so no PR was opened. The work is saved on the branch linked below." \
+              > "$FACTORY_DIR/blocked.md"
+          fi
+          # pr.md with nothing committed: package committed the edits as
+          # leftovers, which never become a PR. Block, so they're saved.
+          wip=$(GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null \
+            git -C "$RUNNER_TEMP/mirror" log -1 --format=%s refs/factory/head 2>/dev/null || true)
+          if [ -f "$FACTORY_DIR/pr.md" ] && [ ! -f "$FACTORY_DIR/blocked.md" ] &&
+            [ "$wip" = "wip(factory): uncommitted changes when the run stopped" ]; then
+            printf '%s\n' "The agent wrote pr.md but committed nothing, so no PR was opened. Its uncommitted changes are saved on the branch linked below." \
+              > "$FACTORY_DIR/blocked.md"
+          fi
           # blocked.md wins over pr.md. A fix run starts with pr.md already
-          # written, and the agent's sandbox can't delete files, so an agent
-          # that stops after writing pr.md leaves both behind.
+          # written, and the agent can't delete files outside its sandbox's
+          # rules, so an agent that stops after writing pr.md leaves both.
           if [ -f "$FACTORY_DIR/blocked.md" ]; then
             if [ -f "$FACTORY_DIR/pr.md" ]; then
               echo "::notice::blocked.md and pr.md both present; using blocked.md"
@@ -423,8 +585,52 @@ jobs:
           fi
           echo "deliver=true" >> "$GITHUB_OUTPUT"
 
+      # Everything this job publishes passes this check first: the transcript
+      # and outcome artifacts, and through deliver the PR, the pushed branch
+      # and the Linear comment. It looks for the token by its fingerprint, so
+      # this step never holds it. The commits it checks are the ones in the
+      # re-created bundle, read from the trusted mirror. On a hit, nothing is
+      # published.
+      - &scan-outputs
+        name: Check the outputs for the token
+        id: scan
+        if: always() && steps.fingerprint.outcome == 'success'
+        timeout-minutes: 10
+        env:
+          SECRET_SHA256: ${{ steps.fingerprint.outputs.sha256 }}
+          SECRET_LENGTH: ${{ steps.fingerprint.outputs.length }}
+          SECRET_PREFIX: ${{ steps.fingerprint.outputs.prefix }}
+          GIT_CONFIG_NOSYSTEM: '1'
+          GIT_CONFIG_GLOBAL: /dev/null
+          GIT_NO_REPLACE_OBJECTS: '1'
+        run: |
+          set -o pipefail
+          mirror="$RUNNER_TEMP/mirror"
+          objects() {
+            if git -C "$mirror" rev-parse -q --verify refs/factory/head >/dev/null; then
+              git -C "$mirror" rev-list --objects "$SCAN_BASE..refs/factory/head" | cut -d' ' -f1 |
+                git -C "$mirror" cat-file --batch
+            fi
+          }
+          if ! objects | node /srv/factory/trusted/scripts/factory/secret-scan.mjs \
+            "$RUNNER_TEMP/transcript" "$RUNNER_TEMP/factory" "$RUNNER_TEMP/fix-pass" -; then
+            rm -rf "$RUNNER_TEMP/transcript" "$RUNNER_TEMP/factory" "$RUNNER_TEMP/fix-pass"
+            echo "::error::nothing from this job is published. If the scan found the token, rotate CLAUDE_CODE_OAUTH_TOKEN now."
+            exit 1
+          fi
+
+      # The full transcript (every tool call and its output), so a run can be
+      # audited after the fact.
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: always()
+        if: always() && steps.scan.outcome == 'success'
+        with:
+          name: factory-transcript
+          path: ${{ runner.temp }}/transcript/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always() && steps.scan.outcome == 'success'
         with:
           if-no-files-found: ignore
           name: factory-outcome
@@ -556,10 +762,11 @@ jobs:
           overwrite: true
 
   # The agent's pass over the local review's findings, on a fresh runner
-  # without the CodeRabbit key. Its outcome replaces the work job's only when
-  # the pass ends in pr.md or blocked.md; otherwise (a timeout, a crash, the
-  # allowance running out) the first pass is delivered, and pr.md already
-  # lists the findings as not addressed.
+  # without the CodeRabbit key, with the same isolation as the work job. Its
+  # outcome replaces the work job's only when the pass ends in pr.md or
+  # blocked.md; otherwise (a timeout, a crash, the allowance running out) the
+  # first pass is delivered, and pr.md already lists the findings as not
+  # addressed.
   review-fix:
     needs: [prepare, work, local-review]
     if: needs.local-review.result == 'success' && needs.local-review.outputs.fix == 'true'
@@ -588,6 +795,16 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
+      # The bundles and the output scan cover both passes' commits.
+      - name: Record the base commit
+        env:
+          BASE: ${{ needs.work.outputs.base }}
+        run: |
+          [[ "$BASE" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::bad base commit '$BASE'"; exit 1; }
+          echo "SCAN_BASE=$BASE" >> "$GITHUB_ENV"
+
+      - *keep-trusted
+
       - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
           name: factory-outcome-reviewed
@@ -605,22 +822,9 @@ jobs:
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: '22'
-          cache: 'npm'
 
-      - name: Install and build
-        run: |
-          npm ci
-          npm run build -w seekstone
-          npm install --global "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}"
-
-      - name: Set the commit identity
-        env:
-          GH_TOKEN: ${{ github.token }}
-          APP_SLUG: ${{ vars.FACTORY_APP_SLUG }}
-        run: |
-          id=$(gh api "users/${APP_SLUG}%5Bbot%5D" --jq .id)
-          git config user.name "${APP_SLUG}[bot]"
-          git config user.email "${id}+${APP_SLUG}[bot]@users.noreply.github.com"
+      - *install
+      - *commit-identity
 
       # The fix pass must rewrite pr.md (or write blocked.md) to count. Without
       # this, the first pass's pr.md would satisfy the check below even when
@@ -633,10 +837,61 @@ jobs:
           echo "sha=$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
           echo "head=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
+      - *mirror
+      - *hand-over
+      - *fingerprint-token
       - *run-playbook
+      - *stop-agent
+      - *agent-result
+      - *package-as-agent
+      - *collect
+
+      # The fix pass counts when the agent step succeeded and it wrote
+      # blocked.md or rewrote pr.md. Otherwise the first pass is delivered,
+      # and what the fix pass committed or left uncommitted is kept for
+      # deliver to push to its own saved branch.
+      - name: Package the result
+        id: decide
+        if: always() && steps.collect.outcome == 'success'
+        env:
+          FACTORY_DIR: ${{ runner.temp }}/factory
+          RESULT: ${{ steps.result.outcome }}
+          QUOTA: ${{ steps.result.outputs.quota }}
+          FIRST_SHA: ${{ steps.first.outputs.sha }}
+          FIRST_HEAD: ${{ steps.first.outputs.head }}
+        run: |
+          bundle="$RUNNER_TEMP/fix.bundle"
+          verified=$(bash /srv/factory/trusted/scripts/factory/sandbox.sh verify-bundle \
+            "$RUNNER_TEMP/mirror" "$SCAN_BASE" "$RUNNER_TEMP/candidate.bundle" "$bundle")
+          read -r _ builds <<<"$verified"
+          fixed=false
+          if [ "$RESULT" != success ] || [ "$QUOTA" = true ]; then
+            echo "::warning::the fix pass failed or ran out of allowance; delivering the first pass"
+          elif [ "$builds" != yes ]; then
+            echo "::warning::the fix pass doesn't build on the first pass's base; delivering the first pass"
+          elif [ -f "$FACTORY_DIR/blocked.md" ]; then
+            rm -f "$FACTORY_DIR/pr.md"
+            fixed=true
+          elif [ ! -f "$FACTORY_DIR/pr.md" ] ||
+            [ "$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" = "$FIRST_SHA" ]; then
+            echo "::warning::the fix pass did not rewrite pr.md or write blocked.md; delivering the first pass"
+          else
+            fixed=true
+          fi
+          if [ "$fixed" = true ] && [ -f "$bundle" ]; then
+            mv "$bundle" "$FACTORY_DIR/work.bundle"
+            echo "upload=true" >> "$GITHUB_OUTPUT"
+          elif [ -f "$bundle" ] &&
+            [ "$(GIT_CONFIG_NOSYSTEM=1 GIT_CONFIG_GLOBAL=/dev/null git -C "$RUNNER_TEMP/mirror" rev-parse refs/factory/head)" != "$FIRST_HEAD" ]; then
+            mkdir -p "$RUNNER_TEMP/fix-pass"
+            mv "$bundle" "$RUNNER_TEMP/fix-pass/fix-pass.bundle"
+            echo "saved=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - *scan-outputs
 
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: always()
+        if: always() && steps.scan.outcome == 'success'
         with:
           name: factory-transcript-local-review
           path: ${{ runner.temp }}/transcript/
@@ -644,66 +899,33 @@ jobs:
           overwrite: true
           if-no-files-found: ignore
 
-      - name: Package the result
-        id: package
-        if: steps.agent.outcome == 'success'
-        env:
-          FACTORY_DIR: ${{ runner.temp }}/factory
-          BASE: ${{ needs.work.outputs.base }}
-          FIRST_SHA: ${{ steps.first.outputs.sha }}
-        run: |
-          if [ -f "$FACTORY_DIR/quota.md" ]; then
-            echo "::warning::the Max allowance ran out in the fix pass; delivering the first pass"
-            exit 0
-          fi
-          if [ -f "$FACTORY_DIR/blocked.md" ]; then
-            rm -f "$FACTORY_DIR/pr.md"
-            if [ -n "$(git status --porcelain)" ]; then
-              git add -A
-              git commit -q --no-verify -m "wip(factory): uncommitted changes when the run stopped" ||
-                echo "::warning::could not commit the uncommitted changes"
-            fi
-          elif [ ! -f "$FACTORY_DIR/pr.md" ] ||
-            [ "$(sha256sum "$FACTORY_DIR/pr.md" | cut -d' ' -f1)" = "$FIRST_SHA" ]; then
-            echo "::warning::the fix pass did not rewrite pr.md or write blocked.md; delivering the first pass"
-            exit 0
-          fi
-          git bundle create "$FACTORY_DIR/work.bundle" "$BASE..HEAD"
-          echo "upload=true" >> "$GITHUB_OUTPUT"
-
       - id: fixed-upload
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: steps.package.outputs.upload == 'true'
+        if: always() && steps.decide.outputs.upload == 'true' && steps.scan.outcome == 'success'
         with:
           name: factory-outcome-fixed
           path: ${{ runner.temp }}/factory/
           retention-days: 7
           overwrite: true
 
-      # When the first pass is delivered instead (the fix pass failed, ran
-      # out of allowance, didn't rewrite pr.md, or its outcome didn't
-      # upload), keep what the fix pass did. Deliver pushes it to its own
-      # saved branch.
-      - name: Keep the unfinished fix pass
-        id: unfinished
-        if: always() && steps.first.outcome == 'success' && steps.fixed-upload.outcome != 'success'
-        env:
-          BASE: ${{ needs.work.outputs.base }}
-          FIRST_HEAD: ${{ steps.first.outputs.head }}
+      # If the fixed outcome didn't upload, deliver falls back to the first
+      # pass: keep the fix pass's commits as unfinished work instead. The
+      # bundle is the same file the scan already checked.
+      - name: Keep the fix pass if its outcome didn't upload
+        id: fallback
+        if: >-
+          always() && steps.decide.outputs.upload == 'true' &&
+          steps.fixed-upload.outcome != 'success' && steps.scan.outcome == 'success'
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -q --no-verify -m "wip(factory): uncommitted changes when the fix pass stopped" ||
-              echo "::warning::could not commit the fix pass's uncommitted changes"
-          fi
-          if [ "$(git rev-parse HEAD)" = "$FIRST_HEAD" ]; then exit 0; fi
           mkdir -p "$RUNNER_TEMP/fix-pass"
-          git bundle create "$RUNNER_TEMP/fix-pass/fix-pass.bundle" "$BASE..HEAD"
+          cp "$RUNNER_TEMP/factory/work.bundle" "$RUNNER_TEMP/fix-pass/fix-pass.bundle"
           echo "saved=true" >> "$GITHUB_OUTPUT"
 
       - id: fix-pass-upload
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        if: always() && steps.unfinished.outputs.saved == 'true'
+        if: >-
+          always() && steps.scan.outcome == 'success' &&
+          (steps.decide.outputs.saved == 'true' || steps.fallback.outputs.saved == 'true')
         with:
           name: factory-fix-pass
           path: ${{ runner.temp }}/fix-pass/
