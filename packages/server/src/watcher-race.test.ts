@@ -74,7 +74,9 @@ afterEach(async () => {
   await rm(tmpDir, { recursive: true, force: true });
 });
 
-describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('watcher reads in flight', () => {
+// Unlike watcher.test.ts, this suite also runs in the coverage gate: the held
+// read fixes the event order, so instrumentation lag only adds wait time.
+describe('watcher reads in flight', () => {
   it('drops a read that finishes after the note was deleted', async () => {
     const ctx = freshCtx(tmpDir);
     const events: string[] = [];
