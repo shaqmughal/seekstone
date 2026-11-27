@@ -52,12 +52,26 @@ function freshCtx(vaultRoot: string): ServerContext {
   };
 }
 
-async function waitFor(condition: () => boolean): Promise<void> {
-  const deadline = Date.now() + 30_000;
+// Same as watcher.test.ts: under usePolling, chokidar rescans a folder only
+// when its mtime changes, and on Windows one create can go unseen. Every ~2 s
+// the nudge adds a new non-note file, which changes the folder's mtime.
+async function waitFor(condition: () => boolean, nudge?: () => Promise<void>): Promise<void> {
+  const deadline = Date.now() + 60_000;
+  let ticks = 0;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
+    ticks += 1;
+    if (nudge && ticks % 100 === 0) await nudge();
     await new Promise((r) => setTimeout(r, 20));
   }
+}
+
+function dirNudger(dir: string): () => Promise<void> {
+  let n = 0;
+  return async () => {
+    n += 1;
+    await writeFile(join(dir, `nudge-${n}.tmp`), String(n), 'utf8');
+  };
 }
 
 // Lets the released read and anything it awaits settle.
@@ -89,9 +103,9 @@ describe('watcher reads in flight', () => {
       await ready;
       hold.file = 'Foo.MD';
       await writeFile(join(tmpDir, 'Foo.MD'), 'gonetext', 'utf8');
-      await waitFor(() => hold.entered);
+      await waitFor(() => hold.entered, dirNudger(tmpDir));
       await rm(join(tmpDir, 'Foo.MD'));
-      await waitFor(() => events.includes('unlink Foo.MD'));
+      await waitFor(() => events.includes('unlink Foo.MD'), dirNudger(tmpDir));
       hold.release();
       await settle();
       expect(ctx.notes.has('Foo.MD')).toBe(false);
@@ -108,9 +122,9 @@ describe('watcher reads in flight', () => {
       await ready;
       hold.file = 'Foo.MD';
       await writeFile(join(tmpDir, 'Foo.MD'), 'oldtext', 'utf8');
-      await waitFor(() => hold.entered);
+      await waitFor(() => hold.entered, dirNudger(tmpDir));
       await writeFile(join(tmpDir, 'Foo.MD'), 'newtext plus more words', 'utf8');
-      await waitFor(() => ctx.index.search('newtext').length === 1);
+      await waitFor(() => ctx.index.search('newtext').length === 1, dirNudger(tmpDir));
       hold.release();
       await settle();
       expect(ctx.index.search('oldtext')).toEqual([]);
