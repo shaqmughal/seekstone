@@ -209,6 +209,8 @@ export class Journal {
   private totalBytes: number;
   /** A refresh's scan for evicted blobs threw; the next refresh runs it again. */
   private blobScanPending = false;
+  /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
+  private opened = false;
   /** Serialises commits so seq assignment and eviction never interleave. */
   private chain: Promise<unknown> = Promise.resolve();
 
@@ -250,6 +252,7 @@ export class Journal {
     }
     const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
     await journal.enqueue(() => journal.load());
+    journal.opened = true;
     // A torn last line from a crash: not listed; the next commit cuts it off.
     if (journal.tailBytes > 0) opts.log?.warn('journal: skipping malformed manifest line');
     return journal;
@@ -354,6 +357,7 @@ export class Journal {
   /** Parse complete manifest lines and add their entries (and their blobs' sizes). */
   private async ingest(text: string, fromStart: boolean): Promise<void> {
     let lastSeq = fromStart ? 0 : this.nextSeq - 1;
+    const checked = new Set<string>();
     for (const line of text.split('\n')) {
       if (line.trim() === '') continue;
       let parsed: unknown;
@@ -372,12 +376,17 @@ export class Journal {
       this.entries.push(parsed);
       lastSeq = parsed.seq;
       for (const f of parsed.files) {
-        if (f.preHash === null || this.blobSizes.has(f.preHash)) continue;
+        if (f.preHash === null || checked.has(f.preHash)) continue;
+        const cached = this.blobSizes.get(f.preHash);
+        // After `open`, stat a cached blob again: the process that wrote this
+        // row may have rewritten a damaged copy. (`open` just read the sizes.)
+        if (cached !== undefined && !this.opened) continue;
+        checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
         const size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
         if (size === undefined) continue;
         this.blobSizes.set(f.preHash, size);
-        this.totalBytes += size;
+        this.totalBytes += size - (cached ?? 0);
       }
     }
     this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
@@ -581,7 +590,14 @@ export class Journal {
         // same-size change is caught by `preimage` at undo time). Rewrite it,
         // or this entry could never be undone.
         const size = Buffer.byteLength(content, 'utf8');
-        if (st.size !== size) writeDurable(path, content);
+        if (st.size !== size) {
+          try {
+            writeDurable(path, content);
+          } catch (err) {
+            // As in `storeBlob`: another process may have placed it meanwhile.
+            if (!blobMatches(path, hash)) throw err;
+          }
+        }
         this.totalBytes += size - (this.blobSizes.get(hash) ?? 0);
         this.blobSizes.set(hash, size);
         continue;

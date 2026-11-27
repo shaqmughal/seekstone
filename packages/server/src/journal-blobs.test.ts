@@ -13,7 +13,7 @@ import { undoWrite } from './tools/undo_write.js';
 // evicted blobs must run again on the next refresh.
 
 /** One-shot failure, armed by a test and cleared when it fires. */
-const fail = vi.hoisted(() => ({ blobScan: false }));
+const fail = vi.hoisted(() => ({ blobScan: false, blobRename: '' as '' | 'placed' | 'refused' }));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
@@ -24,7 +24,23 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     return (fs.readdirSync as (...a: unknown[]) => unknown)(path, ...rest);
   }) as typeof fs.readdirSync;
-  return { ...fs, readdirSync, default: { ...fs, readdirSync } };
+  // A rename onto a blob that Windows refuses: either another process's rename
+  // placed the same blob at that moment ('placed'), or nothing did ('refused').
+  const renameSync = ((from: string, to: string) => {
+    const mode = fail.blobRename;
+    if (mode !== '' && /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(to))) {
+      fail.blobRename = '';
+      if (mode === 'placed') fs.renameSync(from, to);
+      throw Object.assign(new Error('EPERM: operation not permitted, rename'), { code: 'EPERM' });
+    }
+    fs.renameSync(from, to);
+  }) as typeof fs.renameSync;
+  return {
+    ...fs,
+    readdirSync,
+    renameSync,
+    default: { ...fs, readdirSync, renameSync },
+  };
 });
 
 let vault: string;
@@ -36,6 +52,7 @@ beforeEach(async () => {
 });
 afterEach(async () => {
   fail.blobScan = false;
+  fail.blobRename = '';
   await rm(vault, { recursive: true, force: true });
 });
 
@@ -69,6 +86,46 @@ describe('Journal: a damaged pre-image blob', () => {
     await journalWrite({ journal: reopened }, 'b', 'b.md', 'shared', 'y');
     expect(reopened.storedBytes).toBe(6);
     expect(await reopened.preimage(contentHash('shared'))).toBe('shared');
+  });
+
+  it('repaired by another process updates the size this process counts', async () => {
+    const first = await Journal.open(vault, BIG);
+    await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 1
+    await writeFile(blob('shared'), 'x'.repeat(100)); // damaged: 100 bytes
+    const cap = { maxBytes: 20, maxEntries: 1e6 };
+    const a = await Journal.open(vault, cap);
+    expect(a.storedBytes).toBe(100);
+    const b = await Journal.open(vault, cap);
+    await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y'); // seq 2 repairs it
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+
+    expect(await a.refresh()).toBe(true);
+    expect(a.storedBytes).toBe(6);
+    // 6 + 7 bytes fit the 20-byte cap, so nothing may be evicted.
+    await journalWrite({ journal: a }, 'c', 'c.md', 'other12', 'z'); // seq 3
+    expect(a.storedBytes).toBe(13);
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
+  });
+
+  it('is kept when another process places the same blob while the rewrite renames', async () => {
+    const j = await Journal.open(vault, BIG);
+    await journalWrite({ journal: j }, 'a', 'a.md', 'shared', 'x');
+    await truncate(blob('shared'), 2);
+    fail.blobRename = 'placed';
+    await journalWrite({ journal: j }, 'b', 'b.md', 'shared', 'y');
+    expect(fail.blobRename).toBe('');
+    expect(await j.preimage(contentHash('shared'))).toBe('shared');
+    expect(j.storedBytes).toBe(6);
+  });
+
+  it('fails the write when the rewrite fails and the blob is still damaged', async () => {
+    const j = await Journal.open(vault, BIG);
+    await journalWrite({ journal: j }, 'a', 'a.md', 'shared', 'x');
+    await truncate(blob('shared'), 2);
+    fail.blobRename = 'refused';
+    await expect(journalWrite({ journal: j }, 'b', 'b.md', 'shared', 'y')).rejects.toThrow(/EPERM/);
+    expect(j.lastSeq).toBe(1);
   });
 });
 
