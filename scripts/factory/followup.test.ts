@@ -227,7 +227,10 @@ describe('decide: the CodeRabbit review round', () => {
   });
 
   it('starts the round for an outside-diff finding followed by an approval on the head', () => {
-    const body = readFileSync(new URL('./fixtures/coderabbit-review.md', import.meta.url), 'utf8');
+    const body = readFileSync(
+      new URL('./fixtures/coderabbit-review-outside-diff.md', import.meta.url),
+      'utf8',
+    );
     const author = { login: 'coderabbitai' };
     const reviews = [
       { author, state: 'COMMENTED', body, commit: { oid: SHA } },

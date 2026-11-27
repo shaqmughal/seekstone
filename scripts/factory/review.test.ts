@@ -2,6 +2,7 @@ import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
   fetchReview,
+  findingsMarkdown,
   formatFindings,
   isCodeRabbit,
   MAX_REPLY,
@@ -21,6 +22,8 @@ const fixture = (name: string) =>
 const THREAD = fixture('coderabbit-thread.md');
 const SUMMARY = fixture('coderabbit-summary.md');
 const REVIEW = fixture('coderabbit-review.md');
+// CodeRabbit's review 6050406156 on #512, commit 16cb7153 (SHA-657).
+const OUTSIDE_512 = fixture('coderabbit-review-outside-diff.md');
 
 const CR = { login: 'coderabbitai' };
 const thread = (over = {}) => ({
@@ -156,25 +159,38 @@ describe('outside-diff findings on the head commit (SHA-657)', () => {
   });
   const base = { threads: [], comments: [], checkRuns: [], headSha: HEAD };
 
+  // #512: CodeRabbit's COMMENTED review with one outside-diff finding, then
+  // an empty APPROVED review on the same commit 8 seconds later.
   it('counts a finding from a comment review followed by an approval on the head', () => {
-    const reviews = [review('COMMENTED', HEAD, REVIEW), review('APPROVED', HEAD)];
+    const reviews = [review('COMMENTED', HEAD, OUTSIDE_512), review('APPROVED', HEAD)];
     expect(reviewStatus({ ...base, reviews })).toEqual({
       reviewed: true,
       changesRequested: false,
       open: 1,
     });
+  });
+
+  it('writes the head commit finding into review-findings.md', () => {
+    const reviews = [review('COMMENTED', HEAD, OUTSIDE_512), review('APPROVED', HEAD)];
     const found = outsideDiffOnHead(reviews, HEAD);
-    expect(found.map((f) => f.where)).toEqual(['packages/server/src/journal.ts:107']);
+    expect(found).toHaveLength(1);
+    expect(found[0]).toMatchObject({ where: 'scripts/smoke-install.mjs:31', severity: 'Minor' });
+    expect(found[0].text).toContain('Launch npm on Windows through a shell-capable path.');
+    const md = findingsMarkdown({ ...base, reviews });
+    expect(md).toContain('### 1. Minor · scripts/smoke-install.mjs:31');
   });
 
   it('drops a finding from an older commit once CodeRabbit approved the newer head', () => {
     const reviews = [
-      review('COMMENTED', 'old', REVIEW),
+      review('COMMENTED', 'old', OUTSIDE_512),
       review('APPROVED', 'old'),
       review('APPROVED', HEAD),
     ];
     expect(reviewStatus({ ...base, reviews }).open).toBe(0);
     expect(outsideDiffOnHead(reviews, HEAD)).toEqual([]);
+    const md = findingsMarkdown({ ...base, reviews });
+    expect(md).not.toContain('smoke-install.mjs');
+    expect(md).toContain('no finding this script could read');
   });
 });
 

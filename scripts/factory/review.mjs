@@ -214,6 +214,21 @@ export function formatFindings({ threads, summary, outside, changesRequested }) 
 }
 
 /**
+ * review-findings.md for the `findings` command: open threads, summary
+ * findings and comments outside the diff from CodeRabbit's reviews of
+ * `headSha`, the same rule reviewStatus counts by.
+ */
+export function findingsMarkdown({ reviews, threads, comments, headSha }) {
+  const status = reviewStatus({ reviews, threads, comments, checkRuns: [], headSha });
+  return formatFindings({
+    threads: openThreads(threads),
+    summary: summaryFindings(comments),
+    outside: outsideDiffOnHead(reviews, headSha),
+    changesRequested: status.changesRequested,
+  });
+}
+
+/**
  * Replies from review-replies.json (`[{ comment_id, body }]`) that target an
  * open CodeRabbit thread, one per thread, cut to MAX_REPLY characters.
  */
@@ -291,14 +306,7 @@ async function main() {
 
   const pr = await gh(`repos/${repo}/pulls/${prNumber}`);
   const comments = await ghAll(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
-  const headSha = pr.head.sha;
-  const status = reviewStatus({ reviews, threads, comments, checkRuns: [], headSha });
-  const md = formatFindings({
-    threads: openThreads(threads),
-    summary: summaryFindings(comments),
-    outside: outsideDiffOnHead(reviews, headSha),
-    changesRequested: status.changesRequested,
-  });
+  const md = findingsMarkdown({ reviews, threads, comments, headSha: pr.head.sha });
   mkdirSync(path, { recursive: true });
   writeFileSync(join(path, 'pr.md'), prMarkdown(pr.title, pr.body));
   writeFileSync(join(path, 'review-findings.md'), md);
