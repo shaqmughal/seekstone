@@ -148,6 +148,26 @@ cmd_setup() {
   # Nothing may start a process for either user once their processes are
   # stopped, and Docker's socket would be a way to root.
   sudo systemctl stop cron.service atd.service docker.socket docker.service 2>/dev/null || true
+  # Ubuntu 24.04 restricts unprivileged user namespaces through AppArmor. Its
+  # own bubblewrap profile lets bwrap make one but drops capabilities for
+  # what runs inside, so Claude Code's seccomp helper can't make the nested
+  # namespace it needs ("write /proc/self/setgroups ... capability-restricted")
+  # and every sandboxed command fails. Use the profile Claude Code documents
+  # (code.claude.com/docs/en/sandboxing) instead: bwrap may make user
+  # namespaces, and the restriction stays on for every other program.
+  if [ "$(cat /proc/sys/kernel/apparmor_restrict_unprivileged_userns 2>/dev/null)" = 1 ]; then
+    local p
+    for p in /etc/apparmor.d/bwrap-userns-restrict /etc/apparmor.d/bwrap; do
+      if [ -f "$p" ]; then
+        sudo apparmor_parser -R "$p" 2>/dev/null || true
+        sudo rm -f "$p"
+      fi
+    done
+    printf '%s\n' 'abi <abi/4.0>,' 'include <tunables/global>' '' \
+      'profile bwrap /usr/bin/bwrap flags=(unconfined) {' '  userns,' '}' |
+      sudo tee /etc/apparmor.d/bwrap >/dev/null
+    sudo apparmor_parser -r /etc/apparmor.d/bwrap
+  fi
   sudo rm -f /run/docker.sock
   sudo install -d -o root -g root -m 755 "$ROOT"
   sudo install -d -o "$AGENT" -g "$AGENT" -m 700 "$AGENT_TMP"
