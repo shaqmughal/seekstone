@@ -6,7 +6,8 @@
 //
 // findings: writes <out-dir>/pr.md and <out-dir>/review-findings.md (every
 // open CodeRabbit thread, every finding in its summary comment and every
-// comment it left outside the diff), and outputs the PR's branch and head.
+// comment its reviews of the head commit left outside the diff), and outputs
+// the PR's branch and head.
 // replies: posts the agent's review-replies.json on the open CodeRabbit
 // threads it names, and skips any entry that names something else.
 //
@@ -115,6 +116,15 @@ export function outsideDiff(reviews) {
 }
 
 /**
+ * Comments outside the diff from every CodeRabbit review of `headSha`. It
+ * often posts its findings in a comment review and approves seconds later
+ * with an empty body, so the latest review alone can miss them. Reviews of
+ * older commits don't count: a later push may have fixed what they found.
+ */
+export const outsideDiffOnHead = (reviews, headSha) =>
+  outsideDiff(reviews.filter((r) => r.commit?.oid === headSha));
+
+/**
  * Whether CodeRabbit's check on the head says it reviewed it. It finishes
  * `success` after a review, even one with no comments, and `skipped` with
  * "No files to review" when the commit changed nothing it reviews. Any
@@ -134,7 +144,7 @@ export function checkReviewed(checkRuns) {
  * Where CodeRabbit stands on `headSha`. `reviewed` once it has reviewed the
  * head (checkReviewed). `changesRequested` from its latest approving or
  * blocking review. `open` counts threads, summary findings and comments
- * outside the diff in its latest review.
+ * outside the diff in its reviews of the head (outsideDiffOnHead).
  */
 export function reviewStatus({ reviews, threads, comments, checkRuns, headSha }) {
   const mine = reviews.filter((r) => isCodeRabbit(r.author?.login));
@@ -147,12 +157,12 @@ export function reviewStatus({ reviews, threads, comments, checkRuns, headSha })
   return {
     reviewed,
     changesRequested: verdict?.state === 'CHANGES_REQUESTED',
-    // Comments outside the diff have no thread to resolve, so only the
-    // latest review's count: an older review's list would never clear.
+    // Comments outside the diff have no thread to resolve, so only reviews
+    // of the head count: an older commit's list would never clear.
     open:
       openThreads(threads).length +
       summaryFindings(comments).length +
-      outsideDiff(mine.slice(-1)).length,
+      outsideDiffOnHead(mine, headSha).length,
   };
 }
 
@@ -281,11 +291,12 @@ async function main() {
 
   const pr = await gh(`repos/${repo}/pulls/${prNumber}`);
   const comments = await ghAll(`repos/${repo}/issues/${prNumber}/comments?per_page=100`);
-  const status = reviewStatus({ reviews, threads, comments, checkRuns: [], headSha: '' });
+  const headSha = pr.head.sha;
+  const status = reviewStatus({ reviews, threads, comments, checkRuns: [], headSha });
   const md = formatFindings({
     threads: openThreads(threads),
     summary: summaryFindings(comments),
-    outside: outsideDiff(reviews),
+    outside: outsideDiffOnHead(reviews, headSha),
     changesRequested: status.changesRequested,
   });
   mkdirSync(path, { recursive: true });

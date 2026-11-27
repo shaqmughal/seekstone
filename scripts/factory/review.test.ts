@@ -7,6 +7,7 @@ import {
   MAX_REPLY,
   openThreads,
   outsideDiff,
+  outsideDiffOnHead,
   reviewStatus,
   stripNoise,
   summaryFindings,
@@ -142,6 +143,38 @@ describe('reviewStatus', () => {
     expect(reviewStatus({ ...base, reviews }).changesRequested).toBe(false);
     const dismissed = [review('CHANGES_REQUESTED', 'old'), review('DISMISSED', 'old')];
     expect(reviewStatus({ ...base, reviews: dismissed }).changesRequested).toBe(false);
+  });
+});
+
+describe('outside-diff findings on the head commit (SHA-657)', () => {
+  const HEAD = 'abc1234';
+  const review = (state: string, oid: string, body?: string) => ({
+    author: CR,
+    state,
+    commit: { oid },
+    ...(body ? { body } : {}),
+  });
+  const base = { threads: [], comments: [], checkRuns: [], headSha: HEAD };
+
+  it('counts a finding from a comment review followed by an approval on the head', () => {
+    const reviews = [review('COMMENTED', HEAD, REVIEW), review('APPROVED', HEAD)];
+    expect(reviewStatus({ ...base, reviews })).toEqual({
+      reviewed: true,
+      changesRequested: false,
+      open: 1,
+    });
+    const found = outsideDiffOnHead(reviews, HEAD);
+    expect(found.map((f) => f.where)).toEqual(['packages/server/src/journal.ts:107']);
+  });
+
+  it('drops a finding from an older commit once CodeRabbit approved the newer head', () => {
+    const reviews = [
+      review('COMMENTED', 'old', REVIEW),
+      review('APPROVED', 'old'),
+      review('APPROVED', HEAD),
+    ];
+    expect(reviewStatus({ ...base, reviews }).open).toBe(0);
+    expect(outsideDiffOnHead(reviews, HEAD)).toEqual([]);
   });
 });
 
