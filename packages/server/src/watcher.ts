@@ -1,6 +1,7 @@
 import { lstatSync, realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
+import { classify } from '@seekstone/core/walk';
 import chokidar from 'chokidar';
 import type { ServerContext } from './context.js';
 import { envFlag } from './env.js';
@@ -12,7 +13,7 @@ import { isReadable } from './policy.js';
 import { findLink } from './symlinks.js';
 
 /**
- * Watch the vault for .md changes and keep the in-memory index in sync.
+ * Watch the vault for note and attachment changes and keep the in-memory index in sync.
  *
  * Uses chokidar rather than `fs.watch(..., { recursive: true })`: recursive
  * native watching is unsupported on Linux, where fs.watch silently misses
@@ -48,7 +49,7 @@ export interface WatcherOptions {
    */
   pollInterval?: number;
   /**
-   * Diagnostic hook fired for every raw chokidar event, before .md filtering
+   * Diagnostic hook fired for every raw chokidar event, before note/attachment classification
    * and before the index is updated. Receives the chokidar event name, the
    * absolute path as chokidar reported it, and the vault-relative key as
    * computed by toRel(). Use in tests only to capture what chokidar actually
@@ -223,7 +224,8 @@ export function startWatcher(
     if (action.kind !== 'process') return;
     // Files outside SEEKSTONE_READ_PATHS never enter the index (SHA-291).
     if (!isReadable(ctx.policy, relPath)) return;
-    if (relPath.endsWith('.md')) void upsert(relPath, op);
+    // Note or attachment by the boot walk's rule, so `Foo.MD` is a note in both.
+    if (classify(relPath) === 'note') void upsert(relPath, op);
     // Attachments only track existence. A `change` can still be the first
     // event for one, when a link is replaced by a regular file; addAttachment
     // ignores a path it already has.
@@ -261,7 +263,7 @@ export function startWatcher(
       const relPath = toRel(abs);
       opts?.onRawEvent?.('unlink', abs, relPath);
       // Not filtered by the read scope: clearing entries is always safe.
-      if (relPath.endsWith('.md')) remove(relPath);
+      if (classify(relPath) === 'note') remove(relPath);
       else removeAttachment(ctx.attachments, relPath);
     })
     .on('unlinkDir', (abs: string) => {
