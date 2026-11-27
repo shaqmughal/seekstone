@@ -171,7 +171,7 @@ cmd_setup() {
   # Only the agent's user runs bwrap (Claude Code's sandbox). Nobody else,
   # factory-install included, gets user namespaces with capabilities, which
   # would reach more kernel code than they need.
-  if id -nG "$INSTALLER" | grep -qw "$AGENT"; then die "$INSTALLER is in the $AGENT group"; fi
+  if id -nG "$INSTALLER" | tr ' ' '\n' | grep -qxF "$AGENT"; then die "$INSTALLER is in the $AGENT group"; fi
   sudo chown root:"$AGENT" /usr/bin/bwrap
   sudo chmod 750 /usr/bin/bwrap
   sudo rm -f /run/docker.sock
