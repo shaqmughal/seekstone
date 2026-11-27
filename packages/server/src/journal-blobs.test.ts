@@ -232,7 +232,7 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
   });
 
-  it('measures again when a repair came with no row (its commit was rolled back)', async () => {
+  it('checks the real size of a blob it would delete, after a reread kept a stale size', async () => {
     const first = await Journal.open(vault, BIG);
     await journalWrite({ journal: first }, 'f', 'f.md', 'f1', 'x'); // seq 1, a filler
     await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 2
@@ -263,5 +263,44 @@ describe('Journal: byte-cap eviction with a cached size that may be out of date'
     fail.blobStat = contentHash('shared'); // and the re-measure fails too
     await journalWrite({ journal: a }, 'c', 'c.md', 'other12', 'z');
     expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+  });
+
+  it('checks the real size even when nothing forces a reread', async () => {
+    const a = await damagedThenRepaired();
+    // A rolled-back repair leaves the manifest byte-identical, so a never
+    // rereads it.
+    await writeFile(blob('shared'), 'shared');
+    await journalWrite({ journal: a }, 'c', 'c.md', 'other12', 'z');
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+    expect(a.storedBytes).toBe(13);
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
+  });
+
+  it('keeps a blob whose size cannot be read and still evicts the others', async () => {
+    const j = await Journal.open(vault, { maxBytes: 25, maxEntries: 1e6 });
+    await journalWrite({ journal: j }, 'a', 'a.md', 'first-12345', 'x'); // 11 bytes
+    await journalWrite({ journal: j }, 'b', 'b.md', 'second-1234', 'x'); // 11 bytes
+    fail.blobStat = contentHash('first-12345');
+    await journalWrite({ journal: j }, 'c', 'c.md', 'third', 'x'); // 27 > 25
+    expect(await readFile(blob('first-12345'), 'utf8')).toBe('first-12345');
+    await expect(readFile(blob('second-1234'))).rejects.toThrow(/ENOENT/);
+  });
+});
+
+describe('Journal: two processes at both caps', () => {
+  it('stat a fixed handful of blobs per commit, not every cached one', async () => {
+    const caps = { maxBytes: 40, maxEntries: 5 };
+    const a = await Journal.open(vault, caps);
+    const b = await Journal.open(vault, caps);
+    const counts: number[] = [];
+    for (let n = 0; n < 12; n++) {
+      fail.blobStats = 0;
+      await journalWrite({ journal: n % 2 ? b : a }, `w${n}`, `n${n}.md`, `pre-${n}-xxxxxxxx`, 'x');
+      counts.push(fail.blobStats);
+    }
+    // A fixed handful per commit (6 here), whatever the journal holds.
+    // Re-measuring every cached blob after the other process compacts gives
+    // 9, and re-statting every reread row gives 8.
+    expect(Math.max(...counts)).toBeLessThanOrEqual(6);
   });
 });

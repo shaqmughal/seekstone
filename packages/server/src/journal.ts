@@ -212,10 +212,10 @@ export class Journal {
   /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
   private opened = false;
   /**
-   * A cached blob size may be out of date: a stat failed, or a reread kept a
-   * cached size without looking (another process may have repaired the blob
-   * in a commit whose row it then rolled back). Byte-cap eviction measures
-   * again first, so it never deletes blobs over a count that's too high.
+   * A stat failed while reading new rows, so some cached size may be out of
+   * date. Byte-cap eviction measures every cached blob again first. (Byte-cap
+   * eviction also checks each blob it is about to delete; this covers the
+   * blobs it wouldn't touch.)
    */
   private sizesMayBeStale = false;
   /** Serialises commits so seq assignment and eviction never interleave. */
@@ -415,13 +415,9 @@ export class Journal {
         const cached = this.blobSizes.get(f.preHash);
         // After `open`, stat a cached blob again for a new row: the process
         // that wrote it may have rewritten a damaged copy. (`open` just read
-        // the sizes.) An older row keeps its cached size, which byte-cap
-        // eviction checks before it relies on it.
-        if (cached !== undefined && !this.opened) continue;
-        if (cached !== undefined && parsed.seq < firstNew) {
-          this.sizesMayBeStale = true;
-          continue;
-        }
+        // the sizes.) An older row keeps its cached size; byte-cap eviction
+        // checks a blob's real size before it deletes it.
+        if (cached !== undefined && (!this.opened || parsed.seq < firstNew)) continue;
         checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
         // Any other error (EIO, EACCES) keeps what we knew; commit checks the
@@ -796,12 +792,32 @@ export class Journal {
         if (f.preHash !== null) refs.set(f.preHash, (refs.get(f.preHash) ?? 0) + 1);
       }
     }
-    const dropBlobs = async (e: JournalEntry): Promise<void> => {
+    // For the byte cap (`forSize`), each blob's real size is read before it
+    // is deleted: a cached size can be too high (a repair by another process
+    // whose row was rolled back), and a total that's too high would delete
+    // blobs live entries need. A blob whose size can't be read is kept.
+    const dropBlobs = async (e: JournalEntry, forSize = false): Promise<void> => {
       for (const f of e.files) {
         if (f.preHash === null) continue;
         const n = (refs.get(f.preHash) ?? 1) - 1;
         refs.set(f.preHash, n);
         if (n > 0 || !this.blobSizes.has(f.preHash)) continue;
+        if (forSize) {
+          if (this.totalBytes <= this.config.maxBytes) return;
+          const cached = this.blobSizes.get(f.preHash) ?? 0;
+          let size: number | undefined;
+          try {
+            size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
+          } catch {
+            continue;
+          }
+          if (size !== cached) {
+            this.totalBytes += (size ?? 0) - cached;
+            if (size === undefined) this.blobSizes.delete(f.preHash);
+            else this.blobSizes.set(f.preHash, size);
+            if (size === undefined || this.totalBytes <= this.config.maxBytes) continue;
+          }
+        }
         await rm(join(this.blobDir, f.preHash), { force: true });
         this.totalBytes -= this.blobSizes.get(f.preHash) ?? 0;
         this.blobSizes.delete(f.preHash);
@@ -815,9 +831,9 @@ export class Journal {
       rewrite = true;
     }
     // Never evict the entry just committed — a write must be undoable at
-    // least until the next one lands, whatever the cap. Sizes that may be
-    // out of date are measured first; if that fails, nothing is evicted for
-    // size until it works.
+    // least until the next one lands, whatever the cap. After a failed stat,
+    // every cached size is measured first; if that fails too, nothing is
+    // evicted for size until it works.
     const sized =
       this.totalBytes <= this.config.maxBytes || !this.sizesMayBeStale || this.measureBlobs();
     for (
@@ -825,7 +841,7 @@ export class Journal {
       sized && this.totalBytes > this.config.maxBytes && i < this.entries.length - 1;
       i++
     ) {
-      await dropBlobs(this.entries[i] as JournalEntry);
+      await dropBlobs(this.entries[i] as JournalEntry, true);
     }
     if (rewrite) {
       const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);
