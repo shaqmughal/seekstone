@@ -211,6 +211,8 @@ export class Journal {
   private totalBytes: number;
   /** A refresh's scan for evicted blobs threw; the next refresh runs it again. */
   private blobScanPending = false;
+  /** Blobs of rows we read whose stat failed before we cached them; retried on refresh. */
+  private readonly unstatted = new Set<string>();
   /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
   private opened = false;
   /** Serialises commits so seq assignment and eviction never interleave. */
@@ -265,11 +267,25 @@ export class Journal {
     return this.enqueue(async () => {
       // A scan that threw last time runs again: `load` already moved past the
       // rows that called for it, so it won't report them a second time.
-      if (!(await this.load()) && !this.blobScanPending) return false;
+      if (!(await this.load()) && !this.blobScanPending && this.unstatted.size === 0) return false;
       // Another process committed, and may have evicted blobs we know of.
       this.blobScanPending = true;
       this.forgetMissingBlobs();
       this.blobScanPending = false;
+      // Until a blob is cached its entry lists as not undoable, so a stat
+      // that failed while reading its row is tried again here.
+      for (const hash of this.unstatted) {
+        let size: number | undefined;
+        try {
+          size = statSync(join(this.blobDir, hash), { throwIfNoEntry: false })?.size;
+        } catch {
+          continue;
+        }
+        this.unstatted.delete(hash);
+        if (size === undefined || this.blobSizes.has(hash)) continue;
+        this.blobSizes.set(hash, size);
+        this.totalBytes += size;
+      }
       return true;
     });
   }
@@ -423,9 +439,11 @@ export class Journal {
         try {
           size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
         } catch {
+          if (cached === undefined) this.unstatted.add(f.preHash);
           continue;
         }
         if (size === undefined) continue;
+        this.unstatted.delete(f.preHash);
         this.blobSizes.set(f.preHash, size);
         this.totalBytes += size - (cached ?? 0);
       }

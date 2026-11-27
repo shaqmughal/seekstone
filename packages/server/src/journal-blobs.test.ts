@@ -16,6 +16,7 @@ import { undoWrite } from './tools/undo_write.js';
 const fail = vi.hoisted(() => ({
   blobScan: false,
   blobStat: false as boolean | string, // true: the next blob; a hash: that blob
+  blobStatTimes: 1, // how many stats fail before blobStat clears
   blobStats: 0,
   blobRename: '' as '' | 'placed' | 'refused',
   append: false, // the next manifest append fails
@@ -49,7 +50,10 @@ vi.mock('node:fs', async (importOriginal) => {
       isBlob &&
       (fail.blobStat === true || (fail.blobStat && String(path).endsWith(fail.blobStat)))
     ) {
-      fail.blobStat = false;
+      if (--fail.blobStatTimes <= 0) {
+        fail.blobStat = false;
+        fail.blobStatTimes = 1;
+      }
       throw Object.assign(new Error('EIO: i/o error, stat'), { code: 'EIO' });
     }
     return (fs.statSync as (...a: unknown[]) => unknown)(path, ...rest);
@@ -81,6 +85,7 @@ beforeEach(async () => {
 afterEach(async () => {
   fail.blobScan = false;
   fail.blobStat = false;
+  fail.blobStatTimes = 1;
   fail.blobRename = '';
   fail.append = false;
   await rm(vault, { recursive: true, force: true });
@@ -340,5 +345,22 @@ describe('Journal: the cost of counting real sizes', () => {
     // Its own pre-image and the other process's new row: never every blob,
     // even when the entry cap compacts the manifest on every commit.
     expect(Math.max(...counts)).toBeLessThanOrEqual(2);
+  });
+});
+
+describe('Journal: a failed stat of the blob of a new row', () => {
+  it('is retried on the next refresh, so the entry becomes undoable', async () => {
+    const a = await Journal.open(vault, BIG);
+    const b = await Journal.open(vault, BIG);
+    await journalWrite({ journal: b }, 'b', 'b.md', 'fresh', 'y'); // seq 1, new to a
+    fail.blobStat = contentHash('fresh');
+    fail.blobStatTimes = 2; // reading the row, and the retry in the same refresh
+    expect(await a.refresh()).toBe(true);
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(false);
+
+    expect(await a.refresh()).toBe(true); // nothing new, but the stat is retried
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
+    expect(a.storedBytes).toBe(5);
+    expect(await a.refresh()).toBe(false);
   });
 });
