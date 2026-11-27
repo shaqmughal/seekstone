@@ -58,10 +58,18 @@ OUTPUT_FILES="pr.md blocked.md review-replies.json ticket.md ci-failure.md revie
 GITCONFIG=$ROOT/gitconfig
 BIN=$ROOT/bin
 
-# The git environment for everything that runs as the agent's user.
+# The git environment that pins git to the factory repository: for package,
+# and inside the git wrapper outside the sandbox.
 agent_git_env() {
   printf '%s\n' "GIT_DIR=$GITDIR" "GIT_COMMON_DIR=$GITDIR" "GIT_WORK_TREE=$REPO" \
     GIT_CONFIG_NOSYSTEM=1 "GIT_CONFIG_GLOBAL=$GITCONFIG"
+}
+
+# What claude itself gets: only the config. The agent's commands inherit it,
+# and inside the sandbox they must be free to make repositories of their own
+# (tests do), so GIT_DIR and its kin aren't set there.
+agent_config_env() {
+  printf '%s\n' GIT_CONFIG_NOSYSTEM=1 "GIT_CONFIG_GLOBAL=$GITCONFIG"
 }
 
 die() {
@@ -82,7 +90,7 @@ tgit() {
 # environment. The command's own stdin is /dev/null.
 cmd_run_agent() {
   local env=()
-  mapfile -t env < <(agent_git_env)
+  mapfile -t env < <(agent_config_env)
   printf '%s' "${CLAUDE_CODE_OAUTH_TOKEN:-}" |
     sudo -u "$AGENT" /usr/bin/env -i -C "$REPO" HOME="/home/$AGENT" USER="$AGENT" LOGNAME="$AGENT" \
       PATH="$BIN:$PATH" TMPDIR="$AGENT_TMP" LANG=C.UTF-8 GITHUB_ACTIONS="${GITHUB_ACTIONS:-}" \
@@ -191,12 +199,19 @@ cmd_setup() {
   sudo install -o root -g root -m 644 "$GITCONFIG" "$home/.gitconfig"
   sudo install -o root -g root -m 644 "$GITCONFIG" "$home/.config/git/config"
   # Claude Code strips the git environment from its own git commands and
-  # runs some of them in the session's current folder, where the agent could
-  # plant a repository of its own. This git, first on the agent's PATH,
-  # pins every git command to the real repository and config again.
+  # runs some of them outside its sandbox, in the session's current folder,
+  # where the agent could plant a repository of its own. This git, first on
+  # the agent's PATH, pins those to the real repository and config again.
+  # Inside the sandbox (its own PID namespace), the agent's own commands get
+  # plain git: whatever they run stays sandboxed, and tests make repositories
+  # of their own. Anything that can't prove it's inside is pinned.
   sudo install -d -o root -g root -m 755 "$BIN"
-  agent_git_env | sed 's/^/export /' | {
-    printf '#!/bin/sh\n# Pins git to the factory repository (sandbox.sh, SHA-660).\n'
+  local host_ns
+  host_ns=$(/usr/bin/readlink /proc/self/ns/pid) || die "can't read the host PID namespace"
+  agent_git_env | sed 's/^/  export /' | {
+    printf '#!/bin/sh\n# Pins git to the factory repository outside the sandbox (sandbox.sh, SHA-660).\n'
+    printf 'ns=$(/usr/bin/readlink /proc/self/ns/pid 2>/dev/null)\n'
+    printf 'if [ -n "$ns" ] && [ "$ns" != "%s" ]; then exec /usr/bin/git "$@"; fi\n' "$host_ns"
     cat
     # Command-line config outranks every config file and reaches the git
     # that git starts inside a submodule, which reads that submodule's own
@@ -276,10 +291,12 @@ install_deps() {
   sudo install -d -o "$INSTALLER" -g "$INSTALLER" -m 700 "$INSTALL"
   while IFS= read -r -d '' f; do
     if [ -f "$ws/$f" ] && [ ! -L "$ws/$f" ]; then
-      sudo install -D -o "$INSTALLER" -g "$INSTALLER" -m 600 "$ws/$f" "$INSTALL/$f"
+      # The installer makes the folders, so npm can write node_modules in them.
+      sudo -u "$INSTALLER" mkdir -p "$INSTALL/$(dirname "$f")"
+      sudo install -o "$INSTALLER" -g "$INSTALLER" -m 600 "$ws/$f" "$INSTALL/$f"
     fi
   done < <(tgit -C "$ws" ls-files -z -- package.json package-lock.json 'packages/*/package.json')
-  sudo -u "$INSTALLER" -H /usr/bin/env -C "$INSTALL" PATH="$PATH" \
+  sudo -u "$INSTALLER" /usr/bin/env -C "$INSTALL" HOME="/home/$INSTALLER" PATH="$PATH" \
     npm_config_cache="/home/$INSTALLER/.npm" npm_config_update_notifier=false \
     npm ci --ignore-scripts --no-audit --no-fund
   stop_user "$INSTALLER"
