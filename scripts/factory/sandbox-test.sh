@@ -67,7 +67,11 @@ mkdir -p "$WORK/ws" "$WORK/factory"
 git -C "$WORK/ws" init -q -b main
 git -C "$WORK/ws" config user.name test
 git -C "$WORK/ws" config user.email test@example.com
-printf '{ "name": "sbtest", "version": "1.0.0", "scripts": { "postinstall": "touch /tmp/sbtest-postinstall-ran" } }\n' >"$WORK/ws/package.json"
+printf '{ "name": "sbtest", "version": "1.0.0", "workspaces": ["packages/*"], "scripts": { "postinstall": "touch /tmp/sbtest-postinstall-ran" } }\n' >"$WORK/ws/package.json"
+# A workspace package that needs another version of the root's dependency,
+# so npm has to make packages/a/node_modules, as it does for the real repo.
+mkdir -p "$WORK/ws/packages/a"
+printf '{ "name": "sbtest-a", "version": "1.0.0", "dependencies": { "is-number": "6.0.0" } }\n' >"$WORK/ws/packages/a/package.json"
 # One real dependency, so there is a node_modules to move into the checkout.
 (cd "$WORK/ws" && npm install --package-lock-only --ignore-scripts --no-audit --no-fund is-number@7.0.0 >/dev/null)
 echo base >"$WORK/ws/README.md"
@@ -91,6 +95,12 @@ sleep 1
 rm -f /tmp/sbtest-postinstall-ran
 if bash "$SB" hand-over "$WORK/ws" "$WORK/factory" yes; then pass "hand-over with install"; else fail "hand-over with install"; fi
 if pgrep -u "$INSTALLER" >/dev/null; then fail "factory-install processes survive the hand-over"; else pass "no factory-install process survives"; fi
+if sudo test -f /srv/factory/repo/packages/a/node_modules/is-number/package.json &&
+  sudo test -f /srv/factory/repo/node_modules/is-number/package.json; then
+  pass "the workspace package's own node_modules is installed"
+else
+  fail "the workspace package's node_modules is missing"
+fi
 if [ -e /tmp/sbtest-postinstall-ran ]; then fail "install scripts ran"; else pass "install scripts did not run"; fi
 # The checkout's top folder is root's and sticky (so root's .git file there
 # stays), and everything in it but that file is the agent's.
@@ -218,7 +228,8 @@ asgit() { # as the agent's user, launched exactly as claude is
 want=$(printf '%s' "$FAKE" | sha256sum | cut -d' ' -f1)
 if CLAUDE_CODE_OAUTH_TOKEN="$FAKE" bash "$SB" run-agent bash -c '
   [ "$(id -un)" = factory-agent ] && [ "$HOME" = /home/factory-agent ] && [ "$PWD" = /srv/factory/repo ] &&
-  [ "$GIT_DIR" = /srv/factory/git ] && [ "$GIT_WORK_TREE" = /srv/factory/repo ] &&
+  [ -z "${GIT_DIR+x}" ] && [ "$GIT_CONFIG_GLOBAL" = /srv/factory/gitconfig ] &&
+  [ "$(cd /srv/factory/tmp && git rev-parse --absolute-git-dir)" = /srv/factory/git ] &&
   [ "$(printf %s "$CLAUDE_CODE_OAUTH_TOKEN" | sha256sum | cut -d" " -f1)" = "$1" ]' x "$want"; then
   pass "run-agent starts the agent's user with the token and the pinned git"
 else
@@ -240,6 +251,21 @@ else
 fi
 rm -f "$pattern"
 wait "$probe"
+# Inside a sandbox (a PID namespace of its own, as Claude Code's), git is
+# plain, so a test can make a repository of its own. Outside, it stays pinned.
+if asgit 'bwrap --unshare-user --unshare-pid --die-with-parent --ro-bind / / --proc /proc --dev /dev \
+  --bind /srv/factory/tmp /srv/factory/tmp --chdir /srv/factory/tmp \
+  sh -c "rm -rf own && git init -q own && git -C own rev-parse --absolute-git-dir"' |
+  grep -qx /srv/factory/tmp/own/.git; then
+  pass "git inside a sandbox makes and uses a repository of its own"
+else
+  fail "git inside a sandbox is still pinned"
+fi
+if [ "$(asgit 'cd /srv/factory/tmp/own 2>/dev/null && git rev-parse --absolute-git-dir')" = /srv/factory/git ]; then
+  pass "git outside the sandbox stays pinned, even in another repository"
+else
+  fail "git outside the sandbox used a repository the agent made"
+fi
 if CLAUDE_CODE_OAUTH_TOKEN='' bash "$SB" run-agent bash -c '[ -z "${CLAUDE_CODE_OAUTH_TOKEN+x}" ]'; then
   pass "without a token, run-agent sets none"
 else
