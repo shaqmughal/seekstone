@@ -275,6 +275,8 @@ describe('isTestSupport', () => {
       'src/testdata/x.json',
       'src/test-utils/render.ts',
       'packages/core/src/embed/testutil.ts',
+      'scripts/factory/fixtures/coderabbit-review-outside-diff.md',
+      'src/fixtures/reviews/pr.json',
     ]) {
       expect(isTestSupport(p), p).toBe(true);
     }
@@ -287,6 +289,8 @@ describe('isTestSupport', () => {
       'src/mockingbird/index.ts',
       'src/tools/fixture_loader_service.ts',
       'packages/harness/src/fixtures/generate.ts',
+      'src/fixtures/load.mjs',
+      'src/fixtures.md',
       'src/stub_resolver.ts',
       'scripts/quality-rules.mjs',
     ]) {
@@ -313,6 +317,7 @@ describe('sourceToRevert', () => {
       { filename: 'src/a.test.ts', status: 'modified' },
       { filename: 'src/stub-server.mjs', status: 'modified' },
       { filename: 'src/stub-new.mjs', status: 'added' },
+      { filename: 'scripts/factory/fixtures/review.md', status: 'added' },
     ];
     expect(sourceToRevert(files)).toEqual({
       changed: ['src/a.ts'],
