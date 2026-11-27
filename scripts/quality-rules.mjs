@@ -26,11 +26,15 @@ export const isTestFile = (path) => TEST_FILE.test(path);
  * Files that exist to support tests rather than ship: stub servers, mocks,
  * fakes, fixtures and test utilities. Failing-test-first keeps these at the
  * PR version when it reverts the source, so a new test's helpers stay
- * available and the test fails only if the fix is missing.
+ * available and the test fails only if the fix is missing. A plain
+ * `fixtures/` directory counts only for its data files (md, json, txt, yaml),
+ * since code there (a fixture generator) is source.
  */
 const TEST_SUPPORT =
-  /(?:^|\/)(?:__fixtures__|__mocks__|testdata|test-utils?)\/|(?:^|\/)(?:stub|mock|fake)s?[-.][^/]*$|[-_.](?:stub|mock|fake|fixture)s?\.[cm]?[jt]sx?$|(?:^|\/)test-?utils?\.[cm]?[jt]sx?$/i;
-export const isTestSupport = (path) => TEST_SUPPORT.test(path);
+  /(?:^|\/)(?:__fixtures__|__mocks__|testdata|test-utils?)\/|(?:^|\/)fixtures\/(?:[^/]+\/)*[^/]+\.(?:md|json|txt|ya?ml)$|(?:^|\/)(?:stub|mock|fake)s?[-.][^/]*$|[-_.](?:stub|mock|fake|fixture)s?\.[cm]?[jt]sx?$|(?:^|\/)test-?utils?\.[cm]?[jt]sx?$/i;
+/** Code under a plain `fixtures/` directory: source, whatever its name says. */
+const FIXTURE_CODE = /(?:^|\/)fixtures\/(?:[^/]+\/)*[^/]+\.[cm]?[jt]sx?$/i;
+export const isTestSupport = (path) => !FIXTURE_CODE.test(path) && TEST_SUPPORT.test(path);
 
 /**
  * The PR's source files for failing-test-first: changed ones to restore from

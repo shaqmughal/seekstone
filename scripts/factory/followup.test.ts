@@ -1,3 +1,4 @@
+import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
   decide,
@@ -10,6 +11,7 @@ import {
   reviewRound,
   ticketFromBranch,
 } from './followup.mjs';
+import { reviewStatus } from './review.mjs';
 
 const REQUIRED = ['test (ubuntu-latest)', 'quality rules'];
 const run = (id: number, name: string, status: string, conclusion: string | null = null) => ({
@@ -222,5 +224,28 @@ describe('decide: the CodeRabbit review round', () => {
     expect(decide({ ...base, review: findings, comments, pr: pr(), checkRuns: green }).action).toBe(
       'ready',
     );
+  });
+
+  it('starts the round for an outside-diff finding followed by an approval on the head', () => {
+    const body = readFileSync(
+      new URL('./fixtures/coderabbit-review-outside-diff.md', import.meta.url),
+      'utf8',
+    );
+    const author = { login: 'coderabbitai' };
+    const reviews = [
+      { author, state: 'COMMENTED', body, commit: { oid: SHA } },
+      { author, state: 'APPROVED', body: '', commit: { oid: SHA } },
+    ];
+    const review = reviewStatus({
+      reviews,
+      threads: [],
+      comments: [],
+      checkRuns: [],
+      headSha: SHA,
+    });
+    expect(decide({ ...base, review, pr: pr(), checkRuns: green })).toEqual({
+      action: 'review',
+      reason: 'CodeRabbit: 1 open finding(s)',
+    });
   });
 });
