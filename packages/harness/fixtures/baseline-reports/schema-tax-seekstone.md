@@ -4,7 +4,7 @@ What a client can load into context when a session starts, before any tool is ca
 
 | Mode | Tools | Tool list | Tokens (approx) | Instructions | Prompts | Resources |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Read-write (default) | 26 | 25.6 KB | 5,770 | none | none | none |
+| Read-write (default) | 26 | 25.6 KB | 5,765 | none | none | none |
 | Read-only (`SEEKSTONE_READ_ONLY=1`) | 15 | 14.7 KB | 3,340 | none | none | none |
 
 ## Per tool — Read-write (default)
@@ -21,7 +21,7 @@ Most expensive first.
 | `replace_in_note` | 1,333 | 287 | 5.0% |
 | `read_note` | 1,223 | 273 | 4.7% |
 | `search` | 1,185 | 265 | 4.6% |
-| `update_task` | 1,173 | 264 | 4.6% |
+| `update_task` | 1,150 | 259 | 4.5% |
 | `rename_heading` | 1,104 | 243 | 4.2% |
 | `move_note` | 1,104 | 230 | 4.0% |
 | `append_periodic_note` | 1,017 | 225 | 3.9% |
