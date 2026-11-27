@@ -20,7 +20,10 @@ export interface ListWritesResult {
   writes: JournalListRow[];
   /** Total matching entries in the journal (before `limit`). */
   total: number;
-  /** Present (true) only when the journal is disabled via SEEKSTONE_HISTORY=0. */
+  /**
+   * Present (true) only when no journal is open: SEEKSTONE_HISTORY=0, read-only
+   * mode, or history turned off because its folder crosses a symlink.
+   */
   disabled?: true;
 }
 

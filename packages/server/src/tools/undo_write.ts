@@ -51,9 +51,12 @@ export interface UndoWriteResult {
 
 /**
  * Revert a journaled write by restoring every touched file's pre-image.
- * All-or-nothing: the current state of every file is checked against the
- * entry's postHash first (CAS against the journal), and any mismatch refuses
- * the whole undo with a structured `undo_conflict` unless `force` is set.
+ * The conflict check is all-or-nothing: the current state of every file is
+ * checked against the entry's postHash first (CAS against the journal), and
+ * any mismatch refuses the whole undo with a structured `undo_conflict`
+ * unless `force` is set. The restore is not: it writes the files one at a
+ * time, so a failure partway through can leave some restored and others not
+ * (WRITE-SAFETY §9).
  * The undo is itself journaled, so undoing the undo redoes the write.
  */
 export async function undoWrite(
