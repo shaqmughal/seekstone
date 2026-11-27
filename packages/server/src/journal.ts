@@ -211,6 +211,13 @@ export class Journal {
   private blobScanPending = false;
   /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
   private opened = false;
+  /**
+   * A cached blob size may be out of date: a stat failed, or a reread kept a
+   * cached size without looking (another process may have repaired the blob
+   * in a commit whose row it then rolled back). Byte-cap eviction measures
+   * again first, so it never deletes blobs over a count that's too high.
+   */
+  private sizesMayBeStale = false;
   /** Serialises commits so seq assignment and eviction never interleave. */
   private chain: Promise<unknown> = Promise.resolve();
 
@@ -270,6 +277,26 @@ export class Journal {
       this.blobScanPending = false;
       return true;
     });
+  }
+
+  /**
+   * Read every cached blob's size from disk again (under the lock). False,
+   * with the cache unchanged for that blob, if any stat fails.
+   */
+  private measureBlobs(): boolean {
+    for (const [hash, cached] of this.blobSizes) {
+      let size: number | undefined;
+      try {
+        size = statSync(join(this.blobDir, hash), { throwIfNoEntry: false })?.size;
+      } catch {
+        return false;
+      }
+      if (size === undefined) this.blobSizes.delete(hash);
+      else this.blobSizes.set(hash, size);
+      this.totalBytes += (size ?? 0) - cached;
+    }
+    this.sizesMayBeStale = false;
+    return true;
   }
 
   /** Drop cached blobs that are no longer on disk (evicted by another process). */
@@ -388,8 +415,13 @@ export class Journal {
         const cached = this.blobSizes.get(f.preHash);
         // After `open`, stat a cached blob again for a new row: the process
         // that wrote it may have rewritten a damaged copy. (`open` just read
-        // the sizes, and a repair always comes with a new row.)
-        if (cached !== undefined && (!this.opened || parsed.seq < firstNew)) continue;
+        // the sizes.) An older row keeps its cached size, which byte-cap
+        // eviction checks before it relies on it.
+        if (cached !== undefined && !this.opened) continue;
+        if (cached !== undefined && parsed.seq < firstNew) {
+          this.sizesMayBeStale = true;
+          continue;
+        }
         checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
         // Any other error (EIO, EACCES) keeps what we knew; commit checks the
@@ -398,6 +430,7 @@ export class Journal {
         try {
           size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
         } catch {
+          this.sizesMayBeStale = true;
           continue;
         }
         if (size === undefined) continue;
@@ -782,8 +815,16 @@ export class Journal {
       rewrite = true;
     }
     // Never evict the entry just committed — a write must be undoable at
-    // least until the next one lands, whatever the cap.
-    for (let i = 0; this.totalBytes > this.config.maxBytes && i < this.entries.length - 1; i++) {
+    // least until the next one lands, whatever the cap. Sizes that may be
+    // out of date are measured first; if that fails, nothing is evicted for
+    // size until it works.
+    const sized =
+      this.totalBytes <= this.config.maxBytes || !this.sizesMayBeStale || this.measureBlobs();
+    for (
+      let i = 0;
+      sized && this.totalBytes > this.config.maxBytes && i < this.entries.length - 1;
+      i++
+    ) {
       await dropBlobs(this.entries[i] as JournalEntry);
     }
     if (rewrite) {

@@ -15,7 +15,7 @@ import { undoWrite } from './tools/undo_write.js';
 /** One-shot failure, armed by a test and cleared when it fires. */
 const fail = vi.hoisted(() => ({
   blobScan: false,
-  blobStat: false,
+  blobStat: false as boolean | string, // true: the next blob; a hash: that blob
   blobStats: 0,
   blobRename: '' as '' | 'placed' | 'refused',
 }));
@@ -44,7 +44,10 @@ vi.mock('node:fs', async (importOriginal) => {
   const statSync = ((path: string, ...rest: unknown[]) => {
     const isBlob = /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(path));
     if (isBlob) fail.blobStats++;
-    if (fail.blobStat && isBlob) {
+    if (
+      isBlob &&
+      (fail.blobStat === true || (fail.blobStat && String(path).endsWith(fail.blobStat)))
+    ) {
       fail.blobStat = false;
       throw Object.assign(new Error('EIO: i/o error, stat'), { code: 'EIO' });
     }
@@ -199,5 +202,66 @@ describe('Journal: rereading the manifest after another process compacts', () =>
     expect(await a.refresh()).toBe(true);
     expect(fail.blobStats).toBe(1); // seq 4's blob, not again for seqs 2 and 3
     expect(a.list().writes.map((w) => w.seq)).toEqual([4, 3, 2]);
+  });
+});
+
+describe('Journal: byte-cap eviction with a cached size that may be out of date', () => {
+  // a caches a damaged 100-byte copy of 'shared'; on disk it is 6 bytes again.
+  // With a 20-byte cap, a's next 7-byte pre-image makes its count 107 if it
+  // trusts the old size, and eviction would delete the repaired blob.
+  async function damagedThenRepaired(): Promise<Journal> {
+    const first = await Journal.open(vault, BIG);
+    await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 1
+    await writeFile(blob('shared'), 'x'.repeat(100));
+    const a = await Journal.open(vault, { maxBytes: 20, maxEntries: 1e6 });
+    expect(a.storedBytes).toBe(100);
+    return a;
+  }
+
+  it('measures again when a stat failed while reading the repair', async () => {
+    const a = await damagedThenRepaired();
+    const b = await Journal.open(vault, BIG);
+    await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y'); // seq 2 repairs it
+    fail.blobStat = true;
+    expect(await a.refresh()).toBe(true);
+    expect(a.storedBytes).toBe(100); // the stat failed, so the old size stayed
+
+    await journalWrite({ journal: a }, 'c', 'c.md', 'other12', 'z');
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+    expect(a.storedBytes).toBe(13);
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
+  });
+
+  it('measures again when a repair came with no row (its commit was rolled back)', async () => {
+    const first = await Journal.open(vault, BIG);
+    await journalWrite({ journal: first }, 'f', 'f.md', 'f1', 'x'); // seq 1, a filler
+    await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 2
+    await writeFile(blob('shared'), 'x'.repeat(100));
+    const a = await Journal.open(vault, { maxBytes: 20, maxEntries: 1e6 });
+    expect(a.storedBytes).toBe(102);
+    // What a rolled-back commit leaves: the blob rewritten, no row for it.
+    await writeFile(blob('shared'), 'shared');
+    // Another process keeps 2 rows: it drops seq 1 and rewrites the manifest,
+    // so a rereads seq 2 and keeps its cached 100 bytes for 'shared'.
+    const b = await Journal.open(vault, { maxBytes: 1e9, maxEntries: 2 });
+    await journalWrite({ journal: b }, 'b', 'b.md', 'u', 'y'); // seq 3
+    expect(await a.refresh()).toBe(true);
+
+    // On disk: 6 + 1 + 3 bytes, under the cap. Trusting 100 would evict seq 2.
+    await journalWrite({ journal: a }, 'c', 'c.md', 'o12', 'z');
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+    expect(a.storedBytes).toBe(10);
+    expect(a.isUndoable(a.get(2) as JournalEntry)).toBe(true);
+  });
+
+  it('evicts nothing for size while a size still cannot be read', async () => {
+    const a = await damagedThenRepaired();
+    const b = await Journal.open(vault, BIG);
+    await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y');
+    fail.blobStat = true;
+    await a.refresh(); // leaves the size possibly stale
+    fail.blobStat = contentHash('shared'); // and the re-measure fails too
+    await journalWrite({ journal: a }, 'c', 'c.md', 'other12', 'z');
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
   });
 });
