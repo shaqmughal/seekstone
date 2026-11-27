@@ -207,6 +207,8 @@ export class Journal {
   /** Blob hash → byte size, for every blob currently on disk. */
   private readonly blobSizes: Map<string, number>;
   private totalBytes: number;
+  /** A refresh's scan for evicted blobs threw; the next refresh runs it again. */
+  private blobScanPending = false;
   /** Serialises commits so seq assignment and eviction never interleave. */
   private chain: Promise<unknown> = Promise.resolve();
 
@@ -256,9 +258,13 @@ export class Journal {
   /** Read what other processes appended or compacted since we last looked. True if anything. */
   refresh(): Promise<boolean> {
     return this.enqueue(async () => {
-      if (!(await this.load())) return false;
+      // A scan that threw last time runs again: `load` already moved past the
+      // rows that called for it, so it won't report them a second time.
+      if (!(await this.load()) && !this.blobScanPending) return false;
       // Another process committed, and may have evicted blobs we know of.
+      this.blobScanPending = true;
       this.forgetMissingBlobs();
+      this.blobScanPending = false;
       return true;
     });
   }
@@ -568,12 +574,16 @@ export class Journal {
     // have read that process's manifest line before it removed the blob. So
     // check the disk, under the lock, where no eviction can be in progress.
     for (const [hash, content] of preimages) {
-      const st = statSync(join(this.blobDir, hash), { throwIfNoEntry: false });
+      const path = join(this.blobDir, hash);
+      const st = statSync(path, { throwIfNoEntry: false });
       if (st) {
-        if (!this.blobSizes.has(hash)) {
-          this.blobSizes.set(hash, st.size);
-          this.totalBytes += st.size;
-        }
+        // The wrong size means the blob was damaged outside Seekstone (a
+        // same-size change is caught by `preimage` at undo time). Rewrite it,
+        // or this entry could never be undone.
+        const size = Buffer.byteLength(content, 'utf8');
+        if (st.size !== size) writeDurable(path, content);
+        this.totalBytes += size - (this.blobSizes.get(hash) ?? 0);
+        this.blobSizes.set(hash, size);
         continue;
       }
       this.totalBytes -= this.blobSizes.get(hash) ?? 0;
