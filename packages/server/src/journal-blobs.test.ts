@@ -18,6 +18,8 @@ const fail = vi.hoisted(() => ({
   blobStat: false as boolean | string, // true: the next blob; a hash: that blob
   blobStats: 0,
   blobRename: '' as '' | 'placed' | 'refused',
+  append: false, // the next manifest append fails
+  markerRename: false, // the next repair-marker rename fails
 }));
 
 vi.mock('node:fs', async (importOriginal) => {
@@ -32,6 +34,10 @@ vi.mock('node:fs', async (importOriginal) => {
   // A rename onto a blob that Windows refuses: either another process's rename
   // placed the same blob at that moment ('placed'), or nothing did ('refused').
   const renameSync = ((from: string, to: string) => {
+    if (fail.markerRename && /[\\/]history[\\/]repairs$/.test(String(to))) {
+      fail.markerRename = false;
+      throw Object.assign(new Error('ENOSPC: no space left on device, rename'), { code: 'ENOSPC' });
+    }
     const mode = fail.blobRename;
     if (mode !== '' && /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(to))) {
       fail.blobRename = '';
@@ -53,12 +59,20 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     return (fs.statSync as (...a: unknown[]) => unknown)(path, ...rest);
   }) as typeof fs.statSync;
+  const openSync = ((path: string, flags: unknown, ...rest: unknown[]) => {
+    if (fail.append && flags === 'a' && String(path).endsWith('manifest.jsonl')) {
+      fail.append = false;
+      throw Object.assign(new Error('ENOSPC: no space left on device, open'), { code: 'ENOSPC' });
+    }
+    return (fs.openSync as (...a: unknown[]) => number)(path, flags, ...rest);
+  }) as typeof fs.openSync;
   return {
     ...fs,
     readdirSync,
     renameSync,
     statSync,
-    default: { ...fs, readdirSync, renameSync, statSync },
+    openSync,
+    default: { ...fs, readdirSync, renameSync, statSync, openSync },
   };
 });
 
@@ -73,6 +87,8 @@ afterEach(async () => {
   fail.blobScan = false;
   fail.blobStat = false;
   fail.blobRename = '';
+  fail.append = false;
+  fail.markerRename = false;
   await rm(vault, { recursive: true, force: true });
 });
 
@@ -302,5 +318,44 @@ describe('Journal: two processes at both caps', () => {
     // Re-measuring every cached blob after the other process compacts gives
     // 9, and re-statting every reread row gives 8.
     expect(Math.max(...counts)).toBeLessThanOrEqual(6);
+  });
+});
+
+describe('Journal: a repair whose commit is rolled back', () => {
+  it('makes every other process measure its sizes before byte-cap eviction', async () => {
+    const first = await Journal.open(vault, BIG);
+    await journalWrite({ journal: first }, 'f', 'f.md', 'f1', 'x'); // seq 1
+    await journalWrite({ journal: first }, 'a', 'a.md', 'shared', 'x'); // seq 2
+    await writeFile(blob('shared'), 'x'.repeat(100)); // damaged outside Seekstone
+    const a = await Journal.open(vault, { maxBytes: 20, maxEntries: 1e6 });
+    expect(a.storedBytes).toBe(102);
+
+    // b repairs 'shared', then its append fails and the row is rolled back:
+    // the manifest is unchanged, and only the blob says a repair happened.
+    const b = await Journal.open(vault, BIG);
+    fail.append = true;
+    await expect(journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y')).rejects.toThrow(
+      /ENOSPC/,
+    );
+    expect(await readFile(blob('shared'), 'utf8')).toBe('shared');
+
+    // On disk: 2 + 6 + 3 bytes, under the cap. Trusting 100 for 'shared'
+    // would evict seq 1's blob (and 'shared' is never a candidate here).
+    await journalWrite({ journal: a }, 'c', 'c.md', 'o12', 'z');
+    expect(await readFile(blob('f1'), 'utf8')).toBe('f1');
+    expect(a.storedBytes).toBe(11);
+    expect(a.isUndoable(a.get(1) as JournalEntry)).toBe(true);
+  });
+
+  it('fails the write when the repair marker cannot be written, and repairs nothing', async () => {
+    const j = await Journal.open(vault, BIG);
+    await journalWrite({ journal: j }, 'a', 'a.md', 'shared', 'x');
+    await truncate(blob('shared'), 2);
+    fail.markerRename = true;
+    await expect(journalWrite({ journal: j }, 'b', 'b.md', 'shared', 'y')).rejects.toThrow(
+      /ENOSPC/,
+    );
+    expect(j.lastSeq).toBe(1);
+    expect((await readFile(blob('shared'))).length).toBe(2);
   });
 });

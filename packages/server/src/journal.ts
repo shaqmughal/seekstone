@@ -162,6 +162,20 @@ function writeDurable(dest: string, content: string): void {
   }
 }
 
+/**
+ * The repair marker's identity: inode, size and mtime ('' when there is none
+ * yet), or undefined when it can't be read. writeDurable renames a new file
+ * into place, so every rewrite gets a new inode.
+ */
+function markerId(path: string): string | undefined {
+  try {
+    const st = statSync(path, { throwIfNoEntry: false, bigint: true });
+    return st ? `${st.ino}:${st.size}:${st.mtimeNs}` : '';
+  } catch {
+    return undefined;
+  }
+}
+
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
 function appendDurable(dest: string, data: Buffer): void {
   const fd = openSync(dest, 'a');
@@ -212,12 +226,20 @@ export class Journal {
   /** `open` has loaded the manifest; until then, cached blob sizes are fresh from disk. */
   private opened = false;
   /**
-   * A stat failed while reading new rows, so some cached size may be out of
-   * date. Byte-cap eviction measures every cached blob again first. (Byte-cap
-   * eviction also checks each blob it is about to delete; this covers the
-   * blobs it wouldn't touch.)
+   * Some cached blob size may be out of date: a stat failed while reading new
+   * rows, or another process repaired a blob (the repair marker changed).
+   * Byte-cap eviction measures every cached blob again first, so it never
+   * deletes undo history over a count that's too high. (It also checks each
+   * blob it is about to delete; this covers the blobs it wouldn't touch.)
    */
   private sizesMayBeStale = false;
+  /**
+   * Rewritten (with a new inode) before every blob repair, by any process. A
+   * repair can shrink a blob with no manifest row to say so: its commit may
+   * roll the row back. Each load compares the marker with the last one seen.
+   */
+  private readonly repairMarker: string;
+  private repairSeen = '';
   /** Serialises commits so seq assignment and eviction never interleave. */
   private chain: Promise<unknown> = Promise.resolve();
 
@@ -232,6 +254,7 @@ export class Journal {
     this.blobDir = join(this.dir, 'blobs');
     this.manifestPath = join(this.dir, 'manifest.jsonl');
     this.lockPath = join(this.dir, 'manifest.lock');
+    this.repairMarker = join(this.dir, 'repairs');
     this.blobSizes = blobSizes;
     this.totalBytes = 0;
     for (const n of blobSizes.values()) this.totalBytes += n;
@@ -248,6 +271,8 @@ export class Journal {
     const blobDir = join(dir, 'blobs');
     await mkdir(blobDir, { recursive: true });
 
+    // Read before the sizes: a repair after this point shows up at the next load.
+    const repairSeen = markerId(join(dir, 'repairs'));
     const blobSizes = new Map<string, number>();
     for (const name of await readdir(blobDir)) {
       if (!/^[0-9a-f]{64}$/.test(name)) continue;
@@ -258,6 +283,7 @@ export class Journal {
       }
     }
     const journal = new Journal(vaultRoot, config, blobSizes, opts.log);
+    journal.repairSeen = repairSeen ?? '';
     await journal.enqueue(() => journal.load());
     journal.opened = true;
     // A torn last line from a crash: not listed; the next commit cuts it off.
@@ -311,6 +337,12 @@ export class Journal {
 
   /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(reread = false): Promise<boolean> {
+    const repair = markerId(this.repairMarker);
+    if (repair === undefined || repair !== this.repairSeen) {
+      // Changed, or unreadable: either way, don't trust the cached sizes.
+      this.sizesMayBeStale = true;
+      if (repair !== undefined) this.repairSeen = repair;
+    }
     const known = this.manifestOffset + this.tailBytes;
     const now = statSync(this.manifestPath, { throwIfNoEntry: false });
     if (!now || (!reread && now.ino === this.manifestIno && now.size === known)) return false;
@@ -636,6 +668,10 @@ export class Journal {
         const size = Buffer.byteLength(content, 'utf8');
         if (st.size !== size) {
           try {
+            // Announce the repair first, so every other process measures its
+            // cached sizes again even if this commit's row is rolled back.
+            // If the marker can't be written, the repair (and the write) fails.
+            writeDurable(this.repairMarker, `${process.pid} ${Date.now()}\n`);
             writeDurable(path, content);
           } catch (err) {
             // As in `storeBlob`: another process may have placed it meanwhile.

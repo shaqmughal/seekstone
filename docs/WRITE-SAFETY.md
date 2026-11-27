@@ -337,7 +337,11 @@ back when it compacts the manifest and drop a real write's history, so stop
 every server sharing a vault before upgrading. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest
 entries' pre-images are deleted but their rows stay, listed with
-`undoable: false`; the entry just committed is never evicted this way. Over
+`undoable: false`; the entry just committed is never evicted this way. The
+byte cap counts the pre-images' real sizes: before it deletes a pre-image it
+reads that file's size, and after another server process repaired one (see
+below), or a size couldn't be read, it reads every size first. So it never
+deletes undo history while the journal is actually under the cap. Over
 `SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
 from the manifest along with their pre-images, so they no longer appear in
 `list_writes` and `undo_write` reports them as not found. A failed compaction
@@ -346,6 +350,15 @@ doesn't fail the write: the server logs a warning, and the compaction is
 retried on the next write, so old rows can stay past the cap until then.
 Their pre-images may already be gone, so they can list as `undoable: false`.
 `SEEKSTONE_HISTORY=0` disables the journal.
+
+A stored pre-image damaged outside Seekstone (truncated or overwritten with a
+different size) is rewritten the next time a write has the same pre-image, so
+that write can be undone. If the rewrite fails, the write fails. Before each
+rewrite the server replaces `.seekstone/history/repairs`, and every server
+process sharing the vault checks that file on each journal read, so a repair
+is seen even when the write that made it fails and its row is rolled back. A
+change of the same size is still caught only at undo time, when the
+pre-image's hash is checked.
 
 Write history must be a real folder in the vault. If `.seekstone/`,
 `.seekstone/history/`, its `blobs/` folder, `manifest.jsonl` or `manifest.lock` is a symlink at
@@ -385,6 +398,9 @@ agent itself can drive.
   (shared journal, lock takeover and waiting) and
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
   (short and failed manifest writes),
+  [`journal-blobs.test.ts`](../packages/server/src/journal-blobs.test.ts)
+  (a damaged pre-image is rewritten, another process sees a repair whose
+  row was rolled back, the byte cap never evicts over a stale size),
   [`journal-rollback.test.ts`](../packages/server/src/journal-rollback.test.ts)
   (a failed append leaves no row, another process that read the row
   rereads the manifest before it writes, a failed compaction doesn't fail
