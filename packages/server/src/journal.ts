@@ -375,6 +375,10 @@ export class Journal {
       }
       this.entries.push(parsed);
       lastSeq = parsed.seq;
+      // Kept in step with `entries` row by row: `load` has already moved the
+      // manifest offset past these rows, so a throw below must not leave a
+      // listed seq that the next commit would hand out again.
+      this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
       for (const f of parsed.files) {
         if (f.preHash === null || checked.has(f.preHash)) continue;
         const cached = this.blobSizes.get(f.preHash);
@@ -383,13 +387,19 @@ export class Journal {
         if (cached !== undefined && !this.opened) continue;
         checked.add(f.preHash);
         // Missing means already evicted: the entry lists as not undoable.
-        const size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
+        // Any other error (EIO, EACCES) keeps what we knew; commit checks the
+        // disk again under the lock before it reuses the blob.
+        let size: number | undefined;
+        try {
+          size = statSync(join(this.blobDir, f.preHash), { throwIfNoEntry: false })?.size;
+        } catch {
+          continue;
+        }
         if (size === undefined) continue;
         this.blobSizes.set(f.preHash, size);
         this.totalBytes += size - (cached ?? 0);
       }
     }
-    this.nextSeq = Math.max(this.nextSeq, lastSeq + 1);
   }
 
   begin(tool: string, undoOf?: number): JournalTxn {

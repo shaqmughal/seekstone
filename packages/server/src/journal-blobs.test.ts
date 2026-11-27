@@ -13,7 +13,11 @@ import { undoWrite } from './tools/undo_write.js';
 // evicted blobs must run again on the next refresh.
 
 /** One-shot failure, armed by a test and cleared when it fires. */
-const fail = vi.hoisted(() => ({ blobScan: false, blobRename: '' as '' | 'placed' | 'refused' }));
+const fail = vi.hoisted(() => ({
+  blobScan: false,
+  blobStat: false,
+  blobRename: '' as '' | 'placed' | 'refused',
+}));
 
 vi.mock('node:fs', async (importOriginal) => {
   const fs = await importOriginal<typeof import('node:fs')>();
@@ -35,11 +39,20 @@ vi.mock('node:fs', async (importOriginal) => {
     }
     fs.renameSync(from, to);
   }) as typeof fs.renameSync;
+  // A stat of a blob that fails with something other than ENOENT.
+  const statSync = ((path: string, ...rest: unknown[]) => {
+    if (fail.blobStat && /[\\/]blobs[\\/][0-9a-f]{64}$/.test(String(path))) {
+      fail.blobStat = false;
+      throw Object.assign(new Error('EIO: i/o error, stat'), { code: 'EIO' });
+    }
+    return (fs.statSync as (...a: unknown[]) => unknown)(path, ...rest);
+  }) as typeof fs.statSync;
   return {
     ...fs,
     readdirSync,
     renameSync,
-    default: { ...fs, readdirSync, renameSync },
+    statSync,
+    default: { ...fs, readdirSync, renameSync, statSync },
   };
 });
 
@@ -52,6 +65,7 @@ beforeEach(async () => {
 });
 afterEach(async () => {
   fail.blobScan = false;
+  fail.blobStat = false;
   fail.blobRename = '';
   await rm(vault, { recursive: true, force: true });
 });
@@ -149,5 +163,22 @@ describe('Journal: a failed blob scan', () => {
     expect(a.storedBytes).toBe(7);
     // With the scan done, a refresh with nothing new is a no-op again.
     expect(await a.refresh()).toBe(false);
+  });
+});
+
+describe('Journal: a failed stat of a cached blob while reading new rows', () => {
+  it('neither fails the refresh nor lets the next commit reuse a seq', async () => {
+    const a = await Journal.open(vault, BIG);
+    await journalWrite({ journal: a }, 'a', 'a.md', 'shared', 'x'); // seq 1: a caches the blob
+    const b = await Journal.open(vault, BIG);
+    await journalWrite({ journal: b }, 'b', 'b.md', 'shared', 'y'); // seq 2, same blob
+
+    fail.blobStat = true;
+    await journalWrite({ journal: a }, 'c', 'c.md', 'third', 'z'); // reads seq 2 first
+    expect(fail.blobStat).toBe(false);
+    expect(a.lastSeq).toBe(3);
+
+    const reopened = await Journal.open(vault, BIG);
+    expect(reopened.list().writes.map((w) => w.seq)).toEqual([3, 2, 1]);
   });
 });
