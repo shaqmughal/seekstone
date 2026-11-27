@@ -201,10 +201,11 @@ back.
 - Enforced by: [`content-hash.ts`](../packages/server/src/content-hash.ts),
   checked immediately after the disk read in each of those ten tools.
 - Proven by: [`cas.test.ts`](../packages/server/src/tools/cas.test.ts),
-  [`rename_heading.test.ts`](../packages/server/src/tools/rename_heading.test.ts)
-  and the harness `cas-conflict` op — a stale-hash write, move, or delete after
-  an out-of-band edit must be refused, and the out-of-band edit must survive.
-  `append_periodic_note`'s `prevHash` check has no test of its own yet.
+  [`rename_heading.test.ts`](../packages/server/src/tools/rename_heading.test.ts),
+  [`periodic_note.test.ts`](../packages/server/src/tools/periodic_note.test.ts)
+  (`append_periodic_note`'s `prevHash`) and the harness `cas-conflict` op — a
+  stale-hash write, move, or delete after an out-of-band edit must be refused,
+  and the out-of-band edit must survive.
 
 ### 8. Path scoping and read-only mode
 
