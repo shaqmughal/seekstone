@@ -164,6 +164,16 @@ function writeDurable(dest: string, content: string): void {
   }
 }
 
+/**
+ * An inode that compares exactly. As a number, an inode past 2^53 (NTFS file
+ * ids usually are) is rounded, and two files can look the same; then a
+ * second, bigint stat gives the exact id. A safe number is kept as it is, so
+ * the usual case costs no extra stat and no BigInt allocation.
+ */
+function exactIno(ino: number, exact: () => bigint | undefined): number | bigint {
+  return Number.isSafeInteger(ino) ? ino : (exact() ?? ino);
+}
+
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
 function appendDurable(dest: string, data: Buffer): void {
   const fd = openSync(dest, 'a');
@@ -196,7 +206,8 @@ export class Journal {
   private entries: JournalEntry[] = [];
   private nextSeq = 1;
   /** Identity and length of the manifest as last read; a new inode means it was compacted. */
-  private manifestIno = -1;
+  /** The manifest's inode, exact (see `exactIno`). */
+  private manifestIno: number | bigint = -1;
   private manifestOffset = 0;
   /** Bytes after the last newline: an append in flight, or torn by a crash. */
   private tailBytes = 0;
@@ -325,17 +336,23 @@ export class Journal {
   private async load(reread = false): Promise<boolean> {
     const known = this.manifestOffset + this.tailBytes;
     const now = statSync(this.manifestPath, { throwIfNoEntry: false });
-    if (!now || (!reread && now.ino === this.manifestIno && now.size === known)) return false;
+    if (!now) return false;
+    const ino = exactIno(
+      now.ino,
+      () => statSync(this.manifestPath, { throwIfNoEntry: false, bigint: true })?.ino,
+    );
+    if (!reread && ino === this.manifestIno && now.size === known) return false;
     const fh = await open(this.manifestPath, 'r');
     let buf: Buffer;
     let start: number;
     try {
       const st = await fh.stat();
+      const stIno = Number.isSafeInteger(st.ino) ? st.ino : (await fh.stat({ bigint: true })).ino;
       const read = async (from: number): Promise<Buffer> => {
         const b = Buffer.alloc(st.size - from);
         return b.subarray(0, (await fh.read(b, 0, b.length, from)).bytesRead);
       };
-      let replaced = st.ino !== this.manifestIno || st.size < this.manifestOffset;
+      let replaced = stIno !== this.manifestIno || st.size < this.manifestOffset;
       start = replaced ? 0 : this.manifestOffset - this.lastLine.length;
       buf = await read(start);
       if (!replaced) {
@@ -353,7 +370,7 @@ export class Journal {
       }
       if (replaced) {
         this.entries = [];
-        this.manifestIno = st.ino;
+        this.manifestIno = stIno;
         this.lastLine = Buffer.alloc(0);
       }
     } finally {
@@ -842,7 +859,7 @@ export class Journal {
       const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);
       writeDurable(this.manifestPath, lines.join(''));
       const st = statSync(this.manifestPath);
-      this.manifestIno = st.ino;
+      this.manifestIno = exactIno(st.ino, () => statSync(this.manifestPath, { bigint: true }).ino);
       this.manifestOffset = st.size;
       this.lastLine = Buffer.from(lines.at(-1) ?? '', 'utf8');
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
