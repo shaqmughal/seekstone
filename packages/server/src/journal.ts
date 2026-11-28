@@ -164,6 +164,16 @@ function writeDurable(dest: string, content: string): void {
   }
 }
 
+/**
+ * An inode that compares exactly. As a number, an inode past 2^53 (NTFS file
+ * ids usually are) is rounded, and two files can look the same; then a
+ * second, bigint stat gives the exact id. A safe number is kept as it is, so
+ * the usual case costs no extra stat and no BigInt allocation.
+ */
+function exactIno(ino: number, exact: () => bigint | undefined): number | bigint {
+  return Number.isSafeInteger(ino) ? ino : (exact() ?? ino);
+}
+
 /** Sync calls, as in `AuditLog.record`: cheaper than four thread-pool round trips. */
 function appendDurable(dest: string, data: Buffer): void {
   const fd = openSync(dest, 'a');
@@ -196,8 +206,8 @@ export class Journal {
   private entries: JournalEntry[] = [];
   private nextSeq = 1;
   /** Identity and length of the manifest as last read; a new inode means it was compacted. */
-  /** The manifest's inode, as a bigint: NTFS file ids exceed 2^53, so a number can't tell two files apart. */
-  private manifestIno = -1n;
+  /** The manifest's inode, exact (see `exactIno`). */
+  private manifestIno: number | bigint = -1;
   private manifestOffset = 0;
   /** Bytes after the last newline: an append in flight, or torn by a crash. */
   private tailBytes = 0;
@@ -325,20 +335,24 @@ export class Journal {
   /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(reread = false): Promise<boolean> {
     const known = this.manifestOffset + this.tailBytes;
-    const now = statSync(this.manifestPath, { throwIfNoEntry: false, bigint: true });
-    if (!now || (!reread && now.ino === this.manifestIno && Number(now.size) === known))
-      return false;
+    const now = statSync(this.manifestPath, { throwIfNoEntry: false });
+    if (!now) return false;
+    const ino = exactIno(
+      now.ino,
+      () => statSync(this.manifestPath, { throwIfNoEntry: false, bigint: true })?.ino,
+    );
+    if (!reread && ino === this.manifestIno && now.size === known) return false;
     const fh = await open(this.manifestPath, 'r');
     let buf: Buffer;
     let start: number;
     try {
-      const st = await fh.stat({ bigint: true });
-      const size = Number(st.size);
+      const st = await fh.stat();
+      const stIno = Number.isSafeInteger(st.ino) ? st.ino : (await fh.stat({ bigint: true })).ino;
       const read = async (from: number): Promise<Buffer> => {
-        const b = Buffer.alloc(size - from);
+        const b = Buffer.alloc(st.size - from);
         return b.subarray(0, (await fh.read(b, 0, b.length, from)).bytesRead);
       };
-      let replaced = st.ino !== this.manifestIno || size < this.manifestOffset;
+      let replaced = stIno !== this.manifestIno || st.size < this.manifestOffset;
       start = replaced ? 0 : this.manifestOffset - this.lastLine.length;
       buf = await read(start);
       if (!replaced) {
@@ -356,7 +370,7 @@ export class Journal {
       }
       if (replaced) {
         this.entries = [];
-        this.manifestIno = st.ino;
+        this.manifestIno = stIno;
         this.lastLine = Buffer.alloc(0);
       }
     } finally {
@@ -637,7 +651,7 @@ export class Journal {
     // than trust the size: another process may have cut it off and appended
     // a whole row of exactly the same length. The same goes for a row another
     // process rolled back and replaced: then reread from the start.
-    if (!this.lastLineOnDisk()) this.manifestIno = -1n;
+    if (!this.lastLineOnDisk()) this.manifestIno = -1;
     await this.load(this.tailBytes > 0);
     // A blob stored before the lock may have been evicted since by another
     // process (shared with an old entry). Our cache can't tell: a refresh may
@@ -694,7 +708,7 @@ export class Journal {
     } catch (err) {
       // The entry is committed, so the write goes ahead. The old rows are
       // still in the manifest: reread it, and the next commit compacts again.
-      this.manifestIno = -1n;
+      this.manifestIno = -1;
       this.log?.warn('journal: manifest compaction failed; retrying on the next write', {
         error: String(err),
       });
@@ -719,7 +733,7 @@ export class Journal {
     } catch (err) {
       // The row may stay. Reread the manifest from the start next time
       // instead of trusting our offsets.
-      this.manifestIno = -1n;
+      this.manifestIno = -1;
       this.log?.warn('journal: could not roll back a failed manifest append', {
         error: String(err),
       });
@@ -844,9 +858,9 @@ export class Journal {
     if (rewrite) {
       const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);
       writeDurable(this.manifestPath, lines.join(''));
-      const st = statSync(this.manifestPath, { bigint: true });
-      this.manifestIno = st.ino;
-      this.manifestOffset = Number(st.size);
+      const st = statSync(this.manifestPath);
+      this.manifestIno = exactIno(st.ino, () => statSync(this.manifestPath, { bigint: true }).ino);
+      this.manifestOffset = st.size;
       this.lastLine = Buffer.from(lines.at(-1) ?? '', 'utf8');
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
     }

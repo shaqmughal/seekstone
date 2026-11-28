@@ -6,9 +6,9 @@ import { Journal, journalWrite } from './journal.js';
 
 // SHA-686: on Windows an NTFS file id exceeds 2^53, so as a JavaScript number
 // two different files can have the same `ino`. Simulated here on any platform:
-// a number-mode stat of the manifest always reports the same inode, while a
-// bigint-mode stat reports the real one.
-const LOSSY_INO = 7;
+// a number-mode stat of the manifest always reports the same rounded id past
+// 2^53, as NTFS ids do, while a bigint-mode stat reports the real one.
+const LOSSY_INO = 2 ** 60;
 const isManifest = (p: unknown) => String(p).endsWith('manifest.jsonl');
 const lossy = <T extends { ino: number | bigint }>(st: T, bigint: boolean): T =>
   bigint ? st : Object.assign(Object.create(Object.getPrototypeOf(st)), st, { ino: LOSSY_INO });
