@@ -80,6 +80,17 @@ export interface JournalEntry {
   undoOf?: number;
 }
 
+/**
+ * The tool name of a void row: it stands in for a row whose append failed
+ * and was rolled back, and keeps that row's seq so it is never reused.
+ */
+export const VOID_TOOL = 'void';
+
+/** True for a void row (`VOID_TOOL`, no files): a failed write that changed nothing. */
+export function isVoid(entry: JournalEntry): boolean {
+  return entry.tool === VOID_TOOL && entry.files.length === 0;
+}
+
 /** A listed entry: the manifest row plus whether its pre-images are still on disk. */
 export interface JournalListRow {
   seq: number;
@@ -498,14 +509,13 @@ export class Journal {
   } {
     const limit = opts.limit ?? 20;
     const { path, visible } = opts;
-    const filtered =
-      path === undefined && visible === undefined
-        ? this.entries
-        : this.entries.filter(
-            (e) =>
-              (path === undefined || e.files.some((f) => f.path === path)) &&
-              (visible === undefined || e.files.every((f) => visible(f.path))),
-          );
+    // Void rows are failed writes that changed nothing: never listed.
+    const filtered = this.entries.filter(
+      (e) =>
+        !isVoid(e) &&
+        (path === undefined || e.files.some((f) => f.path === path)) &&
+        (visible === undefined || e.files.every((f) => visible(f.path))),
+    );
     const writes: JournalListRow[] = [];
     for (let i = filtered.length - 1; i >= 0 && writes.length < limit; i--) {
       const e = filtered[i] as JournalEntry;
@@ -547,6 +557,7 @@ export class Journal {
     const cancelled = new Set<number>();
     for (let i = this.entries.length - 1; i >= 0; i--) {
       const e = this.entries[i] as JournalEntry;
+      if (isVoid(e)) continue;
       if (visible && !e.files.every((f) => visible(f.path))) continue;
       if (cancelled.has(e.seq)) continue;
       if (e.undoOf !== undefined) {
@@ -695,8 +706,8 @@ export class Journal {
       appendDurable(this.manifestPath, line);
     } catch (err) {
       // Part of the line, or all of it, may be on disk, and the caller won't
-      // write the note. Cut it off so it never loads as committed.
-      this.rollBackAppend();
+      // write the note. Replace it so it never loads as committed.
+      this.rollBackAppend(entry);
       throw err;
     }
     this.manifestOffset += line.length;
@@ -718,13 +729,34 @@ export class Journal {
 
   /**
    * Called with the lock held, after a failed append. Never throws: the
-   * caller reports the append's error. The cut is fsynced, or a crash could
-   * bring the row back.
+   * caller reports the append's error. The failed row (always the last line)
+   * is cut off and replaced by a void row with the same seq, so no process
+   * hands that seq out again, even one that listed the failed row or an
+   * older server (a void row is a valid entry with no files). The result is
+   * fsynced, or a crash could bring the row back. If the void row can't be
+   * written, the cut alone stays and the seq is free again.
    */
-  private rollBackAppend(): void {
+  private rollBackAppend(failed: JournalEntry): void {
+    const entry: JournalEntry = { seq: failed.seq, ts: failed.ts, tool: VOID_TOOL, files: [] };
+    const line = Buffer.from(`${JSON.stringify(entry)}\n`, 'utf8');
     try {
       const fd = openSync(this.manifestPath, 'r+');
       try {
+        ftruncateSync(fd, this.manifestOffset);
+        try {
+          writeAll(fd, line, { written: 0 }, this.manifestOffset);
+          fsyncSync(fd);
+          this.manifestOffset += line.length;
+          this.lastLine = line;
+          this.nextSeq++;
+          this.entries.push(entry);
+          return;
+        } catch (err) {
+          this.log?.warn('journal: could not write a void row to roll back a failed append', {
+            error: String(err),
+          });
+        }
+        // No partial void row may stay: it would be a torn line.
         ftruncateSync(fd, this.manifestOffset);
         fsyncSync(fd);
       } finally {

@@ -95,6 +95,7 @@ vi.mock('node:fs', async (importOriginal) => {
     let buf: Buffer;
     let off = 0;
     let len: number;
+    let pos: number | undefined;
     if (typeof data === 'string') {
       buf = Buffer.from(data, 'utf8');
       len = buf.length;
@@ -102,13 +103,14 @@ vi.mock('node:fs', async (importOriginal) => {
       buf = data as Buffer;
       off = typeof rest[0] === 'number' ? rest[0] : 0;
       len = typeof rest[1] === 'number' ? rest[1] : buf.length - off;
+      pos = typeof rest[2] === 'number' ? rest[2] : undefined;
     }
-    if (m.kind === 'chunks') return fs.writeSync(fd, buf, off, Math.min(len, m.size));
+    if (m.kind === 'chunks') return fs.writeSync(fd, buf, off, Math.min(len, m.size), pos);
     // tornLine: a manifest line gets 7 bytes out, then the disk fails.
     // tornNewline: all of it but the final newline gets out, then it fails.
-    if (!buf.includes('"files"')) return fs.writeSync(fd, buf, off, len);
+    if (!buf.includes('"files"')) return fs.writeSync(fd, buf, off, len, pos);
     if (off > 0) throw Object.assign(new Error('EIO: i/o error, write'), { code: 'EIO' });
-    return fs.writeSync(fd, buf, off, m.kind === 'tornLine' ? Math.min(len, 7) : len - 1);
+    return fs.writeSync(fd, buf, off, m.kind === 'tornLine' ? Math.min(len, 7) : len - 1, pos);
   };
   // renameClash: another process places the same blob first, and the rename
   // onto it fails the way Windows fails it.
@@ -216,7 +218,9 @@ describe('Journal with short writes', () => {
     expect(manifestZero.fired).toBe(true);
     expect(await readdir(join(vault, HISTORY_DIR))).not.toContain('manifest.lock');
     await write(j, 'b', 'v1', 'v2');
-    expect(j.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['1b']);
+    // SHA-662: a void row keeps the failed append's seq 1, so b takes 2.
+    expect(j.list().writes.map((w) => `${w.seq}${w.tool}`)).toEqual(['2b']);
+    expect(j.get(1)?.tool).toBe('void');
   });
 
   it('fails the commit when the manifest line is torn, and the next commit still lands', async () => {

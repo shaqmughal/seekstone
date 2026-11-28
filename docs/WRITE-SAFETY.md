@@ -323,19 +323,20 @@ leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
 does not proceed. A write whose journal row can't be recorded fails and
-leaves no row: a failed append is cut back off the manifest before the error
-is returned, and the cut is fsynced. If even that cut fails, the row may stay,
-and the server logs a warning. The next write reuses the cut row's `seq`.
-Another server sharing the vault that read the manifest while the row was on
-disk can still list it, and its `undo_write` for that `seq` then finds the
-new write in its place. If the new row is the same length as the cut one, the
-undo reports a conflict. If not, and the new write has landed, the undo
-reverts that write, which may belong to another agent. This needs a failed
-fsync plus a read by another process within microseconds, and the undo is
-journaled, so it can be redone. Every server that shares a vault must run a
-version with this rollback. An older one that read the cut row can write it
-back when it compacts the manifest and drop a real write's history, so stop
-every server sharing a vault before upgrading. Retention has two caps, and they evict differently. Over
+leaves no row: a failed append is cut back off the manifest and replaced by a
+void row with the same `seq`, `{ seq, ts, tool: "void", files: [] }`, before
+the error is returned, and the result is fsynced. The `seq` is never handed out
+again, by this server or any other sharing the vault, older versions included:
+to them the void row is an ordinary entry with no files. `list_writes` doesn't
+show void rows, the default `undo_write` skips them, and `undo_write({ seq })`
+on one reports `nothing_to_undo`. Void rows count toward
+`SEEKSTONE_HISTORY_MAX_ENTRIES` like any row, as older servers count them, so
+every server compacts the manifest the same way. If the void row can't be
+written, the cut alone stays and the server logs a warning; the next write
+then reuses that `seq`, and another
+server that listed the failed row could have its `undo_write` for that `seq`
+find the new write. If even the cut fails, the row may stay, and the server
+logs a warning. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest
 entries' pre-images are deleted but their rows stay, listed with
 `undoable: false`; the entry just committed is never evicted this way. The
@@ -403,9 +404,9 @@ agent itself can drive.
   after a repair in another process whose row was rolled back, or damage
   outside Seekstone),
   [`journal-rollback.test.ts`](../packages/server/src/journal-rollback.test.ts)
-  (a failed append leaves no row, another process that read the row
-  rereads the manifest before it writes, a failed compaction doesn't fail
-  the write), and the harness `undo-roundtrip` op — a
+  (a failed append leaves only a void row that keeps its `seq`, another
+  process that read the row rereads the manifest before it writes, a failed
+  compaction doesn't fail the write), and the harness `undo-roundtrip` op — a
   write through the server, then `undo_write`, must leave the note
   byte-identical to its original. `journal.test.ts` covers both caps: the
   byte cap marks rows `undoable: false`, and the entry cap drops rows and
