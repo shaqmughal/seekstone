@@ -168,7 +168,7 @@ describe('listUnresolved on a small vault', () => {
     expect(listUnresolved(ctx, { folder: 'empty/' })).toEqual([]);
   });
 
-  it('a link that falls back to a same-named note stays resolved when its note goes', async () => {
+  it('a link that falls back to a same-named note stays resolved, then breaks when that note goes', async () => {
     await mkdir(join(vault, 'a'));
     await mkdir(join(vault, 'b'));
     await writeFile(join(vault, 'a', 'Dup.md'), 'self [[Dup]] and [[Lost]]\n');
@@ -179,6 +179,11 @@ describe('listUnresolved on a small vault', () => {
     expect(listUnresolved(ctx)).toEqual(bruteForce(ctx));
     expect(ctx.unresolved.has('C.md')).toBe(false);
     expect(ctx.unresolved.has('a/Dup.md')).toBe(false);
+    // The link now falls back to b/Dup.md, so deleting that one breaks it.
+    expect(ctx.backlinks.get('b/Dup.md')?.map((r) => r.path)).toEqual(['C.md']);
+    await deleteNote(ctx, { path: 'b/Dup.md' });
+    expect(ctx.unresolved.has('C.md')).toBe(true);
+    expect(listUnresolved(ctx)).toEqual(bruteForce(ctx));
   });
 
   it('forgets a removed note and keeps a note with no links out', async () => {

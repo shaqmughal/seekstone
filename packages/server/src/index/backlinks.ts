@@ -74,32 +74,6 @@ export function addNoteBacklinks(
 }
 
 /**
- * Re-record the unresolved links of each note in `sources` from its cached
- * text, against the index as it is now. removeDoc calls it for the notes that
- * linked to a removed note, so their links to it are listed. Notes no longer
- * indexed are skipped. Changes only ctx.unresolved, which nothing caches by
- * generation, so it doesn't bump.
- */
-export function rerecordUnresolved(
-  ctx: ServerContext,
-  sources: Iterable<string>,
-  maps: ResolveMaps,
-): void {
-  for (const src of sources) {
-    const doc = ctx.notes.get(src);
-    if (doc === undefined) continue;
-    let missed: UnresolvedRef[] | undefined;
-    for (const link of extractLinksWithLines(doc.raw)) {
-      if (resolveLink(link.target, ctx.notes, maps) !== undefined) continue;
-      if (resolveAttachment(link.target, ctx.attachments) !== undefined) continue;
-      missed = recordUnresolved(missed, link);
-    }
-    if (missed !== undefined) ctx.unresolved.set(src, missed);
-    else ctx.unresolved.delete(src);
-  }
-}
-
-/**
  * Rebuild the inbound refs of a note that came back after a delete, from every
  * other note's current text, as a cold build would list them. Links may have
  * been added or removed while it was gone. Runs only on that return. Only
