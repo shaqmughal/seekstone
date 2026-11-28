@@ -15,7 +15,7 @@ export interface LexicalContext {
 }
 
 export async function buildLexicalContext(vaultRoot: string): Promise<LexicalContext> {
-  const { index, notes, backlinks, attachments, buildMs } = await buildIndex(vaultRoot);
+  const { index, notes, backlinks, attachments, unresolved, buildMs } = await buildIndex(vaultRoot);
   const ctx: ServerContext = {
     vaultRoot,
     index,
@@ -23,6 +23,7 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
     generation: 0,
     backlinks,
     attachments,
+    unresolved,
     policy: PERMISSIVE_POLICY,
   };
   return { ctx, noteCount: notes.size, buildMs };

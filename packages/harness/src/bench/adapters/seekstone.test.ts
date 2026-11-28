@@ -90,7 +90,7 @@ describe('SeekstoneAdapter', () => {
   });
 
   it('read() and readMany() measure exactly what dispatch sends for read_note and read_notes', async () => {
-    const { index, notes, backlinks, attachments } = await buildIndex(vaultDir);
+    const { index, notes, backlinks, attachments, unresolved } = await buildIndex(vaultDir);
     const ctx: ServerContext = {
       vaultRoot: vaultDir,
       index,
@@ -98,6 +98,7 @@ describe('SeekstoneAdapter', () => {
       generation: 0,
       backlinks,
       attachments,
+      unresolved,
       policy: PERMISSIVE_POLICY,
     };
     const log = createLogger({ env: {}, stderr: () => {} });

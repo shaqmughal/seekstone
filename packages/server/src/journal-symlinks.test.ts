@@ -54,6 +54,7 @@ describe('write history linked after boot (accepted limit)', () => {
       generation: 0,
       backlinks: built.backlinks,
       attachments: built.attachments,
+      unresolved: built.unresolved,
       policy: parseWritePolicy({}),
       journal: await Journal.open(vault, { maxBytes: 1e9, maxEntries: 1e6 }),
     };

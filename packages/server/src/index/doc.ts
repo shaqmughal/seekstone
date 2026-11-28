@@ -10,7 +10,7 @@ import {
   removeNoteBacklinks,
   restoreInboundRefs,
 } from './backlinks.js';
-import { bumpGeneration } from './generation.js';
+import { bumpGeneration, cachedResolveMaps } from './generation.js';
 import type { IndexedNote } from './types.js';
 
 /** Build an IndexedNote from a vault-relative path and raw file content. */
@@ -100,6 +100,18 @@ export function removeDoc(
   bumpGeneration(ctx);
   ctx.index.discard(path);
   ctx.notes.delete(path);
+  // Links to the note now resolve to nothing or to another note with the same
+  // name, so each linker is re-registered against the index as it is now: its
+  // unresolved list and the fallback note's refs. Its refs under this path
+  // stay, since the re-read resolves nothing to it.
+  const linkers = ctx.backlinks.get(path)?.map((r) => r.path) ?? [];
+  const maps = linkers.length > 0 ? cachedResolveMaps(ctx) : undefined;
+  for (const src of linkers) {
+    const doc = ctx.notes.get(src);
+    if (doc === undefined) continue;
+    removeNoteBacklinks(ctx, src, maps);
+    addNoteBacklinks(ctx, src, doc.raw, maps);
+  }
   if (opts.parkInbound === false) return;
   // Parked even with no inbound refs: a link added while the note is gone
   // must count when it comes back. The refs are re-read then, not kept.

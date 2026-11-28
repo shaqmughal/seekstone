@@ -36,6 +36,7 @@ function freshCtx(vaultRoot: string): ServerContext {
     generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
+    unresolved: new Map(),
     policy: PERMISSIVE_POLICY,
   };
 }

@@ -69,6 +69,7 @@ async function freshCtx(
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy: PERMISSIVE_POLICY,
   };
   if (opts.journal !== false) {

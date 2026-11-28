@@ -55,6 +55,7 @@ async function freshCtx(opts: { journal?: boolean; audit?: boolean } = {}): Prom
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy: PERMISSIVE_POLICY,
   };
   if (opts.journal !== false) {

@@ -55,6 +55,7 @@ async function makeCtx(): Promise<ServerContext> {
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy: PERMISSIVE_POLICY,
   };
 }

@@ -113,6 +113,7 @@ async function makeCtx(
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy,
     journal,
     audit: AuditLog.open({ path: auditPath, maxBytes: 1e9 }),

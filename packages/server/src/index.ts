@@ -96,7 +96,7 @@ if (policy.writeGlobs) log.info('write paths scoped', { globs: policy.writeGlobs
 if (policy.readGlobs) log.info('read paths scoped', { globs: policy.readGlobs });
 
 log.info('building index', { vault: vaultRoot });
-const { index, notes, backlinks, attachments, buildMs } = await buildIndex(
+const { index, notes, backlinks, attachments, unresolved, buildMs } = await buildIndex(
   vaultRoot,
   readScopeWalk(policy),
   (e) => logBuildProgress(log, e),
@@ -110,6 +110,7 @@ const ctx: ServerContext = {
   generation: 0,
   backlinks,
   attachments,
+  unresolved,
   policy,
 };
 

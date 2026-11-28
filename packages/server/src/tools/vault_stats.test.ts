@@ -46,6 +46,7 @@ function ctxOf(notes: Array<{ id: string; size?: number; tags?: string; ageDays?
     generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
+    unresolved: new Map(),
     policy: PERMISSIVE_POLICY,
   };
   return ctx;

@@ -31,6 +31,7 @@ function freshCtx(): ServerContext {
     generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
+    unresolved: new Map(),
     policy: PERMISSIVE_POLICY,
   };
 }
@@ -154,6 +155,7 @@ describe('getPeriodicNote', () => {
       generation: 0,
       backlinks: new Map(),
       attachments: buildAttachmentIndex([]),
+      unresolved: new Map(),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -183,6 +185,7 @@ describe('getPeriodicNote', () => {
       generation: 0,
       backlinks: new Map(),
       attachments: buildAttachmentIndex([]),
+      unresolved: new Map(),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -216,6 +219,7 @@ describe('getPeriodicNote', () => {
       generation: 0,
       backlinks: new Map(),
       attachments: buildAttachmentIndex([]),
+      unresolved: new Map(),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -245,6 +249,7 @@ describe('getPeriodicNote', () => {
       generation: 0,
       backlinks: new Map(),
       attachments: buildAttachmentIndex([]),
+      unresolved: new Map(),
       policy: PERMISSIVE_POLICY,
     };
     try {
@@ -268,6 +273,7 @@ describe('getPeriodicNote', () => {
       generation: 0,
       backlinks: new Map(),
       attachments: buildAttachmentIndex([]),
+      unresolved: new Map(),
       policy: PERMISSIVE_POLICY,
     };
     try {

@@ -38,6 +38,7 @@ async function ctxWithLinkedFolder(): Promise<ServerContext> {
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy: PERMISSIVE_POLICY,
   };
   // Swap the indexed note's folder for a link (to a copy outside the vault).

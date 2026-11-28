@@ -5,16 +5,18 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { extractTasks } from '@seekstone/core/tasks';
 import { type WalkOptions, walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
-import type { BacklinkRef } from '../context.js';
+import type { BacklinkRef, UnresolvedRef } from '../context.js';
 import type { Logger } from '../log.js';
 import { dropLinkedEntries } from '../symlinks.js';
 import {
   type AttachmentIndex,
   buildAttachmentIndex,
   buildResolveMaps,
+  resolveAttachment,
   resolveLink,
 } from './resolve.js';
 import type { IndexedNote } from './types.js';
+import { recordUnresolved } from './unresolved.js';
 
 export type VaultIndex = MiniSearch<IndexedNote>;
 
@@ -23,6 +25,8 @@ export interface BuildResult {
   notes: Map<string, IndexedNote>;
   backlinks: Map<string, BacklinkRef[]>;
   attachments: AttachmentIndex;
+  /** Links that resolve to no note and no attachment, by source path. */
+  unresolved: Map<string, UnresolvedRef[]>;
   /** Index generation (see ServerContext.generation): 0 for a fresh build. */
   generation: number;
   buildMs: number;
@@ -107,9 +111,10 @@ export async function buildIndex(
   );
   onProgress?.({ phase: 'indexing', notes: files.length });
 
+  const attachments = buildAttachmentIndex(attachmentPaths);
   return {
-    ...indexNotes(files),
-    attachments: buildAttachmentIndex(attachmentPaths),
+    ...indexNotes(files, attachments),
+    attachments,
     generation: 0,
     buildMs: Date.now() - t0,
   };
@@ -128,9 +133,12 @@ export interface NoteFile {
  * index and backlinks. Notes are indexed in path order, so the same vault
  * always builds the same index, whatever order the file reads finished in
  * (SHA-532). Pure CPU work, which is what the CodSpeed bench measures.
+ * A link that matches no note and nothing in `attachments` is recorded as
+ * unresolved.
  */
 export function indexNotes(
   files: NoteFile[],
+  attachments: AttachmentIndex = buildAttachmentIndex([]),
 ): Omit<BuildResult, 'attachments' | 'generation' | 'buildMs'> {
   const index = new MiniSearch<IndexedNote>({
     idField: 'id',
@@ -181,17 +189,26 @@ export function indexNotes(
 
   index.addAll(docs);
 
-  return { index, notes, backlinks: buildBacklinks(notes) };
+  return { index, notes, ...buildBacklinks(notes, attachments) };
 }
 
-function buildBacklinks(notes: Map<string, IndexedNote>): Map<string, BacklinkRef[]> {
+function buildBacklinks(
+  notes: Map<string, IndexedNote>,
+  attachments: AttachmentIndex,
+): Pick<BuildResult, 'backlinks' | 'unresolved'> {
   const result = new Map<string, BacklinkRef[]>();
+  const unresolved = new Map<string, UnresolvedRef[]>();
   const resolveMaps = buildResolveMaps(notes);
   for (const [srcPath, doc] of notes) {
     const seen = new Set<string>();
+    let missed: UnresolvedRef[] | undefined;
     for (const link of extractLinksWithLines(doc.raw)) {
       const resolved = resolveLink(link.target, notes, resolveMaps);
-      if (resolved === undefined) continue;
+      if (resolved === undefined) {
+        if (resolveAttachment(link.target, attachments) === undefined)
+          missed = recordUnresolved(missed, link);
+        continue;
+      }
       // De-duplicate: one entry per (source, resolved-target) pair
       const dedupeKey = `${srcPath}\0${resolved}`;
       if (seen.has(dedupeKey)) continue;
@@ -203,9 +220,10 @@ function buildBacklinks(notes: Map<string, IndexedNote>): Map<string, BacklinkRe
       }
       arr.push({ path: srcPath, line: link.line, linkType: link.linkType });
     }
+    if (missed !== undefined) unresolved.set(srcPath, missed);
   }
   for (const arr of result.values()) {
     arr.sort((a, b) => a.path.localeCompare(b.path));
   }
-  return result;
+  return { backlinks: result, unresolved };
 }
