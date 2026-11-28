@@ -4,7 +4,7 @@ import {
   type LinkRecord,
 } from '@seekstone/core/extract';
 import type { BacklinkRef, ServerContext, UnresolvedRef } from '../context.js';
-import { bumpGeneration } from './generation.js';
+import { bumpGeneration, cachedResolveMaps } from './generation.js';
 import { buildResolveMaps, type ResolveMaps, resolveAttachment, resolveLink } from './resolve.js';
 import type { IndexedNote } from './types.js';
 import { recordUnresolved } from './unresolved.js';
@@ -44,33 +44,77 @@ export function addNoteBacklinks(
   raw: string,
   resolveMaps?: ResolveMaps,
 ): void {
-  const seen = new Set<string>();
   const links = extractLinksWithLines(raw);
   ctx.unresolved.delete(relPath);
   if (links.length === 0) return;
   bumpGeneration(ctx);
   const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
+  for (const [resolved, ref] of resolveNoteLinks(ctx, relPath, links, maps)) {
+    let arr = ctx.backlinks.get(resolved);
+    if (arr === undefined) {
+      arr = [];
+      ctx.backlinks.set(resolved, arr);
+    }
+    arr.push(ref);
+    arr.sort(byPath);
+  }
+}
+
+/**
+ * Resolve a note's links: the first ref to each note they reach, keyed by
+ * that note's path. Records the links that reach nothing in ctx.unresolved.
+ */
+function resolveNoteLinks(
+  ctx: ServerContext,
+  relPath: string,
+  links: LinkRecord[],
+  maps: ResolveMaps,
+): Map<string, BacklinkRef> {
+  const refs = new Map<string, BacklinkRef>();
   let missed: UnresolvedRef[] | undefined;
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
     if (resolved === undefined) {
       if (resolveAttachment(link.target, ctx.attachments) === undefined)
         missed = recordUnresolved(missed, link);
-      continue;
-    }
-    const dedupeKey = `${relPath}\0${resolved}`;
-    if (seen.has(dedupeKey)) continue;
-    seen.add(dedupeKey);
-    let arr = ctx.backlinks.get(resolved);
-    if (arr === undefined) {
-      arr = [];
-      ctx.backlinks.set(resolved, arr);
-    }
-    const ref: BacklinkRef = { path: relPath, line: link.line, linkType: link.linkType };
-    arr.push(ref);
-    arr.sort((a, b) => a.path.localeCompare(b.path));
+    } else if (!refs.has(resolved))
+      refs.set(resolved, { path: relPath, line: link.line, linkType: link.linkType });
   }
   if (missed !== undefined) ctx.unresolved.set(relPath, missed);
+  else ctx.unresolved.delete(relPath);
+  return refs;
+}
+
+const byPath = (a: BacklinkRef, b: BacklinkRef) => a.path.localeCompare(b.path);
+
+/**
+ * Re-register the notes that link to `path` against the index as it is now,
+ * after `path` was removed or replaced: their unresolved lists, and
+ * their refs in every bucket their links now reach, plus `path`'s own. Each
+ * of those buckets is filtered and sorted once, so the cost is the linkers'
+ * links plus the buckets they touch, not linkers times bucket size. The
+ * note's links to itself are left to its caller.
+ */
+export function relinkInbound(ctx: ServerContext, path: string): void {
+  const linkers = new Set<string>();
+  for (const r of ctx.backlinks.get(path) ?? [])
+    if (r.path !== path && ctx.notes.has(r.path)) linkers.add(r.path);
+  if (linkers.size === 0) return;
+  bumpGeneration(ctx);
+  const maps = cachedResolveMaps(ctx);
+  const added = new Map<string, BacklinkRef[]>([[path, []]]);
+  for (const src of linkers) {
+    const raw = (ctx.notes.get(src) as IndexedNote).raw;
+    for (const [resolved, ref] of resolveNoteLinks(ctx, src, extractLinksWithLines(raw), maps)) {
+      const refs = added.get(resolved);
+      if (refs === undefined) added.set(resolved, [ref]);
+      else refs.push(ref);
+    }
+  }
+  for (const [target, refs] of added) {
+    const kept = (ctx.backlinks.get(target) ?? []).filter((r) => !linkers.has(r.path));
+    ctx.backlinks.set(target, kept.concat(refs).sort(byPath));
+  }
 }
 
 /**

@@ -8,6 +8,7 @@ import type { ServerContext } from '../context.js';
 import {
   addNoteBacklinks,
   clearInboundBacklinks,
+  relinkInbound,
   removeNoteBacklinks,
 } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
@@ -178,6 +179,8 @@ export async function moveNote(
   const destKey = replacedKey === toKey ? toKey : await keyOnDisk(ctx.vaultRoot, toKey);
   removeDoc(ctx, replacedKey, { parkInbound: false });
   if (upsertDoc(ctx, buildDoc(destKey, raw))) addNoteBacklinks(ctx, destKey, raw);
+  // The replaced note's linkers may have used one of its aliases.
+  if (existingAtTo !== null) relinkInbound(ctx, replacedKey);
 
   // One resolution snapshot for both loops below: they change note content
   // but never which paths exist or their aliases.

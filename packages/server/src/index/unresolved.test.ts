@@ -186,6 +186,41 @@ describe('listUnresolved on a small vault', () => {
     expect(listUnresolved(ctx)).toEqual(bruteForce(ctx));
   });
 
+  it('updates a shared backlink bucket once when a deleted note had many linkers', async () => {
+    await writeFile(join(vault, 'Gone.md'), '');
+    await writeFile(join(vault, 'Hub.md'), '');
+    for (let i = 0; i < 20; i++) await writeFile(join(vault, `L${i}.md`), '[[Gone]] [[Hub]]\n');
+    ctx = await freshCtx(vault);
+    const set = ctx.backlinks.set.bind(ctx.backlinks);
+    let hubSets = 0;
+    ctx.backlinks.set = (k, v) => {
+      if (k === 'Hub.md') hubSets++;
+      return set(k, v);
+    };
+    await deleteNote(ctx, { path: 'Gone.md' });
+    expect(hubSets).toBe(1);
+    expect(ctx.backlinks.get('Hub.md')).toHaveLength(20);
+    expect(listUnresolved(ctx)).toEqual(bruteForce(ctx));
+  });
+
+  it('a move leaves no ref on a note a link fell back to mid-move, and drops a lost alias', async () => {
+    await mkdir(join(vault, 'a'));
+    await mkdir(join(vault, 'm'));
+    await writeFile(join(vault, 'a', 'Dup.md'), 'moved\n');
+    await writeFile(join(vault, 'm', 'Dup.md'), '---\naliases: [Nick]\n---\n');
+    await writeFile(join(vault, 'C.md'), '[[Dup]]\n');
+    await writeFile(join(vault, 'D.md'), '[[Nick]]\n');
+    ctx = await freshCtx(vault);
+    // b/Dup.md sorts before m/Dup.md, so [[Dup]] still resolves to the moved note.
+    await moveNote(ctx, { from: 'a/Dup.md', to: 'b/Dup.md', rewriteLinks: false });
+    expect(ctx.backlinks.get('b/Dup.md')?.map((r) => r.path)).toEqual(['C.md']);
+    expect(ctx.backlinks.get('m/Dup.md')?.map((r) => r.path)).toEqual(['D.md']);
+    // Overwriting m/Dup.md drops its alias, so D.md's [[Nick]] breaks.
+    await moveNote(ctx, { from: 'b/Dup.md', to: 'm/Dup.md', overwrite: true, rewriteLinks: false });
+    expect(rowsFor('Nick').map((r) => r.path)).toEqual(['D.md']);
+    expect(listUnresolved(ctx)).toEqual(bruteForce(ctx));
+  });
+
   it('forgets a removed note and keeps a note with no links out', async () => {
     await watcherWrite('A.md', 'no links now\n');
     expect(ctx.unresolved.has('A.md')).toBe(false);
