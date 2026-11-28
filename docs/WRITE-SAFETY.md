@@ -338,7 +338,13 @@ back when it compacts the manifest and drop a real write's history, so stop
 every server sharing a vault before upgrading. Retention has two caps, and they evict differently. Over
 `SEEKSTONE_HISTORY_MAX_SIZE` (default 50 MB of stored pre-images), the oldest
 entries' pre-images are deleted but their rows stay, listed with
-`undoable: false`; the entry just committed is never evicted this way. Over
+`undoable: false`; the entry just committed is never evicted this way. The
+byte cap counts the pre-images' real sizes: when a write takes the journal
+over it, the server reads every stored pre-image's size from disk before it
+deletes any, so it never deletes undo history while the journal is actually
+under the cap, even if a pre-image was changed outside Seekstone. If a size
+can't be read, nothing is deleted for size until it can, so history can grow
+past the byte cap for as long as that lasts; the entry cap still limits it. Over
 `SEEKSTONE_HISTORY_MAX_ENTRIES` (default 1000), the oldest rows are deleted
 from the manifest along with their pre-images, so they no longer appear in
 `list_writes` and `undo_write` reports them as not found. A failed compaction
@@ -347,6 +353,12 @@ doesn't fail the write: the server logs a warning, and the compaction is
 retried on the next write, so old rows can stay past the cap until then.
 Their pre-images may already be gone, so they can list as `undoable: false`.
 `SEEKSTONE_HISTORY=0` disables the journal.
+
+A stored pre-image damaged outside Seekstone (truncated or overwritten with a
+different size) is rewritten the next time a write has the same pre-image, so
+that write can be undone. If the rewrite fails, the write fails. A change of
+the same size is still caught only at undo time, when the pre-image's hash is
+checked.
 
 Write history must be a real folder in the vault. If `.seekstone/`,
 `.seekstone/history/`, its `blobs/` folder, `manifest.jsonl` or `manifest.lock` is a symlink at
@@ -386,6 +398,10 @@ agent itself can drive.
   (shared journal, lock takeover and waiting) and
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
   (short and failed manifest writes),
+  [`journal-blobs.test.ts`](../packages/server/src/journal-blobs.test.ts)
+  (a damaged pre-image is rewritten, and the byte cap counts real sizes even
+  after a repair in another process whose row was rolled back, or damage
+  outside Seekstone),
   [`journal-rollback.test.ts`](../packages/server/src/journal-rollback.test.ts)
   (a failed append leaves no row, another process that read the row
   rereads the manifest before it writes, a failed compaction doesn't fail
