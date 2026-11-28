@@ -29,9 +29,9 @@ export function setDirSyncEnabled(on: boolean): void {
 }
 
 /**
- * fsync a folder, so a rename into it survives a power cut (SHA-652). Call
- * it after the rename. Skipped on Windows, where a folder can't be opened
- * for fsync and rename durability is up to the file system.
+ * fsync a folder, so a rename into it is as durable as a plain fsync makes
+ * it (SHA-652; macOS may still hold it in the drive cache). Call it after
+ * the rename. Skipped on Windows, where a folder can't be opened for fsync.
  *
  * A failure (EINVAL on a file system that doesn't support it, say) is not
  * thrown: the rename already happened, so the write did too. It is logged

@@ -17,11 +17,11 @@ export interface AtomicWriteDeps {
  * disk before the rename can be, so a crash or power loss leaves the old
  * content or the new content, never an empty or partial note (SHA-561).
  *
- * The folder fsync (`syncDir`, SHA-652) makes the rename itself durable on
- * Linux and macOS: once the call returns, the new content survives a power
- * cut. On Windows the folder isn't fsynced, as before, so after a power cut
- * the note may still hold its old content. If the folder fsync fails, the
- * write still succeeds and the failure is logged at debug.
+ * The folder fsync (`syncDir`, SHA-652) makes the rename as durable as a
+ * plain fsync on Linux and macOS (weaker on macOS, where fsync can leave data
+ * in the drive cache). If it fails, the write still succeeds, logged at debug,
+ * and a power cut may bring the old content back. Windows doesn't fsync the
+ * folder, as before, so after a power cut the note may hold its old content.
  *
  * Every call gets its own temp file (`tempPathFor`), opened with `wx` so it
  * can only be a file this call created. Cleanup after a failure only ever

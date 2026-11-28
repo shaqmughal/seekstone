@@ -126,17 +126,17 @@ referencing notes are each individually atomic. This is per-file crash-safety,
 not a multi-file transaction.)
 
 On Linux and macOS, the note's folder is fsynced after the rename too
-(SHA-652), so the rename is on disk before the write returns: once a write
-reports success, the new content survives a power cut. If the file system
-refuses the folder fsync (some return `EINVAL`), the write still succeeds,
-because the rename has already happened, and the server logs it once per
-folder at `debug`; on such a file system the old content can come back after
-a power cut. Windows is unchanged: Node can't open a folder for fsync there,
-so whether the rename survives a power cut is up to the file system, and
-after one the note can still hold its old content even though the write
-returned. On every platform the note is never torn. The fsync is plain
-`fsync`, not macOS's stronger `F_FULLFSYNC`, the same as every other file
-write here.
+(SHA-652), so the rename is as durable as the note's own bytes: once a
+write reports success, the new content survives a power cut as far as a
+plain `fsync` guarantees. On macOS that is weaker: plain `fsync` can return
+while data sits in the drive's volatile cache, and Node doesn't expose the
+stronger `F_FULLFSYNC`, so a power cut can still lose a recent write there.
+If the file system refuses the folder fsync (some return `EINVAL`), the
+write still succeeds, because the rename has already happened, and the
+server logs it once per folder at `debug`; there the old content can come
+back after a power cut. Windows is unchanged: Node can't open a folder for
+fsync, so the rename's durability is up to the file system and the note can
+hold its old content after a power cut. On every platform, it's never torn.
 
 Each write uses its own temp file next to the note, named
 `.<note>.<process tag><counter>.seekstone-tmp` and created exclusively. Two
@@ -328,9 +328,9 @@ backwards through history.
 
 Crash window: the blob **and** the manifest row are fsync'd before the vault
 write starts. On Linux and macOS the blob folder is fsynced after each blob
-is renamed into place (SHA-652), so a note write that survives a power cut
-keeps the blob holding its pre-image, and the write can still be undone. On
-Windows the blob folder isn't fsynced, as with notes (§4). A crash after the journal commit but before the vault write
+rename (SHA-652), so a note write that survives a power cut keeps its
+pre-image blob and can be undone, within plain `fsync`'s limits (§4); not
+on Windows. A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
