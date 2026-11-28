@@ -707,24 +707,28 @@ export class Journal {
     } catch (err) {
       // Part of the line, or all of it, may be on disk, and the caller won't
       // write the note. Replace it so it never loads as committed.
-      this.rollBackAppend(entry);
+      if (this.rollBackAppend(entry)) await this.evictOrWarn(true);
       throw err;
     }
     this.manifestOffset += line.length;
     this.lastLine = line;
     this.nextSeq++;
     this.entries.push(entry);
+    await this.evictOrWarn();
+    return entry;
+  }
+
+  private async evictOrWarn(afterVoid = false): Promise<void> {
     try {
-      await this.evict();
+      await this.evict(afterVoid);
     } catch (err) {
-      // The entry is committed, so the write goes ahead. The old rows are
+      // The row is committed, so this doesn't fail the call. The old rows are
       // still in the manifest: reread it, and the next commit compacts again.
       this.manifestIno = -1;
       this.log?.warn('journal: manifest compaction failed; retrying on the next write', {
         error: String(err),
       });
     }
-    return entry;
   }
 
   /**
@@ -734,9 +738,9 @@ export class Journal {
    * hands that seq out again, even one that listed the failed row or an
    * older server (a void row is a valid entry with no files). The result is
    * fsynced, or a crash could bring the row back. If the void row can't be
-   * written, the cut alone stays and the seq is free again.
+   * written, the cut alone stays and the seq is free again (returns false).
    */
-  private rollBackAppend(failed: JournalEntry): void {
+  private rollBackAppend(failed: JournalEntry): boolean {
     const entry: JournalEntry = { seq: failed.seq, ts: failed.ts, tool: VOID_TOOL, files: [] };
     const line = Buffer.from(`${JSON.stringify(entry)}\n`, 'utf8');
     try {
@@ -750,7 +754,7 @@ export class Journal {
           this.lastLine = line;
           this.nextSeq++;
           this.entries.push(entry);
-          return;
+          return true;
         } catch (err) {
           this.log?.warn('journal: could not write a void row to roll back a failed append', {
             error: String(err),
@@ -770,6 +774,7 @@ export class Journal {
         error: String(err),
       });
     }
+    return false;
   }
 
   /**
@@ -847,8 +852,10 @@ export class Journal {
    * eviction. Over the entry cap, the oldest rows are dropped and the
    * manifest rewritten atomically; over the byte cap, the oldest entries'
    * blobs are removed but the rows stay (listed as undoable: false).
+   * After a void row, keep the newest real entry and the rows after it, and
+   * leave the byte cap (it counts the failed write's pre-images) to the next commit.
    */
-  private async evict(): Promise<void> {
+  private async evict(afterVoid = false): Promise<void> {
     const refs = new Map<string, number>();
     for (const e of this.entries) {
       for (const f of e.files) {
@@ -868,7 +875,10 @@ export class Journal {
     };
 
     let rewrite = false;
-    while (this.entries.length > this.config.maxEntries) {
+    let droppable = this.entries.length;
+    if (afterVoid) droppable = this.entries.findLastIndex((e) => !isVoid(e));
+    if (droppable < 0) droppable = this.entries.length - 1;
+    while (this.entries.length > this.config.maxEntries && droppable-- > 0) {
       const oldest = this.entries.shift() as JournalEntry;
       await dropBlobs(oldest);
       rewrite = true;
@@ -879,7 +889,7 @@ export class Journal {
     // size that's too high can't delete undo history the cap allows. If a
     // size can't be read, nothing is evicted for size (the entry cap still
     // applies): keeping history beats deleting it on a guess.
-    const sized = this.totalBytes <= this.config.maxBytes || this.measureBlobs();
+    const sized = !afterVoid && (this.totalBytes <= this.config.maxBytes || this.measureBlobs());
     for (
       let i = 0;
       sized && this.totalBytes > this.config.maxBytes && i < this.entries.length - 1;

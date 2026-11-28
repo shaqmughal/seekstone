@@ -25,7 +25,6 @@ const fail = vi.hoisted(() => ({
 const seen = vi.hoisted(() => ({
   manifest: '',
   ops: [] as string[],
-  /** Every manifest call, opens and writes included. */
   calls: [] as string[],
   /** A 'crash' void write: the manifest after the cut, and with half the void row. */
   crash: { cut: '', torn: '' },
@@ -101,15 +100,8 @@ vi.mock('node:fs', async (importOriginal) => {
     failTruncate();
     fs.ftruncateSync(fd, len);
   };
-  const mocked = {
-    openSync,
-    closeSync,
-    writeSync,
-    fsyncSync,
-    renameSync,
-    truncateSync,
-    ftruncateSync,
-  };
+  const mocked = { openSync, closeSync, fsyncSync, renameSync, truncateSync, ftruncateSync };
+  Object.assign(mocked, { writeSync });
   return { ...fs, ...mocked, default: { ...fs, ...mocked } };
 });
 
@@ -348,6 +340,31 @@ describe('Journal: a void row keeps a rolled-back seq (SHA-662)', () => {
         hint: expect.stringMatching(/failed/),
       });
     }
+  });
+
+  it('a void row counts toward the entry cap but keeps the newest real write', async () => {
+    const j = await Journal.open(vault, CAP, { log });
+    await write(j, 'x');
+    await write(j, 'a');
+    // The first compaction fails, the second drops x but keeps a and its void rows.
+    for (const rows of ['x a void', 'a void void']) {
+      fail.manifestFsync = true;
+      fail.manifestRename = rows.startsWith('x');
+      await expect(write(j, 'b')).rejects.toThrow('EIO: i/o error, fsync');
+      expect((await manifestRows()).join(' ')).toBe(rows);
+    }
+    expect(warnings.filter((w) => w.includes('compaction failed'))).toHaveLength(1);
+    await write(j, 'd');
+    expect(await manifestRows()).toEqual(['void', 'd']);
+  });
+
+  it('leaves the byte cap to the next commit after a void row', async () => {
+    const j = await Journal.open(vault, { maxBytes: 6, maxEntries: 1 }, { log });
+    await journalWrite({ journal: j }, 'a', 'a.md', 'aaaa', 'v2');
+    // b's pre-image is stored before the append fails: 8 bytes, over the cap.
+    fail.manifestFsync = true;
+    await expect(journalWrite({ journal: j }, 'b', 'b.md', 'bbbb', 'v2')).rejects.toThrow(/EIO/);
+    expect(j.list({}).writes).toEqual([expect.objectContaining({ tool: 'a', undoable: true })]);
   });
 
   it('adds no manifest calls to a normal commit', async () => {
