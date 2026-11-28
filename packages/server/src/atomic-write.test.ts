@@ -96,6 +96,55 @@ describe('atomicWrite', () => {
   });
 });
 
+describe('atomicWrite folder fsync (SHA-652)', () => {
+  const FAKE_FD = 9_999;
+
+  /** Fake folder open/fsync/close on `platform`, recorded after a real, recorded rename. */
+  function tracedDirSync(platform: NodeJS.Platform, fsyncError?: string) {
+    const events: string[] = [];
+    const renameFn = async (from: string, to: string) => {
+      await rename(from, to);
+      events.push('rename');
+    };
+    const dirSync = {
+      platform,
+      openSync: (path: string, flags: string) => {
+        events.push(`open ${path} ${flags}`);
+        return FAKE_FD;
+      },
+      fsyncSync: (fd: number) => {
+        events.push(`fsync ${fd}`);
+        if (fsyncError) throw Object.assign(new Error(fsyncError), { code: fsyncError });
+      },
+      closeSync: (fd: number) => {
+        events.push(`close ${fd}`);
+      },
+    };
+    return { events, renameFn, dirSync };
+  }
+
+  for (const platform of ['linux', 'darwin', 'win32'] as const) {
+    it(`fsyncs the note's folder read-only after the rename, except on win32: ${platform}`, async () => {
+      const sub = await mkdtemp(join(dir, `dirsync-${platform}-`));
+      const p = join(sub, 'note.md');
+      const { events, renameFn, dirSync } = tracedDirSync(platform);
+      await atomicWrite(p, 'new', { renameFn, dirSync });
+      const synced = ['rename', `open ${sub} r`, `fsync ${FAKE_FD}`, `close ${FAKE_FD}`];
+      expect(events).toEqual(platform === 'win32' ? ['rename'] : synced);
+      expect(await readFile(p, 'utf8')).toBe('new');
+    });
+  }
+
+  it('still succeeds when the folder fsync fails, and closes the folder', async () => {
+    const sub = await mkdtemp(join(dir, 'dirsync-einval-'));
+    const p = join(sub, 'note.md');
+    const { events, renameFn, dirSync } = tracedDirSync('linux', 'EINVAL');
+    await atomicWrite(p, 'new', { renameFn, dirSync });
+    expect(await readFile(p, 'utf8')).toBe('new');
+    expect(events).toEqual(['rename', `open ${sub} r`, `fsync ${FAKE_FD}`, `close ${FAKE_FD}`]);
+  });
+});
+
 describe('atomicWrite temp files (SHA-567)', () => {
   const fsError = (code: string) => Object.assign(new Error(code), { code });
 

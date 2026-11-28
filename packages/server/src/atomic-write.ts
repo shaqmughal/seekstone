@@ -1,34 +1,39 @@
 import { randomBytes } from 'node:crypto';
 import { type FileHandle, open, rename, rm } from 'node:fs/promises';
+import { dirname } from 'node:path';
+import { type DirSyncDeps, syncDir } from './dir-sync.js';
 
 /** Test seams for `atomicWrite`. Production callers pass nothing. */
 export interface AtomicWriteDeps {
   openFn?: (path: string, flags: string) => Promise<FileHandle>;
   renameFn?: RenameRetryDeps['renameFn'];
+  dirSync?: DirSyncDeps;
 }
 
 /**
  * Crash-safe file write: write a same-directory temp file, fsync it, close
- * it, then rename it over the destination (the same shape as the journal's
- * `writeDurable`). The fsync means the new data is on disk before the rename
- * can be, so a crash or power loss leaves the old content or the new content,
- * never an empty or partial note (SHA-561).
+ * it, rename it over the destination, then fsync the folder (the same shape
+ * as the journal's `writeDurable`). The file fsync means the new data is on
+ * disk before the rename can be, so a crash or power loss leaves the old
+ * content or the new content, never an empty or partial note (SHA-561).
+ *
+ * The folder fsync (`syncDir`, SHA-652) makes the rename itself durable on
+ * Linux and macOS: once the call returns, the new content survives a power
+ * cut. On Windows the folder isn't fsynced, as before, so after a power cut
+ * the note may still hold its old content. If the folder fsync fails, the
+ * write still succeeds and the failure is logged at debug.
  *
  * Every call gets its own temp file (`tempPathFor`), opened with `wx` so it
  * can only be a file this call created. Cleanup after a failure only ever
  * removes that file, and two writers on one note never touch each other's
  * temp file (SHA-567). They still race on the final rename, and the last one
  * wins. CAS (content-hash.ts) is the conflict-detection layer above this.
- *
- * Not guaranteed: the rename itself surviving a power loss. The directory is
- * not fsynced, so after a crash the note may still hold its old content. A
- * directory fsync costs real time on some file systems and is left out on
- * purpose. rename-over-existing works on the full CI OS matrix.
+ * rename-over-existing works on the full CI OS matrix.
  */
 export async function atomicWrite(
   absPath: string,
   content: string,
-  { openFn = open, renameFn }: AtomicWriteDeps = {},
+  { openFn = open, renameFn, dirSync }: AtomicWriteDeps = {},
 ): Promise<void> {
   const tmpPath = tempPathFor(absPath);
   // A failed open created nothing, so it has nothing to clean up.
@@ -46,6 +51,7 @@ export async function atomicWrite(
     await rm(tmpPath, { force: true }).catch(() => {});
     throw err;
   }
+  syncDir(dirname(absPath), dirSync);
 }
 
 /** Longest file name, in bytes, that ext4, APFS and NTFS all accept. */
