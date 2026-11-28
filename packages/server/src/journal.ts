@@ -196,7 +196,8 @@ export class Journal {
   private entries: JournalEntry[] = [];
   private nextSeq = 1;
   /** Identity and length of the manifest as last read; a new inode means it was compacted. */
-  private manifestIno = -1;
+  /** The manifest's inode, as a bigint: NTFS file ids exceed 2^53, so a number can't tell two files apart. */
+  private manifestIno = -1n;
   private manifestOffset = 0;
   /** Bytes after the last newline: an append in flight, or torn by a crash. */
   private tailBytes = 0;
@@ -324,18 +325,20 @@ export class Journal {
   /** One (sync) stat when nothing changed. Only whole lines are read. */
   private async load(reread = false): Promise<boolean> {
     const known = this.manifestOffset + this.tailBytes;
-    const now = statSync(this.manifestPath, { throwIfNoEntry: false });
-    if (!now || (!reread && now.ino === this.manifestIno && now.size === known)) return false;
+    const now = statSync(this.manifestPath, { throwIfNoEntry: false, bigint: true });
+    if (!now || (!reread && now.ino === this.manifestIno && Number(now.size) === known))
+      return false;
     const fh = await open(this.manifestPath, 'r');
     let buf: Buffer;
     let start: number;
     try {
-      const st = await fh.stat();
+      const st = await fh.stat({ bigint: true });
+      const size = Number(st.size);
       const read = async (from: number): Promise<Buffer> => {
-        const b = Buffer.alloc(st.size - from);
+        const b = Buffer.alloc(size - from);
         return b.subarray(0, (await fh.read(b, 0, b.length, from)).bytesRead);
       };
-      let replaced = st.ino !== this.manifestIno || st.size < this.manifestOffset;
+      let replaced = st.ino !== this.manifestIno || size < this.manifestOffset;
       start = replaced ? 0 : this.manifestOffset - this.lastLine.length;
       buf = await read(start);
       if (!replaced) {
@@ -634,7 +637,7 @@ export class Journal {
     // than trust the size: another process may have cut it off and appended
     // a whole row of exactly the same length. The same goes for a row another
     // process rolled back and replaced: then reread from the start.
-    if (!this.lastLineOnDisk()) this.manifestIno = -1;
+    if (!this.lastLineOnDisk()) this.manifestIno = -1n;
     await this.load(this.tailBytes > 0);
     // A blob stored before the lock may have been evicted since by another
     // process (shared with an old entry). Our cache can't tell: a refresh may
@@ -691,7 +694,7 @@ export class Journal {
     } catch (err) {
       // The entry is committed, so the write goes ahead. The old rows are
       // still in the manifest: reread it, and the next commit compacts again.
-      this.manifestIno = -1;
+      this.manifestIno = -1n;
       this.log?.warn('journal: manifest compaction failed; retrying on the next write', {
         error: String(err),
       });
@@ -716,7 +719,7 @@ export class Journal {
     } catch (err) {
       // The row may stay. Reread the manifest from the start next time
       // instead of trusting our offsets.
-      this.manifestIno = -1;
+      this.manifestIno = -1n;
       this.log?.warn('journal: could not roll back a failed manifest append', {
         error: String(err),
       });
@@ -841,9 +844,9 @@ export class Journal {
     if (rewrite) {
       const lines = this.entries.map((e) => `${JSON.stringify(e)}\n`);
       writeDurable(this.manifestPath, lines.join(''));
-      const st = statSync(this.manifestPath);
+      const st = statSync(this.manifestPath, { bigint: true });
       this.manifestIno = st.ino;
-      this.manifestOffset = st.size;
+      this.manifestOffset = Number(st.size);
       this.lastLine = Buffer.from(lines.at(-1) ?? '', 'utf8');
       this.log?.debug('journal: manifest compacted', { entries: this.entries.length });
     }
