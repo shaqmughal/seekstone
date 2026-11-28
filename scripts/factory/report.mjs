@@ -15,6 +15,14 @@ import { fileURLToPath } from 'node:url';
 import { linear, linearAuth } from './factory.mjs';
 import { MARKER_RE } from './followup.mjs';
 import { gh, ghAll } from './github.mjs';
+import {
+  fetchReview,
+  latestVerdict,
+  openThreads,
+  outsideDiffOnHead,
+  reviewStatus,
+  summaryFindings,
+} from './review.mjs';
 
 const DAY = 24 * 60 * 60 * 1000;
 const BOTS = /\[bot\]$/;
@@ -49,6 +57,34 @@ export function revertedSha(message) {
 
 const link = (pr) => `[#${pr.number}](${pr.url}) ${pr.title}`;
 
+const SEVERITIES = ['Critical', 'Major', 'Minor', 'Trivial'];
+
+/**
+ * CodeRabbit's state on a PR's head commit, in a few words. `review` is
+ * fetchReview's `{ reviews, threads }` plus the PR's issue `comments` and
+ * the head commit's `checkRuns`.
+ */
+export function reviewState({ headSha, review }) {
+  const status = reviewStatus({ ...review, headSha });
+  const findings = [
+    ...openThreads(review.threads),
+    ...summaryFindings(review.comments),
+    ...outsideDiffOnHead(review.reviews, headSha),
+  ];
+  // A thread from an older commit stays open after a push until it is
+  // resolved, so open findings show even before CodeRabbit reviews the head.
+  if (!status.reviewed && findings.length === 0) return 'not reviewed yet';
+  if (findings.length > 0 || status.changesRequested) {
+    const counts = new Map();
+    for (const f of findings) counts.set(f.severity, (counts.get(f.severity) ?? 0) + 1);
+    // Named severities first, then any other label (a summary's `Low`), Unknown last.
+    const rank = (s) => (s === 'Unknown' ? 6 : SEVERITIES.includes(s) ? SEVERITIES.indexOf(s) : 5);
+    const parts = [...counts].sort(([a], [b]) => rank(a) - rank(b)).map(([s, n]) => `${n} ${s}`);
+    return `changes requested: ${parts.join(', ') || '0'} open`;
+  }
+  return latestVerdict(review.reviews) === 'APPROVED' ? 'approved' : 'reviewed, no findings';
+}
+
 /** The daily comment, as Markdown. */
 export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
   const out = [`**Factory log** since ${since.slice(0, 16).replace('T', ' ')} UTC`, ''];
@@ -62,7 +98,7 @@ export function renderDaily({ since, runs, opened, merged, waiting, blocked }) {
     out.push('', `**${title}**`, ...items.map((i) => `- ${i}`));
   };
   section('Waiting on you', [
-    ...waiting.map((pr) => `Review ${link(pr)} (CodeRabbit: ${pr.coderabbit ?? 'not started'})`),
+    ...waiting.map((pr) => `Review ${link(pr)} (${reviewState(pr)})`),
     ...blocked.map((t) => {
       const head = `Answer [${t.identifier}](${t.url}) ${t.title}`;
       if (!t.questions?.length) return `${head}: see ticket`;
@@ -267,11 +303,12 @@ async function main() {
   // Waiting PRs have no activity cutoff: a PR nobody touched for days still waits.
   const waiting = (await factoryPrs(repo, null)).filter((p) => !p.draft);
   for (const pr of waiting) {
-    const { check_runs } = await gh(
-      `repos/${repo}/commits/${pr.headSha}/check-runs?check_name=CodeRabbit`,
-    );
-    const cr = check_runs.sort((a, b) => b.id - a.id)[0];
-    pr.coderabbit = cr ? (cr.status === 'completed' ? cr.conclusion : 'reviewing') : undefined;
+    pr.review = {
+      ...(await fetchReview(repo, pr.number)),
+      comments: await ghAll(`repos/${repo}/issues/${pr.number}/comments?per_page=100`),
+      checkRuns: (await gh(`repos/${repo}/commits/${pr.headSha}/check-runs?per_page=100`))
+        .check_runs,
+    };
   }
 
   let body = renderDaily({
