@@ -15,6 +15,14 @@ export interface BacklinkRef {
   linkType: LinkType;
 }
 
+/** A wikilink or embed that resolved to no note and no attachment. */
+export interface UnresolvedRef {
+  line: number;
+  /** LinkRecord.target: alias and `#heading` stripped. */
+  target: string;
+  linkType: LinkType;
+}
+
 export interface ServerContext {
   vaultRoot: string;
   index: MiniSearch<IndexedNote>;
@@ -37,6 +45,13 @@ export interface ServerContext {
    * `![[diagram.png]]`. Built from the boot walk; the watcher adds and removes.
    */
   attachments: AttachmentIndex;
+  /**
+   * Links that resolved to nothing when their note was last indexed, keyed by
+   * source note path, in the order they appear. Built at boot and kept by the
+   * index/backlinks.ts helpers and removeDoc. An entry can go stale when a
+   * note or attachment it names appears later; listUnresolved re-checks.
+   */
+  unresolved: Map<string, UnresolvedRef[]>;
   /**
    * Paths removeDoc took out of the index, along with their inbound refs. If
    * a note returns at one (undo_write, a re-create), upsertDoc drops the path

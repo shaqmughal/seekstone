@@ -41,7 +41,7 @@ let ctx: ServerContext;
 beforeAll(async () => {
   vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-dispatch-'));
   await writeFile(join(vaultRoot, 'note.md'), '---\ntitle: A\n---\n# A\nhello world\n', 'utf8');
-  const { index, notes, attachments } = await buildIndex(vaultRoot);
+  const { index, notes, attachments, unresolved } = await buildIndex(vaultRoot);
   ctx = {
     vaultRoot,
     index,
@@ -49,6 +49,7 @@ beforeAll(async () => {
     generation: 0,
     backlinks: new Map(),
     attachments,
+    unresolved,
     policy: PERMISSIVE_POLICY,
   };
 });
@@ -206,6 +207,7 @@ describe('rename_heading dispatch text', () => {
         generation: 0,
         backlinks: built.backlinks,
         attachments: built.attachments,
+        unresolved: built.unresolved,
         policy: parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'subject.md' }),
       };
       const { logger } = recordingLogger();
@@ -246,6 +248,7 @@ describe('move_note and delete_note return contentHash to the client (SHA-581)',
       generation: 0,
       backlinks: built.backlinks,
       attachments: built.attachments,
+      unresolved: built.unresolved,
       policy: PERMISSIVE_POLICY,
     };
   });

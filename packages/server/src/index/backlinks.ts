@@ -3,10 +3,11 @@ import {
   frontmatterAliases,
   type LinkRecord,
 } from '@seekstone/core/extract';
-import type { BacklinkRef, ServerContext } from '../context.js';
+import type { BacklinkRef, ServerContext, UnresolvedRef } from '../context.js';
 import { bumpGeneration } from './generation.js';
-import { buildResolveMaps, type ResolveMaps, resolveLink } from './resolve.js';
+import { buildResolveMaps, type ResolveMaps, resolveAttachment, resolveLink } from './resolve.js';
 import type { IndexedNote } from './types.js';
+import { recordUnresolved } from './unresolved.js';
 
 /**
  * Incremental backlink-index maintenance, shared by the watcher and the
@@ -20,6 +21,7 @@ export function removeNoteBacklinks(
   relPath: string,
   resolveMaps?: ResolveMaps,
 ): void {
+  ctx.unresolved.delete(relPath);
   const oldDoc = ctx.notes.get(relPath);
   if (oldDoc === undefined) return;
   const links = extractLinksWithLines(oldDoc.raw);
@@ -44,12 +46,18 @@ export function addNoteBacklinks(
 ): void {
   const seen = new Set<string>();
   const links = extractLinksWithLines(raw);
+  ctx.unresolved.delete(relPath);
   if (links.length === 0) return;
   bumpGeneration(ctx);
   const maps = resolveMaps ?? buildResolveMaps(ctx.notes);
+  let missed: UnresolvedRef[] | undefined;
   for (const link of links) {
     const resolved = resolveLink(link.target, ctx.notes, maps);
-    if (resolved === undefined) continue;
+    if (resolved === undefined) {
+      if (resolveAttachment(link.target, ctx.attachments) === undefined)
+        missed = recordUnresolved(missed, link);
+      continue;
+    }
     const dedupeKey = `${relPath}\0${resolved}`;
     if (seen.has(dedupeKey)) continue;
     seen.add(dedupeKey);
@@ -61,6 +69,33 @@ export function addNoteBacklinks(
     const ref: BacklinkRef = { path: relPath, line: link.line, linkType: link.linkType };
     arr.push(ref);
     arr.sort((a, b) => a.path.localeCompare(b.path));
+  }
+  if (missed !== undefined) ctx.unresolved.set(relPath, missed);
+}
+
+/**
+ * Re-record the unresolved links of each note in `sources` from its cached
+ * text, against the index as it is now. removeDoc calls it for the notes that
+ * linked to a removed note, so their links to it are listed. Notes no longer
+ * indexed are skipped. Changes only ctx.unresolved, which nothing caches by
+ * generation, so it doesn't bump.
+ */
+export function rerecordUnresolved(
+  ctx: ServerContext,
+  sources: Iterable<string>,
+  maps: ResolveMaps,
+): void {
+  for (const src of sources) {
+    const doc = ctx.notes.get(src);
+    if (doc === undefined) continue;
+    let missed: UnresolvedRef[] | undefined;
+    for (const link of extractLinksWithLines(doc.raw)) {
+      if (resolveLink(link.target, ctx.notes, maps) !== undefined) continue;
+      if (resolveAttachment(link.target, ctx.attachments) !== undefined) continue;
+      missed = recordUnresolved(missed, link);
+    }
+    if (missed !== undefined) ctx.unresolved.set(src, missed);
+    else ctx.unresolved.delete(src);
   }
 }
 

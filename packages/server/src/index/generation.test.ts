@@ -23,6 +23,7 @@ function ctxWith(files: Record<string, string>): ServerContext {
     generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
+    unresolved: new Map(),
     policy: PERMISSIVE_POLICY,
   };
   for (const [path, raw] of Object.entries(files)) upsertDoc(ctx, buildDoc(path, raw));

@@ -61,6 +61,7 @@ beforeEach(async () => {
     generation: 0,
     backlinks: built.backlinks,
     attachments: built.attachments,
+    unresolved: built.unresolved,
     policy: PERMISSIVE_POLICY,
     journal: await Journal.open(vault, { maxBytes: 1e9, maxEntries: 1e6 }),
     audit: AuditLog.open({ path: auditPath, maxBytes: 1e9 }),

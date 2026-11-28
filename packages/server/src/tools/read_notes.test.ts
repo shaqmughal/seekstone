@@ -41,6 +41,7 @@ beforeAll(async () => {
     generation: 0,
     backlinks: new Map(),
     attachments: buildAttachmentIndex([]),
+    unresolved: new Map(),
     policy: PERMISSIVE_POLICY,
   };
   await writeFile(join(vaultRoot, 'note.md'), NOTE, 'utf8');

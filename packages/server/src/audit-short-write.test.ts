@@ -255,6 +255,7 @@ describe('AuditLog with short writes', () => {
       generation: 0,
       backlinks: built.backlinks,
       attachments: built.attachments,
+      unresolved: built.unresolved,
       policy: PERMISSIVE_POLICY,
       audit: open(),
     };

@@ -47,7 +47,7 @@ describe('search modes', () => {
       join(vault, 'Notes', 'Heraldry.md'),
       '# Heraldry\n\nAn essay on medieval shields and coats of arms.\n',
     );
-    const { index, notes, backlinks, attachments } = await buildIndex(vault);
+    const { index, notes, backlinks, attachments, unresolved } = await buildIndex(vault);
     ctx = {
       vaultRoot: vault,
       index,
@@ -55,6 +55,7 @@ describe('search modes', () => {
       generation: 0,
       backlinks,
       attachments,
+      unresolved,
       policy: PERMISSIVE_POLICY,
     };
     semantic = await Semantic.start(
@@ -199,7 +200,7 @@ describe('semantic search with MaxSim rerank', () => {
     // (Galena's chunk holds "lead") can promote Galena.
     await writeFile(join(vault, 'Notes', 'Calcite.md'), '# Calcite\n\nA mineral of rock.\n');
     await writeFile(join(vault, 'Notes', 'Galena.md'), '# Galena\n\nA mineral of lead.\n');
-    const { index, notes, backlinks, attachments } = await buildIndex(vault);
+    const { index, notes, backlinks, attachments, unresolved } = await buildIndex(vault);
     ctx = {
       vaultRoot: vault,
       index,
@@ -207,6 +208,7 @@ describe('semantic search with MaxSim rerank', () => {
       generation: 0,
       backlinks,
       attachments,
+      unresolved,
       policy: PERMISSIVE_POLICY,
     };
     semantic = await Semantic.start(
