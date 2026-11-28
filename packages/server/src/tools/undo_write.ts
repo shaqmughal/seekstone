@@ -6,7 +6,7 @@ import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, removeDoc, upsertDoc } from '../index/doc.js';
-import type { JournalEntry } from '../journal.js';
+import { isVoid, type JournalEntry } from '../journal.js';
 import { assertWritable, isReadable, reservedFolder } from '../policy.js';
 import { keyOnDisk, resolveVaultPath, vaultRelative } from '../vault-path.js';
 
@@ -86,6 +86,7 @@ export async function undoWrite(
     entry = journal.get(input.seq);
     if (entry && visible && !entry.files.every((f) => visible(f.path))) entry = undefined;
     if (!entry) throw new Error(`Journal entry ${input.seq} not found.`);
+    if (isVoid(entry)) throw nothingToUndo(entry.seq);
     if (!journal.isUndoable(entry)) throw evicted(entry.seq);
   }
 
@@ -198,6 +199,17 @@ function evicted(seq: number): Error {
       error: 'entry_evicted',
       seq,
       hint: 'Its pre-image was evicted by the retention cap (SEEKSTONE_HISTORY_MAX_SIZE); it can no longer be undone.',
+    }),
+  );
+}
+
+/** Undo by seq on a void row (a write whose journal append failed). */
+function nothingToUndo(seq: number): Error {
+  return new Error(
+    JSON.stringify({
+      error: 'nothing_to_undo',
+      seq,
+      hint: 'That write failed before it changed anything, and its journal row was rolled back. There is nothing to undo.',
     }),
   );
 }

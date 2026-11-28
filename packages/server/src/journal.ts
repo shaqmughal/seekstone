@@ -80,6 +80,17 @@ export interface JournalEntry {
   undoOf?: number;
 }
 
+/**
+ * The tool name of a void row: it stands in for a row whose append failed
+ * and was rolled back, and keeps that row's seq so it is never reused.
+ */
+export const VOID_TOOL = 'void';
+
+/** True for a void row (`VOID_TOOL`, no files): a failed write that changed nothing. */
+export function isVoid(entry: JournalEntry): boolean {
+  return entry.tool === VOID_TOOL && entry.files.length === 0;
+}
+
 /** A listed entry: the manifest row plus whether its pre-images are still on disk. */
 export interface JournalListRow {
   seq: number;
@@ -498,14 +509,13 @@ export class Journal {
   } {
     const limit = opts.limit ?? 20;
     const { path, visible } = opts;
-    const filtered =
-      path === undefined && visible === undefined
-        ? this.entries
-        : this.entries.filter(
-            (e) =>
-              (path === undefined || e.files.some((f) => f.path === path)) &&
-              (visible === undefined || e.files.every((f) => visible(f.path))),
-          );
+    // Void rows are failed writes that changed nothing: never listed.
+    const filtered = this.entries.filter(
+      (e) =>
+        !isVoid(e) &&
+        (path === undefined || e.files.some((f) => f.path === path)) &&
+        (visible === undefined || e.files.every((f) => visible(f.path))),
+    );
     const writes: JournalListRow[] = [];
     for (let i = filtered.length - 1; i >= 0 && writes.length < limit; i--) {
       const e = filtered[i] as JournalEntry;
@@ -547,6 +557,7 @@ export class Journal {
     const cancelled = new Set<number>();
     for (let i = this.entries.length - 1; i >= 0; i--) {
       const e = this.entries[i] as JournalEntry;
+      if (isVoid(e)) continue;
       if (visible && !e.files.every((f) => visible(f.path))) continue;
       if (cancelled.has(e.seq)) continue;
       if (e.undoOf !== undefined) {
@@ -695,36 +706,61 @@ export class Journal {
       appendDurable(this.manifestPath, line);
     } catch (err) {
       // Part of the line, or all of it, may be on disk, and the caller won't
-      // write the note. Cut it off so it never loads as committed.
-      this.rollBackAppend();
+      // write the note. Replace it so it never loads as committed.
+      if (this.rollBackAppend(entry)) await this.evictOrWarn(true);
       throw err;
     }
     this.manifestOffset += line.length;
     this.lastLine = line;
     this.nextSeq++;
     this.entries.push(entry);
+    await this.evictOrWarn();
+    return entry;
+  }
+
+  private async evictOrWarn(afterVoid = false): Promise<void> {
     try {
-      await this.evict();
+      await this.evict(afterVoid);
     } catch (err) {
-      // The entry is committed, so the write goes ahead. The old rows are
+      // The row is committed, so this doesn't fail the call. The old rows are
       // still in the manifest: reread it, and the next commit compacts again.
       this.manifestIno = -1;
       this.log?.warn('journal: manifest compaction failed; retrying on the next write', {
         error: String(err),
       });
     }
-    return entry;
   }
 
   /**
    * Called with the lock held, after a failed append. Never throws: the
-   * caller reports the append's error. The cut is fsynced, or a crash could
-   * bring the row back.
+   * caller reports the append's error. The failed row (always the last line)
+   * is cut off and replaced by a void row with the same seq, so no process
+   * hands that seq out again, even one that listed the failed row or an
+   * older server (a void row is a valid entry with no files). The result is
+   * fsynced, or a crash could bring the row back. If the void row can't be
+   * written, the cut alone stays and the seq is free again (returns false).
    */
-  private rollBackAppend(): void {
+  private rollBackAppend(failed: JournalEntry): boolean {
+    const entry: JournalEntry = { seq: failed.seq, ts: failed.ts, tool: VOID_TOOL, files: [] };
+    const line = Buffer.from(`${JSON.stringify(entry)}\n`, 'utf8');
     try {
       const fd = openSync(this.manifestPath, 'r+');
       try {
+        ftruncateSync(fd, this.manifestOffset);
+        try {
+          writeAll(fd, line, { written: 0 }, this.manifestOffset);
+          fsyncSync(fd);
+          this.manifestOffset += line.length;
+          this.lastLine = line;
+          this.nextSeq++;
+          this.entries.push(entry);
+          return true;
+        } catch (err) {
+          this.log?.warn('journal: could not write a void row to roll back a failed append', {
+            error: String(err),
+          });
+        }
+        // No partial void row may stay: it would be a torn line.
         ftruncateSync(fd, this.manifestOffset);
         fsyncSync(fd);
       } finally {
@@ -738,6 +774,7 @@ export class Journal {
         error: String(err),
       });
     }
+    return false;
   }
 
   /**
@@ -815,8 +852,10 @@ export class Journal {
    * eviction. Over the entry cap, the oldest rows are dropped and the
    * manifest rewritten atomically; over the byte cap, the oldest entries'
    * blobs are removed but the rows stay (listed as undoable: false).
+   * After a void row, keep the newest real entry and the rows after it, and
+   * leave the byte cap (it counts the failed write's pre-images) to the next commit.
    */
-  private async evict(): Promise<void> {
+  private async evict(afterVoid = false): Promise<void> {
     const refs = new Map<string, number>();
     for (const e of this.entries) {
       for (const f of e.files) {
@@ -836,7 +875,10 @@ export class Journal {
     };
 
     let rewrite = false;
-    while (this.entries.length > this.config.maxEntries) {
+    let droppable = this.entries.length;
+    if (afterVoid) droppable = this.entries.findLastIndex((e) => !isVoid(e));
+    if (droppable < 0) droppable = this.entries.length - 1;
+    while (this.entries.length > this.config.maxEntries && droppable-- > 0) {
       const oldest = this.entries.shift() as JournalEntry;
       await dropBlobs(oldest);
       rewrite = true;
@@ -847,7 +889,7 @@ export class Journal {
     // size that's too high can't delete undo history the cap allows. If a
     // size can't be read, nothing is evicted for size (the entry cap still
     // applies): keeping history beats deleting it on a guess.
-    const sized = this.totalBytes <= this.config.maxBytes || this.measureBlobs();
+    const sized = !afterVoid && (this.totalBytes <= this.config.maxBytes || this.measureBlobs());
     for (
       let i = 0;
       sized && this.totalBytes > this.config.maxBytes && i < this.entries.length - 1;
