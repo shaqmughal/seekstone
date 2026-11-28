@@ -328,9 +328,10 @@ backwards through history.
 
 Crash window: the blob **and** the manifest row are fsync'd before the vault
 write starts. On Linux and macOS the blob folder is fsynced after each blob
-rename (SHA-652), so a note write that survives a power cut keeps its
-pre-image blob and can be undone, within plain `fsync`'s limits (§4); not
-on Windows. A crash after the journal commit but before the vault write
+rename (SHA-652; not on Windows; within plain `fsync`'s limits, §4), but not
+the `history/` folders `Journal.open` makes or a new `manifest.jsonl`'s entry,
+so until those reach disk a power cut can keep a note and lose its undo history.
+A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
