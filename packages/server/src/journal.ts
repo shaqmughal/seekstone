@@ -19,6 +19,7 @@ import { hostname } from 'node:os';
 import { basename, dirname, join } from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { contentHash } from './content-hash.js';
+import { syncDir } from './dir-sync.js';
 import { envFlag } from './env.js';
 import type { Logger } from './log.js';
 import { parseSize } from './log.js';
@@ -141,7 +142,8 @@ const TMP_TAG = `${process.pid}${randomBytes(4).toString('hex')}`;
 let tmpCount = 0;
 
 /**
- * Write `content` to `dest` durably: temp file, fsync, rename over. Each call
+ * Write `content` to `dest` durably: temp file, fsync, rename over, fsync
+ * the folder (`syncDir`; not on Windows). Each call
  * gets its own temp file, created exclusively, because another server
  * process may be storing the same blob at the same moment. On failure we
  * remove only the temp file this call created. Sync calls, like
@@ -162,6 +164,8 @@ function writeDurable(dest: string, content: string): void {
     unlinkLock(tmp);
     throw err;
   }
+  // Without this, a power cut can lose the rename (SHA-652).
+  syncDir(dirname(dest));
 }
 
 /**

@@ -125,10 +125,18 @@ atomic renames rather than temp-file writes; `move_note`'s link rewrites in
 referencing notes are each individually atomic. This is per-file crash-safety,
 not a multi-file transaction.)
 
-Not guaranteed: that the rename itself survives a power loss. The directory
-entry is not fsynced after the rename, so after a power cut the note can
-still hold its old content even though the write returned. It is never torn
-either way. (Tracked as SHA-576.)
+On Linux and macOS, the note's folder is fsynced after the rename too
+(SHA-652), so the rename is as durable as the note's own bytes: once a
+write reports success, the new content survives a power cut as far as a
+plain `fsync` guarantees. On macOS that is weaker: plain `fsync` can return
+while data sits in the drive's volatile cache, and Node doesn't expose the
+stronger `F_FULLFSYNC`, so a power cut can still lose a recent write there.
+If the file system refuses the folder fsync (some return `EINVAL`), the
+write still succeeds, because the rename has already happened, and the
+server logs it once per folder at `debug`; there the old content can come
+back after a power cut. Windows is unchanged: Node can't open a folder for
+fsync, so the rename's durability is up to the file system and the note can
+hold its old content after a power cut. On every platform, it's never torn.
 
 Each write uses its own temp file next to the note, named
 `.<note>.<process tag><counter>.seekstone-tmp` and created exclusively. Two
@@ -139,8 +147,9 @@ the index walk never treats the `.seekstone-tmp` extension as a note.
 
 - Proven by: [`atomic-write.test.ts`](../packages/server/src/atomic-write.test.ts)
   (the open, write, sync, close, rename order; a failed sync keeps the old
-  note; one exclusive temp file per call) and every write-tool test asserting
-  exact post-write bytes.
+  note; one exclusive temp file per call; the folder fsync after the rename on
+  Linux and macOS, none on Windows, and a failed folder fsync still
+  succeeding) and every write-tool test asserting exact post-write bytes.
 
 ### 5. Creates never clobber
 
@@ -318,7 +327,11 @@ redoes it; the default target skips undo entries, so repeated undos walk
 backwards through history.
 
 Crash window: the blob **and** the manifest row are fsync'd before the vault
-write starts. A crash after the journal commit but before the vault write
+write starts. On Linux and macOS the blob folder is fsynced after each blob
+rename (SHA-652; not on Windows; within plain `fsync`'s limits, §4), but not
+the `history/` folders `Journal.open` makes or a new `manifest.jsonl`'s entry,
+so until those reach disk a power cut can keep a note and lose its undo history.
+A crash after the journal commit but before the vault write
 leaves an entry whose `postHash` does not match disk — `undo_write` reports
 that as a conflict rather than restoring blindly. A journal write failure
 aborts the vault write: while the journal is enabled, an unjournalable write
@@ -398,6 +411,9 @@ agent itself can drive.
   (shared journal, lock takeover and waiting) and
   [`journal-short-write.test.ts`](../packages/server/src/journal-short-write.test.ts)
   (short and failed manifest writes),
+  [`journal-dir-sync.test.ts`](../packages/server/src/journal-dir-sync.test.ts)
+  (the blob folder fsync after the rename on Linux and macOS, none on
+  Windows, and a failed one still committing),
   [`journal-blobs.test.ts`](../packages/server/src/journal-blobs.test.ts)
   (a damaged pre-image is rewritten, and the byte cap counts real sizes even
   after a repair in another process whose row was rolled back, or damage
