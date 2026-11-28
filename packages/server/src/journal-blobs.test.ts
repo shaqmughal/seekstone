@@ -211,7 +211,9 @@ describe('Journal: rereading the manifest after another process compacts', () =>
       await journalWrite({ journal: a }, `w${n}`, `n${n}.md`, `pre${n}`, 'x');
     // b keeps 3 rows, so its commit drops the oldest and rewrites the manifest.
     const b = await Journal.open(vault, { maxBytes: 1e9, maxEntries: 3 });
-    await journalWrite({ journal: b }, 'w4', 'n4.md', 'pre4', 'x');
+    // A longer row, so the compacted manifest's size changes: this test is
+    // about which blobs get stat'ed, not about spotting a same-size rewrite.
+    await journalWrite({ journal: b }, 'w4', 'n4-longer.md', 'pre4', 'x');
 
     fail.blobStats = 0;
     expect(await a.refresh()).toBe(true);
