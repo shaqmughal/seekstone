@@ -141,6 +141,17 @@ export function checkReviewed(checkRuns) {
 }
 
 /**
+ * The state of CodeRabbit's latest APPROVED, CHANGES_REQUESTED or DISMISSED
+ * review, or undefined. Same rule as scripts/review-gate.mjs: a comment
+ * review doesn't change the verdict, a dismissal clears it.
+ */
+export const latestVerdict = (reviews) =>
+  reviews
+    .filter((r) => isCodeRabbit(r.author?.login))
+    .filter((r) => ['APPROVED', 'CHANGES_REQUESTED', 'DISMISSED'].includes(r.state))
+    .at(-1)?.state;
+
+/**
  * Where CodeRabbit stands on `headSha`. `reviewed` once it has reviewed the
  * head (checkReviewed). `changesRequested` from its latest approving or
  * blocking review. `open` counts threads, summary findings and comments
@@ -149,14 +160,9 @@ export function checkReviewed(checkRuns) {
 export function reviewStatus({ reviews, threads, comments, checkRuns, headSha }) {
   const mine = reviews.filter((r) => isCodeRabbit(r.author?.login));
   const reviewed = mine.some((r) => r.commit?.oid === headSha) || checkReviewed(checkRuns);
-  // Same rule as scripts/review-gate.mjs: a comment review doesn't change
-  // the verdict, a dismissal clears it.
-  const verdict = mine
-    .filter((r) => ['APPROVED', 'CHANGES_REQUESTED', 'DISMISSED'].includes(r.state))
-    .at(-1);
   return {
     reviewed,
-    changesRequested: verdict?.state === 'CHANGES_REQUESTED',
+    changesRequested: latestVerdict(mine) === 'CHANGES_REQUESTED',
     // Comments outside the diff have no thread to resolve, so only reviews
     // of the head count: an older commit's list would never clear.
     open:

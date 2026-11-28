@@ -99,6 +99,106 @@ const pr = (number: number, extra = {}) => ({
   ...extra,
 });
 
+const HEAD = 'abc123';
+const CR = { login: 'coderabbitai' };
+const crReview = (state: string, oid = HEAD) => ({ author: CR, state, body: '', commit: { oid } });
+const crThread = (severity: string, isResolved = false) => ({
+  isResolved,
+  isOutdated: false,
+  path: 'src/a.ts',
+  line: 1,
+  comments: {
+    nodes: [{ databaseId: 1, body: `**${severity}** · Fix it.`, author: CR }],
+  },
+});
+const noReview = { reviews: [], threads: [], comments: [], checkRuns: [] };
+const waitingLine = (review: Record<string, unknown>) =>
+  renderDaily({
+    since: '2026-11-15T12:00:00.000Z',
+    runs: [],
+    opened: [],
+    merged: [],
+    waiting: [pr(10, { headSha: HEAD, review: { ...noReview, ...review } })],
+    blocked: [],
+  })
+    .split('\n')
+    .find((l) => l.startsWith('- Review'));
+
+describe('renderDaily review state', () => {
+  it('says not reviewed yet when CodeRabbit has not reviewed the head', () => {
+    expect(waitingLine({ reviews: [crReview('APPROVED', 'old')] })).toBe(
+      '- Review [#10](https://gh/pr/10) fix thing 10 (not reviewed yet)',
+    );
+  });
+
+  it('counts open threads by severity, Major before Minor', () => {
+    const threads = [
+      crThread('🟡 Minor'),
+      crThread('🟠 Major'),
+      crThread('🟠 Major'),
+      crThread('🔴 Critical', true),
+    ];
+    expect(waitingLine({ reviews: [crReview('CHANGES_REQUESTED')], threads })).toContain(
+      '(changes requested: 2 Major, 1 Minor open)',
+    );
+  });
+
+  it('counts a finding that is only in the summary comment', () => {
+    const summary = {
+      user: { login: 'coderabbitai[bot]' },
+      body: '<!-- summarize by coderabbit.ai -->\n- **Minor · reliability · inferred:** Retry the write.',
+    };
+    expect(waitingLine({ reviews: [crReview('COMMENTED')], comments: [summary] })).toContain(
+      '(changes requested: 1 Minor open)',
+    );
+  });
+
+  it('counts outside-diff comments from reviews of the head only', () => {
+    const outside = (oid: string) => ({
+      ...crReview('COMMENTED', oid),
+      body: '<summary>Outside diff range comments (1)</summary>\n\n> `src/b.ts:4`\n> **Major** · resource leak\n>\n> Close the handle.\n',
+    });
+    expect(waitingLine({ reviews: [outside('old'), outside(HEAD)] })).toContain(
+      '(changes requested: 1 Major open)',
+    );
+  });
+
+  it('lists findings without a severity last, and N open with nothing open', () => {
+    const reviews = [crReview('CHANGES_REQUESTED')];
+    const threads = [crThread('note'), crThread('🧹 Trivial')];
+    expect(waitingLine({ reviews, threads })).toContain(
+      '(changes requested: 1 Trivial, 1 Unknown open)',
+    );
+    expect(waitingLine({ reviews })).toContain('(changes requested: 0 open)');
+  });
+
+  it('puts a severity outside the named four after them and before Unknown', () => {
+    const summary = {
+      user: { login: 'coderabbitai[bot]' },
+      body: '<!-- summarize by coderabbit.ai -->\n- **Low · security · inferred:** Check the path.',
+    };
+    const threads = [crThread('note'), crThread('🧹 Trivial'), crThread('🟠 Major')];
+    expect(
+      waitingLine({ reviews: [crReview('COMMENTED')], threads, comments: [summary] }),
+    ).toContain('(changes requested: 1 Major, 1 Trivial, 1 Low, 1 Unknown open)');
+  });
+
+  it('says approved when the verdict is APPROVED and nothing is open', () => {
+    const reviews = [crReview('CHANGES_REQUESTED'), crReview('APPROVED')];
+    expect(waitingLine({ reviews, threads: [crThread('🟠 Major', true)] })).toBe(
+      '- Review [#10](https://gh/pr/10) fix thing 10 (approved)',
+    );
+  });
+
+  it('says reviewed, no findings when CodeRabbit reviewed the head without a verdict', () => {
+    const checkRuns = [
+      { app: { slug: 'coderabbitai' }, status: 'completed', conclusion: 'success' },
+    ];
+    expect(waitingLine({ checkRuns })).toContain('(reviewed, no findings)');
+    expect(waitingLine({ reviews: [crReview('COMMENTED')] })).toContain('(reviewed, no findings)');
+  });
+});
+
 describe('renderDaily', () => {
   it('lists what waits on Shaq first, then activity', () => {
     const md = renderDaily({
@@ -106,7 +206,7 @@ describe('renderDaily', () => {
       runs: [delivered, skipped, failed],
       opened: [pr(10)],
       merged: [pr(9)],
-      waiting: [pr(10, { coderabbit: 'success' })],
+      waiting: [pr(10, { headSha: HEAD, review: noReview })],
       blocked: [
         {
           identifier: 'SHA-5',
@@ -120,7 +220,7 @@ describe('renderDaily', () => {
     expect(md).toContain('since 2026-11-15 12:00 UTC');
     expect(md).toContain('Runs: 3 (1 delivered, 1 skipped, 1 failed)');
     expect(md.indexOf('Waiting on you')).toBeLessThan(md.indexOf('PRs opened'));
-    expect(md).toContain('Review [#10](https://gh/pr/10) fix thing 10 (CodeRabbit: success)');
+    expect(md).toContain('Review [#10](https://gh/pr/10) fix thing 10 (not reviewed yet)');
     expect(md).toContain(
       [
         '- Answer [SHA-5](https://l/5) Thing:',
