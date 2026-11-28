@@ -333,7 +333,11 @@ on one reports `nothing_to_undo`. Void rows count toward
 `SEEKSTONE_HISTORY_MAX_ENTRIES` like any row, as older servers count them, so
 every server compacts the manifest the same way. The entry cap is applied
 right after a void row too, but it never drops the newest real write or the
-void rows after it. If the void row can't be
+void rows after it. An older server doesn't know void rows, so its
+`undo_write` can pick one as its target, the default included. It then
+journals an undo that restores nothing and reports success. That undo row can
+push the newest real write out under the entry cap. Upgrade every server that
+shares a vault. If the void row can't be
 written, the cut alone stays and the server logs a warning; the next write
 then reuses that `seq`, and another
 server that listed the failed row could have its `undo_write` for that `seq`
