@@ -66,12 +66,14 @@ const SEVERITIES = ['Critical', 'Major', 'Minor', 'Trivial'];
  */
 export function reviewState({ headSha, review }) {
   const status = reviewStatus({ ...review, headSha });
-  if (!status.reviewed) return 'not reviewed yet';
   const findings = [
     ...openThreads(review.threads),
     ...summaryFindings(review.comments),
     ...outsideDiffOnHead(review.reviews, headSha),
   ];
+  // A thread from an older commit stays open after a push until it is
+  // resolved, so open findings show even before CodeRabbit reviews the head.
+  if (!status.reviewed && findings.length === 0) return 'not reviewed yet';
   if (findings.length > 0 || status.changesRequested) {
     const counts = new Map();
     for (const f of findings) counts.set(f.severity, (counts.get(f.severity) ?? 0) + 1);

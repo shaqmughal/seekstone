@@ -131,6 +131,14 @@ describe('renderDaily review state', () => {
     );
   });
 
+  it('shows open findings from an older commit while the new head waits for review', () => {
+    const reviews = [crReview('CHANGES_REQUESTED', 'old')];
+    expect(waitingLine({ reviews, threads: [crThread('🟠 Major')] })).toContain(
+      '(changes requested: 1 Major open)',
+    );
+    expect(waitingLine({ reviews })).toContain('(not reviewed yet)');
+  });
+
   it('counts open threads by severity, Major before Minor', () => {
     const threads = [
       crThread('🟡 Minor'),
