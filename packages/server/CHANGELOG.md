@@ -1,5 +1,14 @@
 # seekstone
 
+## 0.28.1
+
+### Patch Changes
+
+- 32c3b1e: `update_task`'s `expectText` description no longer claims to catch changes since the read; it says the text is checked once, before the write.
+- 0d93757: The write journal rewrites a damaged pre-image copy when a later write needs it, and retries a failed check for evicted copies.
+- 0e77854: A note deleted or edited again while the server was still reading it no longer stays in search with its deleted or older text.
+- 0e77854: A note with an uppercase `.MD` extension created while the server runs is now indexed as a note, as it is at startup.
+
 ## 0.28.0
 
 ### Minor Changes
