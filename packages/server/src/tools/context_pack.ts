@@ -2,6 +2,7 @@ import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { extractExcerpt } from '../index/excerpt.js';
+import { cachedResolveMaps } from '../index/generation.js';
 import { resolveLink } from '../index/resolve.js';
 import type { SearchHit } from '../index/types.js';
 import { retrieve } from './search.js';
@@ -223,6 +224,9 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
     entry.seedPaths.add(seed);
     if (rel === 'backlink' && entry.line === undefined && line !== undefined) entry.line = line;
   };
+  // Shared until the index changes: resolveLink without maps rebuilds them
+  // on every call.
+  const maps = cachedResolveMaps(ctx);
   for (const seed of seeds) {
     for (const ref of ctx.backlinks.get(seed) ?? []) {
       connect(ref.path, seed, 'backlink', ref.line);
@@ -230,7 +234,7 @@ export function contextPack(ctx: ServerContext, input: ContextPackInput): Contex
     const note = ctx.notes.get(seed);
     if (!note) continue;
     for (const link of extractLinksWithLines(note.raw)) {
-      const target = resolveLink(link.target, ctx.notes);
+      const target = resolveLink(link.target, ctx.notes, maps);
       if (target !== undefined) connect(target, seed, 'outlink');
     }
   }

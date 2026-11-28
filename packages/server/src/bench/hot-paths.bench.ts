@@ -20,10 +20,12 @@ import { buildResolveMaps, resolveLink } from '../index/resolve.js';
 import { Journal } from '../journal.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from '../tools/append_note.js';
+import { contextPack } from '../tools/context_pack.js';
 import { getBacklinks } from '../tools/get_backlinks.js';
 import { getLinks } from '../tools/get_links.js';
 import { listTags } from '../tools/list_tags.js';
 import { readNote } from '../tools/read_note.js';
+import { resolveNote } from '../tools/resolve_note.js';
 import { search } from '../tools/search.js';
 import { vaultStats } from '../tools/vault_stats.js';
 
@@ -32,6 +34,9 @@ const FIXTURE = resolve(import.meta.dirname, '../../../harness/fixtures/vault-1k
 const HUB = 'Encyclopedia/K/Kalinjar.md';
 // A note with 30 wikilinks: get_links resolves each one (SHA-553).
 const LINKY = 'MOCs/biography MOC.md';
+// Seeds context_pack's neighborhood with LINKY (30 links) and, by fuzzy
+// match, the geography MOC (21), so it resolves 51 outgoing links per call.
+const PACK_QUERY = { query: 'biography', folder: 'MOCs', budgetBytes: 4096 };
 
 // Under CodSpeed's CPU simulation everything runs far slower than native,
 // including setup (copying 1k notes, building the index). Generous limits
@@ -161,6 +166,39 @@ describe('outlinks', () => {
   test('get_links repeat', async ({ bench }) => {
     await bench('get_links repeat (30-link note)', () => {
       getLinks(ctx, { path: LINKY });
+    }).run();
+  });
+});
+
+// context_pack and resolve_note use the same cached resolve maps (SHA-578).
+// As above, the plain rows bump the generation; the "repeat" rows hit the cache.
+
+describe('context', () => {
+  test('context_pack', async ({ bench }) => {
+    await bench('context_pack (2 MOC seeds)', () => {
+      ctx.generation++;
+      contextPack(ctx, PACK_QUERY);
+    }).run();
+  });
+
+  test('context_pack repeat', async ({ bench }) => {
+    await bench('context_pack repeat (2 MOC seeds)', () => {
+      contextPack(ctx, PACK_QUERY);
+    }).run();
+  });
+});
+
+describe('resolve', () => {
+  test('resolve_note', async ({ bench }) => {
+    await bench('resolve_note (1k notes)', () => {
+      ctx.generation++;
+      resolveNote(ctx, { reference: 'Kalinjar' });
+    }).run();
+  });
+
+  test('resolve_note repeat', async ({ bench }) => {
+    await bench('resolve_note repeat (1k notes)', () => {
+      resolveNote(ctx, { reference: 'Kalinjar' });
     }).run();
   });
 });

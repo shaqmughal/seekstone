@@ -1,6 +1,7 @@
 import { frontmatterAliases } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
+import { cachedResolveMaps } from '../index/generation.js';
 import type { ResolveCandidate } from '../index/resolve.js';
 import { resolveCandidates } from '../index/resolve.js';
 import { editDistance } from '../index/tags.js';
@@ -51,7 +52,7 @@ function suggestReferences(ctx: ServerContext, reference: string): string[] {
 }
 
 export function resolveNote(ctx: ServerContext, input: ResolveNoteInput): ResolveNoteResult {
-  const matches = resolveCandidates(input.reference, ctx.notes);
+  const matches = resolveCandidates(input.reference, ctx.notes, cachedResolveMaps(ctx));
   const result: ResolveNoteResult = {
     reference: input.reference,
     matches,

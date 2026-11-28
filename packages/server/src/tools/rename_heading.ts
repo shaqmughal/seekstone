@@ -8,6 +8,7 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { cachedResolveMaps } from '../index/generation.js';
 import { resolveLink } from '../index/resolve.js';
 import { assertWritable, canWrite } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -136,6 +137,10 @@ export async function renameHeading(
   const newLineText = `${markerPrefix}${input.newHeading}${trailing}`;
   let newRaw = raw.slice(0, heading.byteOffset) + newLineText + raw.slice(lineEnd);
 
+  // Every resolve below runs against ctx.notes before this tool changes it,
+  // so the cached maps are current. Keep this ahead of the index update.
+  const maps = cachedResolveMaps(ctx);
+
   // Rewrite the note's own references to the renamed heading — same-note
   // anchors ([[#Heading]]) and self-links by name — in the body region only,
   // so the frontmatter stays byte-identical.
@@ -145,7 +150,7 @@ export async function renameHeading(
     bodyRegion,
     input.oldHeading,
     input.newHeading,
-    (target) => target === '' || resolveLink(target, ctx.notes) === input.path,
+    (target) => target === '' || resolveLink(target, ctx.notes, maps) === input.path,
   );
   newRaw = newRaw.slice(0, fm.bodyStart) + selfRewrite.content;
 
@@ -167,7 +172,7 @@ export async function renameHeading(
       doc.raw,
       input.oldHeading,
       input.newHeading,
-      (target) => target !== '' && resolveLink(target, ctx.notes) === input.path,
+      (target) => target !== '' && resolveLink(target, ctx.notes, maps) === input.path,
     );
     if (count === 0) continue;
     if (!canWrite(ctx.policy, path, ctx.vaultRoot)) {
